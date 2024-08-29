@@ -83,7 +83,7 @@ llm = Ollama(model="llama2", temperature=0.1)
 embed = load_embedding_model(model_path="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
 
 # List of PDF files to be processed
-pdf_files = ["guia_calouro_1_2018.pdf", "manual_para_estudantes_2022.pdf"]
+pdf_files = ["guia_calouro_1_2018.pdf"]
 
 # Loading and splitting the documents from multiple PDF files
 docs = load_pdf_data(file_paths=pdf_files)
