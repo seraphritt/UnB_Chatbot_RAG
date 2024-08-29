@@ -5,7 +5,7 @@ import ragas
 from datasets import Dataset
 from ragas import evaluate
 from ragas.metrics import (
-    faithfullness,
+    faithfulness,
     context_entity_recall,
     context_recall,
     context_precision,
