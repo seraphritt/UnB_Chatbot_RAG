@@ -5,10 +5,12 @@ import ragas
 from datasets import Dataset
 from ragas import evaluate
 from ragas.metrics import (
-    summarization_score,
-    answer_relevancy,
+    faithfullness,
+    context_entity_recall,
     context_recall,
     context_precision,
+    answer_relevance,
+    answer_similarity
 )
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -35,8 +37,13 @@ embed = load_embedding_model(model_path="sentence-transformers/paraphrase-multil
 dataset = Dataset.from_dict(data_samples)
 print(json.dumps(dataset.to_dict(), indent=4, ensure_ascii=False))
 result = evaluate(llm=llm, embeddings=embed, dataset=dataset, metrics=[
-        context_precision,
+        faithfullness,
         answer_relevancy,
+        context_entity_recall,
+        context_recall,
+        context_precision,
+        answer_relevance,
+        answer_similarity
     ],
 )
 print(result)
