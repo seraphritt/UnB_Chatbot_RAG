@@ -144,4 +144,4 @@ dataset = Dataset.from_dict(data)
 #plt.savefig("evaluation_results.pdf")
 #plt.close()
 while True:
-    get_response(input() + "\n\n Remember to always answer in Portuguese", chain)
+    get_response("\n\n Remember to always answer in Portuguese" + input(), chain)
