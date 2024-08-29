@@ -109,7 +109,6 @@ data = {
 # Convert dict to dataset
 dataset = Dataset.from_dict(data)
 
-chain = load_qa_chain(retriever, llm, prompt)
 # Debug: Print dataset structure
 # print(json.dumps(dataset.to_dict(), indent=4, ensure_ascii=False))
 
@@ -141,4 +140,5 @@ chain = load_qa_chain(retriever, llm, prompt)
 #plt.savefig("evaluation_results.pdf")
 #plt.close()
 while True:
+    chain = load_qa_chain(retriever, llm, prompt)
     get_response(input(), chain)
