@@ -143,3 +143,5 @@ tbl = table(ax, df, loc='center', cellLoc='center', colWidths=[0.2] * len(df.col
 # Save the table as a PDF
 plt.savefig("evaluation_results.pdf")
 plt.close()
+while True:
+    get_response(input())
