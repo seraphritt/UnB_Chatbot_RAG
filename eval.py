@@ -1,11 +1,6 @@
 import json
 from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain_community.document_loaders import PyMuPDFLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import FAISS
-from langchain.chains import RetrievalQA
 from langchain.llms import Ollama
-from langchain import PromptTemplate
 import ragas
 from datasets import Dataset
 from ragas import evaluate
