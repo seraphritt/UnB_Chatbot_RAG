@@ -114,34 +114,32 @@ data = {
 dataset = Dataset.from_dict(data)
 
 # Debug: Print dataset structure
-# print(json.dumps(dataset.to_dict(), indent=4, ensure_ascii=False))
+print(json.dumps(dataset.to_dict(), indent=4, ensure_ascii=False))
 
 # Run the evaluation
-#result = evaluate(llm=llm, embeddings=embed, dataset=dataset, metrics=[
-#        context_precision,
-#        answer_relevancy,
-#    ],
-#)
+result = evaluate(llm=llm, embeddings=embed, dataset=dataset, metrics=[
+        context_precision,
+        answer_relevancy,
+    ],
+)
 
 # Check and print the results
-#print(result)
+print(result)
 
 # Convert results to pandas dataframe
-#df = result.to_pandas()
+df = result.to_pandas()
 
 # Debug: Print the dataframe
-#print(df)
+print(df)
 
 # Create a matplotlib figure and axis
-#fig, ax = plt.subplots(figsize=(10, 4))  # You can adjust the size
-#ax.axis('tight')
-#ax.axis('off')
+fig, ax = plt.subplots(figsize=(10, 4))  # You can adjust the size
+ax.axis('tight')
+ax.axis('off')
 
 # Create a table plot
-#tbl = table(ax, df, loc='center', cellLoc='center', colWidths=[0.2] * len(df.columns))
+tbl = table(ax, df, loc='center', cellLoc='center', colWidths=[0.2] * len(df.columns))
 
 # Save the table as a PDF
-#plt.savefig("evaluation_results.pdf")
-#plt.close()
-while True:
-    get_response(input(), chain)
+plt.savefig("evaluation_results.pdf")
+plt.close()
