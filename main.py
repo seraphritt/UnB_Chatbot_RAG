@@ -113,12 +113,6 @@ data = {
 # Convert dict to dataset
 dataset = Dataset.from_dict(data)
 
-fixed_prompt = "You are an respectful and honest assistant specialized to answer about University of Brasília. \
-Always answer in Portuguese from Brazil. \
-All your answers from now on must be in Portuguese. \
-All your answers must be strictly related to the context passed for you. \
-If the question is not related to the context of the University of Brasília, you must say that you don't know how to answer."
-
 # Debug: Print dataset structure
 # print(json.dumps(dataset.to_dict(), indent=4, ensure_ascii=False))
 
@@ -150,4 +144,4 @@ If the question is not related to the context of the University of Brasília, yo
 #plt.savefig("evaluation_results.pdf")
 #plt.close()
 while True:
-    get_response("\n" + "QUESTION" + fixed_prompt + input(), chain)
+    get_response(prompt + input(), chain)
