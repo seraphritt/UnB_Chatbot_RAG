@@ -10,3 +10,11 @@ data_samples = {
 }
 dataset = Dataset.from_dict(data_samples)
 print(json.dumps(dataset.to_dict(), indent=4, ensure_ascii=False))
+result = evaluate(llm=llm, embeddings=embed, dataset=dataset, metrics=[
+        context_precision,
+        answer_relevancy,
+    ],
+)
+
+# Check and print the results
+print(result)
