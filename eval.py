@@ -9,7 +9,7 @@ from ragas.metrics import (
     context_entity_recall,
     context_recall,
     context_precision,
-    answer_relevance,
+    answer_relevancy,
     answer_similarity
 )
 import pandas as pd
