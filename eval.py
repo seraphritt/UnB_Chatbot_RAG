@@ -18,6 +18,17 @@ from ragas.metrics import (
 import pandas as pd
 import matplotlib.pyplot as plt
 from pandas.plotting import table
+
+def load_embedding_model(model_path, normalize_embedding=True):
+    return HuggingFaceEmbeddings(
+        model_name=model_path,
+        model_kwargs={'device': 'cuda'},
+        encode_kwargs={
+            'normalize_embeddings': normalize_embedding
+        }
+    )
+
+
 data_samples = {
     "question": ["O que é a SAA?"],
     "answer":  ['A SAA (Secretaria de Administração Acadêmica) é uma das principais secretarias da Universidade de Brasília, responsável pela gestão dos estudantes e pela expedição de documentos como certificados e diplomas. Ela está localizada em diferentes postos avançados ao longo do campus, incluindo o Posto Avançado da SAA no prédio da Reitoria, onde você pode encontrar a equipe responsável pela solenidade de outorga de grau e pelo envio de documentos. Além disso, a SAA é responsável por garantir a articulação entre o ensino, a pesquisa e a extensão na Universidade de Brasília, promovendo a formação integral e cidadã dos estudantes.'],
