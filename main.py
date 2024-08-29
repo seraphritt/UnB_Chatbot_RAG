@@ -98,10 +98,6 @@ retriever = vectorstore.as_retriever()
 # Creating the prompt from the template
 prompt = PromptTemplate.from_template(template)
 print(prompt)
-
-# Creating the chain
-chain = load_qa_chain(retriever, llm, prompt)
-
 # Sample data for evaluation
 data = {
     "question": ["O que é a SAA?"],
@@ -144,4 +140,5 @@ dataset = Dataset.from_dict(data)
 #plt.savefig("evaluation_results.pdf")
 #plt.close()
 while True:
-    get_response("\n\n Remember to always answer in Portuguese" + input(), chain)
+    chain = load_qa_chain(retriever, llm, prompt)
+    get_response(input(), chain)
