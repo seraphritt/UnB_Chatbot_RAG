@@ -77,13 +77,18 @@ def load_qa_chain(retriever, llm, prompt):
 
 def get_response(query, chain):
     response = chain({'query': query})
-    print(f"{response['result']}\n\n")
+    print("Answer:", response["result"])
+    if "source_documents" in response:
+        print("Sources:")
+        for doc in response["source_documents"]:
+            print(doc.metadata.get("source", "Unknown Source"))
+            print(doc.page_content)
 
 llm = Ollama(model="llama2", temperature=0.1)
 embed = load_embedding_model(model_path="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
 
 # List of PDF files to be processed
-pdf_files = ["guia_calouro_1_2018.pdf", "manual_para_estudantes_2022.pdf"]
+pdf_files = ["guia_calouro_1_2018.pdf","manual_para_estudantes_2022.pdf"]
 
 # Loading and splitting the documents from multiple PDF files
 docs = load_pdf_data(file_paths=pdf_files)
@@ -93,15 +98,12 @@ documents = split_docs(documents=docs)
 vectorstore = create_embeddings(documents, embed)
 
 # Converting vectorstore to a retriever
-retriever = vectorstore.as_retriever()
+# search_type= similarity (uses l2 (Euclidian Distance) as default)) search_kwargs = k: 3 (take the top 3 results of the similarity search)
+retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 3})
 
 # Creating the prompt from the template
 prompt = PromptTemplate.from_template(template)
 print(prompt)
-
-# Creating the chain
-chain = load_qa_chain(retriever, llm, prompt)
-
 # Sample data for evaluation
 data = {
     "question": ["O que é a SAA?"],
@@ -118,9 +120,9 @@ print(json.dumps(dataset.to_dict(), indent=4, ensure_ascii=False))
 
 # Run the evaluation
 result = evaluate(llm=llm, embeddings=embed, dataset=dataset, metrics=[
-        context_precision,
-        answer_relevancy,
-    ],
+       context_precision,
+       answer_relevancy,
+   ],
 )
 
 # Check and print the results
@@ -143,3 +145,7 @@ tbl = table(ax, df, loc='center', cellLoc='center', colWidths=[0.2] * len(df.col
 # Save the table as a PDF
 plt.savefig("evaluation_results.pdf")
 plt.close()
+
+chain = load_qa_chain(retriever, llm, prompt)
+while True:
+    get_response(input(), chain)
