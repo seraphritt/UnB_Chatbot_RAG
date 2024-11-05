@@ -17,7 +17,7 @@ from ragas.metrics import (
 )
 import pandas as pd
 import matplotlib.pyplot as plt
-from pandas.plotting import table
+from matplotlib.backends.backend_pdf import PdfPages
 
 def load_pdf_data(file_paths):
     all_docs = []
@@ -125,27 +125,29 @@ result = evaluate(llm=llm, embeddings=embed, dataset=dataset, metrics=[
    ],
 )
 
-# Check and print the results
 print(result)
 
-# Convert results to pandas dataframe
 df = result.to_pandas()
 
-# Debug: Print the dataframe
+print("DATAFRAME \n\n")
+print(float(df.loc[0, 'context_precision']))
+
 print(df)
 
-# Create a matplotlib figure and axis
-fig, ax = plt.subplots(figsize=(10, 4))  # You can adjust the size
-ax.axis('tight')
-ax.axis('off')
+categories = ['Category A', 'Category B', 'Category C', 'Category D']
+values = [23, 45, 12, 37]
 
-# Create a table plot
-tbl = table(ax, df, loc='center', cellLoc='center', colWidths=[0.2] * len(df.columns))
+plt.figure(figsize=(10, 6))
+plt.bar(categories, values)
+plt.xlabel('Categories')
+plt.ylabel('Values')
+plt.title('Sample Bar Graph')
 
-# Save the table as a PDF
-plt.savefig("evaluation_results.pdf")
-plt.close()
+# Save to PDF
+with PdfPages('bar_graph.pdf') as pdf:
+    pdf.savefig() 
+    plt.close()   
 
-chain = load_qa_chain(retriever, llm, prompt)
-while True:
-    get_response(input(), chain)
+# chain = load_qa_chain(retriever, llm, prompt)
+# while True:
+#     get_response(input(), chain)
