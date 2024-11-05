@@ -77,7 +77,12 @@ def load_qa_chain(retriever, llm, prompt):
 
 def get_response(query, chain):
     response = chain({'query': query})
-    print(f"{response['result']}\n\n")
+    print("Answer:", response["result"])
+    if "source_documents" in response:
+        print("Sources:")
+        for doc in response["source_documents"]:
+            print(doc.metadata.get("source", "Unknown Source"))
+            print(doc.page_content)
 
 llm = Ollama(model="llama2", temperature=0.1)
 embed = load_embedding_model(model_path="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
@@ -93,7 +98,8 @@ documents = split_docs(documents=docs)
 vectorstore = create_embeddings(documents, embed)
 
 # Converting vectorstore to a retriever
-retriever = vectorstore.as_retriever()
+# search_type= similarity (uses l2 (Euclidian Distance) as default)) search_kwargs = k: 3 (take the top 3 results of the similarity search)
+retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 3})
 
 # Creating the prompt from the template
 prompt = PromptTemplate.from_template(template)
@@ -110,35 +116,36 @@ data = {
 dataset = Dataset.from_dict(data)
 
 # Debug: Print dataset structure
-# print(json.dumps(dataset.to_dict(), indent=4, ensure_ascii=False))
+print(json.dumps(dataset.to_dict(), indent=4, ensure_ascii=False))
 
 # Run the evaluation
-#result = evaluate(llm=llm, embeddings=embed, dataset=dataset, metrics=[
-#        context_precision,
-#        answer_relevancy,
-#    ],
-#)
+result = evaluate(llm=llm, embeddings=embed, dataset=dataset, metrics=[
+       context_precision,
+       answer_relevancy,
+   ],
+)
 
 # Check and print the results
-#print(result)
+print(result)
 
 # Convert results to pandas dataframe
-#df = result.to_pandas()
+df = result.to_pandas()
 
 # Debug: Print the dataframe
-#print(df)
+print(df)
 
 # Create a matplotlib figure and axis
-#fig, ax = plt.subplots(figsize=(10, 4))  # You can adjust the size
-#ax.axis('tight')
-#ax.axis('off')
+fig, ax = plt.subplots(figsize=(10, 4))  # You can adjust the size
+ax.axis('tight')
+ax.axis('off')
 
 # Create a table plot
-#tbl = table(ax, df, loc='center', cellLoc='center', colWidths=[0.2] * len(df.columns))
+tbl = table(ax, df, loc='center', cellLoc='center', colWidths=[0.2] * len(df.columns))
 
 # Save the table as a PDF
-#plt.savefig("evaluation_results.pdf")
-#plt.close()
+plt.savefig("evaluation_results.pdf")
+plt.close()
+
+chain = load_qa_chain(retriever, llm, prompt)
 while True:
-    chain = load_qa_chain(retriever, llm, prompt)
     get_response(input(), chain)
