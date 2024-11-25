@@ -27,7 +27,7 @@ def load_pdf_data(file_paths):
         all_docs.extend(docs)
     return all_docs
 
-def split_docs(documents, chunk_size=1000, chunk_overlap=20):
+def split_docs(documents, chunk_size=700, chunk_overlap=200):
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
         chunk_overlap=chunk_overlap
@@ -38,7 +38,7 @@ def split_docs(documents, chunk_size=1000, chunk_overlap=20):
 def load_embedding_model(model_path, normalize_embedding=True):
     return HuggingFaceEmbeddings(
         model_name=model_path,
-        model_kwargs={'device': 'cuda'},
+        model_kwargs={'device': 'cuda', 'trust_remote_code': True},
         encode_kwargs={
             'normalize_embeddings': normalize_embedding
         }
@@ -49,47 +49,38 @@ def create_embeddings(chunks, embedding_model, storing_path="vectorstore"):
     vectorstore.save_local(storing_path)
     return vectorstore
 
+
 template = """
 ### System:
-You are an respectful and honest assistant specialized to answer about University of Brasília. \
-Always answer in Portuguese from Brazil. \
+You are a respectful and honest assistant specialized to answer ONLY about University of Brasília. \
 All your answers from now on must be in Portuguese. \
-All your answers must be strictly related to the context passed for you.
-If the question is not related to the context of the University of Brasília, you must say that you don't know how to answer. 
+If the question is not related to the University field, don't answer \
+If the answer is not given in the context, say: "Desculpe, mas eu não sei te responder".
+Given the following context, answer the following User Question: \
 
 ### Context:
 {context}
 
-### User:
+### User Question:
 {question}
 
 ### Response:
 """
 
-def load_qa_chain(retriever, llm, prompt):
-    return RetrievalQA.from_chain_type(
-        llm=llm,
-        retriever=retriever,
-        chain_type="stuff",
-        return_source_documents=True,
-        chain_type_kwargs={'prompt': prompt}
-    )
+def get_response(retriever, query, template, llm):
+    context = retriever.get_relevant_documents(query)[0].page_content
+    print("CONTEXTO")
+    print(context)
+    print("RESPOSTA")
+    print(llm.invoke(template.format(context=context, question=query)))
+    print("------------------------------------------")
 
-def get_response(query, chain):
-    response = chain({'query': query})
-    print("Answer:", response["result"])
-    if "source_documents" in response:
-        print("Sources:")
-        for doc in response["source_documents"]:
-            print(doc.metadata.get("source", "Unknown Source"))
-            print(doc.page_content)
-
-llm = Ollama(model="llama2", temperature=0.1)
+llm = Ollama(model="mistral", temperature=0.2)
 embed = load_embedding_model(model_path="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
 
 # List of PDF files to be processed
-pdf_files = ["guia_calouro_1_2018.pdf","manual_para_estudantes_2022.pdf"]
-
+pdf_files = ["manual_para_estudantes_2022.pdf", "guia_calouro_1_2018.pdf",]
+# Sou calouro, preciso fazer matrícula?
 # Loading and splitting the documents from multiple PDF files
 docs = load_pdf_data(file_paths=pdf_files)
 documents = split_docs(documents=docs)
@@ -97,10 +88,23 @@ documents = split_docs(documents=docs)
 # Creating vectorstore
 vectorstore = create_embeddings(documents, embed)
 
+# Check the number of vectors stored in the FAISS index
+print(f"Number of vectors: {vectorstore.index.ntotal}")
+
+# Test a sample query to verify retrieval
+query = "O que é SAA?"
+results = vectorstore.similarity_search(query, k=3)
+print(results)
+print(f"Retrieved {len(results)} results for the query:")
+for i, result in enumerate(results):
+    print(f"Result {i+1}:")
+    print(f"Content: {result.page_content}")
+    print(f"Metadata: {result.metadata}")
+
 # Converting vectorstore to a retriever
 # search_type= similarity (uses l2 (Euclidian Distance) as default)) search_kwargs = k: 3 (take the top 3 results of the similarity search)
 retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 3})
-
+print(retriever.get_relevant_documents("O que é SAA?"))
 # Creating the prompt from the template
 prompt = PromptTemplate.from_template(template)
 print(prompt)
@@ -134,20 +138,26 @@ print(float(df.loc[0, 'context_precision']))
 
 print(df)
 
-categories = ['Category A', 'Category B', 'Category C', 'Category D']
-values = [23, 45, 12, 37]
+categories = ['Context Precision', 'Answer Relevancy', 'Category C', 'Category D']
+values = [round(float(df.loc[0, 'context_precision']), 2), round(float(df.loc[0, 'answer_relevancy']), 2), 0.2, 0.75]
 
 plt.figure(figsize=(10, 6))
 plt.bar(categories, values)
-plt.xlabel('Categories')
+plt.xlabel('Metrics')
 plt.ylabel('Values')
-plt.title('Sample Bar Graph')
+plt.title('RAG Metrics')
 
 # Save to PDF
 with PdfPages('bar_graph.pdf') as pdf:
     pdf.savefig() 
     plt.close()   
 
-# chain = load_qa_chain(retriever, llm, prompt)
-# while True:
-#     get_response(input(), chain)
+while True:
+    entrada = input()
+    get_response(retriever, entrada, template, llm)
+    print(results)
+    results = vectorstore.similarity_search(query, k=3)
+    print(f"Retrieved {len(results)} results for the query:")
+    for i, result in enumerate(results):
+        print(f"Result {i+1}:")
+        print(f"Content: {result.page_content}")
