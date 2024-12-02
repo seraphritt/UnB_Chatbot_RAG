@@ -4,7 +4,9 @@ from lightrag import LightRAG, QueryParam
 from lightrag.llm import ollama_model_complete, ollama_embedding
 from lightrag.utils import EmbeddingFunc
 
-WORKING_DIR = "/home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag"
+WORKING_DIR = "path"
+# example: /home/user/graphrag
+# use pwd command
 
 logging.basicConfig(format="%(levelname)s:%(message)s", level=logging.INFO)
 
