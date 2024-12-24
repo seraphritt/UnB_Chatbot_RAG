@@ -4,7 +4,7 @@ from lightrag import LightRAG, QueryParam
 from lightrag.llm import ollama_model_complete, ollama_embedding
 from lightrag.utils import EmbeddingFunc
 
-WORKING_DIR = "path"
+WORKING_DIR = os.getcwd()
 # example: /home/user/graphrag
 # use pwd command
 
@@ -27,27 +27,23 @@ rag = LightRAG(
             texts, embed_model="nomic-embed-text", host="http://localhost:11434"
         ),
     ),
+    addon_params={"language": "English"}
 )
 
-with open("book.txt", "r", encoding="utf-8") as f:
+with open("manual_para_estudantes_2022.txt", "r", encoding="utf-8") as f:
     rag.insert(f.read())
-
 # Perform naive search
-print(
-    rag.query("What are the top themes in this story?", param=QueryParam(mode="naive"))
-)
+# print(
+#     rag.query("Answer in Portuguese: Who is Vanessa Oliveira and what is her relation with Diego Madureira in the context of Universidade de Brasília?", param=QueryParam(mode="global"))
+# )
 
-# Perform local search
-print(
-    rag.query("What are the top themes in this story?", param=QueryParam(mode="local"))
-)
+# print(
+#     rag.query("Responda em Portuguẽs: Quem é Vanessa Oliveira e qual é a sua relação com Diego Madureire no contexto da Universidade de Brasília?", param=QueryParam(mode="local"))
+# )
 
-# Perform global search
-print(
-    rag.query("What are the top themes in this story?", param=QueryParam(mode="global"))
-)
-
-# Perform hybrid search
-print(
-    rag.query("What are the top themes in this story?", param=QueryParam(mode="hybrid"))
-)
+# print(
+#     rag.query("Answer in Portuguese: Who is Vanessa Oliveira and what is her relation with Diego Madureira in the context of Universidade de Brasília?", param=QueryParam(mode="naive"))
+# )
+# print(
+#     rag.query("Responda em Portuguẽs: Quem é Vanessa Oliveira e qual é a sua relação com Diego Madureire no contexto da Universidade de Brasília?", param=QueryParam(mode="hybrid"))
+# )
