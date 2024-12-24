@@ -10,14 +10,20 @@ import ragas
 from datasets import Dataset
 from ragas import evaluate
 from ragas.metrics import (
-    summarization_score,
+    faithfulness,
     answer_relevancy,
     context_recall,
     context_precision,
+    answer_similarity,
+    context_entity_recall,
+
 )
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
+import extract_qa
+import re
+from langchain.document_loaders import PyMuPDFLoader
 
 def load_pdf_data(file_paths):
     all_docs = []
@@ -52,7 +58,7 @@ def create_embeddings(chunks, embedding_model, storing_path="vectorstore"):
 
 template = """
 ### System:
-You are a respectful and honest assistant specialized to answer ONLY about University of Brasília. \
+You are a respectful and honest assistant specialized to answer ONLY about University of Brasília, don't use greetings or saudations. Elaborate your answer with details. \
 All your answers from now on must be in Portuguese. \
 If the question is not related to the University field, don't answer \
 If the answer is not given in the context, say: "Desculpe, mas eu não sei te responder".
@@ -68,96 +74,47 @@ Given the following context, answer the following User Question: \
 """
 
 def get_response(retriever, query, template, llm):
-    context = retriever.get_relevant_documents(query)[0].page_content
-    print("CONTEXTO")
-    print(context)
-    print("RESPOSTA")
-    print(llm.invoke(template.format(context=context, question=query)))
-    print("------------------------------------------")
+    context = retriever.invoke(query)[0].page_content
+    # print("RESPOSTA")
+    return [llm.invoke(template.format(context=context, question=query)), context]
 
-llm = Ollama(model="mistral", temperature=0.2)
+llm = Ollama(model="qwen2.5:latest", temperature=0.2)
 embed = load_embedding_model(model_path="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
 
 # List of PDF files to be processed
-pdf_files = ["manual_para_estudantes_2022.pdf", "guia_calouro_1_2018.pdf",]
+pdf_files = ["docs/manual_dos_estudantes_22.pdf", "docs/check_list_calouro.pdf", "docs/manual_estagio_curricular_obrigatorio_discentes.pdf", "docs/manual_estagio_nao_obrigatorio_discentes.pdf"]
 # Sou calouro, preciso fazer matrícula?
 # Loading and splitting the documents from multiple PDF files
 docs = load_pdf_data(file_paths=pdf_files)
 documents = split_docs(documents=docs)
-
 # Creating vectorstore
 vectorstore = create_embeddings(documents, embed)
 
-# Check the number of vectors stored in the FAISS index
-print(f"Number of vectors: {vectorstore.index.ntotal}")
-
-# Test a sample query to verify retrieval
-query = "O que é SAA?"
-results = vectorstore.similarity_search(query, k=3)
-print(results)
-print(f"Retrieved {len(results)} results for the query:")
-for i, result in enumerate(results):
-    print(f"Result {i+1}:")
-    print(f"Content: {result.page_content}")
-    print(f"Metadata: {result.metadata}")
-
+qa = extract_qa.qaExtractor("ground_truth.txt", "perguntas.txt")
+questions = qa.get_questions()
+ground_truth = qa.get_answers()
 # Converting vectorstore to a retriever
 # search_type= similarity (uses l2 (Euclidian Distance) as default)) search_kwargs = k: 3 (take the top 3 results of the similarity search)
 retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 3})
-print(retriever.get_relevant_documents("O que é SAA?"))
 # Creating the prompt from the template
 prompt = PromptTemplate.from_template(template)
-print(prompt)
-# Sample data for evaluation
-data = {
-    "question": ["O que é a SAA?"],
-    "answer":  ['A SAA (Secretaria de Administração Acadêmica) é uma das principais secretarias da Universidade de Brasília, responsável pela gestão dos estudantes e pela expedição de documentos como certificados e diplomas. Ela está localizada em diferentes postos avançados ao longo do campus, incluindo o Posto Avançado da SAA no prédio da Reitoria, onde você pode encontrar a equipe responsável pela solenidade de outorga de grau e pelo envio de documentos. Além disso, a SAA é responsável por garantir a articulação entre o ensino, a pesquisa e a extensão na Universidade de Brasília, promovendo a formação integral e cidadã dos estudantes.'],
-    "contexts": [['A Secretaria de Administração Acadêmica é responsável pelo registro dos estudantes e pela expedição de documentos como certificados e diplomas. Para atender melhor os estudantes, a SAA tem postos próximos às unidades acadêmicas. No anexo I você encontra os endereços e telefones de contato dos postos avançados do SAA.']],
-    "ground_truth": ['A SAA, ou Secretaria de Administração Acadêmica, é responsável pelo registro dos estudantes e pela expedição de documentos como certificados e diplomas. Ela oferece suporte aos estudantes através de postos próximos às unidades acadêmicas da Universidade de Brasília (UnB). A SAA também é o órgão ao qual os estudantes devem se dirigir para obter históricos escolares atualizados, declarações de vínculo e atestados de matrícula, além de coordenar processos importantes como mudança de curso e dupla diplomação']
-}
-
-# Convert dict to dataset
-dataset = Dataset.from_dict(data)
-
-# Debug: Print dataset structure
-print(json.dumps(dataset.to_dict(), indent=4, ensure_ascii=False))
-
-# Run the evaluation
-result = evaluate(llm=llm, embeddings=embed, dataset=dataset, metrics=[
-       context_precision,
-       answer_relevancy,
-   ],
-)
-
-print(result)
-
-df = result.to_pandas()
-
-print("DATAFRAME \n\n")
-print(float(df.loc[0, 'context_precision']))
-
-print(df)
-
-categories = ['Context Precision', 'Answer Relevancy', 'Category C', 'Category D']
-values = [round(float(df.loc[0, 'context_precision']), 2), round(float(df.loc[0, 'answer_relevancy']), 2), 0.2, 0.75]
-
-plt.figure(figsize=(10, 6))
-plt.bar(categories, values)
-plt.xlabel('Metrics')
-plt.ylabel('Values')
-plt.title('RAG Metrics')
-
-# Save to PDF
-with PdfPages('bar_graph.pdf') as pdf:
-    pdf.savefig() 
-    plt.close()   
-
-while True:
-    entrada = input()
-    get_response(retriever, entrada, template, llm)
-    print(results)
-    results = vectorstore.similarity_search(query, k=3)
-    print(f"Retrieved {len(results)} results for the query:")
-    for i, result in enumerate(results):
-        print(f"Result {i+1}:")
-        print(f"Content: {result.page_content}")
+count = 0
+dicio = {}
+# print(get_response(retriever, "Quem é Vanessa Oliveira e qual é a sua relação com Diego Madureire no contexto da Universidade de Brasília?", template, llm))
+print("Respondendo questões...")
+for entrada in questions:
+    answer, contexto = get_response(retriever, entrada, template, llm)
+    dicio.update({count : [{"question" : entrada, "answer" : answer, "context": contexto, "ground_truth": ground_truth[count]}]})
+    count += 1
+    # results = vectorstore.similarity_search(query, k=3)
+    # print(f"Retrieved {len(results)} results for the query:")
+    # for i, result in enumerate(results):
+    #     print(f"Result {i+1}:")
+    #     print(f"Content: {result.page_content}")
+file_name = "qa.json"
+with open(file_name, "w", encoding="utf-8") as json_file:
+    json.dump(dicio, json_file, indent=4, ensure_ascii=False)
+print(f"JSON data has been saved to {file_name}")
+# read json file
+with open(file_name, "r", encoding="utf-8") as json_file:
+    data = json.load(json_file)

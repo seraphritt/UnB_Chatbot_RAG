@@ -1,9 +1,10 @@
 import json
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.llms import Ollama
-import ragas
+from matplotlib.backends.backend_pdf import PdfPages
 from datasets import Dataset
 from ragas import evaluate
+import ragas
 from ragas.metrics import (
     faithfulness,
     context_entity_recall,
@@ -14,7 +15,6 @@ from ragas.metrics import (
 )
 import pandas as pd
 import matplotlib.pyplot as plt
-from pandas.plotting import table
 
 def load_embedding_model(model_path, normalize_embedding=True):
     return HuggingFaceEmbeddings(
@@ -24,26 +24,54 @@ def load_embedding_model(model_path, normalize_embedding=True):
             'normalize_embeddings': normalize_embedding
         }
     )
+file_name = "qa.json"
+with open(file_name, "r", encoding="utf-8") as json_file:
+    data = json.load(json_file)
 
-
+questions = [data[str(x)][0]["question"] for x in range(80)]
+answers = [data[str(x)][0]["answer"] for x in range(80)]
+ground_truths = [data[str(x)][0]["ground_truth"] for x in range(80)]
+contexts = [[data[str(x)][0]["context"]] for x in range(80)]
 data_samples = {
-    "question": ["O que é a SAA?"],
-    "answer":  ['A SAA (Secretaria de Administração Acadêmica) é uma das principais secretarias da Universidade de Brasília, responsável pela gestão dos estudantes e pela expedição de documentos como certificados e diplomas. Ela está localizada em diferentes postos avançados ao longo do campus, incluindo o Posto Avançado da SAA no prédio da Reitoria, onde você pode encontrar a equipe responsável pela solenidade de outorga de grau e pelo envio de documentos. Além disso, a SAA é responsável por garantir a articulação entre o ensino, a pesquisa e a extensão na Universidade de Brasília, promovendo a formação integral e cidadã dos estudantes.'],
-    "contexts": [['A Secretaria de Administração Acadêmica é responsável pelo registro dos estudantes e pela expedição de documentos como certificados e diplomas. Para atender melhor os estudantes, a SAA tem postos próximos às unidades acadêmicas. No anexo I você encontra os endereços e telefones de contato dos postos avançados do SAA.']],
-    "ground_truth": ['A SAA, ou Secretaria de Administração Acadêmica, é responsável pelo registro dos estudantes e pela expedição de documentos como certificados e diplomas. Ela oferece suporte aos estudantes através de postos próximos às unidades acadêmicas da Universidade de Brasília (UnB). A SAA também é o órgão ao qual os estudantes devem se dirigir para obter históricos escolares atualizados, declarações de vínculo e atestados de matrícula, além de coordenar processos importantes como mudança de curso e dupla diplomação']
+    "question": questions,
+    "answer":  answers,
+    "contexts": contexts,
+    "ground_truth": ground_truths,
 }
-llm = Ollama(model="llama2", temperature=0.1)
-embed = load_embedding_model(model_path="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
-dataset = Dataset.from_dict(data_samples)
-print(json.dumps(dataset.to_dict(), indent=4, ensure_ascii=False))
-result = evaluate(llm=llm, embeddings=embed, dataset=dataset, metrics=[
-        faithfulness,
-        answer_relevancy,
-        context_entity_recall,
-        context_recall,
-        context_precision,
-        answer_relevancy,
-        answer_similarity
-    ],
-)
-print(result)
+
+models = ["llama3:latest", "qwen2.5:latest", "mistral:latest", "gemma2:2b"]
+for model in models:
+    model_name = model
+    llm = Ollama(model=model_name, temperature=0.1)
+    embed = load_embedding_model(model_path="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
+    run_config = ragas.RunConfig(timeout=180, max_retries=10, max_wait=60)
+    dataset = Dataset.from_dict(data_samples)
+    result = evaluate(llm=llm, embeddings=embed, dataset=dataset, metrics=[
+            context_precision,
+            answer_relevancy,
+            context_recall,
+            faithfulness,
+            answer_similarity,
+            context_entity_recall,
+    ], callbacks  = None, run_config=run_config, raise_exceptions=False,
+    )
+
+    print(result)
+    df = result.to_pandas()
+    print(df)
+    csv_file_name = f"evaluation_results_{model_name}.csv"
+    df.to_csv(csv_file_name, index=False, encoding='utf-8')
+    categories = ['context_precision', 'answer_relevancy', 'context_recall', 'faithfulness', 'answer_similarity', 'context_entity_recall']
+    data = [df[category].dropna() for category in categories]  # Drop NaN 
+    plt.figure(figsize=(15, 6))
+    plt.boxplot(data, vert=True, patch_artist=True, tick_labels=['Context Precision', 'Answer Relevancy', 'Context Recall', 
+                                                            'Faithfulness', 'Answer Similarity', 'Context Entity Recall'])
+    plt.xlabel('Métricas')
+    plt.ylabel('Valores')
+    plt.title(f'Distribução das Métricas (RAGAS) no modelo {model_name}')
+
+    with PdfPages(f'boxplot_graph_{model_name}_teste.pdf') as pdf:
+        pdf.savefig()
+        plt.close()
+    print(f"Documento evaluation_results_{model_name}.csv e boxplot (boxplot_graph_{model_name}_teste.pdf) criados")
+

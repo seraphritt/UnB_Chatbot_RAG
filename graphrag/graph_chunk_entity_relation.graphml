@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;UNB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The UNB is a public university in Brazil that offers various undergraduate, graduate programs"&lt;SEP&gt;"The UNB is a public university in Brazil"&lt;SEP&gt;"The University of Brasília is a Brazilian public university"&lt;SEP&gt;"The University of Brasília"&lt;SEP&gt;"Universidade Federal de Brasília (UNB) is a public university in Brazil."&lt;SEP&gt;"Universidade de Brasília is the organization mentioned throughout the text."&lt;SEP&gt;"Universities of Brazil"</data>
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84&lt;SEP&gt;chunk-e957d2a51bfff9288b13b4427453063d&lt;SEP&gt;chunk-49989619f0773c99866fbaca6a4a26c4&lt;SEP&gt;chunk-83d2c369f83394a2c0bfcf9c3a7857f1&lt;SEP&gt;chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;REITORA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Reitora of UnB, a title for a university leader, delivers an official message to the students about the new academic year and their responsibilities as a student."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;MÁRCIA ABRAHÃO MOURA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"A person in charge of the University's publication, responsible for coordinating the manual"</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;MANUAL&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"A document that provides guidelines on graduation at the UnB. It contains information about registration, assessment, requirements, and career planning."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;GRAUAÇÃO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A graduation ceremony takes place at UnB, but it is not specific to this document. It is implied that there are events in relation to graduation."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;ALEX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alex is a character experiencing frustration and is observant of the dynamics among other characters."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;TAYLOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Taylor is portrayed with authoritarian certainty and shows a moment of reverence towards a device, indicating a change in perspective."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;JORDAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jordan shares a commitment to discovery and has a significant interaction with Taylor regarding a device."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;CRUZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cruz is associated with a vision of control and order, influencing the dynamics among other characters."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;THE DEVICE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Device is central to the story, with potential game-changing implications, and is revered by Taylor."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;SIGAA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A website that allows students to manage their registration and access important information about the enrollment process."&lt;SEP&gt;"SIGAA is a platform used to manage and access student data, including curricular information."&lt;SEP&gt;"SIGAA" is an academic platform for managing student data and accessing curricular information."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc&lt;SEP&gt;chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;PPC&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"PPC refers to the program of study, outlining academic requirements for graduation."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </node>
+    <node id="&quot;SAA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"School of Arts (SA) of the University of Brasilia"&lt;SEP&gt;"The SAA (Secretaria de Administração Acadêmica) of the UNB, responsible for managing academic affairs"</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7&lt;SEP&gt;chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </node>
+    <node id="&quot;UNIVERSIDADE FEDERAL DE BRASÍLIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The UNB is a public university in Brazil"</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;SECRETARIA DE ADMINISTRAÇÃO ACADÊMICA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"This refers to the administrative department of UNB responsible for academic matters."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;CALENDÁRIO DE MATRÍCULA&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"A document that outlines the date schedule for the academic year."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;E-MAIL&quot;">
+      <data key="d0">"OBJECT"</data>
+      <data key="d1">"The email is a request for the online signature of a document"</data>
+      <data key="d2">chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
+    </node>
+    <node id="&quot;ASSINATURA&quot;">
+      <data key="d0">"ACTION"</data>
+      <data key="d1">"The act of signing a document"</data>
+      <data key="d2">chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
+    </node>
+    <node id="&quot;TRANSCACIONAL&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"A location where the transcript is held or stored."</data>
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </node>
+    <node id="&quot;WYW.DEG.UNB.BR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Website providing information about UnB"</data>
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </node>
+    <node id="&quot;UNIBRAS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UnB is a name of University in Brazil"</data>
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </node>
+    <node id="&quot;COURSE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Course refers to academic programs and their associated structure."</data>
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </node>
+    <node id="&quot;CURRICULUM&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Curriculum is the framework of education and course offerings within a program."</data>
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </node>
+    <node id="&quot;SEMESTER&quot;">
+      <data key="d0">"DURATION""&gt;</data>
+      <data key="d1">&lt;"period of time dedicated to studying, typically 15-20 weeks"</data>
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </node>
+    <node id="&quot;PROLC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The ProlC is an opportunity for students to engage in research projects across various fields of knowledge and even participate in these projects alongside scientists.""</data>
+      <data key="d2">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </node>
+    <node id="&quot;DECANATO DE PÓS-GRADUAÇÃO (DPG)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The DPG website provides information about initiating scientific work, as well as opportunities for students who want to join academic research. "&gt;</data>
+      <data key="d2">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </node>
+    <node id="&quot;DECANATO DE EXTENSÃO (DEX)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The DEX website provides information about the connection between the University and society through projects, programs, and initiatives that apply knowledge in scientific, technological, artistic, political, educational, and cultural areas."&gt;</data>
+      <data key="d2">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </node>
+    <node id="&quot;PROGRAM BOLSA ALIMENTAÇÃO NO RESTAURANTE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"It is a program to help students with financial aid for food"</data>
+      <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4</data>
+    </node>
+    <node id="&quot;PROGRAMA MORADIA ESTUDANTIL DA GRADUAÇÃO (PME-G)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Program of housing aid for graduate students, offering various forms of help."&lt;SEP&gt;"The PME-G is a program aimed at providing assistance with housing to graduate students."</data>
+      <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4&lt;SEP&gt;chunk-7637105a1765e4f05d25f7062315a8cb</data>
+    </node>
+    <node id="&quot;PROGRAMA AUXÍLIO SOCIOECONÔMICO (PASEUNB)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A program offering economic aid to students, addressing specific socioeconomic needs."&lt;SEP&gt;"It aims to provide financial support for students facing socioeconomic difficulties"</data>
+      <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4&lt;SEP&gt;chunk-7637105a1765e4f05d25f7062315a8cb</data>
+    </node>
+    <node id="&quot;PROGRAM MORADIA ESTUDANTIL DA GRADUAÇÃO (PME-G)&quot;">
+      <data key="d0">"PROGRAM"</data>
+      <data key="d1">"A program that provides housing assistance to graduating students."</data>
+      <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4</data>
+    </node>
+    <node id="&quot;PROGRAMA BOLSA ALIMENTAÇÃO NO RESTAURANTE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A program that offers benefits to those who participate in it."</data>
+      <data key="d2">chunk-7637105a1765e4f05d25f7062315a8cb</data>
+    </node>
+    <node id="&quot;UNIVERSITÁRIO&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"University"</data>
+      <data key="d2">chunk-7637105a1765e4f05d25f7062315a8cb</data>
+    </node>
+    <node id="&quot;AUXÍLIO MORADIA&quot;">
+      <data key="d0">"PROGRAM"</data>
+      <data key="d1">"A program that provides financial assistance for student accommodation."</data>
+      <data key="d2">chunk-7637105a1765e4f05d25f7062315a8cb</data>
+    </node>
+    <node id="&quot;VAGA NA CASA DO(A) ESTUDANTE UNIVERSITÁRIO(A) (CEU)&quot;">
+      <data key="d0">"PROGRAM"</data>
+      <data key="d1">"A program that allows students to work at the university residence, offering a part-time job opportunity."</data>
+      <data key="d2">chunk-7637105a1765e4f05d25f7062315a8cb</data>
+    </node>
+    <node id="&quot;AUXÍLIO TRANSPORTE&quot;">
+      <data key="d0">"PROGRAM"</data>
+      <data key="d1">"A program that provides financial assistance for student transportation."</data>
+      <data key="d2">chunk-7637105a1765e4f05d25f7062315a8cb</data>
+    </node>
+    <node id="&quot;PROGRAMA AUXÍLIO CRECHE (PACRECHE)&quot;">
+      <data key="d0">"PROGRAM"</data>
+      <data key="d1">"A program providing childcare support for student families."</data>
+      <data key="d2">chunk-7637105a1765e4f05d25f7062315a8cb</data>
+    </node>
+    <edge source="&quot;ALEX&quot;" target="&quot;TAYLOR&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Alex is affected by Taylor's authoritarian certainty and observes changes in Taylor's attitude towards the device."</data>
+      <data key="d5">"power dynamics, perspective shift"</data>
+      <data key="d6">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </edge>
+    <edge source="&quot;ALEX&quot;" target="&quot;JORDAN&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Alex and Jordan share a commitment to discovery, which contrasts with Cruz's vision."</data>
+      <data key="d5">"shared goals, rebellion"</data>
+      <data key="d6">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </edge>
+    <edge source="&quot;TAYLOR&quot;" target="&quot;JORDAN&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Taylor and Jordan interact directly regarding the device, leading to a moment of mutual respect and an uneasy truce."</data>
+      <data key="d5">"conflict resolution, mutual respect"</data>
+      <data key="d6">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </edge>
+    <edge source="&quot;TAYLOR&quot;" target="&quot;THE DEVICE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Taylor shows reverence towards the device, indicating its importance and potential impact."</data>
+      <data key="d5">"reverence, technological significance"</data>
+      <data key="d6">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </edge>
+    <edge source="&quot;JORDAN&quot;" target="&quot;CRUZ&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Jordan's commitment to discovery is in rebellion against Cruz's vision of control and order."</data>
+      <data key="d5">"ideological conflict, rebellion"</data>
+      <data key="d6">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </edge>
+  </graph>
+</graphml>
