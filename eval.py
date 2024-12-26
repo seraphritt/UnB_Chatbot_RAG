@@ -15,6 +15,8 @@ from ragas.metrics import (
 )
 import pandas as pd
 import matplotlib.pyplot as plt
+from ragas.embeddings import LangchainEmbeddingsWrapper
+from langchain_community.embeddings import FastEmbedEmbeddings
 
 def load_embedding_model(model_path, normalize_embedding=True):
     return HuggingFaceEmbeddings(
@@ -28,10 +30,10 @@ file_name = "qa.json"
 with open(file_name, "r", encoding="utf-8") as json_file:
     data = json.load(json_file)
 
-questions = [data[str(x)][0]["question"] for x in range(80)]
-answers = [data[str(x)][0]["answer"] for x in range(80)]
-ground_truths = [data[str(x)][0]["ground_truth"] for x in range(80)]
-contexts = [[data[str(x)][0]["context"]] for x in range(80)]
+questions = [data[str(x)][0]["question"] for x in range(100)]
+answers = [data[str(x)][0]["answer"] for x in range(100)]
+ground_truths = [data[str(x)][0]["ground_truth"] for x in range(100)]
+contexts = [[data[str(x)][0]["context"]] for x in range(100)]
 data_samples = {
     "question": questions,
     "answer":  answers,
@@ -39,11 +41,11 @@ data_samples = {
     "ground_truth": ground_truths,
 }
 
-models = ["llama3:latest", "qwen2.5:latest", "mistral:latest", "gemma2:2b"]
+models = ["gemma2:latest"]
 for model in models:
     model_name = model
     llm = Ollama(model=model_name, temperature=0.1)
-    embed = load_embedding_model(model_path="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
+    embed = LangchainEmbeddingsWrapper(FastEmbedEmbeddings(model_name='intfloat/multilingual-e5-large'))
     run_config = ragas.RunConfig(timeout=180, max_retries=10, max_wait=60)
     dataset = Dataset.from_dict(data_samples)
     result = evaluate(llm=llm, embeddings=embed, dataset=dataset, metrics=[
