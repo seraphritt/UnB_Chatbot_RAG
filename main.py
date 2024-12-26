@@ -6,7 +6,9 @@ from langchain.vectorstores import FAISS
 from langchain.chains import RetrievalQA
 from langchain.llms import Ollama
 from langchain import PromptTemplate
+from ragas.embeddings import LangchainEmbeddingsWrapper
 import ragas
+from langchain_community.embeddings import FastEmbedEmbeddings
 from datasets import Dataset
 from ragas import evaluate
 from ragas.metrics import (
@@ -74,13 +76,15 @@ Given the following context, answer the following User Question: \
 """
 
 def get_response(retriever, query, template, llm):
-    context = retriever.invoke(query)[0].page_content
+    retrieved = retriever.invoke(query)
+    context = ""
+    for each in retrieved:
+        context += each.page_content
     # print("RESPOSTA")
     return [llm.invoke(template.format(context=context, question=query)), context]
 
-llm = Ollama(model="qwen2.5:latest", temperature=0.2)
-embed = load_embedding_model(model_path="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
-
+llm = Ollama(model="gemma2:latest", temperature=0.2)
+embed = LangchainEmbeddingsWrapper(FastEmbedEmbeddings(model_name='intfloat/multilingual-e5-large'))
 # List of PDF files to be processed
 pdf_files = ["docs/manual_dos_estudantes_22.pdf", "docs/check_list_calouro.pdf", "docs/manual_estagio_curricular_obrigatorio_discentes.pdf", "docs/manual_estagio_nao_obrigatorio_discentes.pdf"]
 # Sou calouro, preciso fazer matrícula?
