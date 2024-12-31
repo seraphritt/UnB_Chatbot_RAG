@@ -1,46 +1,84 @@
 GRADUAÇÃO UnB
+
 Manual para estudantes
+
+
 Prof.? Márcia Abrahão Moura
+
 Reitora
+
 Prof. Enrique Huelva Unternbãumen
+
 Vice-reitor
+
 Prof. Diêgo Madureira
+
 Decano de Ensino de Graduação
+
 Prof. Lúcio Remuzat Rennó Junior
+
 Decano de Pós-Graduação
+
 Prof.º Maria Emília Walter
+
 Decana de Pesquisa e Inovação
+
 Prof.º Olgamir Amancia
+
 Decana de Extensão
+
 Prof. Ileno Izídio da Costa
+
 Decano de Assuntos Comunitários
+
 Maria do Socorro Mendes Gomes
+
 Decana de Gestão de Pessoas
+
 Prof.º Rozana Reigota Naves
+
 Decana de Administração
+
 Prof.º Denise Imbroisi
+
 Decana de Planejamento e Orçamento
+
 Editorial
+
 Márcia Abranão Moura
+
 Enrique Huelva Unternbãumen
+
 Diêgo Madureira (DEG) (Organizador)
 
 Vanessa Oliveira (DEG) (Organizadora)
+
 Projeto Gráfico
+
 Nathalie Wagner (Estagiária) (DEG)
+
 Colaboradores
+
 Leonardo de Oliveira (Estagiário) (DEG)
 Prof. Virgílio Pereira de Almeida (INT)
 Henrique Soares de Melo (SAA)
+
 Prof. Sergio Ronaldo Granemann (DPG)
 Prof. Jacir Luiz Bordim (STI)
+
 Prof.2 Letícia Lopes Leite (CEAD)
+
 Prof.? Larissa Polejack Brambatti (DAC)
 Prof. Olgamir Amancia (DEX)
+
 Prof. Euler Vilhena (DEG/DTG)
+
 Prof. Rafael Oliveira Rocha (DEG/DAIA)
+
 Prof.? Symone Jardim (DEG/DIEG)
+
 Apresentação
+
 O Decanato de Ensino de Graduação (DEG) apresenta o
 Manual para estudantes de graduação da Universidade
 de Brasília (UnB). Este Manual traz tudo que você pre-
@@ -57,68 +95,96 @@ nos processos e entendimentos envolvendo a gradua-
 ção —, é necessário sempre acompanhar de perto to-
 das as atualizações formais que forem implementadas
 enquanto você for estudante da Instituição.
+
 1. Entrei na UnB, e agora?
 &. Meu curso
+
 3. Matrícula
+
 X. Avaliação
 
 5. Meus documentos
 6. Direitos e deveres
 7. Estágio
+
 8. Vou concluir o curso,
 o que devo saber?
+
 9. Muito além das aulas
 10. Preciso de ajuda
 Aqui na UnB,
 O que guia a gente é o(a):
+
 1) respeito aos valores republicanos;
+
 2) prioridade absoluta das finalidades essenciais
 da UnB: o ensino, a pesquisa e a extensão;
+
 3) orientação humanística e o reconhecimento
 das diversas manifestações do conhecimento
 artístico, literário, científico e técnico;
+
 4) preparação para o exercício da plena cidadania;
+
 5) compromisso com a justiça social, com a paz,
 com a defesa dos direitos humanos e com a
 preservação do meio ambiente; e
+
 6) integração necessária com a sociedade e
 suas múltiplas formas.
+
 Vamos juntos?
+
+
 Entrei
 e agora?
+
 Seja bem-vindo(a)!
+
 Queridos(as) estudantes,
+
 É uma alegria imensa receber vocês na UnB a cada
 semestre. Esta conquista merece ser comemorada e
 vivida com a mesma intensidade do espírito inovador
 sonhado há 60 anos por nossos fundadores, Darcy Ri-
 beiro e Anísio Teixeira.
+
 Na Ceilândia, no Gama, em Planaltina, no Plano Piloto e
 nos nossos polos de educação a distância, a UnB é lugar
 de ensinar e aprender todos os dias. Aproveitem as salas
 de aula, os anfiteatros, os laboratórios, os auditórios, os
 jardins, as bibliotecas, as quadras, os campi e os ambien-
-
 tes virtuais de aprendizagem. Curtam este espaço amplo
 de ousadia, de diálogo, de debate e de democracia.
+
 Não deixem escapar as diversas oportunidades de tro-
 ca de conhecimentos e de pesquisa que a UnB oferece.
 Um dos diferenciais da nossa Universidade é o currículo
+
+
 interdisciplinar. Se entreguem à experiência da inicia-
 ção científica e participem da nossa tradicional Semana
 Universitária.
+
 Fiquem atentos também às atividades de extensão, que
 permitem uma aproximação única da sociedade, com
 arte, ciência, inovação e desenvolvimento social. As
 disciplinas optativas e de módulo livre são trilhas para
 novas vivências e descobertas.
+
 Cada semestre é chance única para que vocês aumen-
+
 tem conhecimentos e sedimentem suas carreiras. De-
 sejo que este Manual facilite o caminho.
+
 Boa sorte nesta nova e enriquecedora jornada!
 Recebam meu abraço fraterno,
+
 Reitora
+
+
 Registro acadêmico
+
 Se você foi aprovado(a) em um dos pro-
 cessos seletivos e efetivou o registro aca-
 dêmico, parabéns, você é oficialmente
@@ -140,18 +206,22 @@ e-mail da UnB, que será seu número de
 matrícula seguido de (Daluno.unb.br!). O
 e-mail institucional será o principal canal
 de comunicação com a instituição, portan-
-
 to fique atento(a) às mensagens que re-
 ceber nesse endereço. Além disso, esse
 e-mail te dará acesso a ferramentas que
+
 você poderá utilizar durante a sua gradua-
 ção, como Word, Onedrive e Excel.
+
 10
+
 Matrícula de calouros(as)
+
 Agora que você é oficialmente um(a) estudante da
 UnB, a primeira pergunta que vai surgir é: Todo mun-
 do está fazendo matrícula, eu também preciso solicitar
 matrícula em turmas? A resposta é não.
+
 A matrícula em componentes curriculares (disciplinas,
 atividades, estágio, trabalho de conclusão de curso
 etc.) ocorre de forma diferente no semestre de ingresso
@@ -160,6 +230,7 @@ za a matrícula dos(as) calouros(as) nos componentes
 curriculares, mas a partir do segundo semestre as(os)
 estudantes são responsáveis pelo processo de solicita-
 ção de matrícula em componentes curriculares.
+
 Se você ingressou por meio de Transferência Facultati-
 va (TF) ou por Portador de Diploma de Curso Superior
 (DCS), a matrícula nas disciplinas do primeiro semes-
@@ -170,9 +241,14 @@ orientações encaminhadas para o seu e-mail. Mas não
 se preocupe, pois você poderá contar com o apoio da
 coordenação do seu curso nesse processo inicial e du-
 rante o curso, quando for necessário.
+
 11
+
+
 12
+
 Para se dar bem na UnB
+
 Comece visitando www.boasvindas.unb.br e conferin-
 do todas as informações que foram preparadas espe-
 cialmente para você. Também é importante explorar o
@@ -180,45 +256,72 @@ portal principal da UnB, bem como o site do seu curso.
 Outra dica preciosa é acompanhar os perfis oficiais da
 UnB nas redes sociais. Sempre procure informações
 nos sites e perfis oficiais da Universidade!
+
 UnB
 
 www.boasvindas.unb.br
 www.unb.br
+
 Insta Ounb oficial
+
 FB QoficialUnB
 TTunb oficial
+
 DEG
+
 www.deg.unb.br
+
 Insta Ograduacaounh
 FB (QQgraduacaounh
 TT Ggraduacaounh
+
+
 BCE
+
 www.bce.unb.br
 Insta Obceunh
+
 RU
 Wwuw.ru.unb.br
+
 Insta Oru.unb oficial
+
 Decanato de Ensino
 de Extensão (DEX)
+
 www.dex.unb.br
+
 Insta (Dextensaounh
+
 Decanato de Assuntos
+
 Comunitários (DAC)
+
 www.dac.unb.br
+
 Insta Qdasu unb / Qdasufce
 Insta Qdds.dac.unb
+
 Insta (Qcoeducaunh
+
 Insta Dacessibilidadeunh
+
 Insta Qdiretoriadadiversidadeunh
+
 Secretaria de Adminis -
 tração Acadêmica (SAA)
 
 Wwuw.saa.unb.br
+
 e-mail: saaatendimentoDunb.br
+
 Secretaria de Assuntos
+
 Internacionais (INT)
+
 Www.int.unb.br
 Insta ODintunboficial
+
 Cada curso de graduação tem suas característi-
 cas próprias, por isso é importante tentar conhecer
 ao máximo o seu! Você pode fazer isso buscando
@@ -231,7 +334,9 @@ curso. Fique atento(a) aos próximos itens, pois
 abordaremos alguns pontos muito importantes
 para você acompanhar o curso e entender melhor
 as informações disponíveis nos meios oficiais.
+
 Projeto Pedagógico do Curso (PPC)
+
 O PPC é o documento que orienta o currículo para
 o perfil profissional que se deseja formar. Constitui a
 identidade de um curso e, em essência, contempla os
@@ -240,8 +345,11 @@ rais, definindo as concepções pedagógicas, além das
 estratégias para o ensino, a aprendizagem e a avalia-
 ção. Você pode acessar o PPC do seu curso no portal
 público do SIGAA.
+
+
 Estrutura curricular
 (currículo do curso)
+
 O currículo do seu curso, basicamente, indica quais são
 os componentes curriculares que você precisa cursar
 para obter o diploma: é, portanto, o que dá a cara do seu
@@ -254,15 +362,17 @@ estiver na UnB e, nesse caso, é sempre interessante mi-
 grar para o novo currículo, pois ele será mais moderno
 e aderente às normas mais atuais, mas é possível con-
 tinuar no currículo que estava vigente no momento do
-
 ingresso, o que não pode, em hipótese alguma, é migrar
 para um currículo mais antigo, ou seja, anterior ao mo-
 mento da sua entrada em um curso da UnB.
+
 Para mais informações sobre esse assunto, veja O
 item Componentes curriculares deste Manual.
+
 A estrutura curricular (currículo do curso) está dispo-
 nível no SIGAA, tanto no portal público quanto no por-
 tal do(a) estudante.
+
 A estrutura curricular te dará informações importantes,
 como duração prevista do curso, número mínimo e má-
 ximo de semestres para permanência, carga horária
@@ -270,17 +380,23 @@ máxima que se pode cursar em cada semestre e quais
 componentes são obrigatórios ou eletivos, por exemplo.
 Esse, aliás, é um ponto importante! Os componentes
 podem ser, basicamente, de três tipos:
+
 obrigatório — quando você precisa cursar o com-
 ponente para se formar;
+
 optativo — quando você pode escolher um com-
 ponente de uma lista (prevista na estrutura
 curricular); e
+
 eletivo (módulo livre) — quando o componente faz
 parte do currículo de outro curso que não o seu,
 mas ainda assim você pode cursar e aproveitar no
 seu histórico (com alguns limites, como ficará claro
 mais à frente).
+
+
 Fluxo do curso
+
 O fluxo de um curso consiste da lista de componentes
 curriculares obrigatórios e optativos previstos no PPC e
 recomendados para cada um dos semestres do curso
@@ -292,21 +408,29 @@ do curso no tempo previsto, mas também porque essa
 adesão ao fluxo é um dos critérios de prioridade para
 conseguir vagas em turmas durante o processo de ma-
 trícula, como será abordado adiante.
+
 Coordenação de curso
+
 O(A) coordenador(a) do curso é o(a) professor(a) respon-
 sável por gerenciar as demandas de graduação, como
 assuntos de matrícula e orientações específicas sobre
-
 currículo e componentes curriculares, por exemplo.
+
 Jo -----e--e--e--e--o--s4
+
 Confira o nome e o contato do(a) coordenador(a) do seu
 curso no portal público do SIGAA. Ao logar, também é
 possível enviar mensagem diretamente para ele(a), por
 meio da opção Outros>Coordenação de curso>Atendi-
 mento ao aluno.
+
 18
+
+
 as
+
 Componentes curriculares
+
 Componentes curriculares, como o próprio termo indi-
 ca, são as atividades acadêmicas que compõem a es-
 trutura curricular (currículo do curso) e que precisam
@@ -322,9 +446,12 @@ tensão, monografias, trabalhos de conclusão de curso
 (TCC), atividades complementares entre outros. Esses
 componentes podem ser obrigatórios, optativos ou ele-
 tivos (módulo livre), conforme descrito a seguir.
+
 19
+
 Componentes
 obrigatórios
+
 São componentes que o(a) estudan-
 te deve, necessariamente, cursar com
 aprovação para fins de integralização
@@ -332,11 +459,13 @@ curricular, ou seja, que serão registra-
 dos no histórico acadêmico e compu-
 tados como requisito obrigatório para
 concluir o curso.
+
 20
+
 Componentes
 optativos
-Optativos são os componentes que in-
 
+Optativos são os componentes que in-
 tegram o currículo do seu curso, mas
 como parte de um grupo de componen-
 tes que são ofertados (pelo departa-
@@ -346,8 +475,10 @@ colhidos para compor o total de horas
 necessárias para a integralização do
 currículo. Ou seja, o que é obrigatório
 aqui é o cumprimento da carga horária.
+
 Componentes eletivos
 (módulo livre)
+
 A principal diferença entre um componente optativo e
 um eletivo (módulo livre) é, basicamente, que esse últi-
 mo não está listado na estrutura curricular (currículo do
@@ -361,6 +492,7 @@ desde que estejam no limite máximo de horas de com-
 ponentes eletivos permitido para o seu curso, de acordo
 como PPC. Arealização de monitorias também é consi-
 derada como componente eletivo.
+
 é Atenção! Uma vez ultrapassado o total permitido para os créditos
 de componente eletivo (módulo livre), você ainda poderá cursar
 componentes eletivos até o limite de 60 créditos, porém esses cré-
@@ -372,8 +504,11 @@ dos créditos, duas expressões-chave para entender seu histórico
 escolar. Tudo que você fizer no âmbito acadêmico na UnB será
 REGISTRADO em seu histórico, mas apenas o que é INTEGRALI-
 ZADO vai contar de fato para conclusão do seu curso.
+
 21
+
 Pré-requisitos
+
 Alguns componentes curriculares possuem pré-requi-
 sito, o que significa que é preciso ter cursado um ou
 mais componentes ANTES deles. Nesses casos, não
@@ -383,13 +518,14 @@ tenha conseguido o componente pré-requisito por apro-
 veitamento. Em alguns casos, também há correquisitos,
 indicando componentes que precisam ser cursados si-
 multaneamente. Importante notar que o pré-requisito é
-
 uma característica do próprio componente, não sendo
 possível “quebrar” o pré-requisito para um(a) estudante
 em particular, o que pode haver é a revisão do(s) pré-
 -requisito(s) pelo colegiado do curso, o que passará a
 valer para todos(as) os(as) estudantes.
+
 Cadeia de seletividade
+
 Em alguns cursos, as disciplinas obrigatórias podem ser
 escolhidas de um grupo pré-determinado: a cadeia de
 seletividade. As disciplinas que compõem uma cadeia
@@ -398,6 +534,7 @@ rias seletivas. À cadeia soma-se uma condição de cum-
 primento que é o número de horas a serem cursadas
 dentre os componentes que compõem a cadeia. Caso
 seu curso tenha uma cadeia de seletividade, você po-
+
 derá selecionar livremente entre os componentes dessa
 cadeia qual componente você cursará. Funciona de for-
 ma semelhante aos componentes optativos, mas aqui
@@ -405,11 +542,14 @@ a lista de possibilidades é bem mais restrita e abrange
 componentes tematicamente relacionados. Além disso,
 a integralização se dá como carga horária optativa no
 histórico.
+
 IMPORTANTE: Apesar de os componentes que compõem
 uma cadeia de seletividade serem integralizados como opta-
 tivos, o não cumprimento da condição em horas relacionadas
 à cadeia impede a conclusão do curso pelo(a) estudante.
+
 Disciplinas equivalentes
+
 Como a UnB tem muitos cursos de graduação, com múl-
 tiplas estruturas, alguns componentes curriculares, espe-
 cialmente disciplinas, são semelhantes em ementa e carga
@@ -421,12 +561,15 @@ entre dois componentes ou entre grupos de componentes
 curriculares, permitindo que se aproveite a aprovação em
 componentes que não estejam previstos na estrutura do
 curso para cobrir componentes obrigatórios ou optativos.
+
 23
+
+
 Atividades complementares
+
 Chamamos de atividades complementares todas
 aquelas que não correspondem a componentes curri-
 culares, mas que podem ser aproveitadas como parte
-
 da formação do(a) estudante. São exemplos de ati-
 vidades complementares a participação em eventos
 científicos, artísticos ou culturais, em projetos de pes-
@@ -437,7 +580,9 @@ lar dessas atividades variam conforme o curso e são
 parte integrante do PPC. Procure conhecer o quanto
 antes como funciona no seu curso para aproveitar da
 melhor maneira essa possibilidade.
+
 EAD na UnB?
+
 Sim, por meio de um programa chamado Universidade
 Aberta do Brasil (UAB), a UnB, assim como várias outras
 Instituições Federais de Ensino Superior (IFES), oferta
@@ -445,7 +590,9 @@ diversos cursos na modalidade ensino a distância (EAD).
 Se você é estudante de um desses cursos, as orienta-
 ções neste Manual também se aplicam a você, mas é im-
 portante conhecer as peculiaridades do seu curso EAD.
+
 AY!
+
 Quanto aos cursos presenciais, apesar
 da possibilidade legal de oferta de car-
 ga horária a distância, é necessário que
@@ -454,6 +601,7 @@ a distância esteja prevista no PPC. As-
 sim, procure conhecer sempre a versão
 mais atual do PPC do seu curso para
 saber se essa opção está prevista.
+
 As disciplinas ofertadas na modalida-
 de EAD utilizam a plataforma virtual
 APRENDER 3* (https://aprender3.unb.
@@ -464,6 +612,7 @@ sala de aula nos cursos presenciais.
 O APRENDER 3 possibilita a criação
 de salas virtuais de disciplinas, em
 que são disponibilizados materiais di-
+
 gitais de apoio, ferramentas de comu-
 nicação, salas de webconferência e
 diversos outros recursos. A unidade
@@ -473,28 +622,36 @@ Distância (CEAD) e você pode ter mais
 informações sobre esse ambiente em
 www.cead.unb.br. Por meio desse link,
 você também poderá tirar dúvidas sobre
-
 o uso do ambiente APRENDER com a
 equipe de atendimento técnico, que fica
 disponível de segunda-feira a sexta-fei-
 ra, das 8h às 19h.
+
 O acesso ao APRENDER é concedido
 a todos(as) os(as) estudantes da UnB
 e os dados de login são encaminhados
 para o e-mail que foi informado no ato
 de seu registro na Universidade.
+
 * O APRENDER é comumente chamado de MOODLE,
 isso porque MOODLE é o software livre de apoio à apren-
 dizagem em ambiente virtual que, na UnB, foi adaptado e
+
 recebeu o nome de APRENDER.
+
 25
+
 Matrícula
+
 Z
+
 Esse é certamente o tema que mais
 gera dúvidas entre os(as) estudan-
 tes! Então é importante prestar mui-
 ta atenção em todas as orientações
+
 deste item.
+
 Antes do início de cada semestre (à ex-
 ceção do primeiro), os(as) estudantes
 precisam solicitar matrícula nos compo-
@@ -511,11 +668,12 @@ ofertadas, e é nesse momento que en-
 tra em ação o processamento, que nada
 mais é que o preenchimento automático
 das vagas conforme a priorização das
+
 solicitações, após o período de solicita-
+
 ção de matrícula. Os critérios utilizados
 para essa priorização são definidos pelo
 Conselho de Ensino, Pesquisa e Exten-
-
 são da UnB (CEPE) e levam em con-
 sideração, não necessariamente nessa
 ordem, a natureza do componente para
@@ -535,14 +693,20 @@ cessamento, não conseguiu a vaga?
 Calma, você terá a chance de fazer nova
 solicitação, para isso O processo ocorre
 em fases, conforme descrito a seguir.
+
+
 Etapas da matrícula
+
 O processo de solicitação da matrícula ocorre em duas
 etapas (matrícula e rematrícula), seguidas por um mo-
 mento de matrícula extraordinária.
+
 Na primeira etapa (matrícula), você solicitará vaga
 nas turmas disponibilizadas. Após o processamento, é
 publicado o resultado indicando quais vagas você de
+
 fato conseguiu.
+
 A segunda etapa (rematrícula) é o momento de tentar
 estratégias alternativas, pois essa etapa nada mais é
 que a repetição do processo com as vagas que sobra-
@@ -552,12 +716,15 @@ tentar outra turma ou componente. A depender da de-
 manda, as coordenações de curso podem fazer ajustes
 na oferta de vagas entre a matrícula e a rematrícula.
 Após a segunda etapa, ocorre novo processamento.
+
 Após as etapas de matrícula e de rematrícula, as vagas
 não ocupadas serão disponibilizadas para matrícula ex-
 traordinária, em que você poderá se matricular direta-
 mente, pois na matrícula extraordinária não há solicita-
 ção nem processamento. Ou seja, a matrícula é efetivada
 pelo(a) próprio(a) estudante, por ordem de solicitação.
+
+
 Matrícula via coordenação
 
 A matrícula em alguns componentes curriculares é rea-
@@ -567,7 +734,9 @@ volvem formação de turmas específicas. Nesses casos,
 é preciso ficar atento(a) para as orientações que a coor-
 denação encaminhará, pois a dinâmica muda um pouco
 de um curso para o outro.
+
 Reserva de vagas
+
 Para facilitar as escolhas e dar mais eficiência ao pro-
 cessamento, muitas turmas são ofertadas com reserva
 de vagas, o que significa que algumas (ou todas) as va-
@@ -577,7 +746,10 @@ vagas para seu curso aumenta suas chances de con-
 seguir a matrícula. Fique atento(a) também ao fato de
 que as reservas podem ser alteradas entre as etapas
 do processo de matrícula.
+
+
 Datas e praxos
+
 Para ter sucesso na matrícula, é fundamental prestar
 atenção nas datas e nos prazos de cada etapa. Você
 pode encontrar essas informações no calendário de
@@ -588,6 +760,7 @@ elenca todas as datas e os procedimentos relaciona-
 dos à graduação, tais como aproveitamento de estudos,
 revisão de menção, concessão de créditos em língua
 estrangeira, entre outros, além do calendário de aulas.
+
 E por falar nisso, o ano letivo na UnB é composto por
 dois semestres de aproximadamente 100 dias letivos
 cada (contando os sábados) geralmente indicados nos
@@ -600,9 +773,11 @@ de forma condensada em aproximadamente dois meses,
 é o chamado semestre de verão, indicado pelo número
 quatro (ex: 2023.4). Os resultados alcançados no verão
 contam sempre para o semestre letivo subsequente.
-Antes da matrícula
-Para facilitar a sua vida, antes de realizar a matrícula,
 
+
+Antes da matrícula
+
+Para facilitar a sua vida, antes de realizar a matrícula,
 é muito importante que você se prepare para o proces-
 so, olhando a lista de disciplinas ofertadas, seu histó-
 rico escolar e o fluxo do seu curso, além de observar
@@ -613,7 +788,9 @@ maneira que, antes de começar o período de matrículas
 oficial você já tenha um plano de matrícula que defi-
 na quais componentes curriculares você precisa cursar
 e qual a melhor estratégia para conseguir a sua vaga.
+
 Depois da matrícula
+
 É importante checar, ao final do processo (e também
 durante o semestre) se houve alguma alteração indevi-
 da na sua grade de componentes (você faz isso no por-
@@ -621,7 +798,10 @@ tal do(a) estudante do SIGAA). Isso evita que você seja
 reprovado(a) por faltas em turmas nas quais venha a
 ser indevidamente matriculado(a), ou frequente turmas
 das quais não faz parte formalmente.
+
+
 Avaliação
+
 A avaliação da aprendizagem é um processo funda-
 mental para garantir a qualidade da sua formação aca-
 dêmica e profissional. As atividades avaliativas podem
@@ -630,7 +810,10 @@ logia adotada pelo(a) professor(a). Certamente você já
 está acostumado(a) com as mais usuais, como relató-
 rios e provas, mas existem informações importantes so-
 bre esse tema, vamos a elas.
+
+
 Menções
+
 A primeira coisa que você precisa saber é que não have-
 rá registro de notas no seu histórico, e sim de menções.
 As menções são categorias de desempenho acadêmi-
@@ -638,6 +821,7 @@ co, o que significa que estudantes com desempenhos
 semelhantes são agrupados(as) na mesma faixa. As
 menções atribuídas ao desempenho do(a) estudante
 em componentes curriculares são as seguintes.
+
 | SS (Superior) 9,0 a 10 1
 | MS (Médio superior) 7,0a8,9 1
 | MM (Médio) 5,02 6,9 1
@@ -645,9 +829,13 @@ em componentes curriculares são as seguintes.
 | II (Inferior) 0,1a2,9 |
 | SR (Sem rendimento) zero 1
 
+
 33
+
 34
+
 Critérios de aprovação
+
 É aprovado(a) no componente o(a) estudante que
 obtiver menção igual ou superior a MM e cuja frequência
 for maior ou igual à mínima exigida (75%). As formas
@@ -658,6 +846,7 @@ possível solicitar revisão da menção obtida, caso não
 concorde com ela, obedecendo os prazos estabelecidos
 no calendário acadêmico. Veja mais detalhes no item
 Direitos e Deveres deste Manual.
+
 Para alguns componentes, o registro de aprovação
 não é feito por meio de menção, constando no histórico
 apenas o termo aprovado(a) ou reprovado(a). Também
@@ -669,14 +858,18 @@ exemplo, estudantes de graduação que já possuem
 pós-graduação podem ser dispensados(as) de cursar
 disciplinas da área em que se pós-graduaram, pois já
 viram o conteúdo de forma mais aprofundada.
+
 Frequência
 em disciplinas
+
 Z
+
 O(a) estudante é obrigado(a) a fre-
 quentar, no mínimo, 75% das aulas de
 cada componente em que estiver regu-
 larmente matriculado(a). A frequência
 inferior a 75% ocasiona a reprovação.
+
 IMPORTANTE: Atestados médicos e do-
 cumentos comprobatórios de justificati-
 vas de faltas dão direito à realização de
@@ -685,10 +878,10 @@ perder, mas essas ausências justificadas
 também são levadas em consideração
 como ausências efetivas para o cômputo
 da frequência mínima obrigatória.
+
 As normas da UnB não preveem a
 frequência na condição de estudante
 ouvinte. Ou seja, para frequentar uma
-
 turma, o(a) estudante deverá estar
 devidamente matriculado(a). A even-
 tual participação das atividades em
@@ -696,8 +889,10 @@ turmas nas quais você não esteja ma-
 triculado(a) não dá direito à matrícula
 retroativa ou registro de aprovação no
 histórico.
+
 Índice de Rendimento
 Acadêmico (IRA)
+
 Se você ainda não ouviu falar do IRA,
 deve ouvir em breve! O IRA é, como
 sugere o nome, um índice que mede
@@ -715,23 +910,30 @@ mos de IRA a serem requeridos para
 acessar alguns benefícios, bem como
 para o desempate no processamento
 das solicitações de matrícula.
+
 35
+
 Meus Documentos
+
 Por questões de eficiência, segurança e sustentabilida-
 de, todos os documentos oficiais da UnB são eletrônicos,
 com sistemas que permitem atestar a autenticidade.
+
+
 Peticionamento eletrônico
+
 Peticionamento eletrônico é uma forma que o(a) próprio(a)
 estudante tem de abrir um processo no Sistema Eletrônico
 de Informação (SEI). Essa opção está disponível para al-
 gumas solicitações, como solicitações de aproveitamento
 de estudos, reintegração e trancamento justificado.
+
 Histórico escolar
+
 Esse é o documento que reúne informações acadêmi-
 cas a seu respeito no âmbito do seu curso, tais como
 ano e forma de ingresso, componentes cursados, men-
 ções, trancamentos etc. É possível obter o histórico
-
 atualizado diretamente do SIGAA (inclusive a versão
 em inglês, mediante solicitação à SAA). Além de com-
 provar, formalmente, sua situação no curso, o históri-
@@ -739,11 +941,16 @@ co escolar será uma ferramenta muito importante para
 você montar a sua grade e solicitar a matrícula em to-
 dos os semestres, pois nele você poderá conferir quais
 componentes curriculares estão pendentes e qual é o
+
 seu posicionamento no fluxo do curso, por exemplo.
+
 * O sistema Eletrônico de Informação (SEI) é onde tra-
 mitam todos os processos da UnB. Acesse o SEI em
+
 wwyw.portalsei.unb.br.
+
 Declarações e atestados
+
 Além do histórico escolar, o SIGAA te dá acesso a vários
 documentos importantes para sua vida universitária, tais
 como atestado de matrícula e declaração de vínculo.
@@ -753,7 +960,9 @@ ou à SAA pelo e-mail saaatendimentoDunb.br. Nesses
 casos, é provável que os documentos incluam assina-
 turas eletrônicas do SEI, que têm a mesma validade da
 assinatura física.
+
 Termos de compromisso
+
 Esse tipo de documento envolve não apenas a assina-
 tura de algum representante da instituição, mas tam-
 bém (e às vezes exclusivamente) a sua. Como o nome
@@ -763,7 +972,10 @@ bolsas, realizar estágios etc. Nesse caso, você rece-
 berá orientações por e-mail para realizar a assinatura
 eletrônica, ou, excepcionalmente, será solicitado(a) a
 assinar o documento físico.
+
+
 Diploma
+
 Sim, até mesmo o diploma é digital!
 Pense em quantas vantagens isso traz:
 a emissão é muito mais rápida que a
@@ -783,9 +995,12 @@ de grau e, a partir do recebimento des-
 sa ata, o diploma é disponibilizado em
 https://servicos.unb.br/publico, em um
 prazo máximo de 30 dias.
+
 39
+
 Direitos e
 deveres
+
 Existem muitas regras na UnB, é verdade, mas cada
 uma delas tem uma razão de existir e precisa ser segui-
 da. É importante lembrar que as normas da Instituição
@@ -802,7 +1017,10 @@ e o Conselho de Ensino, Pesquisa e Extensão (CEPE).
 normas (pois elas ocorrem com alguma frequência) e
 participar das discussões no âmbito desses órgãos (em
 todos há representação estudantil).
+
+
 Revisão de menção
+
 Caso discorde da menção que recebeu, você deverá
 preencher o formulário de revisão de menção, incluindo
 a justificativa para o pedido, e anexar qualquer docu-
@@ -811,6 +1029,7 @@ O processo é aberto na própria secretaria do curso ou
 da sua unidade acadêmica e, a partir da data da solici-
 tação, o(a) professor(a) dispõe de 15 dias corridos para
 analisar o pedido.
+
 Caso a solicitação não seja atendida, você poderá inter-
 por recurso às instâncias superiores da UnB, na seguin-
 te ordem: colegiado do curso, conselho do instituto ou
@@ -819,7 +1038,9 @@ faculdade, CEG e CEPE, sempre no mesmo processo
 seu número de protocolo para acompanhar o andamento
 do processo).
 
+
 Trancamento de matrícula
+
 Você pode solicitar o trancamento de matrícula, no todo
 ou em parte, das atividades acadêmicas por meio de
 formulário próprio, junto à SAA ou diretamente no portal
@@ -831,22 +1052,29 @@ trancamento deve ser solicitado dentro do prazo estabe-
 lecido em calendário acadêmico e pode ser de dois tipos:
 trancamento geral de matrícula (suspensão de progra-
 ma) e trancamento parcial de matrícula.
+
 Trancamento geral de matrícula
 (suspensão de programa)
+
 O trancamento geral de matrícula (TGM) é a suspensão
 de todas as atividades pelo período de um semestre le-
 tivo. Todo(a) estudante da UnB tem direito de fazer esse
 trancamento duas vezes apenas (sejam consecutivas
 ou não), é o que chamamos de TGM automático.
+
 Outra modalidade é o TGM justificado (TGMJ) ou sus-
 pensão justificada. Nesse caso, a suspensão se dá por
 razão de força maior (como questões de saúde). Para
+
+
 solicitar a suspensão justificada é preciso apresentar do-
 cumentação comprobatória. Nesse caso, não há limite
 para o número de trancamentos realizados. As justifica-
 tivas aceitáveis são definidas pelo CEPE e podem ser
 encontradas em www.deg.unb.br.
+
 Trancamento parcial de matrícula
+
 O trancamento parcial de matrícula pode ser solicitado
 pelo(a) estudante para suspensão de atividades curri-
 culares de um componente curricular apenas ou de um
@@ -856,17 +1084,21 @@ pode ser feito uma única vez em cada componente cur-
 ricular. Caso você tranque todos os componentes em
 que está matriculado(a), isso implicará em suspensão
 de programa.
+
 Outra modalidade é o trancamento parcial de matrí-
 cula excepcional e justificado (TJ), que, assim como o
 TGMJ, exige justificativa documentada com base nas
 normas vigentes. Esse tipo de trancamento pode ser
 concedido quantas vezes for necessário. Detalhes no
-
 site wyw.deg.unb.br.
+
 43
+
+
 Aproveitamento de disciplinas
 cursadas em outra instituição de
 ensino superior
+
 Sim, é possível aproveitar disciplinas que você já tenha
 feito fora da UnB, caso elas sejam equivalentes em con-
 teúdo e em duração. Para isso, você deverá solicitar o
@@ -874,19 +1106,25 @@ aproveitamento de estudos, requerendo a análise de to-
 das as disciplinas cursadas com aprovação na instituição
 de origem. A análise e a comparação das ementas são
 feitas pelos(as) professores(as) especialistas na área.
+
 Por fim, não espere demais para solicitar aproveita-
 mentos, pois só é possível fazer isso nos semestres
 iniciais do curso!
+
 3€ IMPORTANTE: Não é possível aproveitar disciplinas
 cursadas concomitantemente ao seu curso na UnB, so-
+
 mente as que você cursou antes de ingressar no curso,
 ou enquanto estava com a matrícula trancada. Também
 é importante buscar orientações detalhadas junto à
 SAA antes de iniciar o processo, pois há uma série de
 detalhes a serem observados.
+
+
 Concessão de
 créditos em língua
 estrangeira
+
 A concessão de créditos pelo reconhe-
 cimento de estudos realizados em cur-
 sos de língua estrangeira poderá ser
@@ -899,16 +1137,18 @@ Instituto de Letras da UnB. O processo
 calendário acadêmico, mediante solici-
 tação na Secretaria Unificada do Insti-
 tuto de Letras.
+
 Além disso, há a possibilidade de rea-
 lização de exame de proficiência para
 aproveitamento de créditos de língua
 estrangeira (língua inglesa e língua es-
-
 panhola). Informações sobre as provas
 de proficiência podem ser encontradas
 em www.deg.unb.br.
+
 Mudança de curso e
 dupla diplomação
+
 Sabia que é possível mudar de curso e
 até conseguir se formar em dois cursos
 diferentes? Isso mesmo, a UnB usa as
@@ -918,6 +1158,7 @@ desistências e desligamentos) para dar
 a possibilidade de mudança de curso
 aos(às) estudantes regularmente matri-
 culados(as).
+
 Outra opção, quando o(a) estudante que
 está prestes a se formar, é a dupla diplo-
 mação, em que o(a) estudante comple-
@@ -928,8 +1169,12 @@ contemple a maior parte do currículo do
 curso ou habilitação pretendida. Os dois
 processos são disciplinados por edital di-
 vulgado no início do semestre pela SAA.
+
+
 46
+
 Desligamento
+
 O(A) estudante pode ser desligado(a) da UnB volunta-
 riamente (quando passa em outro processo seletivo, por
 exemplo, ou simplesmente quando expressa seu desejo
@@ -938,11 +1183,14 @@ tece quando se esgota o tempo máximo de permanência
 no curso e este ainda não foi concluído, ou quando não
 são cumpridos requisitos mínimos de desempenho aca-
 dêmico). Assim, você pode ser desligado(a) se
+
 1. não cursar com aprovação pelo menos quatro
 componentes do curso em dois semestres letivos
 regulares consecutivos; ou
+
 2. for reprovado(a) três vezes em um mesmo compo-
 nente curricular; ou
+
 3. não cumprir condição imposta (veja à frente o que
 são as condições).
 
@@ -951,7 +1199,9 @@ componente por dois semestres consecutivos, sem ter
 realizado suspensão de programa (trancamento geral),
 a UnB irá considerar que você abandonou o curso e o
 desligamento também ocorrerá.
+
 Risco de desligamento e condição
+
 Você estará em risco de desligamento sempre que esti-
 ver prestes a se enquadrar em uma das situações descri-
 tas no item Desligamento. Um exemplo é quando você é
@@ -973,12 +1223,17 @@ pra plano de estudo elaborado por um(a) professor(a).
 O plano de estudo consiste de um planejamento mínimo
 de um ano com as disciplinas a serem cursadas com
 probabilidade de êxito pelo(a) discente.
+
 O ideal, claro, é cuidar para não entrar em risco de des-
 ligamento. Mas se for desligado(a), você ainda terá uma
 chance de reestabelecer seu vínculo com a UnB por
 meio do processo de reintegração.
+
+
 48
+
 Reintegração
+
 Ao ser oficialmente comunicado(a) sobre seu desliga-
 mento, você poderá solicitar sua reintegração em um
 prazo máximo de até dois anos, após a formalização do
@@ -998,7 +1253,9 @@ uma condição a cumprir para não ser novamente des-
 ligado(a). Para isso, seu curso indicará um(a) profes-
 sor(a) para te ajudar quanto à estratégia a ser adotada
 para sua recuperação acadêmica.
+
 Plano de ensino
+
 No início de cada semestre, o(a) profes-
 sor(a) responsável por uma disciplina
 ou atividade deve apresentar plano de
@@ -1007,8 +1264,10 @@ do jogo! Ou seja, qual a forma de ava-
 liação, a metodologia utilizada, o cro-
 nograma de conteúdos e atividades, a
 bibliografia recomendada etc.
+
 Necessidades
 específicas
+
 Estudantes com limitações visuais, au-
 ditvas, cognitivas, de mobilidade ou
 outras podem contar com apoio de di-
@@ -1022,8 +1281,11 @@ matrícula. Mas para fazer valer esses
 direitos, é preciso fazer um cadastro na
 Diretoria de Acessibilidade do Decanato
 de Assuntos Comunitários (DAC).
+
 49
+
 Para ser ouvido
+
 Para a UnB, é fundamental ouvir suas sugestões, críti-
 cas e elogios, assim é possível implementar inovações,
 melhorar os processos e incentivar as práticas que es-
@@ -1046,6 +1308,8 @@ titucionais de melhoria de qualidade e, principalmente,
 configuram um importante feedback para os(as) profes-
 sores(as). E não se preocupe em ser identificado nessa
 avaliação, pois o preenchimento é anônimo.
+
+
 De Yudo, Gicnram Xrês coisas: q
 certeza de que ele estana sewpre
 começando, a certeza de que era
@@ -1053,12 +1317,19 @@ preciso continuar e q certeza de
 que seria ulerrowpido antes de
 Xerminar. Fazer da wterrupção UM
 cominho movo, Fazer da queda Mm
+
 Passo de dança, do medo, UM aU escada,
+
 do sonho, uma ponte, da Procura,
+
 um encontro”
+
 Fernando Salmo
+
 51
+
 Estágio
+
 O estágio é uma atividade acadêmica supervisionada,
 desenvolvida no ambiente de trabalho pelo(a) estudante.
 É importante saber que, além de componente curricular,
@@ -1076,6 +1347,8 @@ ricular de estágio (o que vai para seu histórico) pode ser
 obrigatório ou optativo, mas a atividade de estágio em
 si é usualmente classificada como estágio obrigatório ou
 estágio não obrigatório. Vejamos as diferenças a seguir.
+
+
 Estágio obrigatório
 
 É obrigatório o estágio que faz parte dos requisitos para a
@@ -1083,23 +1356,30 @@ conclusão do curso (seja na modalidade de componente
 obrigatório ou optativo). Nesse caso, como você ganhará
 créditos que contarão para sua formatura, a lei permite
 que o estágio seja remunerado ou não remunerado.
+
 Estágio não obrigatório
+
 É a atividade opcional ou complementar regulamentada
 por cada curso e orientada para a complementação da
 formação acadêmica e profissional, realizada por livre
 escolha do(a) estudante: ou seja, nesse caso, você não
 ganha créditos, mas precisa receber alguma remunera-
 ção, que é uma obrigação legal.
+
+
 Informações
 importantes
 sobre estágio
+
 É possível converter um estágio não
 obrigatório em obrigatório (ou seja, pas-
 sar a ganhar créditos por estágio reali-
 zado), desde que o seu curso avalie que
 as atividades desenvolvidas são perti-
 nentes para sua formação no âmbito da
+
 estrutura curricular (currículo) do curso.
+
 Todas as atividades a serem desen-
 volvidas no estágio são descritas no
 Plano de Atividades (que é parte inte-
@@ -1110,15 +1390,18 @@ cada área ou normativos equivalen-
 tes. O(A) professor(a) orientador(a)
 tem o papel de avaliar se as ativida-
 des propostas são pertinentes.
+
 Consegui
+
 um estágio,
+
 e agora?
+
 O primeiro passo é verificar se a em-
 presa contratante tem convênio com a
 UnB. Caso contrário, é necessário que
 a empresa celebre o convênio (é um
 processo rápido, mas importante, por-
-
 que permite a formalização da ativida-
 de). Com o convênio celebrado, para
 efetivar a contratação do(a) estagiá-
@@ -1131,11 +1414,17 @@ mentos precisam ser encaminhados
 um(a) professor(a) orientador(a). Se
 estiver tudo certo, os envolvidos assi-
 nam o termo e você já pode começar o
+
 estágio na data indicada.
+
 54
+
 Para maiores informações sobre estágios
 consulte www.deg.unb.br/estagio
+
+
 Rescisão do estágio
+
 Para rescindir o contrato do estágio, é necessário que
 o(a) estudante encaminhe para o seu curso o Termo de
 Desligamento ou Rescisão de Estágio, fornecido pela
@@ -1145,8 +1434,11 @@ ocorra com o objetivo de assumir outro estágio em se-
 guida, o Termo de Desligamento ou Rescisão de Está-
 gio deve ser enviado juntamente com o TCE e o Plano
 de Atividades do novo estágio.
+
 Estágio no último
+
 semestre do curso
+
 Para fazer um estágio, o(a) estudante precisa ter matrí-
 cula ativa em uma instituição de ensino superior, o que
 significa que até o último dia de aula do semestre final
@@ -1154,24 +1446,36 @@ do curso o(a) estudante pode estagiar. Depois do último
 dia de aula, o vínculo do(a) estudante com a instituição
 cessa e com isso o estágio deve ser finalizado, inde-
 pendentemente da data de colação de grau.
+
+
 56
+
 Vou concluir o
 curso, o que
 devo saber?
 
 Formatura
+
 Para a conclusão do curso e a obtenção do diploma,
 o(a) estudante deverá cumprir os seguintes requisitos:
+
 e ser aprovado(a) em todos os componentes
 curriculares obrigatórios do curso;
+
 e integralizar o número de horas exigidas; e
+
 e participar da outorga de grau.
+
 No período de conclusão do curso, o(a) estudante de-
 verá encaminhar via SIGAA seu RG e o comprovante
 de conclusão do ensino médio para iniciar os trâmites
+
 Es
+
 da formatura.
+
 Colação de Grau
+
 A colação de grau é a cerimônia formal, organizada de
 forma autônoma pelos institutos e faculdades da UnB,
 em que você receberá seu título de graduado(a). Esse
@@ -1189,14 +1493,19 @@ provas de conhecimento e trabalhos complementares).
 Mas, fique atento(a), essa só é uma opção no último se-
 mestre do curso, quando você é considerado(a) um(a)
 provável formando(a).
+
 57
+
 —+
+
 Muito além
  dasaulas .
+
+
 +
+
 É verdade que quando a gente entra
 na Universidade já começa a pensar
-
 em se formar para trabalhar, mas
 com um pouco de atenção à sua
 volta, você perceberá um universo de
@@ -1218,14 +1527,20 @@ extensão, nos quais se vê a interface
 entre a Universidade e a sociedade,
 com a aplicação de conhecimento
 nos âmbitos científico, tecnológico,
+
 Para saber mais sobre a iniciação científica ou so-
 bre a extensão, acesse os sites do Decanato de
 Pós-Graduação (DPG): www.dpg.unb.br e do De-
+
 canato de Extensão (DEX): www.dex.unb.br.
+
 artístico,
+
 político,
 de forma
+
 esportivo,
+
 educacional e cultural,
 interdisciplinar e interprofissional.
 Esses projetos oportunizam identificar
@@ -1243,93 +1558,130 @@ coisas novas acontecem e ainda temos
 a oportunidade de conhecer muita
 gente bacana. O envolvimento com
 a extensão articula um aprendizado
-
 que fica para toda a vida, propiciando
+
 formação para transformação da
+
 sociedade. Quem sabe até dá para
 se empolgar em fazer um mestrado
 ou doutorado. |
+
+
 +
+
 Intercâmbio e dd
 mobilidade acadêmica
+
 A UnB é um mundo, mas seu mundo não precisa ser só *
 na UnB! Fique atento(a) para as oportunidades de inter-
 câmbio e mobilidade acadêmica (que é a possibilidade
 de cursar disciplinas em outras universidades pelo país
 ou no exterior e aproveitar no seu histórico).
+
 A mobilidade nacional é fruto de convênio firmado en-
 tre as diversas Instituições Federais de Ensino Supe-
 rior (IFES) que permite a mobilidade de estudantes de *
 graduação entre as instituições-membro da Associação
 Nacional de Dirigentes de Instituições Federais de Ensi-
 no Superior (Andifes).
+
 " A mobilidade nacional pode ser
+
 e na mobilidade acadêmica presencial, em
 e , que sua matrícula na UnB fica suspensa e
 você poderá cursar até três semestres em
 uma IFES conveniada (mais informações
 . e em http://deg.unb.br/mobilidade); ou
+
 e no Programa de Mobilidade Virtual em Rede
 (Promover/Andifes), em que o(a) estudante
 pode cursar até três disciplinas simultanea-
 mente em IFES diferentes, como aluno(a) es-
 pecial, mantendo o vínculo com a IFES de ori-
 gem (mais informações em wyw.deg.unb.br).
+
 Mas, se você deseja estudar fora do país, os intercâm-
+
 + bios promovidos pela Secretaria de Assuntos Interna-
+
 cionais (INT) são embasados nos convênios firmados
+
 com universidades estrangeiras. Essas parcerias esta-
+
 belecem que os(as) estudantes de intercâmbio não pa-
 
 guem pelo aprendizado na instituição anfitriã. Por outro
+
 lado, cabe ao(à) estudante arcar com os custos de via-
+
 gem e de manutenção (em alguns editais, há a possibi-
+
 e lidade de concorrer a bolsas). As vagas de intercâmbio
+
 | são oferecidas em edital (dependendo da modalidade,
 semestral ou anualmente).
+
 Para informações adicionais, entre em contato por e-mail
+
 (intwebOunb.br), pelo telefone (3107-0265), ou pessoal-
 mente (a INT fica no térreo do Prédio da Reitoria).
+
+
 Preciso Ao:
 de ajuda Ss
+
 Na UnB, a gente caminha junto, sempre. Por isso, há
+
 várias iniciativas de integração e acolhimento. Alguns
+
 cursos realizam atividades específicas para auxiliar na
 adaptação ao ritmo de vida no ensino superior. Tam-
+
 bém podem acontecer cursos extracurriculares com
 conteúdos ou aspectos relevantes da prática da sua O
 futura profissão. Esses cursos e acolhimento ocor- O
 rem mais comumente durante a Semana Universitária,
+
 evento anual da UnB promovida pelo DEX. Consulte
+
 o(a) coordenador(a) de curso ou seu centro acadêmico
+
 para se informar das iniciativas disponíveis e não dei-
+
 xe de participar. Além disso, a UnB oferece várias so-
+
 luções para apoiar você caso haja alguma dificuldade
 acadêmica ou necessidade de apoio psicológico ou de ajuda socioeconômica.
 Ajuda acadêmica
+
 Monitoria
+
 A atividade de monitoria permite conhecer novas práti-
 cas e experiências pedagógicas que visam fortalecer a
 articulação entre teoria e prática, bem como a integra-
 ção curricular em diferentes aspectos. Um dos princi-
 pais objetivos da monitoria é promover a cooperação
 mútua entre estudantes e professores(as), por meio da
-
 experimentação e da aprendizagem de diferentes ativi-
 dades, propiciando melhor formação acadêmica e pos-
 sibilitando os primeiros contatos com a docência.
+
 Em termos curriculares, a monitoria terá carga horária
 de 30h e será registrada no histórico escolar como ativi-
 dade eletiva (módulo livre).
+
 Se você tiver interesse em ser monitor(a) de alguma dis-
 ciplina, procure o(a) professor(a) responsável, pois ele(a)
 lhe fornecerá as informações sobre o procedimento de
 seleção de monitores(as) daquela disciplina. Lembre-se,
-só é possível exercer monitoria em componentes curriculares nos quais você já tenha sido 
-aprovado(a).
+só é possível exercer monitoria em componentes curriculares nos quais você já tenha sido aprovado(a).
+
 Informações adicionais podem ser consultadas
 em www.deg.unb.br/monitoria-caa.
+
+
 Tutoria
+
 A tutoria de graduação integra o con-
 junto de ações do Decanato de Ensi-
 no de Graduação (DEG) que visam à
@@ -1344,25 +1696,30 @@ nação pedagógica docente, auxiliam
 outros(as) estudantes a se integrarem
 à Universidade e a potencializarem
 a aprendizagem.
+
 No Programa de Tutoria de Gradua-
 ção, os(as) estudantes tutores(as) são
 vinculados(as) a projetos e podem
 concorrer a bolsas com periodicidade
 mensal de pagamento.
+
 Informações adicionais podem ser obtidas no endereço
+
 http://www.deg.unb.br/tutoria-caa.
+
 Para a tutoria, é publicado um novo
 edital a cada semestre. Esse edital se-
 leciona os projetos submetidos pelos
 professores(as) que tenham interesse
 em formar um projeto de tutoria. Nes-
 se edital são descritos critérios rela-
-
 cionados à submissão de projetos de
 tutoria, seleção de tutores(as) para
 cada programa de
 outras informações relevantes. Os
+
 tutoria entre
+
 editais para a seleção dos proje-
 tos de tutoria são publicados em
 www.deg.unb.br/editais e a seleção
@@ -1372,17 +1729,25 @@ acadêmica. As atividades de tutoria
 serão atestadas por meio de decla-
 ração de participação emitida ao final
 do projeto.
+
+
 Cuidando da Saúde mental
+
 Apoio Psicológico
+
 A UnB tem uma estrutura de acolhimento psicossocial,
 psicológico e nutricional preparada para receber os(as)
 estudantes, com prioridade para aqueles(as) que esti-
 verem em situação de crise psíquica e vulnerabilidade
 socioeconômica.
+
 Para buscar esse atendimento, basta en-
+
 viar e-mail para coapsicossocialMunb.br ou
 dasuDunb.br.
+
 66
+
 Com o objetivo de promover a saúde, prevenir agra-
 vos e promover acolhimento, são oferecidos, também,
 acolhimentos coletivos, oficinas de habilidades sociais
@@ -1391,12 +1756,15 @@ a assertividade, a empatia e o manejo de situação de
 conflitos. São ofertados, ainda, cursos com temáticas
 relacionadas à saúde mental, Mindfulness ou atenção
 plena entre outros.
+
 Para saber mais, basta ficar atendo às redes
+
 sociais do DAC ou enviar e-mail para
 coredesOunb.br.
-67
-Há também o projeto Acolhimento, que reúne ações
 
+67
+
+Há também o projeto Acolhimento, que reúne ações
 contínuas de construção da cultura de acolhimento na
 UnB. Nesse projeto, a CoEduca oferece diversas ativi-
 dades, tanto aquelas específicas de recepção aos(às)
@@ -1406,8 +1774,11 @@ dêmica. Para saber mais sobre esse serviço, acompanhe
 as redes sociais do DAC ou envie e-mail para: coedu-
 ca(Qunb.br, coeducafupQOunb.br, coeducafceDunb.br
 ou dasuDunb.br.
+
 68
+
 Ajuda socioeconômica
+
 Existem muitos programas e iniciativas que visam a
 permanência dos(as) estudantes socioeconomicamen-
 te vulneráveis e/ou em risco social na UnB. Esses pro-
@@ -1418,40 +1789,1224 @@ constituem a Política de Assistência Estudantil da UnB.
 Se você se enquadra nessa situação, precisa ficar aten-
 to(a) às regras e prazos para participar desses progra-
 mas e ter direito aos benefícios.
+
 Alguns exemplos de programas estão listados abaixo.
+
 Programa Bolsa Alimentação no Restaurante
 Universitário
+
 Programa Moradia Estudantil da Graduação (PME-
 -G) nas modalidades Auxílio Moradia, Vaga na
 Casa do(a) Estudante Universitário(a) (CEU) e
 Auxílio Transporte
+
 Programa Auxílio Socioeconômico (PASeUnB)
+
 Programa Auxílio Creche (PACreche)
+
+
 Lista de abreviaturas
+
 ANDIFES — Associação Nacional de Dirigentes de Instituições Federais de Ensino Superior
+
 APRENDER -— Plataforma de Acesso aos
+
 Ambientes Virtuais de Aprendizagem
+
 CA -— centro acadêmico
+
 CEAD — Centro de Educação a Distância da UnB
 CEG — Câmara de Ensino de Graduação
 
 CEPE — Conselho de Ensino, Pesquisa e
 Extensão
+
 DEG — Decanato de Ensino de Graduação
 DEX — Decanato de Extensão
+
 DPG -— Decanato de Pós-Graduação
+
 EAD — ensino a distância
+
 IFE — intituição federal de ensino superior
+
 IRA- Índice de Rendimento Acadêmico
+
 MOODLE — software livre de apoio à aprendizagem em ambiente virtual
+
 PPC — projeto pedagógico do curso
+
 SAA — Secretaria de Administração Acadêmica
 SEI — Sistema Eletrônico de Informação
+
 SIGAA -— Sistema de Administração de Atividades Acadêmicas
 TCC — trabalho de conclusão de curso
 TCE — termo de compromisso de estágio
+
 TJ — trancamento parcial de matrícula excepcional e justificado
+
 TR — trancamento parcial de matrícula ou trancamento automático de disciplina
 UAB — Universidade Aberta do Brasil
+
 UnB — Universidade de Brasília
 
+CHECKLIST
+DO(A) CALOURO(A)  
+1) Aprovação em processo seletivo para 
+ingresso na Graduação.
+Verificar se você foi selecionado(a) e 
+convocado(a) para o Registro Acadêmico 
+on-line, no edital publicado na página do 
+processo seletivo.  
+2) Registro Acadêmico 
+Checar e preparar documentação exigida 
+pela Agenda do Calouro, publicada na 
+página do processo seletivo. 
+Conferir prazo para upload de acordo com a 
+Agenda do Calouro.
+Realizar upload da documentação em link 
+disponibilizado na página do processo 
+seletivo.
+3) Relação provisória da homologação do 
+Registro Acadêmico 
+Checar na Agenda do Calouro data prevista 
+para divulgação da relação provisória da 
+homologação. 
+Conferir edital com relação provisória dos 
+candidatos convocados, na respectiva 
+chamada,  em que o Registro Acadêmico 
+on-line foi homologado. 
+
+4) Homologação definitiva do Registro 
+Acadêmico.
+Checar, na Agenda do Calouro, data 
+prevista para divulgação da relação final da 
+homologação. 
+Conferir edital com relação final da 
+homologação do Registro Acadêmico na 
+página do processo seletivo. 
+5) Número de Matrícula
+Aguardar até 10 dias após a homologação 
+final do Registro Acadêmico, para receber 
+o Número de Matrícula no e-mail cadastrado. 
+Conferir recebimento, nas caixas de entrada e 
+de spam, do e-mail com o Número de Matrícula.
+E-mail NÃO chegou após o prazo indicado? 
+Entrar em contato com a Secretaria de 
+Administração Acadêmica da UnB (SAA). 
+saaatendimento@unb.br  
+Verificar se seu nome consta no edital da 
+relação provisória. Tudo certinho: basta 
+guardar o edital com a homologação 
+definitiva do Registro Acadêmico. 
+Seu nome NÃO está na lista do edital da relação 
+provisória? Consultar pendência(s) e enviar os 
+itens solicitados, por meio de link específico para 
+o upload da documentação faltante, na página 
+da seleção, conforme prazo estipulado na 
+Agenda do Calouro. 
+
+6) Cadastro na plataforma SIGAA
+Seu Número de Matrícula está em mãos. 
+Realizar autocadastro no Sistema Integrado de 
+Gestão de Atividades Acadêmicas (SIGAA): 
+sigaa.unb.br/sigaa/public/cadastro/discente.jsf 
+Conferir dados pessoais no Portal do 
+Discente: sigaa.unb.br 
+7) Matrícula em Disciplinas
+Aguardar Secretaria de Administração Acadêmica da 
+UnB (SAA) realizar matrícula automática do(a) calouro(a), 
+após o início do semestre letivo, conforme data indicada 
+pelo Calendário Acadêmico por Atividades:
+Acessar Portal do Discente no Sigaa e conferir 
+grade horária de disciplinas e local das aulas. 
+Em caso de dúvidas, assistir: Como entender os 
+códigos de horários no SIGAA?  
+saa.unb.br/graduacao/calendario-academico#
+calendario-por-atividades  
+8) E-mail institucional e aplicativos Microsoft 
+Office 365 Educacional (versão nuvem) 
+Acessar portal.office.com.  
+ Informar login (matrícula@aluno.unb.br) e senha 
+(mesma cadastrada para acesso ao Sigaa).
+Em caso de dúvidas sobre e-mail institucional, acessar: 
+https://sti.unb.br/ser-e-mail-institucional/2-publicacoes
+/143-estudantes
+
+9) Início das aulas 
+Consultar Calendário Acadêmico por Atividades e 
+conferir data do Inspira UnB. 
+Consultar Calendário Acadêmico por Atividades 
+e conferir data do início das aulas. 
+Em caso de dúvidas sobre Office 365, acessar: 
+support.office.com 
+
+ 
+Manual de Orientações no Módulo de Estágio 
+do Sistema Integrado de Gerenciamento de 
+Atividades Acadêmicas (SIGAA)  
+ 
+ Estágio Curricular Obrigatório 
+– Discentes – 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brasília, 19 de agosto de 2022 
+ 
+
+ 
+– Prefácio – 
+ 
+A Universidade de Brasília (UnB) aprovou em 16 de setembro de 2021 em 
+sua 631ª Reunião do Conselho de Ensino, Pesquisa e Extensão (CEPE), o 
+Regulamento Geral de Estágios de Graduação (Resolução CEPE nº 104/2021). Com 
+isso, a Coordenação de Estágios de Graduação (CESG) juntamente com a Diretoria 
+de Acompanhamento e Integração Acadêmica (DAIA) e o Decanato de Ensino e 
+Graduação (DEG) vem trabalhando para otimizar a tramitação e a assinatura dos 
+Termos de Compromisso de Estágio (TCE) e documentos relacionados, tais como: 
+Termo Aditivo, Termo de Rescisão e Relatórios de Atividades. Para isso, ativamos o 
+módulo de estágios do Sistema Integrado de Gestão de Atividades Acadêmicas 
+(SIGAA). 
+Este manual foi elaborado para orientar os(as) discentes da UnB no uso do 
+Módulo de Estágios do SIGAA, onde terão papel fundamental no processo sendo 
+vocês os(as) responsáveis pela abertura do processo através do Pré-Cadastro.  
+ 
+Atenciosamente, 
+ 
+ 
+Prof. Dr. Diêgo Madureira de Oliveira 
+Decano de Ensino de Graduação 
+Prof. Dr. Rafael Oliveira Rocha 
+Diretor de Acompanhamento e Integração Acadêmica 
+Profa. Dra. Thaís Alves da Costa Lamounier 
+Coordenadora de Estágios de Graduação 
+
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+ 
+– Sumário – 
+ 
+INFORMAÇÕES INICIAIS SOBRE ESTÁGIO ..................................................... 04 
+INSTRUÇÕES INICIAIS PARA O PRÉ-CADASTRO DO ESTÁGIO ........................ 06 
+INICIAR A ABERTURA DO PROCESSO NO SIGAA (PRÉ-CADASTRO) ................ 06  
+CADASTRAR SUPERVISOR(A) DE ESTÁGIO .................................................... 13  
+HORÁRIO DO ESTÁGIO ................................................................................ 14 
+SEGURO CONTRA ACIDENTES PESSOAIS ...................................................... 14 
+ENVIEI O PRÉ-CADASTRO PARA MEU(MINHA) PROFESSOR(A) ORIENTADOR(A) 
+MAS ERREI ALGUM DADO. O QUE EU FAÇO? ............................................... 16 
+TEMPO QUE O PRÉ-CADASTRO FICARÁ DISPONÍVEL PARA TORNAR O ESTÁGIO 
+ATIVO ......................................................................................................... 17 
+ENVIO DE TERMO DE RESCISÃO OU CANCELAMENTO DE ESTÁGIO NÃO 
+OBRIGATÓRIO ............................................................................................. 18 
+MEU ESTÁGIO ESTÁ ATIVO. COMO FAÇO PARA MANDAR O ARQUIVO pdf 
+ASSINADO PARA A EMPRESA/LOCAL DE ESTÁGIO? ...................................... 18 
+PARA GERENCIAR SEU ESTÁGIO E PREENCHER O RELATÓRIO FINAL ............. 19 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+4 
+ 
+MANUAL DE ORIENTAÇÕES DE PRÉ-CADASTRO NO 
+MÓDULO DE ESTÁGIO DO SIGAA 
+TERMO DE ESTÁGIO OBRIGATÓRIO – DISCENTES  
+ 
+INFORMAÇÕES INICIAIS SOBRE ESTÁGIO  
+ 
+Alguns detalhes importantes sobre estágios curriculares e a legislação que os regem, a Lei 
+de Estágio nº 11.788/2008 e a Resolução CEPE nº 104/2021: 
+ 
+✓ Os estágios são a oportunidade que o(a) discente têm de aprendizado no campo de 
+atuação da sua área de formação, antes mesmo da sua formatura. Essa modalidade de 
+ensino/aprendizagem é prevista nos Planos Políticos Pedagógicos dos Cursos (PPC). 
+✓ Os estágios podem ser classificados como:  
+ Estágio Curricular Obrigatório: é o componente/atividade curricular no qual o(a) 
+discente precisa cursar, com a aprovação, a fim de integralizar a carga horária e 
+concluir o curso (formatura). Nesta modalidade de estágio, geralmente não existe a 
+contrapartida da empresa/escola (bolsa e vale transporte). Em alguns casos, pode 
+haver a remuneração por parte da empresa. Nestes casos, é necessário que a 
+empresa/escola tenha convênio formalizado com a Universidade de Brasília (UnB). 
+ Estágio Não Obrigatório: é a atividade curricular que exige a contrapartida da 
+empresa/escola, tais como: bolsa e vale transporte. Esse tipo de estágio também é 
+previsto nos PPCs dos cursos e deve ter suas atividades voltadas para as atividades 
+fins do curso.  
+✓ Ambas as modalidades de estágios são regidas por uma Lei Federal, a Lei de Estágio nº 
+11.788/2008, e uma normativa interna da Universidade de Brasília, a Resolução CEPE nº 
+104/2021, que dizem: 
+ O estágio não gera vínculo empregatício; 
+ Em todo tipo de estágio é necessário um Termo de Compromisso de Estágio (TCE), 
+assinado por todos os envolvidos: discente, empresa, supervisor(a) no campo de 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+5 
+estágio e professor(a) orientador(a) da UnB. O TCE é o documento jurídico oficial 
+com cláusulas bem definidas e aprovadas pelo setor jurídico da UnB e das 
+empresas, mediante celebração de convênios; 
+ Todo TCE deve conter a indicação de uma apólice de seguro contra acidentes 
+pessoais. No caso dos estágios curriculares obrigatórios, a UnB fornece a apólice de 
+seguros. Já para os estágios não obrigatórios, a empresa deve fornecer o seguro 
+contra acidentes e constar no TCE; 
+ O(A) discente só pode iniciar suas atividades de estágio após a formalização e 
+assinatura do Termo de Compromisso de Estágio (TCE) por todos os envolvidos: 
+discente, empresa, supervisor(a) e professor(a) orientador(a), vinculado à 
+Instituição de Ensino (no caso, um(a) professor(a) da UnB); 
+ O plano de atividades deve ser condizente com a área de formação do(a) discente, 
+não gerando desvio de função. Cabe ao professor(a) orientador(a) analisar 
+academicamente o plano de atividades, conforme as atividades previstas no PPC do 
+curso; 
+ O(A) supervisor(a) no campo de estágio deve ter a mesma formação, ou formação 
+equivalente, do curso do(a) estagiário(a). É quem vai acompanhar/orientar o(a) 
+discente na execução das atividades previstas no Plano de Atividades dentro da 
+empresa; 
+ Em hipótese alguma deve haver choque de horário das atividades de estágio com 
+as disciplinas ou outras atividades acadêmicas desenvolvidas pelo(a) discente; 
+ Conforme o Art. 10, inciso II da Lei 11.788/2008, a carga horária diária não pode 
+ultrapassar 6h e a carga horária semanal não pode ultrapassar 30h, salvo quando 
+previsto no PPC do curso a excepcionalidade prevista na lei, onde o(a) discente 
+pode chegar à carga horária máxima semanal até 40h e a carga horária diária até 
+8h, desde que não choque horário com outras atividades do(a) discente. 
+ A carga horária deve ser exatamente a prevista no TCE, lembrando que o(a) 
+supervisor(a) deve estar nos horários combinados e previstos no TCE. Em hipótese 
+alguma o(a) estagiário(a) deve ficar sozinho, sem o devido acompanhamento do(a) 
+supervisor(a); 
+ O(A) discente pode ter mais de um estágio, desde que não ultrapasse o disposto no 
+item anterior e não tenha choque de horário entre os estágios e as disciplinas. 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+6 
+ Vale lembrar sempre que os estágios são oportunidades oferecidas pelas 
+empresas, mas que não devem ser o foco principal, pois a formatura do(a) 
+discente é prioridade para a Universidade de Brasília, salvo no caso dos estágios 
+curriculares obrigatórios nos quais sem estes, não há formatura! 
+ 
+INSTRUÇÕES INICIAIS PARA O PRÉ-CADASTRO DO ESTÁGIO 
+ 
+PARA REALIZAR O ESTÁGIO CURRICULAR OBRIGATÓRIO: O(A) DISCENTE DEVERÁ ESTAR 
+MATRICULADO(A) NO COMPONENTE CURRICULAR DE ESTÁGIO OBRIGATÓRIO! 
+CASO VOCÊ NÃO ESTEJA MATRICULADO(A), PROCURE A COORDENAÇÃO DO SEU CURSO. 
+ 
+1. O(a) discente irá iniciar o processo através do registro do estágio no SIGAA (Pré-Cadastro). 
+ 
+O sistema aceita apenas a data atual (não é possível cadastrar estágio com 1 dia de data 
+retroativa!). Sendo assim, o(a) discente deverá cadastrar o Termo de Compromisso de Estágio 
+(TCE) com pelo menos 10 dias de antecedência da data de início das atividades do estágio prevista 
+no Plano de Atividades. Esse período de 10 dias de antecedência é importante pois existe um fluxo 
+na tramitação do processo até a efetiva formalização e ativação do estágio no SIGAA. 
+Somente após a ativação do TCE no sistema SIGAA é que o(a) discente pode iniciar seu 
+estágio. Vale lembrar que é terminantemente proibido a realização do estágio sem a 
+formalização do TCE por todas as partes envolvidas: discente, concedente e UNB. 
+ 
+INICIAR A ABERTURA DO PROCESSO NO SIGAA (PRÉ-CADASTRO) 
+ 
+1) Fazer login no sistema SIGAA e acessar o “Portal do Discente” (indicado na Figura abaixo com 
+uma seta vermelha). 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+7 
+ 
+ 
+2) Ao entrar no portal, selecionar as opções: Estágio → Pré-Cadastro de Estágios, como ilustrado 
+nas figuras abaixo. 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+8 
+ 
+ 
+3) Quando o Estágio Curricular Obrigatório for: 
+a) Não remunerado: sem contraprestação da empresa/escola, ou seja, sem o pagamento de 
+bolsa e vale transporte: 
+✓ Se a empresa tiver um convênio específico com a UNB: Buscar a empresa pelo Nome da 
+empresa (Concedente) ou CNPJ;  
+✓ Selecionar ESTÁGIO CURRICULAR OBRIGATÓRIO → Buscar;  
+✓ Se a empresa NÃO tiver um convênio específico com a UNB: Marcar UnB - Estágio 
+Obrigatório e apertar na setinha verde (
+). 
+ 
+b) Remunerado, ou seja, for previsto o pagamento de bolsa e vale transporte, verificar se a 
+empresa possui convênio com a UnB: 
+✓ Buscar a empresa pelo Nome da empresa (Concedente) ou CNPJ;  
+✓ Selecionar ESTÁGIO CURRICULAR OBRIGATÓRIO → Buscar;  
+✓ Marcar a empresa conveniada na setinha verde (
+). 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+9 
+ 
+ 
+ 
+ 
+4) Se o estágio obrigatório for não remunerado, os seguintes campos devem ser preenchidos: 
+Tipo de estágio → obrigatório, carga horária semanal, professor(a) orientador(a) da UnB e 
+Local ou Setor de Estágio; 
+5) Se o estágio obrigatório for remunerado, a empresa deve ter convênio com a UnB, e os 
+seguintes campos devem ser preenchidos: Tipo de estágio → obrigatório, carga horária 
+semanal, Tipo de Local, professor(a) orientador(a) da UnB, valor da bolsa, valor do auxílio 
+transporte (os dois últimos representados nas caixas verdes. 
+ 
+ 
+ 
+Todos os campos com asterisco azul (*) são de preenchimento obrigatório! 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+10 
+ 
+ 
+ 
+6) Na opção "TIPO DE LOCAL: Interno ou Externo", clicar na opção INTERNO para estágio 
+realizado no âmbito da UnB, e a opção EXTERNO para estágio realizado fora da UnB. 
+7) Quando o estágio for realizado no âmbito da UnB: o(a) discente deverá informar, em SETOR 
+DE ESTÁGIO, o local da UnB onde serão realizadas as atividades (departamento, hospital e 
+etc). 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+11 
+8) Ao escolher EXTERNO, será possível preenchimento com os dados do LOCAL DE ESTÁGIO, 
+onde o(a) discente irá inserir os dados da empresa/escola. 
+ 
+ 
+ 
+QUEM SERÁ MEU PROFESSOR(A) ORIENTADOR(A)? O(a) Professor(a) do seu Curso de 
+Graduação que vai assinar o Termo de Compromisso ou documento de estágio! 
+ 
+9) Para selecionar o(a) professor(a) orientador(a), quando o(a) professor(a) for servidor(a) 
+EFETIVO 
+da 
+UnB 
+(do 
+quadro 
+ou 
+substituto(a)): 
+selecionar 
+em 
+TIPO 
+DE 
+ORIENTADOR: DOCENTE INTERNO e inserir os dados do(a) professor(a). 
+  
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+12 
+ 
+  
+10) Quando o(a) professor(a) for VOLUNTÁRIO(A): selecionar em TIPO DE ORIENTADOR:  
+DOCENTE VOLUNTÁRIO e inserir os dados do(a) professor(a). 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+13 
+ 
+CADASTRAR SUPERVISOR(A) DE ESTÁGIO 
+ 
+11) Nos campos do Supervisor do Estágio, clicar em: Supervisor → Selecionar Cadastrar 
+Supervisor → incluir Nome e CPF → clicar em Adicionar Supervisor. 
+ 
+ 
+ 
+12) No momento de cadastrar o(a) supervisor(a), os dados de CPF, NOME e CARGO são 
+obrigatórios. No campo Cargo escrever a palavra: SUPERVISOR ou SUPERVISORA. Quando 
+aparecer a mensagem: Supervisor cadastrado com sucesso, clicar em VOLTAR. Observação: 
+os dados de RG e e-mail não são obrigatórios. 
+ 
+ 
+ 
+13) Selecionar o supervisor → clicar em Adicionar Supervisor. 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+14 
+ 
+ 
+ 
+ 
+HORÁRIO DO ESTÁGIO 
+ 
+14) Cadastrar o horário do estágio na grade horária (não pode ter choque de horário com as 
+disciplinas ou outras atividades acadêmicas). Conforme a Lei 11.788/2008, art. 10, inciso II: a 
+carga horária máxima por dia deverá ser de 6 horas e a carga horária semanal máxima de 
+30h. Observação: a lei permite a excepcionalidade da carga horária semanal ser de 40h, 
+sendo a carga horária diária máxima de 8h, desde que prevista no Plano Político Pedagógico 
+do Curso (PPC) e aprovada em reunião colegiada. Consulte seu(sua) coordenador(a) de curso 
+para saber dessa excepcionalidade. 
+ 
+ 
+ 
+SEGURO CONTRA ACIDENTES PESSOAIS 
+ 
+15) No caso dos Estágios Curriculares Obrigatórios, a Universidade de Brasília (UnB) fornece o 
+seguro contra acidentes pessoais da MBM Seguradora. Os dados a serem inseridos nos 
+campos: CNPJ da seguradora, nome da seguradora, apólice do seguro, valor da apólice, são: 
+CNPJ da Seguradora (87.883.807/0001-06), Nome da Seguradora (MBM SEGURADORA S.A.), Apólice 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+15 
+do Seguro (09.0982.001.52213), Valor da Apólice (R$ 10.000,00). A apólice pode ser obtida através 
+do link: Apólice de Seguro Contra Acidentes Pessoais Coletivos para Discentes da UnB. 
+ 
+Observação:  não precisa anexar o arquivo pdf da apólice do seguro. 
+ 
+ 
+ 
+16) Preencher: a data de início do estágio (não pode ser data retroativa de 1 dia!); data de fim do 
+estágio (último dia letivo do semestre); as atividades no plano de trabalho → clicar em 
+Continuar → depois clicar em Confirmar. 
+ 
+ 
+ 
+ 
+17) Verificar a mensagem: Operação Realizada com Sucesso! 
+ 
+ 
+ 
+18) A secretaria/coordenação do curso ou o(a) professor(a) orientador(a) vai dar o 
+encaminhamento do processo e avisar o(a) discente sobre o resultado. 
+Preencher aqui o Plano de Atividades 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+16 
+ 
+ 
+ENVIEI O PRÉ-CADASTRO PARA MEU(MINHA) PROFESSOR(A) 
+ORIENTADOR(A) MAS ERREI ALGUM DADO. O QUE EU FAÇO? 
+ 
+ 
+19) Na página inicial, clicar no menu: Estágio → Gerenciar Estágios. 
+ 
+ 
+ 
+ 
+20) Em Ações (ícone mais à direita, ao lado da Situação: AGUARDANDO ASSINATURA), clicar em 
+Cancelar Estágio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+17 
+ 
+ 
+21)  Selecione o motivo do cancelamento (Erro de Cadastro) → coloque sua Senha → Confirmar. 
+ 
+ 
+ 
+  
+TEMPO QUE O PRÉ-CADASTRO FICARÁ DISPONÍVEL PARA TORNAR O 
+ESTÁGIO ATIVO 
+  
+22) Caso o cadastro não seja ativado, após as etapas descritas acima, no prazo de 10 dias, o 
+SIGAA passará automaticamente o pré-cadastro para o status CANCELADO e enviará uma 
+notificação por e-mail ao(à) discente.  
+23) Quando isso acontecer, o(a) discente deverá realizar um novo pré-cadastro. Vale lembrar 
+que se o TCE estiver, após esse prazo de 10 dias, com data retroativa, o(a) discente deverá 
+atualizar o documento de estágio junto à empresa/integradora/escola com uma nova data 
+de início de suas atividades de estágio, para depois realizar o pré-cadastro novamente. 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+18 
+ 
+ENVIO DE TERMO DE RESCISÃO OU CANCELAMENTO DE ESTÁGIO 
+OBRIGATÓRIO 
+ 
+24) O(a) discente deverá encaminhar para a secretaria/coordenação ou professor(a) orientador(a) 
+o arquivo do Termo de Rescisão ou Cancelamento do Estágio não Obrigatório escaneado, em 
+formato pdf, com as seguintes assinaturas: do(a) representante da empresa, do(a) 
+supervisor(a) e do(a) discente. 
+ 
+25) Neste caso, não será realizado o registro no SIGAA, apenas o envio do documento, conforme 
+as orientações do item anterior. 
+ 
+ 
+MEU ESTÁGIO ESTÁ ATIVO. COMO FAÇO PARA MANDAR O ARQUIVO 
+pdf ASSINADO PARA A EMPRESA/LOCAL DE ESTÁGIO? 
+ 
+ 
+26) Na página inicial, clicar no menu: Estágio → Gerenciar Estágios 
+ 
+ 
+ 
+ 
+27) Em Ações (ícone mais à direita, ao lado da Situação ATIVO), clicar em: Visualizar Estágio. 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+19 
+ 
+ 
+28) Em Termos do Estágio, clicar no ícone verde ao lado de Termo de Compromisso de Estágio 
+assinado Pelas Partes. Será feito o download do arquivo do Termo de Compromisso de 
+Estágio, no formato pdf, para o computador, que poderá ser enviado por e-mail ou impresso 
+para ser entregue na empresa/local do estágio. 
+ 
+ 
+ 
+ 
+PARA GERENCIAR SEU ESTÁGIO E PREENCHER O RELATÓRIO FINAL 
+ 
+ 
+29) Na página inicial, clicar no menu: Estágio → Gerenciar Estágios. 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+20 
+ 
+ 
+30) Em Ações (ícone mais à direita, ao lado da Situação ATIVO), você poderá visualizar o estágio e 
+Preencher Relatório Final, de acordo com os requisitos da Lei 11.788/2008. 
+ 
+ 
+31) Quando o relatório estiver disponível para preenchimento, você deverá preencher todos os 
+campos e enviar. Observação: o sistema só permite o preenchimento do relatório na data 
+específica, calculada por ele. Clicar em SALVAR e ENVIAR. 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+21 
+ 
+ 
+32) Verificar a mensagem: Operação Realizada com Sucesso! 
+ 
+ 
+33) Por fim, avisar o(a) professor(a) orientador(a) sobre o preenchimento dos campos do 
+Relatório para ser dada a continuidade na análise do relatório. 
+
+Manual de Orientações no Módulo de Estágio do 
+Sistema Integrado de Gerenciamento de Atividades 
+Acadêmicas (SIGAA)  
+ 
+ Estágio Não Obrigatório  
+– Discentes – 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brasília, 19 de agosto de 2022 
+
+ 
+– Prefácio – 
+ 
+A Universidade de Brasília (UnB) aprovou em 16 de setembro de 2021 em 
+sua 631ª Reunião do Conselho de Ensino, Pesquisa e Extensão (CEPE), o 
+Regulamento Geral de Estágios de Graduação (Resolução CEPE nº 104/2021). Com 
+isso, a Coordenação de Estágios de Graduação (CESG) juntamente com a Diretoria 
+de Acompanhamento e Integração Acadêmica (DAIA) e o Decanato de Ensino e 
+Graduação (DEG) vem trabalhando para otimizar a tramitação e a assinatura dos 
+Termos de Compromisso de Estágio (TCE) e documentos relacionados, tais como: 
+Termo Aditivo, Termo de Rescisão e Relatórios de Atividades. Para isso, ativamos o 
+módulo de estágios do Sistema Integrado de Gestão de Atividades Acadêmicas 
+(SIGAA). 
+Este manual foi elaborado para orientar os(as) discentes da UnB no uso do 
+Módulo de Estágios do SIGAA, onde terão papel fundamental no processo sendo 
+vocês os(as) responsáveis pela abertura do processo através do Pré-Cadastro.  
+ 
+Atenciosamente, 
+ 
+Prof. Dr. Diêgo Madureira de Oliveira 
+Decano de Ensino de Graduação 
+Prof. Dr. Rafael Oliveira Rocha 
+Diretor de Acompanhamento e Integração Acadêmica 
+Profa. Dra. Thaís Alves da Costa Lamounier 
+Coordenadora de Estágios de Graduação 
+
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+ 
+– Sumário – 
+ 
+INFORMAÇÕES INICIAIS SOBRE ESTÁGIO ..................................................... 04 
+INSTRUÇÕES INICIAIS PARA O PRÉ-CADASTRO DO ESTÁGIO ........................ 06 
+CHECK LIST DO TERMO DE ESTÁGIO NÃO OBRIGATÓRIO ............................. 06 
+INICIAR A ABERTURA DO PROCESSO NO SIGAA (PRÉ-CADASTRO) ................ 07  
+VERIFICAR SE A EMPRESA POSSUI CONVÊNIO COM A UNB (ITEM 3) ............ 09  
+CADASTRAR: SUPERVISOR(A) DO ESTÁGIO................................................... 13 
+HORÁRIO DO ESTÁGIO ................................................................................ 15 
+SEGURO CONTRA ACIDENTES PESSOAIS ...................................................... 15 
+ENVIEI O PRÉ-CADASTRO PARA MEU(MINHA) PROFESSOR(A) ORIENTADOR(A) 
+MAS ERREI ALGUM DADO. O QUE EU FAÇO? ............................................... 17 
+TEMPO QUE O PRÉ-CADASTRO FICARÁ DISPONÍVEL PARA TORNAR O ESTÁGIO 
+ATIVO ......................................................................................................... 18 
+ENVIO DE TERMO ADITIVO DE ESTÁGIO NÃO OBRIGATÓRIO ....................... 19 
+ENVIO DE TERMO DE RESCISÃO OU CANCELAMENTO DE ESTÁGIO NÃO 
+OBRIGATÓRIO ............................................................................................. 19 
+MEU ESTÁGIO ESTÁ ATIVO. COMO FAÇO PARA MANDAR O ARQUIVO pdf 
+ASSINADO PARA A EMPRESA/LOCAL DE ESTÁGIO? ...................................... 19 
+PARA GERENCIAR SEU ESTÁGIO E PREENCHER OS RELATÓRIOS PERIÓDICO E 
+FINAL .......................................................................................................... 21 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+4 
+ 
+MANUAL DE ORIENTAÇÕES DE PRÉ-CADASTRO NO 
+MÓDULO DE ESTÁGIO DO SIGAA 
+TERMO DE ESTÁGIO NÃO OBRIGATÓRIOS – DISCENTES  
+ 
+INFORMAÇÕES INICIAIS SOBRE ESTÁGIO  
+ 
+Alguns detalhes importantes sobre estágios curriculares e a legislação que os regem, a Lei 
+de Estágio nº 11.788/2008 e a Resolução CEPE nº 104/2021: 
+ 
+✓ Os estágios são a oportunidade que o(a) discente têm de aprendizado no campo de 
+atuação da sua área de formação, antes mesmo da sua formatura. Essa modalidade de 
+ensino/aprendizagem é prevista nos Planos Políticos Pedagógicos dos Cursos (PPC). 
+✓ Os estágios podem ser classificados como:  
+ Estágio Curricular Obrigatório: é o componente/atividade curricular no qual o(a) 
+discente precisa cursar, com a aprovação, a fim de integralizar a carga horária e 
+concluir o curso (formatura). Nesta modalidade de estágio, geralmente não existe a 
+contrapartida da empresa/escola (bolsa e vale transporte). Em alguns casos, pode 
+haver a remuneração por parte da empresa. Nestes casos, é necessário que a 
+empresa/escola tenha convênio formalizado com a Universidade de Brasília (UnB). 
+ Estágio Não Obrigatório: é a atividade curricular que exige a contrapartida da 
+empresa/escola, tais como: bolsa e vale transporte. Esse tipo de estágio também é 
+previsto nos PPCs dos cursos e deve ter suas atividades voltadas para as atividades 
+fins do curso.  
+✓ Ambas as modalidades de estágios são regidas por uma Lei Federal, a Lei de Estágio nº 
+11.788/2008, e uma normativa interna da Universidade de Brasília, a Resolução CEPE nº 
+104/2021, que dizem: 
+ O estágio não gera vínculo empregatício; 
+ Em todo tipo de estágio é necessário um Termo de Compromisso de Estágio (TCE), 
+assinado por todos os envolvidos: discente, empresa, supervisor(a) no campo de 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+5 
+estágio e professor(a) orientador(a) da UnB. O TCE é o documento jurídico oficial 
+com cláusulas bem definidas e aprovadas pelo setor jurídico da UnB e das 
+empresas, mediante celebração de convênios; 
+ Todo TCE deve conter a indicação de uma apólice de seguro contra acidentes 
+pessoais. No caso dos estágios curriculares obrigatórios, a UnB fornece a apólice de 
+seguros. Já para os estágios não obrigatórios, a empresa deve fornecer o seguro 
+contra acidentes e constar no TCE; 
+ O(A) discente só pode iniciar suas atividades de estágio após a formalização e 
+assinatura do Termo de Compromisso de Estágio (TCE) por todos os envolvidos: 
+discente, empresa, supervisor(a) e professor(a) orientador(a), vinculado à 
+Instituição de Ensino (no caso, um(a) professor(a) da UnB); 
+ O plano de atividades deve ser condizente com a área de formação do(a) discente, 
+não gerando desvio de função. Cabe ao professor(a) orientador(a) analisar 
+academicamente o plano de atividades, conforme as atividades previstas no PPC do 
+curso; 
+ O(A) supervisor(a) no campo de estágio deve ter a mesma formação, ou formação 
+equivalente, do curso do(a) estagiário(a). É quem vai acompanhar/orientar o(a) 
+discente na execução das atividades previstas no Plano de Atividades dentro da 
+empresa; 
+ Em hipótese alguma deve haver choque de horário das atividades de estágio com 
+as disciplinas ou outras atividades acadêmicas desenvolvidas pelo(a) discente; 
+ Conforme o Art. 10, inciso II da Lei 11.788/2008, a carga horária diária não pode 
+ultrapassar 6h e a carga horária semanal não pode ultrapassar 30h, salvo quando 
+previsto no PPC do curso a excepcionalidade prevista na lei, onde o(a) discente 
+pode chegar à carga horária máxima semanal até 40h e a carga horária diária até 
+8h, desde que não choque horário com outras atividades do(a) discente. 
+ A carga horária deve ser exatamente a prevista no TCE, lembrando que o(a) 
+supervisor(a) deve estar nos horários combinados e previstos no TCE. Em hipótese 
+alguma o(a) estagiário(a) deve ficar sozinho, sem o devido acompanhamento do(a) 
+supervisor(a); 
+ O(A) discente pode ter mais de um estágio, desde que não ultrapasse o disposto no 
+item anterior e não tenha choque de horário entre os estágios e as disciplinas. 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+6 
+ Vale lembrar sempre que os estágios são oportunidades oferecidas pelas 
+empresas, mas que não devem ser o foco principal, pois a formatura do(a) 
+discente é prioridade para a Universidade de Brasília, salvo no caso dos estágios 
+curriculares obrigatórios nos quais sem estes, não há formatura! 
+ 
+INSTRUÇÕES INICIAIS PARA O PRÉ-CADASTRO DO ESTÁGIO 
+ 
+Para Estágio Não Obrigatório: o(a) discente deverá encaminhar o Termo de Compromisso 
+de Estágio (TCE) escaneado, em formato pdf, para a secretaria/coordenação ou o(a) professor(a) 
+orientador(a) com as assinaturas: da empresa, do(a) supervisor(a) e do(a) discente. Obs: o arquivo 
+pdf deve estar com qualidade de digitalização e ser nítido! 
+ 
+1. O(a) discente irá iniciar o processo através do registro do estágio no SIGAA (Pré-Cadastro). 
+ 
+O sistema aceita apenas a data atual (não é possível cadastrar estágio com 1 dia de data 
+retroativa!). Sendo assim, o(a) discente deverá cadastrar o Termo de Compromisso de Estágio 
+(TCE) com pelo menos 10 dias de antecedência da data de início das atividades do estágio prevista 
+no Plano de Atividades. Esse período de 10 dias de antecedência é importante pois existe um fluxo 
+na tramitação do processo até a efetiva formalização e ativação do estágio no SIGAA. 
+Somente após a ativação do TCE no sistema SIGAA é que o(a) discente pode iniciar seu 
+estágio. Vale lembrar que é terminantemente proibido a realização do estágio sem a 
+formalização do TCE por todas as partes envolvidas: discente, concedente e UNB. 
+ 
+ 
+CHECK LIST DO TERMO DE ESTÁGIO NÃO OBRIGATÓRIO 
+ 
+Antes de registrar o TCE no SIGAA, conferir o check list do TCE: 
+ 
+o Assinatura do(a) discente (não pode ser rubrica); 
+o Assinatura da concedente (não pode ser rubrica); 
+o Assinatura do(a) supervisor(a) (não pode ser rubrica); 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+7 
+o Dados digitados pelo(a) discente no SIGAA (TODOS os dados abaixo são obrigatórios): 
+➢ 
+ Data de início das atividades de estágio; 
+➢ 
+ Data de término das atividades de estágio; 
+➢ 
+ Valor da Bolsa; 
+➢ 
+ Auxílio transporte; 
+➢ 
+ Carga horária semanal; 
+➢ 
+ Seguro contra acidentes pessoais; 
+➢ 
+ Plano de atividades. 
+ 
+Com relação as assinaturas, é importante ressaltar: 
+ 
+a) As assinaturas poderão ser eletrônicas (Sistema Eletrônico de Informação – SEI, Token ou 
+Gov.br); 
+b) Se forem assinaturas manuscritas, deve-se incluir o nome por extenso, acompanhadas de 
+matrícula ou carimbo do responsável (não pode ser rubrica); 
+c) Caso uma das partes citadas no TCE esteja impedido de assinar, deverá ser apresentado o 
+documento de delegação de competência para a substituição daquela assinatura. 
+ 
+INICIAR A ABERTURA DO PROCESSO NO SIGAA (PRÉ-CADASTRO) 
+ 
+1) Fazer login no sistema SIGAA e acessar o “Portal do Discente” (indicado na Figura abaixo com 
+uma seta vermelha). 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+8 
+ 
+ 
+2) Ao entrar no portal, selecionar as opções: Estágios → Pré-Cadastro de Estágios, como 
+ilustrado nas figuras abaixo. 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+9 
+ 
+ 
+3) Para verificar se a empresa possui convênio com a UnB: 
+a) 
+Digitar o Nome da empresa (Concedente) ou CNPJ e clicar em Buscar;  
+b) 
+selecionar ESTÁGIO CURRICULAR OBRIGATÓRIO/NÃO OBRIGATÓRIO → Buscar;  
+c) marcar a empresa conveniada na setinha verde (
+). 
+ 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+10 
+ 
+ 
+ Mas se a empresa não estiver cadastrada ou não tiver convênio formalizado com a UnB?  
+ 
+Resposta: A empresa deverá encaminhar um e-mail para convenioestagio@unb.br solicitando 
+informações a respeito da documentação e formalização de convênio entre a empresa e a 
+Universidade de Brasília. O termo de compromisso de estágio somente poderá ser cadastrado se a 
+empresa estiver com o status ATIVO no SIGAA. 
+ 
+4) Selecionar ou preencher os seguintes campos: Tipo de estágio não obrigatório, carga horária 
+semanal, valor da bolsa, valor do auxílio transporte e professor(a) orientador(a) da UnB. 
+ 
+ 
+ 
+Todos os campos com asterisco azul (*) são de preenchimento obrigatório! 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+11 
+ 
+ 
+QUEM SERÁ MEU PROFESSOR(A) ORIENTADOR(A)? O(a) Professor(a) do seu Curso de 
+Graduação que vai assinar o Termo de Compromisso ou documento de estágio! 
+ 
+5) Para selecionar o(a) professor(a) orientador(a), quando o(a) professor(a) for servidor(a) 
+EFETIVO 
+da 
+UnB 
+(do 
+quadro 
+ou 
+substituto(a)): 
+selecionar 
+em 
+TIPO 
+DE 
+ORIENTADOR: DOCENTE INTERNO e inserir os dados do(a) professor(a). 
+  
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+12 
+  
+6) Quando o(a) professor(a) for VOLUNTÁRIO(A): selecionar em TIPO DE ORIENTADOR:  
+DOCENTE VOLUNTÁRIO e inserir os dados do(a) professor(a). 
+ 
+ 
+O QUE É UMA INTEGRADORA? É a empresa conveniada com a UNB que possui várias 
+empresas vinculadas a elas. Por isso, a empresa (local de estágio) não estará na lista de 
+convênios da UNB no SIGAA e neste caso você deverá selecionar a empresa INTEGRADORA. 
+7) Se for integradora como CIEE, AGIEL, UPA, FECOMÉRCIO entre outras, cadastrar em LOCAL DE 
+ESTÁGIO os dados da empresa onde será realizado o estágio (apenas CNPJ e Nome). 
+Observação: se o CEP estiver correto, basta incluir no campo e clicar na lupa ao lado que o 
+endereço é preenchido automaticamente. 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+13 
+ 
+ 
+CADASTRAR SUPERVISOR(A) DE ESTÁGIO 
+ 
+8) Nos campos do Supervisor do Estágio, clicar em: Supervisor → Selecionar Cadastrar 
+Supervisor. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+14 
+9) No momento de cadastrar o(a) supervisor(a), os dados de CPF, NOME e CARGO são 
+obrigatórios. No campo Cargo escrever a palavra: SUPERVISOR ou SUPERVISORA. Quando 
+aparecer a mensagem: Supervisor cadastrado com sucesso, clicar em VOLTAR. Observação: 
+os dados de RG e e-mail não são obrigatórios. 
+ 
+ 
+ 
+10) Selecionar o supervisor → clicar em Adicionar Supervisor. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+15 
+ 
+HORÁRIO DO ESTÁGIO 
+ 
+11) Cadastrar o horário do estágio na grade horária (não pode ter choque de horário com as 
+disciplinas). Conforme a Lei 11.788/2008, art. 10, inciso II: a carga horária máxima por dia 
+deverá ser de 6 horas e a carga horária semanal máxima de 30h. Observação: a lei permite a 
+excepcionalidade da carga horária semanal ser de 40h, sendo a carga horária diária máxima 
+de 8h, desde que prevista no Projeto Pedagógico do Curso (PPC) e aprovada em reunião 
+colegiada. Consulte seu(sua) coordenador(a) de curso para saber dessa excepcionalidade. 
+ 
+ 
+ 
+SEGURO CONTRA ACIDENTES PESSOAIS 
+ 
+12) Inscrição CNPJ da seguradora, nome da seguradora e apólice do seguro. Observação: não 
+precisa subir o arquivo pdf da apólice do seguro. 
+ 
+ 
+ 
+Atenção! As informações sobre a Seguradora do Estágio não Obrigatório são fornecidas pela 
+empresa ou pela integradora (CIEE, AGIEL, etc).  
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+16 
+ 
+13) Preencher: a data de início do estágio (não pode ser data retroativa de 1 dia!); data de fim do 
+estágio; as atividades no plano de trabalho → clicar em Continuar → depois clicar em 
+Confirmar. 
+ 
+ 
+ 
+14) Verificar a mensagem: Operação Realizada com Sucesso! 
+ 
+ 
+ 
+15) Após o registro do estágio não obrigatório, o(a) discente deverá encaminhar para a 
+secretaria/coordenação ou o(a) professor(a) orientador(a) o arquivo do TCE escaneado, com 
+todas as assinaturas, no formato pdf, com boa qualidade de digitalização e nitidez! 
+ 
+16) A secretaria/coordenação do curso ou o(a) professor(a) orientador(a) vai dar o 
+encaminhamento do processo e avisar o(a) discente sobre o resultado. 
+ 
+ 
+ 
+ 
+ 
+ 
+Preencher aqui o Plano de Atividades 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+17 
+ 
+ENVIEI O PRÉ-CADASTRO PARA MEU(MINHA) PROFESSOR(A) 
+ORIENTADOR(A) MAS ERREI ALGUM DADO. O QUE EU FAÇO? 
+ 
+ 
+17) Na página inicial, clicar no menu: Estágio → Gerenciar Estágios. 
+ 
+ 
+ 
+ 
+18) Em Ações (ícone mais à direita, ao lado da Situação: AGUARDANDO ASSINATURA), clicar em 
+Cancelar Estágio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+18 
+ 
+19)  Selecione o motivo do cancelamento (Erro de Cadastro) → coloque sua Senha → Confirmar. 
+ 
+ 
+ 
+  
+TEMPO QUE O PRÉ-CADASTRO FICARÁ DISPONÍVEL PARA TORNAR O 
+ESTÁGIO ATIVO 
+  
+20) Caso o cadastro não seja ativado, após as etapas descritas acima, no prazo de 10 dias, o 
+SIGAA passará automaticamente o pré-cadastro para o status CANCELADO e enviará uma 
+notificação por e-mail ao(à) discente.  
+21) Quando isso acontecer, o(a) discente deverá realizar um novo pré-cadastro. Vale lembrar 
+que se o TCE estiver, após esse prazo de 10 dias, com data retroativa, o(a) discente deverá 
+atualizar o documento de estágio junto à empresa/integradora/escola com uma nova data 
+de início de suas atividades de estágio, para depois realizar o pré-cadastro novamente. 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+19 
+ 
+ENVIO DE TERMO ADITIVO DE ESTÁGIO NÃO OBRIGATÓRIO 
+ 
+ 
+22)  O(a) discente deverá encaminhar para a secretaria/coordenação ou professor(a) 
+orientador(a) o arquivo do Termo Aditivo de Estágio Não Obrigatório escaneado, no formato 
+pdf, com as seguintes assinaturas: do(a) representante da empresa, do(a) supervisor(a) e 
+do(a) discente.  
+ 
+23) Neste caso, não será realizado o registro no SIGAA, apenas o envio do documento, conforme 
+as orientações do item anterior. 
+ 
+ 
+ENVIO DE TERMO DE RESCISÃO OU CANCELAMENTO DE ESTÁGIO NÃO 
+OBRIGATÓRIO 
+ 
+ 
+24) O(a) discente deverá encaminhar para a secretaria/coordenação ou professor(a) orientador(a) 
+o arquivo do Termo de Rescisão ou Cancelamento do Estágio não Obrigatório escaneado, em 
+formato pdf, com as seguintes assinaturas: do(a) representante da empresa, do(a) 
+supervisor(a) e do(a) discente. 
+ 
+25) Neste caso, não será realizado o registro no SIGAA, apenas o envio do documento, conforme 
+as orientações do item anterior. 
+ 
+ 
+MEU ESTÁGIO ESTÁ ATIVO. COMO FAÇO PARA MANDAR O ARQUIVO 
+pdf ASSINADO PARA A EMPRESA/LOCAL DE ESTÁGIO? 
+ 
+ 
+26) Na página inicial, clicar no menu: Estágio → Gerenciar Estágios 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+20 
+ 
+ 
+ 
+27) Em Ações (ícone mais à direita, ao lado da Situação ATIVO), clicar em: Visualizar Estágio. 
+ 
+ 
+ 
+28) Em Termos do Estágio, clicar no ícone verde ao lado de Termo de Compromisso de Estágio 
+assinado Pelas Partes. Será feito o download do arquivo do Termo de Compromisso de 
+Estágio, no formato pdf, para o computador, que poderá ser enviado por e-mail ou impresso 
+para ser entregue na empresa/local do estágio. 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+21 
+ 
+ 
+ 
+PARA GERENCIAR SEU ESTÁGIO E PREENCHER OS RELATÓRIOS 
+PERIÓDICO OU FINAL 
+ 
+ 
+29) Na página inicial, clicar no menu: Estágio → Gerenciar Estágios. 
+ 
+ 
+ 
+30) Em Ações (ícone mais à direita, ao lado da Situação ATIVO), você poderá visualizar e 
+preencher o relatório periódico a cada 6 meses ou o relatório final quando terminar o estágio, 
+de acordo com os requisitos da Lei 11.788/2008. 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+22 
+ 
+ 
+31) Quando o relatório estiver disponível para preenchimento, você deverá preencher todos os 
+campos e enviar. Observação: o sistema só permite o preenchimento do relatório na data 
+específica, calculada por ele. Clicar em SALVAR e ENVIAR. 
+ 
+ 
+ 
+ 
+ 
+32) Verificar a mensagem: Operação Realizada com Sucesso! 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+23 
+ 
+33) Por fim, avisar o(a) professor(a) orientador(a) sobre o preenchimento dos campos do 
+Relatório para ser dada a continuidade na análise do relatório. 

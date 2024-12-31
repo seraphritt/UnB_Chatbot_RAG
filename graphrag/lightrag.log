@@ -437,3 +437,342 @@
 2024-12-22 17:58:09,266 - lightrag - INFO - Inserting 37 vectors to entities
 2024-12-22 17:58:12,750 - lightrag - INFO - Inserting 5 vectors to relationships
 2024-12-22 17:58:13,160 - lightrag - INFO - Writing graph with 37 nodes, 5 edges
+2024-12-27 13:06:39,799 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 13:06:39,800 - lightrag - INFO - Load KV llm_response_cache with 28 data
+2024-12-27 13:06:39,801 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-27 13:06:39,803 - lightrag - INFO - Load KV text_chunks with 14 data
+2024-12-27 13:06:39,805 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 37 nodes, 5 edges
+2024-12-27 13:06:39,809 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 13:06:40,396 - lightrag - INFO - [New Chunks] inserting 12 chunks
+2024-12-27 13:06:40,396 - lightrag - INFO - Inserting 12 vectors to chunks
+2024-12-27 13:06:43,153 - lightrag - INFO - [Entity Extraction]...
+2024-12-27 13:07:07,058 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 13:07:07,059 - lightrag - INFO - Load KV llm_response_cache with 28 data
+2024-12-27 13:07:07,060 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-27 13:07:07,060 - lightrag - INFO - Load KV text_chunks with 14 data
+2024-12-27 13:07:07,062 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 37 nodes, 5 edges
+2024-12-27 13:07:07,064 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 13:07:07,592 - lightrag - INFO - [New Chunks] inserting 12 chunks
+2024-12-27 13:07:07,592 - lightrag - INFO - Inserting 12 vectors to chunks
+2024-12-27 13:07:10,441 - lightrag - INFO - [Entity Extraction]...
+2024-12-27 13:08:00,790 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 13:08:00,790 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 13:08:00,790 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 13:08:00,791 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 13:08:00,792 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 13:08:01,321 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 13:08:01,321 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 13:08:07,217 - lightrag - INFO - [Entity Extraction]...
+2024-12-27 13:19:03,051 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 13:19:03,051 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 13:19:03,051 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 13:19:03,051 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 13:19:03,052 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 13:19:03,584 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 13:19:03,584 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 13:19:07,961 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-27 13:19:37,902 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 13:19:37,903 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 13:19:37,903 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 13:19:37,903 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 13:19:37,904 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-27 13:19:37,905 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 13:19:38,449 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 13:19:38,449 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 13:19:40,934 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-27 13:20:36,785 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 13:20:36,786 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 13:20:36,786 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 13:20:36,786 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 13:20:36,787 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-27 13:20:36,788 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 13:20:37,322 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 13:20:37,322 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 13:20:39,877 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-27 13:21:27,085 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 13:21:27,086 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 13:21:27,086 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 13:21:27,086 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 13:21:27,087 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-27 13:21:27,088 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 13:21:27,621 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 13:21:27,621 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 13:21:30,214 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-27 13:22:48,178 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 13:22:48,178 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 13:22:48,179 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 13:22:48,179 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 13:22:48,180 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-27 13:56:38,288 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 13:56:38,289 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 13:56:38,289 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 13:56:38,289 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 13:56:38,290 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-27 13:56:38,292 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 13:56:38,825 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 13:56:38,825 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 13:56:38,826 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-27 13:57:06,298 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 13:57:06,299 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 13:57:06,299 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 13:57:06,299 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 13:57:06,300 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-27 13:57:23,755 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 13:57:23,755 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 13:57:23,755 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 13:57:23,756 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 13:57:23,756 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-27 13:57:23,758 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 13:57:24,289 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 13:57:24,290 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 13:57:26,921 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-27 13:59:32,656 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 13:59:32,657 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 13:59:32,657 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 13:59:32,657 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 13:59:32,658 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-27 13:59:32,659 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 13:59:33,193 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 13:59:33,193 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 13:59:35,803 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-27 14:00:33,055 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 14:00:33,055 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 14:00:33,055 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 14:00:33,055 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 14:00:33,057 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 14:00:33,597 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 14:00:33,597 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 14:00:36,180 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-27 14:01:19,321 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 14:01:19,322 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 14:01:19,322 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 14:01:19,322 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 14:01:19,323 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-27 14:01:19,324 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 14:01:19,857 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 14:01:19,857 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 14:01:22,474 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-27 14:16:35,588 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 14:16:35,588 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 14:16:35,588 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 14:16:35,589 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 14:16:35,589 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-27 14:16:35,591 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 14:16:36,127 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 14:16:36,127 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 14:17:01,259 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 14:17:01,259 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 14:17:01,259 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 14:17:01,259 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 14:17:01,261 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 14:17:01,798 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 14:17:01,798 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 14:17:11,980 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-27 14:17:51,813 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 14:17:51,813 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 14:17:51,813 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 14:17:51,813 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 14:17:51,814 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-27 14:18:06,328 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 14:18:06,329 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 14:18:06,329 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 14:18:06,329 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 14:18:06,330 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-27 14:18:06,332 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 14:18:06,860 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 14:18:06,860 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 14:18:17,227 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-27 14:18:59,350 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 14:18:59,350 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 14:18:59,350 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 14:18:59,351 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 14:18:59,351 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-27 14:19:31,994 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 14:19:31,994 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 14:19:31,994 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 14:19:31,994 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 14:19:31,996 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 14:19:32,538 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 14:19:32,538 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 14:19:37,191 - lightrag - INFO - [Entity Extraction]...
+2024-12-27 14:19:37,387 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-27 14:19:57,864 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 14:19:57,865 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 14:19:57,865 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 14:19:57,865 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 14:19:57,866 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 14:19:58,396 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 14:19:58,396 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 14:20:02,006 - lightrag - INFO - [Entity Extraction]...
+2024-12-27 14:20:48,911 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 14:20:48,911 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 14:20:48,911 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 14:20:48,911 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 14:20:48,913 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 14:20:49,452 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 14:20:49,453 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 14:21:02,831 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-27 14:23:04,732 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 14:23:04,733 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 14:23:04,733 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 14:23:04,733 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 14:23:04,734 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 14:23:05,261 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 14:23:05,261 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 14:23:15,484 - lightrag - INFO - [Entity Extraction]...
+2024-12-27 17:58:54,102 - lightrag - INFO - Inserting 180 vectors to entities
+2024-12-27 17:59:54,502 - lightrag - INFO - Inserting 81 vectors to relationships
+2024-12-27 18:00:20,279 - lightrag - INFO - Writing graph with 207 nodes, 81 edges
+2024-12-27 21:37:04,945 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-27 21:37:04,946 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-27 21:37:04,946 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-27 21:37:04,947 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-27 21:37:04,960 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-27 21:37:05,517 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-27 21:37:05,517 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-27 21:37:17,594 - lightrag - INFO - [Entity Extraction]...
+2024-12-28 00:51:30,581 - lightrag - INFO - Inserting 169 vectors to entities
+2024-12-28 00:52:27,691 - lightrag - INFO - Inserting 58 vectors to relationships
+2024-12-28 00:52:46,199 - lightrag - INFO - Writing graph with 181 nodes, 58 edges
+2024-12-28 11:52:31,100 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-28 11:52:31,100 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-28 11:52:31,100 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-28 11:52:31,101 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-28 11:52:31,102 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-28 11:52:31,636 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-28 11:52:31,636 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-28 11:52:43,692 - lightrag - INFO - [Entity Extraction]...
+2024-12-28 12:11:31,518 - lightrag - INFO - Inserting 206 vectors to entities
+2024-12-28 12:12:39,273 - lightrag - INFO - Inserting 189 vectors to relationships
+2024-12-28 12:13:40,189 - lightrag - INFO - Writing graph with 219 nodes, 189 edges
+2024-12-28 16:07:10,932 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-28 16:07:10,933 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-28 16:07:10,933 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-28 16:07:10,933 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-28 16:07:10,934 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-28 16:07:11,462 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-28 16:07:11,462 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-28 16:07:23,559 - lightrag - INFO - [Entity Extraction]...
+2024-12-28 16:23:50,584 - lightrag - INFO - Inserting 178 vectors to entities
+2024-12-28 16:24:49,573 - lightrag - INFO - Inserting 163 vectors to relationships
+2024-12-28 16:25:41,716 - lightrag - INFO - Writing graph with 187 nodes, 163 edges
+2024-12-28 18:28:06,015 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-28 18:28:06,015 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-28 18:28:06,015 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-28 18:28:06,015 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-28 18:28:06,016 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-28 18:28:06,544 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-28 18:28:06,544 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-28 18:28:18,684 - lightrag - INFO - [Entity Extraction]...
+2024-12-28 18:47:22,134 - lightrag - INFO - Inserting 208 vectors to entities
+2024-12-28 18:48:31,542 - lightrag - INFO - Inserting 132 vectors to relationships
+2024-12-28 18:49:14,024 - lightrag - INFO - Writing graph with 225 nodes, 132 edges
+2024-12-29 00:30:18,809 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-29 00:30:18,809 - lightrag - INFO - Load KV llm_response_cache with 50 data
+2024-12-29 00:30:18,810 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-29 00:30:18,811 - lightrag - INFO - Load KV text_chunks with 25 data
+2024-12-29 00:30:18,817 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 225 nodes, 132 edges
+2024-12-29 00:30:18,827 - lightrag - WARNING - All docs are already in the storage
+2024-12-29 00:30:43,904 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-29 00:30:43,904 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-29 00:30:43,904 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-29 00:30:43,904 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-29 00:30:43,906 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-29 00:30:44,437 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-29 00:30:44,437 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-29 00:30:56,558 - lightrag - INFO - [Entity Extraction]...
+2024-12-29 00:51:12,133 - lightrag - INFO - Inserting 195 vectors to entities
+2024-12-29 00:52:16,858 - lightrag - INFO - Inserting 133 vectors to relationships
+2024-12-29 00:52:59,204 - lightrag - INFO - Writing graph with 200 nodes, 133 edges
+2024-12-29 12:05:44,295 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-29 12:05:44,295 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-29 12:05:44,295 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-29 12:05:44,295 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-29 12:05:44,297 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-29 12:05:44,822 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-29 12:05:44,822 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-29 12:05:56,845 - lightrag - INFO - [Entity Extraction]...
+2024-12-29 12:19:55,129 - lightrag - INFO - Inserting 287 vectors to entities
+2024-12-29 12:21:29,881 - lightrag - INFO - Inserting 131 vectors to relationships
+2024-12-29 12:22:12,306 - lightrag - INFO - Writing graph with 296 nodes, 131 edges
+2024-12-29 12:35:21,743 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-29 12:35:21,744 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-29 12:35:21,744 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-29 12:35:21,744 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-29 12:35:21,745 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-29 12:35:22,280 - lightrag - INFO - [New Chunks] inserting 25 chunks
+2024-12-29 12:35:22,281 - lightrag - INFO - Inserting 25 vectors to chunks
+2024-12-29 12:35:34,254 - lightrag - INFO - [Entity Extraction]...
+2024-12-29 12:49:48,986 - lightrag - INFO - Inserting 265 vectors to entities
+2024-12-29 12:51:16,483 - lightrag - INFO - Inserting 153 vectors to relationships
+2024-12-29 12:52:05,455 - lightrag - INFO - Writing graph with 291 nodes, 153 edges
+2024-12-30 21:54:29,420 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-30 21:54:29,421 - lightrag - INFO - Load KV llm_response_cache with 50 data
+2024-12-30 21:54:29,422 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-30 21:54:29,422 - lightrag - INFO - Load KV text_chunks with 25 data
+2024-12-30 21:54:29,430 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 291 nodes, 153 edges
+2024-12-30 21:54:38,159 - lightrag - INFO - Global query uses 75 entites, 60 relations, 3 text units
+2024-12-30 21:54:44,848 - lightrag - INFO - Local query uses 60 entites, 80 relations, 3 text units
+2024-12-30 21:55:18,949 - lightrag - INFO - Truncate 8 to 4 chunks
+2024-12-30 21:55:19,314 - lightrag - INFO - Local query uses 60 entites, 80 relations, 3 text units
+2024-12-30 21:55:19,633 - lightrag - INFO - Global query uses 75 entites, 60 relations, 3 text units
+2024-12-30 21:56:13,618 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-30 21:56:13,619 - lightrag - INFO - Load KV llm_response_cache with 53 data
+2024-12-30 21:56:13,619 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-30 21:56:13,620 - lightrag - INFO - Load KV text_chunks with 25 data
+2024-12-30 21:56:13,628 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 291 nodes, 153 edges
+2024-12-30 21:56:14,573 - lightrag - INFO - Global query uses 75 entites, 60 relations, 3 text units
+2024-12-30 21:56:14,890 - lightrag - INFO - Global query uses 75 entites, 60 relations, 3 text units
+2024-12-30 22:00:13,857 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-30 22:00:13,858 - lightrag - INFO - Load KV llm_response_cache with 54 data
+2024-12-30 22:00:13,859 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-30 22:00:13,860 - lightrag - INFO - Load KV text_chunks with 25 data
+2024-12-30 22:00:13,867 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 291 nodes, 153 edges
+2024-12-30 22:00:17,243 - lightrag - INFO - Local query uses 60 entites, 76 relations, 3 text units
+2024-12-30 22:00:17,599 - lightrag - INFO - Local query uses 60 entites, 76 relations, 3 text units
+2024-12-30 22:02:50,749 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-30 22:02:50,750 - lightrag - INFO - Load KV llm_response_cache with 55 data
+2024-12-30 22:02:50,750 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-30 22:02:50,751 - lightrag - INFO - Load KV text_chunks with 25 data
+2024-12-30 22:02:50,759 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 291 nodes, 153 edges
+2024-12-30 22:02:54,074 - lightrag - INFO - Local query uses 20 entites, 60 relations, 3 text units
+2024-12-30 22:02:54,432 - lightrag - INFO - Local query uses 60 entites, 76 relations, 3 text units
+2024-12-30 22:03:26,723 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-30 22:03:26,724 - lightrag - INFO - Load KV llm_response_cache with 55 data
+2024-12-30 22:03:26,724 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-30 22:03:26,725 - lightrag - INFO - Load KV text_chunks with 25 data
+2024-12-30 22:03:26,733 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 291 nodes, 153 edges
+2024-12-30 22:03:27,672 - lightrag - INFO - Local query uses 1 entites, 5 relations, 1 text units
+2024-12-30 22:03:27,985 - lightrag - INFO - Local query uses 60 entites, 76 relations, 3 text units
+2024-12-30 22:03:59,279 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-30 22:03:59,280 - lightrag - INFO - Load KV llm_response_cache with 55 data
+2024-12-30 22:03:59,281 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-30 22:03:59,281 - lightrag - INFO - Load KV text_chunks with 25 data
+2024-12-30 22:03:59,289 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 291 nodes, 153 edges
+2024-12-30 22:04:00,199 - lightrag - INFO - Local query uses 3 entites, 13 relations, 3 text units
+2024-12-30 22:04:00,508 - lightrag - INFO - Local query uses 60 entites, 76 relations, 3 text units
+2024-12-30 22:04:24,788 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-30 22:04:24,789 - lightrag - INFO - Load KV llm_response_cache with 55 data
+2024-12-30 22:04:24,789 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-30 22:04:24,790 - lightrag - INFO - Load KV text_chunks with 25 data
+2024-12-30 22:04:24,798 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 291 nodes, 153 edges
+2024-12-30 22:04:25,711 - lightrag - INFO - Local query uses 3 entites, 13 relations, 3 text units
+2024-12-30 22:04:26,019 - lightrag - INFO - Local query uses 3 entites, 13 relations, 3 text units
+2024-12-30 22:13:50,768 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-30 22:13:50,769 - lightrag - INFO - Load KV llm_response_cache with 56 data
+2024-12-30 22:13:50,770 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-30 22:13:50,771 - lightrag - INFO - Load KV text_chunks with 25 data
+2024-12-30 22:13:50,778 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 291 nodes, 153 edges
+2024-12-30 22:13:57,183 - lightrag - INFO - Local query uses 3 entites, 2 relations, 3 text units
+2024-12-30 22:14:28,273 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-30 22:14:28,274 - lightrag - INFO - Load KV llm_response_cache with 58 data
+2024-12-30 22:14:28,275 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-30 22:14:28,276 - lightrag - INFO - Load KV text_chunks with 25 data
+2024-12-30 22:14:28,283 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 291 nodes, 153 edges
+2024-12-30 22:14:31,594 - lightrag - INFO - Local query uses 20 entites, 15 relations, 3 text units
+2024-12-30 22:14:53,724 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2024-12-30 22:14:53,725 - lightrag - INFO - Load KV llm_response_cache with 58 data
+2024-12-30 22:14:53,726 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-30 22:14:53,726 - lightrag - INFO - Load KV text_chunks with 25 data
+2024-12-30 22:14:53,734 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 291 nodes, 153 edges
+2024-12-30 22:14:54,655 - lightrag - INFO - Local query uses 3 entites, 2 relations, 3 text units

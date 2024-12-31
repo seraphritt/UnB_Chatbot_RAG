@@ -8,220 +8,2378 @@
   <key id="d1" for="node" attr.name="description" attr.type="string" />
   <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
   <graph edgedefault="undirected">
+    <node id="&quot;GRADUAÇÃO UNB&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"GRADUAÇÃO UnB is the graduation ceremony of the University of Brasília."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF.? MÁRCIA ABRAHÃO MOURA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof.? Márcia Abrahão Moura is the rector at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF. ENRIQUE HUELVA UNTERNBÃUMEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof. Enrique Huelva Unternbãumen is the vice-rector at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF. DIÊGO MADUREIRA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof. Diêgo Madureira is the dean of Undergraduate Studies at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF. LÚCIO REMUZAT RENNÓ JUNIOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof. Lúcio Remuzat Rennó Junior is the dean of Postgraduate Studies at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF.º MARIA EMÍLIA WALTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof.º Maria Emília Walter is the dean of Research and Innovation at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF.º OLGAMIR AMANCIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof.º Olgamir Amancia is the dean of Extension at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF. ILENO IZÍDIO DA COSTA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof. Ileno Izídio da Costa is the dean of Community Affairs at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;MARIA DO SOCORRO MENDES GOMES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Maria do Socorro Mendes Gomes is the dean of Human Resources Management at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF.º ROZANA REIGOTA NAVES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof.º Rozana Reigota Naves is the dean of Administration at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF.º DENISE IMBROISI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof.º Denise Imbroisi is the dean of Planning and Budgeting at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;EDITORIAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Editorial refers to the editorial team responsible for producing the manual."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;VANESSA OLIVEIRA (DEG)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Vanessa Oliveira (DEG) works in the editorial team as an organizer for the manual."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;LEONARDO DE OLIVEIRA (DEG)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Leonardo de Oliveira (DEG) works as an intern at DEG, contributing to the manual."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF. VIRGÍLIO PEREIRA DE ALMEIDA (INT)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof. Virgílio Pereira de Almeida (INT) collaborates on various projects at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;HENRIQUE SOARES DE MELO (SAA)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Henrique Soares de Melo (SAA) is involved in some projects at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF. SERGIO RONALDO GRANEMANN (DPG)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof. Sergio Ronaldo Granemann (DPG) collaborates on various projects at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF. JACIR LUIZ BORDIM (STI)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof. Jacir Luiz Bordim (STI) is involved in some projects at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF.2 LETÍCIA LOPES LEITE (CEAD)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof.2 Letícia Lopes Leite (CEAD) collaborates on various projects at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF.? LARISSA POLEJACK BRAMBATTI (DAC)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof.? Larissa Polejack Brambatti (DAC) is involved in some projects at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF. EULER VILHENA (DEG/DTG)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof. Euler Vilhena (DEG/DTG) contributes to various teams at DEG and DTG."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF. RAFAEL OLIVEIRA ROCHA (DEG/DAIA)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof. Rafael Oliveira Rocha (DEG/DAIA) works in multiple teams, including DEG and DAIA."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
+    <node id="&quot;PROF.? SYMONE JARDIM (DEG/DIEG)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof.? Symone Jardim (DEG/DIEG) is involved in the Department of Education and Extension at UnB."</data>
+      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </node>
     <node id="&quot;UNB&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"The UNB is a public university in Brazil that offers various undergraduate, graduate programs"&lt;SEP&gt;"The UNB is a public university in Brazil"&lt;SEP&gt;"The University of Brasília is a Brazilian public university"&lt;SEP&gt;"The University of Brasília"&lt;SEP&gt;"Universidade Federal de Brasília (UNB) is a public university in Brazil."&lt;SEP&gt;"Universidade de Brasília is the organization mentioned throughout the text."&lt;SEP&gt;"Universities of Brazil"</data>
-      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84&lt;SEP&gt;chunk-e957d2a51bfff9288b13b4427453063d&lt;SEP&gt;chunk-49989619f0773c99866fbaca6a4a26c4&lt;SEP&gt;chunk-83d2c369f83394a2c0bfcf9c3a7857f1&lt;SEP&gt;chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+      <data key="d1">"The University of Brasilia, where the registration process is taking place."&lt;SEP&gt;"The University of Brasília (UnB)"&lt;SEP&gt;"UnB is the University where the diploma is being discussed"&lt;SEP&gt;"Universidade de Brasília, the location mentioned in the text"</data>
+      <data key="d2">chunk-49c404738092a3fab90cd0e5ca0d0d7c&lt;SEP&gt;chunk-49fd5da657bdbf3b4c28d98b6599a846&lt;SEP&gt;chunk-83d2c369f83394a2c0bfcf9c3a7857f1&lt;SEP&gt;chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
     </node>
     <node id="&quot;REITORA&quot;">
       <data key="d0">"PERSON"</data>
-      <data key="d1">"The Reitora of UnB, a title for a university leader, delivers an official message to the students about the new academic year and their responsibilities as a student."</data>
-      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+      <data key="d1">"The rector of UnB, who sends a congratulatory message to new students."</data>
+      <data key="d2">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
     </node>
-    <node id="&quot;MÁRCIA ABRAHÃO MOURA&quot;">
-      <data key="d0">"PERSON"</data>
-      <data key="d1">"A person in charge of the University's publication, responsible for coordinating the manual"</data>
-      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
-    </node>
-    <node id="&quot;MANUAL&quot;">
-      <data key="d0">"DOCUMENT"</data>
-      <data key="d1">"A document that provides guidelines on graduation at the UnB. It contains information about registration, assessment, requirements, and career planning."</data>
-      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
-    </node>
-    <node id="&quot;GRAUAÇÃO&quot;">
+    <node id="&quot;REGISTRO ACADÊMICO&quot;">
       <data key="d0">"EVENT"</data>
-      <data key="d1">"A graduation ceremony takes place at UnB, but it is not specific to this document. It is implied that there are events in relation to graduation."</data>
-      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+      <data key="d1">"Registration academic event where students officially become part of the University."</data>
+      <data key="d2">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
     </node>
-    <node id="&quot;ALEX&quot;">
-      <data key="d0">"PERSON"</data>
-      <data key="d1">"Alex is a character experiencing frustration and is observant of the dynamics among other characters."</data>
-      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    <node id="&quot;PRO-PROCESSOS SELETIVOS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Processes that students go through to be selected for admission."</data>
+      <data key="d2">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
     </node>
-    <node id="&quot;TAYLOR&quot;">
-      <data key="d0">"PERSON"</data>
-      <data key="d1">"Taylor is portrayed with authoritarian certainty and shows a moment of reverence towards a device, indicating a change in perspective."</data>
-      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    <node id="&quot;E-MAIL INFORMADO NA INSCRIÇÃO DO PROCESSO SELETIVO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The email address provided during the selection process, used for communication with the University."</data>
+      <data key="d2">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
     </node>
-    <node id="&quot;JORDAN&quot;">
-      <data key="d0">"PERSON"</data>
-      <data key="d1">"Jordan shares a commitment to discovery and has a significant interaction with Taylor regarding a device."</data>
-      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
-    </node>
-    <node id="&quot;CRUZ&quot;">
-      <data key="d0">"PERSON"</data>
-      <data key="d1">"Cruz is associated with a vision of control and order, influencing the dynamics among other characters."</data>
-      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
-    </node>
-    <node id="&quot;THE DEVICE&quot;">
+    <node id="&quot;SISTEMAS DA UNIVERSIDADE&quot;">
       <data key="d0">"TECHNOLOGY"</data>
-      <data key="d1">"The Device is central to the story, with potential game-changing implications, and is revered by Taylor."</data>
-      <data key="d2">chunk-e957d2a51bfff9288b13b4427453063d</data>
+      <data key="d1">"Systems of the University, where student data is stored."</data>
+      <data key="d2">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
     </node>
     <node id="&quot;SIGAA&quot;">
-      <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"A website that allows students to manage their registration and access important information about the enrollment process."&lt;SEP&gt;"SIGAA is a platform used to manage and access student data, including curricular information."&lt;SEP&gt;"SIGAA" is an academic platform for managing student data and accessing curricular information."</data>
-      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc&lt;SEP&gt;chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"SIGAA is a computer system used by students to manage their academic records and personal information."&lt;SEP&gt;"SIGAA is a system used by students at UnB to evaluate their professors and courses before the start of each semester."&lt;SEP&gt;"SIGAA is a system used to manage academic activities, including internships, at UnB."&lt;SEP&gt;"SIGAA is the student portal used for course enrollment and other academic-related activities."&lt;SEP&gt;"SIGAA is the system where students register their internships."&lt;SEP&gt;"Sigaa is a system used by the University of Brasilia for academic management."&lt;SEP&gt;"Sistema Eletrônico de Informação da Universidade de Brasília (SEI), an electronic system used to manage academic processes"&lt;SEP&gt;"Sistema de Administração de Atividades Aca-dêmicas (SIGAA), a system used for academic administration."&lt;SEP&gt;"The SIGAA system is a digital platform used by the University of Brasília (UnB) for various administrative tasks, including registering internships."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7&lt;SEP&gt;chunk-f9ff63049ba3e98452d1c02711fe4da8&lt;SEP&gt;chunk-49c404738092a3fab90cd0e5ca0d0d7c&lt;SEP&gt;chunk-24ed024080994acf4b7f84fdfdadf700&lt;SEP&gt;chunk-5a080acc0efc63e3b6d8a356d163a71d&lt;SEP&gt;chunk-83d2c369f83394a2c0bfcf9c3a7857f1&lt;SEP&gt;chunk-49fd5da657bdbf3b4c28d98b6599a846&lt;SEP&gt;chunk-47cdf8c51a32308ea4b4699ed897edce&lt;SEP&gt;chunk-b5bb0f4549b11ac50894507586c40c60</data>
     </node>
-    <node id="&quot;PPC&quot;">
+    <node id="&quot;APRENDER&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"APRENDER, the platform for online learning."</data>
+      <data key="d2">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
+    </node>
+    <node id="&quot;E-MAIL INSTITUCIONAL&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Institutional email provided to students by the University."</data>
+      <data key="d2">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
+    </node>
+    <node id="&quot;PROCESSO SELETIVOS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Processes that students go through to be selected for admission."</data>
+      <data key="d2">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
+    </node>
+    <node id="&quot;INSCRIÇÃO DO PROCESSO SELETIVO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The registration process for the selection processes."</data>
+      <data key="d2">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
+    </node>
+    <node id="&quot;NÚMERO DE MATRÍCULA&quot;">
       <data key="d0">"CONCEPT"</data>
-      <data key="d1">"PPC refers to the program of study, outlining academic requirements for graduation."</data>
+      <data key="d1">"Number of matriculation, used to access University services."</data>
+      <data key="d2">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
+    </node>
+    <node id="&quot;UNB (UNIVERSIDADE DE BRASÍLIA)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Brasília (UnB) is the educational institution where the course in question is being taken."</data>
       <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
     </node>
-    <node id="&quot;SAA&quot;">
-      <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"School of Arts (SA) of the University of Brasilia"&lt;SEP&gt;"The SAA (Secretaria de Administração Acadêmica) of the UNB, responsible for managing academic affairs"</data>
-      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7&lt;SEP&gt;chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    <node id="&quot;SIGAA (SISTEMA INTEGRADO DE GESTÃO ACADÊMICA E ADMINISTRATIVA)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"SIGAA is a system used for academic and administrative management at UnB."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
     </node>
-    <node id="&quot;UNIVERSIDADE FEDERAL DE BRASÍLIA&quot;">
+    <node id="&quot;PPC (PLANO DE ENSINO DO CURSO)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"PPC refers to the academic plan or curriculum of the course, which can be accessed on SIGAA."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </node>
+    <node id="&quot;CURRÍCULO DO CURSO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Curriculum of the course refers to the structure and components that a student must take to obtain a diploma."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </node>
+    <node id="&quot;MEC (MINISTÉRIO DA EDUCAÇÃO)&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"The UNB is a public university in Brazil"</data>
+      <data key="d1">"MEC is the Brazilian Ministry of Education, whose laws and specific orientations are used in constructing the curriculum structure."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </node>
+    <node id="&quot;PORTAL PÚBLICO DO SIGAA&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Public Portal of SIGAA is a web interface where students can access their course academic plan."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </node>
+    <node id="&quot;PORTAL DO ESTUDANTE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Student Portal is a web interface where students can find information specific to them, such as the curriculum structure."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </node>
+    <node id="&quot;OUTROS&gt;COORDENAÇÃO DE CURSO&gt;ATENDIMENTO AO ALUNO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This refers to sending a message directly to the course coordinator via the 'Other &gt; Coordination of Course &gt; Student Assistance' option on SIGAA."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </node>
+    <node id="&quot;DISCIPLINAS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Disciplines are academic subjects that make up a student's curriculum."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </node>
+    <node id="&quot;ESTÁGIOS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Internships or practicums are components of the curriculum where students gain practical experience in their field."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </node>
+    <node id="&quot;AÇÕES DE EXTENSÃO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Actions of extension refer to community outreach activities that can be part of a student's curriculum."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </node>
+    <node id="&quot;MONOGRAFIAS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Monographies are extensive research projects written by students, often as part of their graduation requirements."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </node>
+    <node id="&quot;TRABALHOS DE CONCLUSÃO DE CURSO (TCC)&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Thesis or Final Project is a comprehensive research project that students must complete to graduate."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </node>
+    <node id="&quot;ATIVIDADES COMPLEMENTARES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Complementary Activities refer to additional, non-obligatory components of the curriculum designed to enrich the student's academic experience.&lt;SEP&gt;"Complementary activities refer to any activity that does not correspond to a required component but can contribute to student development."</data>
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc&lt;SEP&gt;chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </node>
+    <node id="&quot;UNIVERSIDADE ABERTA DO BRASIL (UAB)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Universidade Aberta do Brasil (UAB) is a distance learning program offered by the UnB."&lt;SEP&gt;"Universidade Aberta do Brasil (UAB) is a distance learning university, providing access to higher education for students across the country."</data>
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a&lt;SEP&gt;chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;ENSINO SUPERIOR (IFES)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ensino Superior (IFES) refers to Federal Institutions of Higher Education, which offer distance learning courses like UAB."</data>
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </node>
+    <node id="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Universidade de Brasília (UnB) is the university where the stages are being managed."&lt;SEP&gt;"The University of Brasilia (UnB) is the educational institution where the study plan is being followed."&lt;SEP&gt;"The University of Brasilia (UnB) is the institution where the document is provided, offering various opportunities."&lt;SEP&gt;"The University of Brasilia (UnB) is the organization mentioned throughout the text."&lt;SEP&gt;"The University of Brasilia is an institution where students complete their studies and participate in internships."&lt;SEP&gt;"The University of Brasilia is the institution in which this document was created."&lt;SEP&gt;"The University of Brasília (UnB) is a higher education institution where students can complete mandatory and optional stages."&lt;SEP&gt;"The University of Brasília (UnB) is a higher education institution where the given process takes place."&lt;SEP&gt;"The University of Brasília (UnB) is an educational organization where a student will be completing their internship."&lt;SEP&gt;"The University of Brasília (UnB) is the higher education institution where a student needs help with their internship registration."&lt;SEP&gt;"The University of Brasília is a higher education institution where the stage is being managed.")( "entity"&lt;SEP&gt;"The University of Brasília is hosting an event where students make decisions about their advisors."&lt;SEP&gt;"The University of Brasília is the geographical location where these events are taking place."&lt;SEP&gt;"Universidade de Brasília (UnB) is a city and the capital of the Federal District in Brazil, where the University of Brasília is located."&lt;SEP&gt;"Universidade de Brasília (UnB) is a university that offers both on-campus and distance learning programs."&lt;SEP&gt;The University of Brasilia where the document was created and related information about the process is discussed.</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5&lt;SEP&gt;chunk-ac407f61310418797bb84a4df139e830&lt;SEP&gt;chunk-f9ff63049ba3e98452d1c02711fe4da8&lt;SEP&gt;chunk-5219cf0817cbb82473514dd9f7028dc0&lt;SEP&gt;chunk-e7a7f9dadf0f9739ca523954767c461f&lt;SEP&gt;chunk-ab673f3f31e4b6cfe2fab27d4c223fbb&lt;SEP&gt;chunk-a6bd9c133e851de0c23f808943eeda2d&lt;SEP&gt;chunk-96a7086e478d3df01d362bce62a3701a&lt;SEP&gt;chunk-5a080acc0efc63e3b6d8a356d163a71d&lt;SEP&gt;chunk-90c9b5d9dcc0ebcd94a23ecb667edc84&lt;SEP&gt;chunk-19ba12cc91f6df25812c8d49583d1695&lt;SEP&gt;chunk-69065f8900adcc5c23cde0bc047686d0&lt;SEP&gt;chunk-1a5dd6915ab901bad633c800a1755091&lt;SEP&gt;chunk-47cdf8c51a32308ea4b4699ed897edce&lt;SEP&gt;chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;EVENTOS CIENTÍFICOS, ARTÍSTICOS OU CULTURAIS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Events such as scientific, artistic or cultural events can be considered complementary activities for students."</data>
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </node>
+    <node id="&quot;PROJETOS DE PESQUISA E EXTENSÃO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Research and extension projects are types of complementary activities that students can participate in."</data>
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </node>
+    <node id="&quot;UNIVERSIDADE DE BRASÍLIA (UNB) CURRICULAR STRUCTURE (CURRÍCULO)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The UnB Curricular Structure refers to the structure of a course as outlined in its curriculum."</data>
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </node>
+    <node id="&quot;COMPONENTES CURRICULARES OBRIGATÓRIOS, OPTATIVOS OU ELETIVOS (CURRÍCULO DO CURSO)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Components required, optional or elective as per the curriculum of the course."</data>
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </node>
+    <node id="&quot;PRE-REQUISITO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Pre-requisite refers to a prerequisite that must be fulfilled before enrolling in a component."</data>
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </node>
+    <node id="&quot;CORESQUISITOS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Corequisites are components that must be taken concurrently with another component."</data>
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </node>
+    <node id="&quot;CADEIA DE SELETIVIDADE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Chain of selection refers to a predetermined group of disciplines from which students can choose, all part of the same course structure."</data>
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </node>
+    <node id="&quot;DISCIPLINAS OBRIGATÓRIAS SELETIVAS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Selected obligatory disciplines refer to disciplines that must be chosen from a predetermined group for the chain of selection."</data>
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </node>
+    <node id="&quot;EQUIVALÊNCIA DE COMPONENTES CURRICULARES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Equivalence of curriculum components refers to the equivalency between two or more components, where approval in one can be used to fulfill the requirement of another."</data>
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </node>
+    <node id="&quot;ENSINO A DISTÂNCIA (EAD)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Distance learning (EAD) refers to courses offered outside of the traditional on-campus setting."&lt;SEP&gt;"Ensino a Distância (EAD) refers to distance learning, a method of education where students and teachers are physically separated."</data>
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a&lt;SEP&gt;chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;PROGRAMA UNIVERSIDADE ABERTA DO BRASIL (UAB)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Program UAB is a distance learning program offered by the UnB."</data>
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </node>
+    <node id="&quot;DIVERSOS CURSOS NA MODALIDADE ENSINO A DISTÂNCIA (EAD)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The document discusses various courses offered in the distance learning mode (EAD)"</data>
+      <data key="d2">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </node>
+    <node id="&quot;AY!&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"AY! is an individual who provides guidance for the students, possibly a teaching assistant or professor."</data>
+      <data key="d2">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </node>
+    <node id="&quot;STUDENTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Students are individuals enrolled in the courses offered by the UnB University."</data>
+      <data key="d2">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </node>
+    <node id="&quot;CURSO PRESENCIAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Courses that can be attended in person, with the possibility of offering distance hours, but only if it is specified in the PPC."</data>
+      <data key="d2">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </node>
+    <node id="&quot;POSSIBILIDADE DE CURSAR COMPONENTES A DISTÂNCIA ESTEJA PREVISTA NO PPC.&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The possibility to take course components at a distance must be specified in the Program of Curricular Plan (PPC)"</data>
+      <data key="d2">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </node>
+    <node id="&quot;APRENDER 3&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"APRENDER 3 is a virtual platform used by students and professors for course-related activities."</data>
+      <data key="d2">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </node>
+    <node id="&quot;CENTRO DE EDUCAÇÃO A DISTÂNCIA (CEAD)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Centre of Distance Education (CEAD) is responsible for managing the APRENDER platform."</data>
+      <data key="d2">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </node>
+    <node id="&quot;MATRÍCULA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Enrollment or Matrícula refers to the process by which students enroll in courses."&lt;SEP&gt;"Matrícula refers to the act of enrollment or registration in a course or program."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7&lt;SEP&gt;chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </node>
+    <node id="&quot;CONSELHO DE ENSINO, PESQUISA E EXTENSÃO DA UNB (CEPE)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Council of Teaching, Research and Extension at the UnB University defines the criteria for enrollment priority."</data>
+      <data key="d2">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </node>
+    <node id="&quot;PORTAL DO(A) ESTUDANTE NO SIGAA.&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The student portal on SIGAA is used by students to perform academic-related tasks, such as enrollment."</data>
+      <data key="d2">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </node>
+    <node id="&quot;WWW.DEG.UNB.BR&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"www.deg.unb.br is a website that provides additional information about the enrollment process."</data>
+      <data key="d2">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </node>
+    <node id="&quot;WWW.CEAD.UNB.BR&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"www.cead.unb.br is a website that provides additional information about the APRENDER platform and its use."</data>
+      <data key="d2">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </node>
+    <node id="&quot;COORDENAÇÕES DE CURSO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Coordenations of course are responsible for managing certain components of courses, such as internships or individual orientation activities."</data>
+      <data key="d2">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </node>
+    <node id="&quot;SOLICITA-ÇÃO NEM PROCESSAMENTO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The text describes a request for enrollment without processing, indicating an important event in the academic process."</data>
       <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
     </node>
-    <node id="&quot;SECRETARIA DE ADMINISTRAÇÃO ACADÊMICA&quot;">
+    <node id="&quot;EFETIVADA PELO(A) PRÓPRIO(A) ESTUDANTE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The text mentions that students register themselves, indicating the personal responsibility of the student in the process."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;COORDENAÇÃO&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"This refers to the administrative department of UNB responsible for academic matters."</data>
+      <data key="d1">"Coordenação refers to the department or group responsible for coordinating and supervising certain activities within a course or program."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;RESERVA DE VAGAS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Reserva de vagas refers to the reservation of spaces in certain courses or programs."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;DATAS E PRAXOS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Datas e praxos refers to the dates and deadlines for each stage in the matrícula process."</data>
       <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
     </node>
     <node id="&quot;CALENDÁRIO DE MATRÍCULA&quot;">
-      <data key="d0">"DOCUMENT"</data>
-      <data key="d1">"A document that outlines the date schedule for the academic year."</data>
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Calendário de matrícula is a calendar that provides information on the enrollment process, academic performance, and other related matters."</data>
       <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
     </node>
+    <node id="&quot;SEMESTRE DE VERÃO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Semestre de verão refers to a condensed summer semester offered in approximately two months."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;ANTES DA MATRÍCULA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The text suggests that it is important to prepare before enrollment."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;AVALIAÇÃO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Avaliação refers to the evaluation or assessment of a student's performance in an academic context."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;MENÇÕES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Grades received by students for completed courses"&lt;SEP&gt;"Menções refer to categories of academic performance that group students with similar grades."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7&lt;SEP&gt;chunk-83d2c369f83394a2c0bfcf9c3a7857f1</data>
+    </node>
+    <node id="&quot;CRITÉRIOS DE APROVAÇÃO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Critérios de aprovação refers to the criteria for approval or passing a course or program."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;SECRETARIA DE ADMINISTRAÇÃO ACADÊMICA (SAA)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Secretaria de Administração Acadêmica (SAA) is the academic secretariat responsible for administrative matters at the University of Brasília."&lt;SEP&gt;"The Secretaria de Administração Acadêmica (SAA) is an administrative entity responsible for academic affairs at the University of Brasília."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7&lt;SEP&gt;chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;APROVEITAMENTO DE ESTUDOS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Aproveitamento de estudos refers to the evaluation of a student's academic performance, typically in the context of transferring credits from one institution to another."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;REVISÃO DE MENÇÃO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Revisão de menção refers to the process by which students can request a review of their grades, should they disagree with them."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;CRÉDITOS EM LÍNGUA ESTRANGEIRA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Créditos em língua estrangeira refers to the credits awarded for proficiency in a foreign language."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;ITEM DIREITOS E DEVERES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Item Direitos e Deveres refers to a section in the manual that outlines students' rights and responsibilities."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;RECESSO DE FINAL/INÍCIO DE ANO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Recesso de final/início de ano refers to the vacation period between semesters, which is longer than the recess between the two semesters of the same year."</data>
+      <data key="d2">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </node>
+    <node id="&quot;RESPONSÁVEL PELO COMPONENTE CURRICULAR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Responsible for the curriculum component"</data>
+      <data key="d2">chunk-83d2c369f83394a2c0bfcf9c3a7857f1</data>
+    </node>
+    <node id="&quot;ESTUDANTE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Student, the individual who is obligated to attend classes and meet other requirements"</data>
+      <data key="d2">chunk-83d2c369f83394a2c0bfcf9c3a7857f1</data>
+    </node>
+    <node id="&quot;CALENDÁRIO ACADÊMICO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Academic calendar, establishes deadlines for revisions of grades or other academic processes"&lt;SEP&gt;"The academic calendar sets the deadlines for events such as trancamento de matrícula."</data>
+      <data key="d2">chunk-83d2c369f83394a2c0bfcf9c3a7857f1&lt;SEP&gt;chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
+    </node>
+    <node id="&quot;PETICIONAMENTO ELETRÔNICO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Electronic petition, a way for students to start processes in the SEI system"</data>
+      <data key="d2">chunk-83d2c369f83394a2c0bfcf9c3a7857f1</data>
+    </node>
+    <node id="&quot;PESSOA DE CONTATO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Contact person, someone who can be contacted for more information or assistance"</data>
+      <data key="d2">chunk-83d2c369f83394a2c0bfcf9c3a7857f1</data>
+    </node>
+    <node id="&quot;SISTEMA ELETRÔNICO DE MATRÍCULA (SEM)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Electronic Enrollment System (SEM), a technology used for student registration"</data>
+      <data key="d2">chunk-83d2c369f83394a2c0bfcf9c3a7857f1</data>
+    </node>
+    <node id="&quot;ANO E FORMA DE INGRESSO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Year and method of enrollment, information about when and how a student joined the university"</data>
+      <data key="d2">chunk-83d2c369f83394a2c0bfcf9c3a7857f1</data>
+    </node>
+    <node id="&quot;COMPONENTES CURSADOS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Courses taken, part of a student's academic history"</data>
+      <data key="d2">chunk-83d2c369f83394a2c0bfcf9c3a7857f1</data>
+    </node>
+    <node id="&quot;TRANCAMENTOS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Withdrawals or discontinuations from a course, affecting a student's academic record"</data>
+      <data key="d2">chunk-83d2c369f83394a2c0bfcf9c3a7857f1</data>
+    </node>
+    <node id="&quot;COORDENAÇÃO DO CURSO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Coordination of the Course is a role responsible for sending the diploma to SAA"&lt;SEP&gt;"Course Coordination, the group responsible for overseeing a specific academic program"</data>
+      <data key="d2">chunk-83d2c369f83394a2c0bfcf9c3a7857f1&lt;SEP&gt;chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
+    </node>
+    <node id="&quot;SAA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"SAA is the office responsible for issuing diplomas at UnB"&lt;SEP&gt;"Secretaria Acadêmica (SAA), the Academic Secretary, a person who can help students with various academic issues and requests"</data>
+      <data key="d2">chunk-83d2c369f83394a2c0bfcf9c3a7857f1&lt;SEP&gt;chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
+    </node>
     <node id="&quot;E-MAIL&quot;">
-      <data key="d0">"OBJECT"</data>
-      <data key="d1">"The email is a request for the online signature of a document"</data>
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"e-mail is an event for digital signature"</data>
       <data key="d2">chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
     </node>
-    <node id="&quot;ASSINATURA&quot;">
-      <data key="d0">"ACTION"</data>
-      <data key="d1">"The act of signing a document"</data>
+    <node id="&quot;DIPLOMA&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"The diploma is a document that can be issued electronically and has several benefits."</data>
       <data key="d2">chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
     </node>
-    <node id="&quot;TRANSCACIONAL&quot;">
+    <node id="&quot;DOCUMENTO FÍSICO&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"A physical document may be requested if electronic signing is not possible."</data>
+      <data key="d2">chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
+    </node>
+    <node id="&quot;SEI&quot;">
+      <data key="d0">"NUMBER"</data>
+      <data key="d1">"SEI is a number assigned to each process, useful for tracking its progress."</data>
+      <data key="d2">chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
+    </node>
+    <node id="&quot;CEG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CEG is an organization at UnB that can handle appeals for students whose reintegration requests are denied."&lt;SEP&gt;"CEG is the body responsible for academic regulations at UnB."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60&lt;SEP&gt;chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
+    </node>
+    <node id="&quot;CEPE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CEPE is the Council of Teaching, Research, and Extension at the University of Brasilia."&lt;SEP&gt;"CEPE is the body that formulates norms and rules across all of UnB."</data>
+      <data key="d2">chunk-47cdf8c51a32308ea4b4699ed897edce&lt;SEP&gt;chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
+    </node>
+    <node id="&quot;TRANCAMENTO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Trancamento refers to the temporary suspension of studies at the UnB, and is mentioned in the context of obtaining it when necessary."</data>
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </node>
+    <node id="&quot;DETALHES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Detalhes refer to further information about the trancamento process."</data>
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </node>
+    <node id="&quot;SITE WYW.DEG.UNB.BR&quot;">
       <data key="d0">"LOCATION"</data>
-      <data key="d1">"A location where the transcript is held or stored."</data>
+      <data key="d1">"wyw.deg.unb.br is a website where detailed information about the trancamento process can be found."</data>
       <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
     </node>
-    <node id="&quot;WYW.DEG.UNB.BR&quot;">
-      <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"Website providing information about UnB"</data>
+    <node id="&quot;43&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The number 43 may represent a location or a reference to a specific document."</data>
       <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
     </node>
-    <node id="&quot;UNIBRAS&quot;">
-      <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"UnB is a name of University in Brazil"</data>
-      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
-    </node>
-    <node id="&quot;COURSE&quot;">
+    <node id="&quot;APROVEITAMENTO DE DISCIPLINAS&quot;">
       <data key="d0">"CONCEPT"</data>
-      <data key="d1">"Course refers to academic programs and their associated structure."</data>
+      <data key="d1">"Aproveitamento de disciplinas refers to the possibility of earning credit for courses taken at another institution."</data>
       <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
     </node>
-    <node id="&quot;CURRICULUM&quot;">
-      <data key="d0">"CONCEPT"</data>
-      <data key="d1">"Curriculum is the framework of education and course offerings within a program."</data>
-      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    <node id="&quot;PROFESSOR(A)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Professor refers to an educator who guides students in their learning, either through classroom instruction or supervision of academic projects like the given process."&lt;SEP&gt;"The Professor(a) is a member of the University of Brasilia (UnB), responsible for planning and teaching."&lt;SEP&gt;A generic term used to refer to teachers or instructors at the University.</data>
+      <data key="d2">chunk-1a5dd6915ab901bad633c800a1755091&lt;SEP&gt;chunk-90c9b5d9dcc0ebcd94a23ecb667edc84&lt;SEP&gt;chunk-b5bb0f4549b11ac50894507586c40c60</data>
     </node>
-    <node id="&quot;SEMESTER&quot;">
-      <data key="d0">"DURATION""&gt;</data>
-      <data key="d1">&lt;"period of time dedicated to studying, typically 15-20 weeks"</data>
-      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    <node id="&quot;STUDENT(S)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Student(s) are learners who follow the study plan prepared by the Professor(a)."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
     </node>
-    <node id="&quot;PROLC&quot;">
+    <node id="&quot;PLANO DE ESTUDO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Study Plan is a scheduled academic program designed by the Professor(a)."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;DESLIGAMENTO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Desligamento refers to the termination of a student's studies at the University."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;REINTEGRAÇÃO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Reintegração is a process by which a student can rejoin the University after being disengaged."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;PRAZO MÁXIMO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Maximum Timeframe refers to the two-year limit within which a student can apply for reintegration."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;DIRETORIA DE ACESSIBILIDADE DO DECANATO DE ASSUNTOS COMUNITÁRIOS (DAC)&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"The ProlC is an opportunity for students to engage in research projects across various fields of knowledge and even participate in these projects alongside scientists.""</data>
+      <data key="d1">"The DAC is a department at UnB that provides support to students with specific needs."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;ÓRGÃOS COLEGIADOS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Órgãos colegiados are student representative bodies at UnB that can discuss any university-related matters."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;OUVIDORIA DA UNB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Ouvidoria da UnB is a formal channel for registering complaints or suggestions about the university."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;TERMO DE COMPROMISSO DE ESTÁGIO (TCE)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Termo de Compromisso de Estágio (TCE) is a contract that outlines the terms of an internship or practicum for students."&lt;SEP&gt;"Termo de Compromisso de Estágio (TCE) is a document that outlines the terms and conditions for a student's internship."&lt;SEP&gt;"The TCE is a document signed by the student and representatives from UnB and the company or institution where the internship will take place, outlining the terms of the agreement."&lt;SEP&gt;"The TCE is a document signed by the student and representatives from UnB and the company or institution where the internship will take place."&lt;SEP&gt;"The Termo de Compromisso de Estágio (TCE) is a contract that outlines the terms and conditions of an internship, including start and end dates, compensation, and responsibilities."&lt;SEP&gt;"The Termo de Compromisso de Estágio (TCE) is a legal document that outlines the terms and conditions of an internship."</data>
+      <data key="d2">chunk-5a080acc0efc63e3b6d8a356d163a71d&lt;SEP&gt;chunk-69065f8900adcc5c23cde0bc047686d0&lt;SEP&gt;chunk-048bc3dae71a6d58215d4e108c5d85c5&lt;SEP&gt;chunk-47cdf8c51a32308ea4b4699ed897edce&lt;SEP&gt;chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;DIRETORIA DE ACESSIBILIDADE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Directorate of Accessibility is a department at UnB that provides support to students with specific needs."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;PPC DO SEU CURSO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The PPC of your course is the department that can provide information about study plans, including whether there are any required or optional internships."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;LEI&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The law refers to regulations that protect students during their internships, ensuring they are not exploited for labor."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;ESTÁGIO OBRIGATÓRIO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Estágio Obrigatório is an event that is required for course completion and can be either compulsory or optional."&lt;SEP&gt;"The Obligatory Internship refers to an internship that is required for the completion of the student's course."</data>
+      <data key="d2">chunk-5219cf0817cbb82473514dd9f7028dc0&lt;SEP&gt;chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;ESTÁGIO NÃO OBRIGATÓRIO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Estágio Não Obrigatório is a complementary activity regulated by each course, aimed at enhancing academic and professional formation."&lt;SEP&gt;"Optional Stage is an activity that requires a company sponsorship, such as a stipend and transportation voucher. It is optional in some course plans but must be related to the student's course objectives."&lt;SEP&gt;"The Non-obligatory Internship refers to an internship that is not required for the completion of the student's course."</data>
+      <data key="d2">chunk-19ba12cc91f6df25812c8d49583d1695&lt;SEP&gt;chunk-5219cf0817cbb82473514dd9f7028dc0&lt;SEP&gt;chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;ESTÁGIO REMUNERADO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Remunerated Internship refers to an internship that provides financial compensation for the student's work."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;ESTÁGIO NÃO REMUNERADO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Non-remunerated Internship refers to an internship that does not provide financial compensation for the student's work."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;CURRICULO DO CURSO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Course Curriculum refers to the overall plan of studies and academic requirements that the student must complete."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;COMPONENTE OBRIGATÓRIO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Required Component refers to a part of the course curriculum that must be completed by the student."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;COMPONENTE OPTATIVO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Optional Component refers to a part of the course curriculum that can be chosen by the student but is not required for their academic completion."</data>
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </node>
+    <node id="&quot;CURSO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Course refers to the academic program or subject of study in the University of Brasilia (UnB)"</data>
+      <data key="d2">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </node>
+    <node id="&quot;EMPRESA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Company is an organization that hires students for internships."</data>
+      <data key="d2">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </node>
+    <node id="&quot;TCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"TCE refers to Termo de Compromisso, which is the agreement between the student and the university about the internship."&lt;SEP&gt;"Termo de Convênio de Estágio refers to the agreement between the University of Brasilia (UnB) and a company for internship purposes."</data>
+      <data key="d2">chunk-49fd5da657bdbf3b4c28d98b6599a846&lt;SEP&gt;chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </node>
+    <node id="&quot;PLANO DE ATIVIDADES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Plan of Activities refers to the plan outlining the tasks and activities to be performed during an internship."&lt;SEP&gt;"Plano de Atividades is a plan outlining the activities of the internship."</data>
+      <data key="d2">chunk-49fd5da657bdbf3b4c28d98b6599a846&lt;SEP&gt;chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </node>
+    <node id="&quot;ESTÁGIO OPCIONAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Optional Stage is an event that complements a course and is optional for students."</data>
+      <data key="d2">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </node>
+    <node id="&quot;MATRÍCULA ATIVA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Active enrollment refers to the status of being enrolled in the university and eligible for internships."</data>
+      <data key="d2">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </node>
+    <node id="&quot;CONTRATO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Contract refers to the agreement between the student, company, and University of Brasilia (UnB) for internship purposes."</data>
+      <data key="d2">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </node>
+    <node id="&quot;CONVENÇÃO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Agreement refers to the contract between the integrator or the company and the University of Brasilia (UnB) to manage internship vacancies.</data>
+      <data key="d2">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </node>
+    <node id="&quot;COMISSÃO FORMADA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Commission formed is a group designated to evaluate the early graduation request, if applicable."</data>
+      <data key="d2">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </node>
+    <node id="&quot;COMISSÃO DE AVALIAÇÃO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Evaluation Committee refers to the commission formed for evaluating early graduation requests, if applicable."</data>
+      <data key="d2">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </node>
+    <node id="&quot;OUTORGA ANTECIPADA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Early Graduation refers to the case of students who can graduate before the official date due to special circumstances."</data>
+      <data key="d2">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </node>
+    <node id="&quot;PROGRAMA DE INICIAÇÃO CIENTÍFICA (PROLC)&quot;">
+      <data key="d0">"EVENT,PROGRAM"</data>
+      <data key="d1">"The Program of Scientific Initiation (ProlC) is an event or program for students to work on research projects with scientists."</data>
       <data key="d2">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
     </node>
     <node id="&quot;DECANATO DE PÓS-GRADUAÇÃO (DPG)&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"The DPG website provides information about initiating scientific work, as well as opportunities for students who want to join academic research. "&gt;</data>
-      <data key="d2">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+      <data key="d1">"Decanato de Pós-Graduação (DPG) is the deanship responsible for postgraduate education at the University of Brasília."&lt;SEP&gt;"The Dean's Office of Postgraduate Studies (DPG) is an organization that offers information about scientific initiation and extension."</data>
+      <data key="d2">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb&lt;SEP&gt;chunk-69065f8900adcc5c23cde0bc047686d0</data>
     </node>
     <node id="&quot;DECANATO DE EXTENSÃO (DEX)&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"The DEX website provides information about the connection between the University and society through projects, programs, and initiatives that apply knowledge in scientific, technological, artistic, political, educational, and cultural areas."&gt;</data>
+      <data key="d1">"Decanato de Extensão (DEX) is the deanship responsible for outreach and community engagement at the University of Brasília."&lt;SEP&gt;"The Dean's Office of Extension (DEX) is an organization that offers information about extension activities and projects."</data>
+      <data key="d2">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb&lt;SEP&gt;chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;ASSOCIAÇÃO NACIONAL DE DIRIGENTES DE INSTITUIÇÕES FEDERAIS DE ENSINO SUPERIOR (ANDIFES)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Associação Nacional de Dirigentes de Instituições Federais de Ensino Superior (ANDIFES) is a national association of directors from federal institutions of higher education."&lt;SEP&gt;"The National Association of Directors of Federal Higher Education Institutions (Andifes) is an organization mentioned."</data>
+      <data key="d2">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb&lt;SEP&gt;chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;INTERCÂMBIO E MOBILIDADE ACADÊMICA&quot;">
+      <data key="d0">"EVENT,PROGRAM"</data>
+      <data key="d1">"Interchange and academic mobility refers to the possibility for students to study at other universities in Brazil or abroad."</data>
       <data key="d2">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
     </node>
-    <node id="&quot;PROGRAM BOLSA ALIMENTAÇÃO NO RESTAURANTE&quot;">
+    <node id="&quot;SECRETARIA DE ASSUNTOS INTERNACIONAIS (INT)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The International Affairs Secretariat (INT) is an organization that offers information about study abroad opportunities."</data>
+      <data key="d2">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </node>
+    <node id="&quot;PROGRAMA DE MONITORIA&quot;">
+      <data key="d0">"EVENT,PROGRAM"</data>
+      <data key="d1">"The Program of Monitoria is an event or program that helps students learn and practice different teaching methods."</data>
+      <data key="d2">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </node>
+    <node id="&quot;SEMANA UNIVERSITÁRIA&quot;">
       <data key="d0">"EVENT"</data>
-      <data key="d1">"It is a program to help students with financial aid for food"</data>
+      <data key="d1">"The University Week is an annual event promoted by the Dean's Office of Extension (DEX)"</data>
+      <data key="d2">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </node>
+    <node id="&quot;COORDENADOR(A) DE CURSO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"A coordinator of a course is a person responsible for overseeing and managing the activities of a course."</data>
+      <data key="d2">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </node>
+    <node id="&quot;CENTRO ACADÊMICO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"An academic center is an organization that provides support and resources to students in a specific field or department."</data>
+      <data key="d2">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </node>
+    <node id="&quot;OU DE AJUDA SOCIOECONÔMICA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ou de ajuda socioeconômica is an event offering socioeconomic assistance."</data>
       <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4</data>
     </node>
-    <node id="&quot;PROGRAMA MORADIA ESTUDANTIL DA GRADUAÇÃO (PME-G)&quot;">
+    <node id="&quot;AJUDA ACADÊMICA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Ajuda acadêmica refers to academic assistance, which includes tutoring and monitoring for students."</data>
+      <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4</data>
+    </node>
+    <node id="&quot;MONITORIA&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"Program of housing aid for graduate students, offering various forms of help."&lt;SEP&gt;"The PME-G is a program aimed at providing assistance with housing to graduate students."</data>
-      <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4&lt;SEP&gt;chunk-7637105a1765e4f05d25f7062315a8cb</data>
+      <data key="d1">"Monitoria is an organization that offers monitoring services to help students learn and connect with teachers."</data>
+      <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4</data>
+    </node>
+    <node id="&quot;TUTORIA DE GRADUAÇÃO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Tutoria de graduação is a graduate tutoring program aimed at improving academic performance."</data>
+      <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4</data>
+    </node>
+    <node id="&quot;CUIDANDO DA SAÚDE MENTAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Cuidando da Saúde mental is an organization that offers psychological and nutritional support to students in need."</data>
+      <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4</data>
+    </node>
+    <node id="&quot;COMO OBTER AJUDA SOCIOECONÔMICA NA UNB&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Como obter ajuda socioeconômica na UnB refers to an event that provides information on how to obtain socioeconomic assistance at the university."</data>
+      <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4</data>
+    </node>
+    <node id="&quot;PROGRAMA BOLSA ALIMENTAÇÃO NO RESTAURANTE UNIVERSITÁRIO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Programa Bolsa Alimentação no Restaurante Universitário is a program offering subsidized meals for eligible students."&lt;SEP&gt;"Programa Bolsa Alimentação no Restaurante Universitário is a program that provides food benefits to students dining in the university restaurant."</data>
+      <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4&lt;SEP&gt;chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;PME-G - PROGRAMA MORADIA ESTUDANTIL DA GRADUAÇÃO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"PME-G - Programa Moradia Estudantil da Graduação is a program offering housing assistance for graduate students."</data>
+      <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4</data>
     </node>
     <node id="&quot;PROGRAMA AUXÍLIO SOCIOECONÔMICO (PASEUNB)&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"A program offering economic aid to students, addressing specific socioeconomic needs."&lt;SEP&gt;"It aims to provide financial support for students facing socioeconomic difficulties"</data>
-      <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4&lt;SEP&gt;chunk-7637105a1765e4f05d25f7062315a8cb</data>
+      <data key="d1">"Programa Auxílio Socioeconômico (PASeUnB) is a program offering financial aid to eligible students."&lt;SEP&gt;"Programa Auxílio Socioeconômico (PASeUnB) is a socioeconomic assistance program for students."</data>
+      <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4&lt;SEP&gt;chunk-69065f8900adcc5c23cde0bc047686d0</data>
     </node>
-    <node id="&quot;PROGRAM MORADIA ESTUDANTIL DA GRADUAÇÃO (PME-G)&quot;">
-      <data key="d0">"PROGRAM"</data>
-      <data key="d1">"A program that provides housing assistance to graduating students."</data>
+    <node id="&quot;PROGRAMA AUXÍLIO CRECHE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Programa Auxílio Creche is a childcare assistance program for eligible students."</data>
       <data key="d2">chunk-49989619f0773c99866fbaca6a4a26c4</data>
     </node>
-    <node id="&quot;PROGRAMA BOLSA ALIMENTAÇÃO NO RESTAURANTE&quot;">
+    <node id="&quot;UNIVERSIDADE DE BRASÍLIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Brasília (UnB) is an institution where various academic programs and benefits are offered."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;SECRETARIA DE ADMINISTRAÇÃO ACADÊMICA DA UNB (SAA)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Secretaria de Administração Acadêmica da UnB (SAA) is the administrative division responsible for academic affairs at the University of Brasília."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;PROGRAMA MORADIA ESTUDANTIL DA GRADUAÇÃO (PME-G)&quot;">
       <data key="d0">"EVENT"</data>
-      <data key="d1">"A program that offers benefits to those who participate in it."</data>
-      <data key="d2">chunk-7637105a1765e4f05d25f7062315a8cb</data>
-    </node>
-    <node id="&quot;UNIVERSITÁRIO&quot;">
-      <data key="d0">"LOCATION"</data>
-      <data key="d1">"University"</data>
-      <data key="d2">chunk-7637105a1765e4f05d25f7062315a8cb</data>
-    </node>
-    <node id="&quot;AUXÍLIO MORADIA&quot;">
-      <data key="d0">"PROGRAM"</data>
-      <data key="d1">"A program that provides financial assistance for student accommodation."</data>
-      <data key="d2">chunk-7637105a1765e4f05d25f7062315a8cb</data>
-    </node>
-    <node id="&quot;VAGA NA CASA DO(A) ESTUDANTE UNIVERSITÁRIO(A) (CEU)&quot;">
-      <data key="d0">"PROGRAM"</data>
-      <data key="d1">"A program that allows students to work at the university residence, offering a part-time job opportunity."</data>
-      <data key="d2">chunk-7637105a1765e4f05d25f7062315a8cb</data>
-    </node>
-    <node id="&quot;AUXÍLIO TRANSPORTE&quot;">
-      <data key="d0">"PROGRAM"</data>
-      <data key="d1">"A program that provides financial assistance for student transportation."</data>
-      <data key="d2">chunk-7637105a1765e4f05d25f7062315a8cb</data>
+      <data key="d1">"Programa Moradia Estudantil da Graduação (PME-G) is a student housing program offered in the forms of Rent Assistance, Dormitory for University Students, and Transportation Aid."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
     </node>
     <node id="&quot;PROGRAMA AUXÍLIO CRECHE (PACRECHE)&quot;">
-      <data key="d0">"PROGRAM"</data>
-      <data key="d1">"A program providing childcare support for student families."</data>
-      <data key="d2">chunk-7637105a1765e4f05d25f7062315a8cb</data>
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Programa Auxílio Creche (PACreche) is a childcare assistance program."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
     </node>
-    <edge source="&quot;ALEX&quot;" target="&quot;TAYLOR&quot;">
-      <data key="d3">7.0</data>
-      <data key="d4">"Alex is affected by Taylor's authoritarian certainty and observes changes in Taylor's attitude towards the device."</data>
-      <data key="d5">"power dynamics, perspective shift"</data>
-      <data key="d6">chunk-e957d2a51bfff9288b13b4427453063d</data>
-    </edge>
-    <edge source="&quot;ALEX&quot;" target="&quot;JORDAN&quot;">
-      <data key="d3">6.0</data>
-      <data key="d4">"Alex and Jordan share a commitment to discovery, which contrasts with Cruz's vision."</data>
-      <data key="d5">"shared goals, rebellion"</data>
-      <data key="d6">chunk-e957d2a51bfff9288b13b4427453063d</data>
-    </edge>
-    <edge source="&quot;TAYLOR&quot;" target="&quot;JORDAN&quot;">
-      <data key="d3">8.0</data>
-      <data key="d4">"Taylor and Jordan interact directly regarding the device, leading to a moment of mutual respect and an uneasy truce."</data>
-      <data key="d5">"conflict resolution, mutual respect"</data>
-      <data key="d6">chunk-e957d2a51bfff9288b13b4427453063d</data>
-    </edge>
-    <edge source="&quot;TAYLOR&quot;" target="&quot;THE DEVICE&quot;">
+    <node id="&quot;PLATAFORMA DE ACESSO AOS AMBIENTES VIRTUAIS DE APRENDIZAGEM (APRENDER)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Plataforma de Acesso aos Ambientes Virtuais de Aprendizagem (APRENDER) is a platform that provides access to virtual learning environments."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;CENTRO ACADÊMICO (CA)&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Centro Acadêmico (CA) refers to the academic center within an institution of higher education, where students gather for various activities."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;CENTRO DE EDUCAÇÃO A DISTÂNCIA DA UNB (CEAD)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Centro de Educação a Distância da UnB (CEAD) is the distance learning center of the University of Brasília."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;CÂMARA DE ENSINO DE GRADUAÇÃO (CEG)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Câmara de Ensino de Graduação (CEG) is the faculty body responsible for graduate education at the University of Brasília."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;CONSELHO DE ENSINO, PESQUISA E EXTENSÃO (CEPE)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Conselho de Ensino, Pesquisa e Extensão (CEPE) is the council responsible for teaching, research, and outreach at the University of Brasília."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;DECANATO DE ENSINO DE GRADUAÇÃO (DEG)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DECANATO DE ENSEÑO DE GRADUACIÓN (DEG) is a department within the University of Brasília responsible for graduate education."&lt;SEP&gt;"Decanato de Ensino de Graduação (DEG) is the deanship responsible for undergraduate education at the University of Brasília."&lt;SEP&gt;"The Decanato de Ensino de Graduação (DEG) is a unit within the Universidade de Brasília (UnB), possibly associated with graduate education."&lt;SEP&gt;"The Decanato de Ensino de Graduação (DEG) is the division of undergraduate education at UnB."&lt;SEP&gt;"The Decanato de Ensino de Graduação is an administrative body at the University of Brasília responsible for graduate education."</data>
+      <data key="d2">chunk-ac407f61310418797bb84a4df139e830&lt;SEP&gt;chunk-f9ff63049ba3e98452d1c02711fe4da8&lt;SEP&gt;chunk-19ba12cc91f6df25812c8d49583d1695&lt;SEP&gt;chunk-69065f8900adcc5c23cde0bc047686d0&lt;SEP&gt;chunk-1a5dd6915ab901bad633c800a1755091</data>
+    </node>
+    <node id="&quot;INTITUIÇÃO FEDERAL DE ENSINO SUPERIOR (IFE)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Intituição Federal de Ensino Superior (IFE) refers to federal institutions of higher education, which are public and funded by the government."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;ÍNDICE DE RENDIMENTO ACADÊMICO (IRA)&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Índice de Rendimento Acadêmico (IRA) is an academic performance index used to evaluate students or institutions."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;MOODLE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"MOODLE is a popular open-source learning management system used for online courses."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;PROJETO PEDAGÓGICO DO CURSO (PPC)&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Projeto Pedagógico do Curso (PPC) refers to the course curriculum or teaching plan, designed by educators for a specific subject or level."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;SISTEMA ELETRÔNICO DE INFORMAÇÃO (SEI)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Sistema Eletrônico de Informação (SEI) is an electronic information system used by institutions to manage data and resources."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;SISTEMA INTEGRADO DE GESTÃO DE ATIVIDADES ACADÊMICAS (SIGAA)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) is a student management system used by the University of Brasília."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;TRABALHO DE CONCLUSÃO DE CURSO (TCC)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Trabalho de Conclusão de Curso (TCC) refers to the final project or thesis, usually required for graduation from an academic program."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;TRANCAMENTO PARCIAL DE MATRÍCULA EXCEPCIONAL E JUSTIFICADO (TJ)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Trancamento Parcial de Matrícula excepcional e justificado (TJ) refers to a temporary leave of absence from studies with a valid reason."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;TRANCAMENTO PARCIAL DE MATRÍCULA OU TRANCAMENTO AUTOMÁTICO DE DISCIPLINA (TR)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Trancamento Parcial de Matrículado Trancamento Automático de Disciplina (TR) refers to a temporary or permanent withdrawal from a course."</data>
+      <data key="d2">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </node>
+    <node id="&quot;PROF. DR. DIÊGO MADUREIRA DE OLIVEIRA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof. Dr. Diêgo Madureira de Oliveira is the Dean of Graduation Education at the University of Brasilia."&lt;SEP&gt;The Dean of Undergraduate Education at the University, who is mentioned in the document's preface.</data>
+      <data key="d2">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84&lt;SEP&gt;chunk-47cdf8c51a32308ea4b4699ed897edce</data>
+    </node>
+    <node id="&quot;PROF. DR. RAFAEL OLIVEIRA ROCHA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prof. Dr. Rafael Oliveira Rocha is a Director of Academic Integration and Support at the University of Brasilia."&lt;SEP&gt;A director at the University mentioned in the document's preface.</data>
+      <data key="d2">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84&lt;SEP&gt;chunk-47cdf8c51a32308ea4b4699ed897edce</data>
+    </node>
+    <node id="&quot;PROFA. DRA. THAÍS ALVES DA COSTA LAMOUNIER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Profa. Dra. Thaís Alves da Costa Lamounier is a Coordinator of Graduation Internships at the University of Brasilia."&lt;SEP&gt;The coordinator of internships at the University, mentioned in the document's preface.</data>
+      <data key="d2">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84&lt;SEP&gt;chunk-47cdf8c51a32308ea4b4699ed897edce</data>
+    </node>
+    <node id="&quot;RESOLUÇÃO CEPE Nº 104/2021&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Resolution CEPE 104/2021 is an internal University of Brasília regulation regarding stages."&lt;SEP&gt;"Resolução CEPE nº 104/2021 is a resolution passed by the Council of Teaching, Research, and Extension at the University of Brasilia."&lt;SEP&gt;"The Resolução CEPE nº 104/2021 is a university policy that governs internships at the University of Brasilia."&lt;SEP&gt;A specific resolution within the University that deals with internships.</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5&lt;SEP&gt;chunk-19ba12cc91f6df25812c8d49583d1695&lt;SEP&gt;chunk-90c9b5d9dcc0ebcd94a23ecb667edc84&lt;SEP&gt;chunk-47cdf8c51a32308ea4b4699ed897edce</data>
+    </node>
+    <node id="&quot;CESG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CESG is the Coordination of Graduation Internships at the University of Brasilia."&lt;SEP&gt;"Coordenação de Estágios (CESG)"</data>
+      <data key="d2">chunk-49fd5da657bdbf3b4c28d98b6599a846&lt;SEP&gt;chunk-47cdf8c51a32308ea4b4699ed897edce</data>
+    </node>
+    <node id="&quot;DAIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DAIA is the Directorate of Academic Integration and Support at the University of Brasilia."&lt;SEP&gt;"Diretoria de Acompanhamento e Integração Acadêmica (DAIA)"</data>
+      <data key="d2">chunk-49fd5da657bdbf3b4c28d98b6599a846&lt;SEP&gt;chunk-47cdf8c51a32308ea4b4699ed897edce</data>
+    </node>
+    <node id="&quot;DEG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DEG is the Graduation Education Division at the University of Brasilia."&lt;SEP&gt;"Decanato de Ensino de Graduação (DEG)"</data>
+      <data key="d2">chunk-49fd5da657bdbf3b4c28d98b6599a846&lt;SEP&gt;chunk-47cdf8c51a32308ea4b4699ed897edce</data>
+    </node>
+    <node id="&quot;CALENDÁRIO ACADÊMICO POR ATIVIDADES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Academic Calendar of Activities is a source for students to check their schedule."</data>
+      <data key="d2">chunk-47cdf8c51a32308ea4b4699ed897edce</data>
+    </node>
+    <node id="&quot;INSPIRA UNB&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Inspira UnB is a university event or initiative, its name not being explicitly specified in the text."</data>
+      <data key="d2">chunk-47cdf8c51a32308ea4b4699ed897edce</data>
+    </node>
+    <node id="&quot;SUPPORT.OFFICE.COM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"support.office.com is an online support resource for issues related to Office 365."</data>
+      <data key="d2">chunk-47cdf8c51a32308ea4b4699ed897edce</data>
+    </node>
+    <node id="&quot;MÓDULO DE ESTÁGIO DO SIGAA&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The module of internships in the SIGAA system is used for managing student internships at the University of Brasilia."</data>
+      <data key="d2">chunk-47cdf8c51a32308ea4b4699ed897edce</data>
+    </node>
+    <node id="&quot;TERMO ADITIVO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Termo Aditivo is an additional agreement or contract related to a student's internship."</data>
+      <data key="d2">chunk-47cdf8c51a32308ea4b4699ed897edce</data>
+    </node>
+    <node id="&quot;RELATÓRIO DE ATIVIDADES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Relatório de Atividades is a report detailing the activities completed during a student's internship."</data>
+      <data key="d2">chunk-47cdf8c51a32308ea4b4699ed897edce</data>
+    </node>
+    <node id="&quot;ESTÁGIO CURRICULAR OBRIGATÓRIO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Mandatory Curricular Stage is a required component of the course that must be completed for graduation. It usually does not provide a company stipend or transportation voucher, but may offer remuneration from the company if a formal agreement is in place with the University of Brasília (UnB)."&lt;SEP&gt;An obligatory stage of the curriculum where the student must participate to graduate.</data>
+      <data key="d2">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84&lt;SEP&gt;chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </node>
+    <node id="&quot;LEI FEDERAL DE ESTÁGIO Nº 11.788/2008&quot;">
+      <data key="d0">"LAW"</data>
+      <data key="d1">"Federal Law 11.788/2008 regulates both mandatory and optional stages for students."&lt;SEP&gt;"The Lei Federal de Estágio nº 11.788/2008 is a federal law that regulates internships in Brazil."</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5&lt;SEP&gt;chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </node>
+    <node id="&quot;EMPRESA/ESCOLA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Companies or schools are involved in mandatory and optional stages for students."</data>
+      <data key="d2">chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </node>
+    <node id="&quot;CONVENIO FORMALIZADO COM A UNIVERSIDADE DE BRASÍLIA (UNB)&quot;">
+      <data key="d0">"AGREEMENT"</data>
+      <data key="d1">"A formal agreement between the company/school and the University of Brasília is required for some types of mandatory or optional stages."</data>
+      <data key="d2">chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </node>
+    <node id="&quot;TCE (TERMO DE COMPROMISSO DE ESTÁGIO)&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"The Termo de Compromisso de Estágio (TCE) is a legal document signed by all parties involved in the stage."</data>
+      <data key="d2">chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </node>
+    <node id="&quot;SEGURO CONTRA ACIDENTES PESSOAIS&quot;">
+      <data key="d0">"INSURANCE"</data>
+      <data key="d1">"Personal accident insurance is required for mandatory and optional stages."&lt;SEP&gt;"Seguro contra acidentes pessoais refers to insurance against personal accidents required for internships."</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5&lt;SEP&gt;chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </node>
+    <node id="&quot;PLANOS DE ATIVIDADES&quot;">
+      <data key="d0">"PLAN"</data>
+      <data key="d1">"Plans of activities are required for both mandatory and optional stages to ensure they align with the student's course objectives."</data>
+      <data key="d2">chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </node>
+    <node id="&quot;PROFESSOR(A) ORIENTADOR(A)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The professor or academic advisor oversees the student during their stage."</data>
+      <data key="d2">chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </node>
+    <node id="&quot;DISCIPLINAS OU OUTRAS ATIVIDADES ACADÊMICAS DESENVOLVIDAS PELO(A) DISCENTE&quot;">
+      <data key="d0">"ACADEMIC ACTIVITIES"</data>
+      <data key="d1">"Academic activities developed by the student, such as classes or other academic requirements, should not conflict with the stage."</data>
+      <data key="d2">chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </node>
+    <node id="&quot;CARGA HORÁRIA DIÁRIA E SEMANAL NÃO PODE ULTRAPASSAR 6H E 30H&quot;">
+      <data key="d0">"WORK HOURS"</data>
+      <data key="d1">"The daily and weekly work hours for a stage should not exceed 6 hours and 30 hours, except in cases where the course plan allows for exceptional circumstances."</data>
+      <data key="d2">chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </node>
+    <node id="&quot;EXCEPCIONALIDADE PREVISTA NA LEI&quot;">
+      <data key="d0">"EXCEPTION"</data>
+      <data key="d1">"The law allows for exceptions to the daily and weekly work hour limits in certain cases."</data>
+      <data key="d2">chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </node>
+    <node id="&quot;MATRÍCULA NO COMPONENTE CURRICULAR DE ESTÁGIO OBRIGATÓRIO&quot;">
+      <data key="d0">"REGISTRATION"</data>
+      <data key="d1">"Students must be registered for the mandatory stage course component to participate."</data>
+      <data key="d2">chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </node>
+    <node id="&quot;SIGAA (SISTEMA INTEGRADO DE GESTÃO ACADÊMICA DA UNB)&quot;">
+      <data key="d0">"SYSTEM"</data>
+      <data key="d1">"The SIGAA system is used for registering stages at the University of Brasília."</data>
+      <data key="d2">chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </node>
+    <node id="&quot;PPCS DOS CURSOS&quot;">
+      <data key="d0">"CURRICULUM"</data>
+      <data key="d1">"Course plans specify the requirements and expectations for mandatory and optional stages."</data>
+      <data key="d2">chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </node>
+    <node id="&quot;DIRETORIA DE ACOMPANHAMENTO E INTEGRAÇÃO ACADÊMICA (DAIA)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DIRECCIÓN DE ACOMPAÑAMIENTO Y INTEGRACIÓN ACADÉMICA (DAIA) is a department within the University of Brasília responsible for academic follow-up and integration."&lt;SEP&gt;"The DAIA is a department within the University of Brasília responsible for academic accompaniment and integration."&lt;SEP&gt;"The Diretoria de Acompanhamento e Integração Acadêmica (DAIA) is a department of the University of Brasília (UnB). It plays a role in providing academic support and guidance to students."&lt;SEP&gt;"The Diretoria de Acompanhamento e Integração Acadêmica (DAIA) is a department of the University of Brasília (UnB)."&lt;SEP&gt;"The Diretoria de Acompanhamento e Integração Acadêmica (DAIA) is a department within the Decanato de Ensino de Graduação (DEG), responsible for academic guidance and integration."&lt;SEP&gt;"The Diretoria de Acompanhamento e Integração Acadêmica (DAIA) is a unit within the Universidade de Brasília (UnB), responsible for academic monitoring and integration."&lt;SEP&gt;"The Diretoria de Acompanhamento e Integração Acadêmica (DAIA) is the department of academic guidance and integration at UnB."&lt;SEP&gt;"The Diretória de Acompanhamento e Integração Acadêmica is an administrative body at the University of Brasília responsible for student support and academic integration."&lt;SEP&gt;A department at the University responsible for academic guidance and integration.</data>
+      <data key="d2">chunk-ac407f61310418797bb84a4df139e830&lt;SEP&gt;chunk-f9ff63049ba3e98452d1c02711fe4da8&lt;SEP&gt;chunk-a6bd9c133e851de0c23f808943eeda2d&lt;SEP&gt;chunk-5a080acc0efc63e3b6d8a356d163a71d&lt;SEP&gt;chunk-90c9b5d9dcc0ebcd94a23ecb667edc84&lt;SEP&gt;chunk-19ba12cc91f6df25812c8d49583d1695&lt;SEP&gt;chunk-1a5dd6915ab901bad633c800a1755091</data>
+    </node>
+    <node id="&quot;COORDENAÇÃO DE ESTÁGIOS (CESG)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CESG is an event, possibly a coordination meeting or series of meetings related to internships or student placements."&lt;SEP&gt;"COORDENACIÓN DE ESTÁGIOS (CESG) is a subdivision within the University of Brasília responsible for coordinating internships."&lt;SEP&gt;"The Coordenação de Estágios (CESG) is a department of the University of Brasília (UnB), responsible for coordinating internships."&lt;SEP&gt;"The Coordenação de Estágios (CESG) is a subunit within the Diretoria de Acompanhamento e Integração Acadêmica (DAIA), responsible for managing stages."&lt;SEP&gt;"The Coordenação de Estágios (CESG) is the division responsible for managing internships at UnB."&lt;SEP&gt;"The Coordenação de Estágios is an administrative body at the University of Brasília responsible for managing stages."</data>
+      <data key="d2">chunk-ac407f61310418797bb84a4df139e830&lt;SEP&gt;chunk-f9ff63049ba3e98452d1c02711fe4da8&lt;SEP&gt;chunk-a6bd9c133e851de0c23f808943eeda2d&lt;SEP&gt;chunk-5a080acc0efc63e3b6d8a356d163a71d&lt;SEP&gt;chunk-19ba12cc91f6df25812c8d49583d1695&lt;SEP&gt;chunk-1a5dd6915ab901bad633c800a1755091</data>
+    </node>
+    <node id="&quot;DISCENTE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The student is the individual who will start the process of registering for an internship."</data>
+      <data key="d2">chunk-49fd5da657bdbf3b4c28d98b6599a846</data>
+    </node>
+    <node id="&quot;PRÉ-CADASTRO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Pre-Cadastro is an event where students start the process of registering their internships."</data>
+      <data key="d2">chunk-49fd5da657bdbf3b4c28d98b6599a846</data>
+    </node>
+    <node id="&quot;CONTRAPRESTAÇÃO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Contraprestação refers to payment or compensation, such as scholarships and transportation allowances."</data>
+      <data key="d2">chunk-49fd5da657bdbf3b4c28d98b6599a846</data>
+    </node>
+    <node id="&quot;CNPJ&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"CNPJ stands for Cadastro Nacional de Pessoas Jurídicas (National Registry of Legal Entities), which is a Brazilian tax identification number for businesses and non-profit organizations."&lt;SEP&gt;"CNPJ stands for Código Nacional de Identificação de Pessoa Jurídica e is a Brazilian federal tax number for legal entities."</data>
+      <data key="d2">chunk-5a080acc0efc63e3b6d8a356d163a71d&lt;SEP&gt;chunk-49fd5da657bdbf3b4c28d98b6599a846</data>
+    </node>
+    <node id="&quot;ESTÁGIO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Estágio is the internship or work experience required for a student's degree program within the University of Brasília."</data>
+      <data key="d2">chunk-1a5dd6915ab901bad633c800a1755091</data>
+    </node>
+    <node id="&quot;TIPO DE ORIENTADOR&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"This entity represents a decision-making process where students select their professor or advisor."&lt;SEP&gt;"Type of Advisor refers to a category to determine if the advisor is an internal professor or a voluntary one."</data>
+      <data key="d2">chunk-1a5dd6915ab901bad633c800a1755091&lt;SEP&gt;chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;DOCENTE INTERNO&quot;">
+      <data key="d0">"PERSON, ROLE"</data>
+      <data key="d1">"Docente Interno refers to a permanent faculty member who serves as an advisor for students' internships."&lt;SEP&gt;"This entity represents a type of professor or advisor that is an employee of the University of Brasília."</data>
+      <data key="d2">chunk-1a5dd6915ab901bad633c800a1755091&lt;SEP&gt;chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;DOCENTE VOLUNTÁRIO&quot;">
+      <data key="d0">"PERSON, ROLE"</data>
+      <data key="d1">"Docente Voluntário is a non-permanent educator who volunteers to serve as an advisor for students' internships."</data>
+      <data key="d2">chunk-1a5dd6915ab901bad633c800a1755091</data>
+    </node>
+    <node id="&quot;SUPERVISOR(A)&quot;">
+      <data key="d0">"PERSON, ROLE"</data>
+      <data key="d1">"Supervisor refers to the professional responsible for supervising and guiding the student during their work experience."&lt;SEP&gt;"The supervisor(a) is responsible for overseeing and guiding the student's internship activities."</data>
+      <data key="d2">chunk-1a5dd6915ab901bad633c800a1755091&lt;SEP&gt;chunk-5a080acc0efc63e3b6d8a356d163a71d</data>
+    </node>
+    <node id="&quot;DIRETORIA DE ACOMPANHAMENTO E INTEGRAÇÃO ACADÊMICA – COORDENAÇÃO DE ESTÁGIOS (CESG)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Diretoria de Acompanhamento e Integração Acadêmica - Coordenação de Estágios (CESG) is a division within the DAIA, specifically responsible for managing internships."</data>
+      <data key="d2">chunk-f9ff63049ba3e98452d1c02711fe4da8</data>
+    </node>
+    <node id="&quot;SECRETARIA/COORDENAÇÃO OU PROFESSOR(A) ORIENTADOR(A)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Secretaria/coordenação or professor/advisor is the person the student should send their termination of internship document to."</data>
+      <data key="d2">chunk-f9ff63049ba3e98452d1c02711fe4da8</data>
+    </node>
+    <node id="&quot;TERMO DE RESCISÃO OU CANCELAMENTO DO ESTÁGIO NÃO OBRIGATÓRIO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Termo de Rescisão ou Cancelamento do Estágio não Obrigatório is the document a student may need to send if they decide to terminate their internship."</data>
+      <data key="d2">chunk-f9ff63049ba3e98452d1c02711fe4da8</data>
+    </node>
+    <node id="&quot;COORDENAÇÃO DE ESTÁGIOS DE GRADUAÇÃO (CESG)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">A part of the University that works on coordinating graduate internships.</data>
+      <data key="d2">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84</data>
+    </node>
+    <node id="&quot;DECANATO DE ENSINO E GRADUAÇÃO (DEG)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">An educational management division of the University.</data>
+      <data key="d2">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84</data>
+    </node>
+    <node id="&quot;PLANOS POLÍTICOS PEDAGÓGICOS DOS CURSOS (PPC)&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">The curriculum plans for courses, which include internships as a required component.</data>
+      <data key="d2">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84</data>
+    </node>
+    <node id="&quot;LEI DE ESTÁGIO Nº 11.788/2008&quot;">
+      <data key="d0">"LAW"</data>
+      <data key="d1">A Brazilian law that regulates internships.</data>
+      <data key="d2">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84</data>
+    </node>
+    <node id="&quot;CONVÊNIO FORMAL&quot;">
+      <data key="d0">"CONTRACT"</data>
+      <data key="d1">A formal agreement between the University and an external institution or company, for instance regarding internships.</data>
+      <data key="d2">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84</data>
+    </node>
+    <node id="&quot;STUDENT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"A student is a participant in the university, who completes courses and undertakes internships."</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </node>
+    <node id="&quot;CURRICULAR OBLIGATORY INTERNSHIP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Curricular Obligatory Internship is a required part of the curriculum that students must complete to graduate."</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </node>
+    <node id="&quot;NON-CURRICULAR INTERNSHIP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Non-Curricular Internship is an optional part of the curriculum that requires payment by the company."</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </node>
+    <node id="&quot;CONVÊNIO&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"Convênio refers to a formal agreement between the university and the company for offering internships."</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </node>
+    <node id="&quot;HORA DIÁRIA MÁXIMA&quot;">
+      <data key="d0">"TIME"</data>
+      <data key="d1">"Hora diária máxima is the maximum daily working hours for interns as stipulated by law."</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </node>
+    <node id="&quot;HORA SEMANAL MÁXIMA&quot;">
+      <data key="d0">"TIME"</data>
+      <data key="d1">"Hora semanal máxima is the maximum weekly working hours for interns as stipulated by law."</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </node>
+    <node id="&quot;LEI DE EXCEPCIONALIDADE PREVISTA NA LEI&quot;">
+      <data key="d0">"LAW"</data>
+      <data key="d1">"The Lei de Excepcionalidade prevista na lei allows for exceptions in the maximum working hours for interns as per the course requirements."</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </node>
+    <node id="&quot;CARGA HORÁRIA DIÁRIA&quot;">
+      <data key="d0">"TIME"</data>
+      <data key="d1">"Carga horária diária refers to daily workload allowed for interns."</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </node>
+    <node id="&quot;CARGA HORÁRIA SEMANAL&quot;">
+      <data key="d0">"TIME"</data>
+      <data key="d1">"Carga horária semanal refers to weekly workload allowed for interns."</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </node>
+    <node id="&quot;SUPERVISOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Supervisor is the person responsible for guiding and overseeing an intern's work during their internship."</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </node>
+    <node id="&quot;DISCIPLINA OU OUTRAS ATIVIDADES ACADÊMICAS&quot;">
+      <data key="d0">"ACTIVITY"</data>
+      <data key="d1">"Disciplina ou outras atividades acadêmicas refers to academic activities or courses that might clash with an intern's work schedule."</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </node>
+    <node id="&quot;PPC DO CURSO&quot;">
+      <data key="d0">"POLICY"</data>
+      <data key="d1">"PPC do curso is a course-specific policy that determines the exceptions allowed in maximum working hours for interns."</data>
+      <data key="d2">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </node>
+    <node id="&quot;DECANATO DE ENSENHO DE GRADUAÇÃO (DEG)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The DECANATO DE ENsENHO DE GRADUAÇÃO (DEG) is a department of the University of Brasília (UnB)."</data>
+      <data key="d2">chunk-5a080acc0efc63e3b6d8a356d163a71d</data>
+    </node>
+    <node id="&quot;DISCENTE (STUDENT)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Discente (student) will be completing their internship at an organization."</data>
+      <data key="d2">chunk-5a080acc0efc63e3b6d8a356d163a71d</data>
+    </node>
+    <node id="&quot;CONCEDENTE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Concedente refers to the organization where the student's internship will take place."</data>
+      <data key="d2">chunk-5a080acc0efc63e3b6d8a356d163a71d</data>
+    </node>
+    <node id="&quot;QUEM SERÁ MEU PROFESSOR(A) ORIENTADOR(A)?&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"This entity represents a question asking who will be the student's professor or advisor for their course of study."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;O(A) PROFESSOR(A) DO SEU CURSO DE GRADUAÇÃO QUE VAI ASSINAR O TERMO DE COMPROMISSO OU DOCUMENTO DE ESTÁGIO!&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"This entity is the professor or advisor who will sign the student's agreement or documentation for their internship."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;DIRETORIA DE ACOMPANHAMENTO E INTEGRAÇÃO ACADÊMICA (DAIA) – COORDENAÇÃO DE ESTÁGIOS (CESG)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The DAIA-CESG is a specific event or series of events related to internships or student placements."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;UNIVERSIDADE DE BRASÍLIA (UNB) – DECANATO DE ENSINO DE GRADUAÇÃO (DEG)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Brasília's Graduate Studies Dean's Office is the organizational entity hosting the events."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;SELECIONAR EM TIPO DE ORIENTADOR: DOCENTE INTERNO E INSERIR OS DADOS DO(A) PROFESSOR(A).&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The event involves students selecting their advisor and inputting the details of an internal faculty member."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;SE FOR INTEGRADORA COMO CIEE, AGIEL, UPA, FECOMÉRCIO ENTRE OUTRAS, CADASTRAR EM LOCAL DE ESTÁGIO OS DADOS DA EMPRESA ONDE SERÁ REALIZADO O ESTÁGIO (APENAS CNPJ E NOME).&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The event involves registering the details of an external company where the internship will take place, for entities such as CIEE, AGIEL, UPA, FECOMÉRCIO."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;CADASTRAR SUPERVISOR(A) DE ESTÁGIO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The event involves registering the supervisor for the internship."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;NOS CAMPOS DO SUPERVISOR DO ESTÁGIO, CLICAR EM: SUPERVISOR → SELECIONAR CADASTRAR SUPERVISOR.&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The event involves clicking on 'Supervisor' and selecting 'Cadastrar Supervisor' to register the supervisor."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;HORÁRIO DO ESTÁGIO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The event involves scheduling the internship hours."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;INSCRIÇÃO CNPJ DA SEGURADORA, NOME DA SEGURADORA E APÓLICE DO SEGURO.&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The event involves registering the insurance information for the internship."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;ATENÇÃO! AS INFORMAÇÕES SOBRE A SEGURADORA DO ESTÁGIO NÃO OBRIGATÓRIO SÃO FORNECIDAS PELA EMPRESA OU PELA INTEGRADORA (CIEE, AGIEL, ETC).&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The event involves information about the internship's insurance being provided by the company or integrator."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;PREECHER: A DATA DE INÍCIO DO ESTÁGIO (NÃO PODE SER DATA RETROATIVA DE 1 DIA!); DATA DE FIM DO ESTÁGIO; AS ATIVIDADES NO PLANO DE TRABALHO → CLICAR EM CONTINUAR → DEPOIS CLICAR EM CONFIRMAR.&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The event involves filling out the start and end dates of the internship, the activities on the work plan, and clicking 'Continue' and then 'Confirm'."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;VERIFICAR A MENSAGEM: OPERAÇÃO REALIZADA COM SUCESSO!&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The event involves verifying that the operation has been successful."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;APÓS O REGISTRO DO ESTÁGIO NÃO OBRIGATÓRIO, O(A) DISCENTE DEVERÁ ENCAMINHAR PARA A SECRETARIA/COORDENAÇÃO OU O(A) PROFESSOR(A) ORIENTADOR(A) O ARQUIVO DO TCE ESCANEADO, COM TODAS AS ASSINATURAS, NO FORMATO PDF, COM BOA QUALIDADE DE DIGITALIZAÇÃO E NITIDEZ!&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The event involves the student sending the scanned TCE document with all signatures to the secretariat or professor or advisor."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;SECRETARIA/COORDENAÇÃO DO CURSO OU O(A) PROFESSOR(A) ORIENTADOR(A) VAI DAR O ENCAMINHAMENTO DO PROCESSO E AVISAR AO DISCENTE SOBRE A SUA MATRÍCULA NO SIGAA.&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The event involves the secretariat or advisor forwarding the student's registration and informing them of their enrollment in the SIGAA."</data>
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </node>
+    <node id="&quot;LEI 11.788/2008&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Lei 11.788/2008 is a law that governs the preenchimento (filling out) of periodic and final reports for stages."</data>
+      <data key="d2">chunk-ac407f61310418797bb84a4df139e830</data>
+    </node>
+    <node id="&quot;AÇÕES (ÍCONE MAIS À DIREITA, AO LADO DA SITUAÇÃO ATIVO)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Actions is an event where you can visualize and preencher (fill out) reports related to stages."</data>
+      <data key="d2">chunk-ac407f61310418797bb84a4df139e830</data>
+    </node>
+    <node id="&quot;SALVAR E ENVIAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Save and Send is the action taken when a report is filled out and submitted."</data>
+      <data key="d2">chunk-ac407f61310418797bb84a4df139e830</data>
+    </node>
+    <node id="&quot;SISTEMA&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The system is a software tool used for managing, filling out, and submitting reports related to stages."</data>
+      <data key="d2">chunk-ac407f61310418797bb84a4df139e830</data>
+    </node>
+    <node id="&quot;PPC&quot;">
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+      <data key="d1">"The academic plan or curriculum of the course defines the student's future professional profile."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CURRICULUM STRUCTURE&quot;">
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+      <data key="d1">"The Ministry of Education's laws and specific orientations influence the curriculum structure."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;MEC&quot;">
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+      <data key="d1">"The Ministry of Education's laws and specific orientations influence the curriculum structure."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;GRADUATION&quot;">
+      <data key="d2">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+      <data key="d1">"Monographies are extensive research projects that students must complete to graduate."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;PARTICIPAÇÃO EM EVENTOS CIENTÍFICOS, ARTÍSTICOS OU CULTURAIS&quot;">
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a</data>
+      <data key="d1">"Participation in scientific, artistic or cultural events is considered a complementary activity for students."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;REALIZAÇÃO DE CURSOS E MINICURSOS EXTERNOS À UNB&quot;">
+      <data key="d2">chunk-96a7086e478d3df01d362bce62a3701a</data>
+      <data key="d1">"Taking external courses and mini-courses can be considered a complementary activity for students."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CEAD&quot;">
+      <data key="d2">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+      <data key="d1">"The Centre of Distance Education (CEAD) manages the APRENDER platform and provides technical support to students."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;TRANCAMENTO DE MATRÍCULA&quot;">
+      <data key="d2">chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
+      <data key="d1">"The trancamento de matrícula process has a unique SEI number for tracking purposes."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CERTIFICADOS OU DIPLOMAS OBTIDOS&quot;">
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+      <data key="d1">"Foreign language credits can be obtained by presenting certificates or diplomas."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CONCESSÃO DE CRÉDITOS&quot;">
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+      <data key="d1">"Foreign language credits can be obtained by presenting certificates or diplomas."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;MUDANÇA DE CURSO E DUPLA DIPLOMAÇÃO&quot;">
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+      <data key="d1">"The UnB allows students to change courses and even earn two degrees."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CONDIÇÃO IMPOSTA&quot;">
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+      <data key="d1">"Students at risk of academic termination must fulfill certain conditions to avoid it."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;RISCO DE DESLIGAMENTO&quot;">
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+      <data key="d1">"Students at risk of academic termination must fulfill certain conditions to avoid it."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;DISCIPLINA OBRIGATÓRIA&quot;">
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+      <data key="d1">"Required courses must be taken at the UnB for credit transfer."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;REPROVADO(A)&quot;">
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+      <data key="d1">"A student can be academically terminated if they have three fails in the same course."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CONDIÇÃO&quot;">
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+      <data key="d1">"A study plan can be required as a condition for avoiding academic termination."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;PLANO DE ESTUDO ELABORADO POR UM(A) PROFESSOR(A)&quot;">
+      <data key="d2">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+      <data key="d1">"A study plan can be required as a condition for avoiding academic termination."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;STUDENTS WITH SPECIFIC NEEDS&quot;">
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+      <data key="d1">"Students with specific needs can seek help from the DAC to facilitate their academic progress."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;VOCÊ&quot;">
+      <data key="d2">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+      <data key="d1">"The student can voice their opinions, criticisms, or compliments about any university-related matters through the student representative bodies at UnB."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ESTAGIÁRIO(A)&quot;">
+      <data key="d2">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+      <data key="d1">"The Contract outlines the terms and conditions of the internship agreement between the student and company.")</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;DECANATO DE ENSEÑO DE GRADUACIÓN (DEG)&quot;">
+      <data key="d2">chunk-1a5dd6915ab901bad633c800a1755091</data>
+      <data key="d1">"The graduate education department is responsible for providing educators to students.")</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;DIRECCIÓN DE ACOMPAÑAMIENTO Y INTEGRACIÓN ACADÉMICA (DAIA)&quot;">
+      <data key="d2">chunk-1a5dd6915ab901bad633c800a1755091</data>
+      <data key="d1">"The department of academic follow-up and integration is responsible for providing educators to students.")</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;COORDENACIÓN DE ESTÁGIOS (CESG)&quot;">
+      <data key="d2">chunk-1a5dd6915ab901bad633c800a1755091</data>
+      <data key="d1">"The internship coordination department is responsible for providing educators to students during their work experience.")</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;DOCENTE INTERNO / DOCENTE VOLUNTÁRIO&quot;">
+      <data key="d2">chunk-1a5dd6915ab901bad633c800a1755091</data>
+      <data key="d1">"Type of Advisor"</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;THE STUDENT&quot;">
+      <data key="d2">chunk-f9ff63049ba3e98452d1c02711fe4da8</data>
+      <data key="d1">"The Student needs help with their internship registration from UnB."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;QUEM SERÁ MEU PROFESSOR(A) ORIENTADOR(A)&quot;">
+      <data key="d2">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+      <data key="d1">"The question asks for the name of the professor or advisor who will sign the student's agreement or documentation."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;GRADUAÇÃO UNB&quot;" target="&quot;PROF.? MÁRCIA ABRAHÃO MOURA&quot;">
       <data key="d3">9.0</data>
-      <data key="d4">"Taylor shows reverence towards the device, indicating its importance and potential impact."</data>
-      <data key="d5">"reverence, technological significance"</data>
+      <data key="d4">"The rector at UnB is involved in the graduation ceremony.")</data>
+      <data key="d5">"rector, organization event"</data>
       <data key="d6">chunk-e957d2a51bfff9288b13b4427453063d</data>
     </edge>
-    <edge source="&quot;JORDAN&quot;" target="&quot;CRUZ&quot;">
-      <data key="d3">5.0</data>
-      <data key="d4">"Jordan's commitment to discovery is in rebellion against Cruz's vision of control and order."</data>
-      <data key="d5">"ideological conflict, rebellion"</data>
+    <edge source="&quot;GRADUAÇÃO UNB&quot;" target="&quot;PROF. ENRIQUE HUELVA UNTERNBÃUMEN&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The vice-rector at UnB is involved in the graduation ceremony.")</data>
+      <data key="d5">("vice-rector, organization event"</data>
       <data key="d6">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </edge>
+    <edge source="&quot;GRADUAÇÃO UNB&quot;" target="&quot;PROF. DIÊGO MADUREIRA&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The dean of Undergraduate Studies at UnB is involved in the graduation ceremony.")</data>
+      <data key="d5">("dean, organization event"</data>
+      <data key="d6">chunk-e957d2a51bfff9288b13b4427453063d</data>
+    </edge>
+    <edge source="&quot;UNB&quot;" target="&quot;REITORA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The rector of UnB sends a message to new students congratulating them on their admission."</data>
+      <data key="d5">"congratulation, communication"</data>
+      <data key="d6">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
+    </edge>
+    <edge source="&quot;UNB&quot;" target="&quot;REGISTRO ACADÊMICO&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Registration academic event where students officially become part of the University."</data>
+      <data key="d5">"registration, affiliation"</data>
+      <data key="d6">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
+    </edge>
+    <edge source="&quot;UNB&quot;" target="&quot;SIGAA&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The University of Brasília uses SIGAA for academic and administrative management."</data>
+      <data key="d5">"educational management, technology use"</data>
+      <data key="d6">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </edge>
+    <edge source="&quot;UNB&quot;" target="&quot;PORTAL PÚBLICO DO SIGAA&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Public Portal of SIGAA is a technology used by UnB for academic and administrative management."</data>
+      <data key="d5">"educational management, technology use"</data>
+      <data key="d6">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </edge>
+    <edge source="&quot;UNB&quot;" target="&quot;DIPLOMA&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The diploma is issued by UnB."</data>
+      <data key="d5">"document issuance, university affiliation"</data>
+      <data key="d6">chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
+    </edge>
+    <edge source="&quot;UNB&quot;" target="&quot;MUDANÇA DE CURSO E DUPLA DIPLOMAÇÃO&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The UnB allows students to change courses and even earn two degrees."</data>
+      <data key="d5">"educational flexibility, multiple qualifications"</data>
+      <data key="d6">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </edge>
+    <edge source="&quot;UNB&quot;" target="&quot;SAA&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The SAA is a department or office at the UnB that provides information about academic regulations and procedures."</data>
+      <data key="d5">"institutional relationship, administrative role"</data>
+      <data key="d6">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </edge>
+    <edge source="&quot;UNB&quot;" target="&quot;DEG&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The University of Brasília (UnB) is associated with the Decanato de Ensino de Graduação (DEG)."</data>
+      <data key="d5">"educational department, organization relationship"</data>
+      <data key="d6">chunk-49fd5da657bdbf3b4c28d98b6599a846</data>
+    </edge>
+    <edge source="&quot;REGISTRO ACADÊMICO&quot;" target="&quot;PROCESSO SELETIVOS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The selection process is a prerequisite for the registration academic event."</data>
+      <data key="d5">"selection, registration"</data>
+      <data key="d6">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
+    </edge>
+    <edge source="&quot;REGISTRO ACADÊMICO&quot;" target="&quot;NÚMERO DE MATRÍCULA&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The registration academic event requires the number of matriculation to be provided."</data>
+      <data key="d5">"registration, number assignment"</data>
+      <data key="d6">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
+    </edge>
+    <edge source="&quot;SIGAA&quot;" target="&quot;STUDENTS&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"The students use the SIGAA portal for various academic tasks, including enrollment."&lt;SEP&gt;"The students use the SIGAA portal to enroll in their courses."</data>
+      <data key="d5">"academic administration, technology"&lt;SEP&gt;"enrollment, technology"</data>
+      <data key="d6">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </edge>
+    <edge source="&quot;SIGAA&quot;" target="&quot;VOCÊ&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The student can use SIGAA to evaluate courses and professors from the previous semester, helping identify problems and improve teaching quality."</data>
+      <data key="d5">"course evaluation, faculty feedback"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;SIGAA&quot;" target="&quot;DISCENTE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The student will use SIGAA to register for their internship."</data>
+      <data key="d5">"registration, technology usage"</data>
+      <data key="d6">chunk-49fd5da657bdbf3b4c28d98b6599a846</data>
+    </edge>
+    <edge source="&quot;SIGAA&quot;" target="&quot;THE STUDENT&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Student uses SIGAA to register for and manage their internship."</data>
+      <data key="d5">"technology interaction, management"</data>
+      <data key="d6">chunk-f9ff63049ba3e98452d1c02711fe4da8</data>
+    </edge>
+    <edge source="&quot;PROCESSO SELETIVOS&quot;" target="&quot;INSCRIÇÃO DO PROCESSO SELETIVO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The registration process is associated with the selection processes."</data>
+      <data key="d5">"registration, selection"</data>
+      <data key="d6">chunk-49c404738092a3fab90cd0e5ca0d0d7c</data>
+    </edge>
+    <edge source="&quot;CURRÍCULO DO CURSO&quot;" target="&quot;PPC&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The academic plan or curriculum of the course defines the student's future professional profile."</data>
+      <data key="d5">"career path, educational structure"</data>
+      <data key="d6">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </edge>
+    <edge source="&quot;CURRÍCULO DO CURSO&quot;" target="&quot;DISCIPLINAS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Disciplines are required components of the curriculum that a student must complete to graduate."</data>
+      <data key="d5">"course requirements, academic progress"</data>
+      <data key="d6">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </edge>
+    <edge source="&quot;CURRÍCULO DO CURSO&quot;" target="&quot;ESTÁGIOS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Internships or practicums provide practical experience and are part of the curriculum."</data>
+      <data key="d5">"practical learning, professional development"</data>
+      <data key="d6">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </edge>
+    <edge source="&quot;CURRÍCULO DO CURSO&quot;" target="&quot;AÇÕES DE EXTENSÃO&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Community outreach activities enrich a student's academic experience and may be part of the curriculum."</data>
+      <data key="d5">"community engagement, personal development"</data>
+      <data key="d6">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </edge>
+    <edge source="&quot;CURRÍCULO DO CURSO&quot;" target="&quot;ATIVIDADES COMPLEMENTARES&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Complementary Activities are optional components of the curriculum that aim to enrich a student's academic experience."</data>
+      <data key="d5">"academic enrichment, personal development"</data>
+      <data key="d6">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </edge>
+    <edge source="&quot;PORTAL DO ESTUDANTE&quot;" target="&quot;STUDENT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Student Portal provides information specific to students on the curriculum structure and other matters."</data>
+      <data key="d5">"student resources, academic information"</data>
+      <data key="d6">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </edge>
+    <edge source="&quot;OUTROS&gt;COORDENAÇÃO DE CURSO&gt;ATENDIMENTO AO ALUNO&quot;" target="&quot;STUDENT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Sending a message directly to the course coordinator via 'Other &gt; Coordination of Course &gt; Student Assistance' option on SIGAA allows students to address specific concerns or ask questions."</data>
+      <data key="d5">"communication with instructors, student support"</data>
+      <data key="d6">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </edge>
+    <edge source="&quot;MONOGRAFIAS&quot;" target="&quot;GRADUATION&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Monographies are extensive research projects that students must complete to graduate."</data>
+      <data key="d5">"research, academic achievement"</data>
+      <data key="d6">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </edge>
+    <edge source="&quot;TRABALHOS DE CONCLUSÃO DE CURSO (TCC)&quot;" target="&quot;GRADUATION&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Thesis or Final Project is a comprehensive research project that students must complete to graduate."</data>
+      <data key="d5">"academic achievement, graduation requirement"</data>
+      <data key="d6">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </edge>
+    <edge source="&quot;ATIVIDADES COMPLEMENTARES&quot;" target="&quot;UNIVERSIDADE DE BRASÍLIA (UNB) CURRICULAR STRUCTURE (CURRÍCULO)&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Complementary activities are not part of the required components but can contribute to student development as per the UnB Curricular Structure."</data>
+      <data key="d5">"complementarity, contribution to student development"</data>
+      <data key="d6">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE ABERTA DO BRASIL (UAB)&quot;" target="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Universidade Aberta do Brasil (UAB) is a part of the Universidade de Brasília (UnB)."</data>
+      <data key="d5">"affiliation, organization"</data>
+      <data key="d6">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE ABERTA DO BRASIL (UAB)&quot;" target="&quot;ENSINO SUPERIOR (IFES)&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Universidade Aberta do Brasil (UAB) and Ensino Superior (IFES) are both distance learning programs offered by various Federal Institutions of Higher Education."</data>
+      <data key="d5">"distance learning, affiliation"</data>
+      <data key="d6">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;PROGRAMA UNIVERSIDADE ABERTA DO BRASIL (UAB)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Universidade de Brasília (UnB) offers the Program UAB as a distance learning program."</data>
+      <data key="d5">"distance learning, offering"</data>
+      <data key="d6">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;CURSO&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The University of Brasilia (UnB) offers various courses providing opportunities for students.")</data>
+      <data key="d5">("academic offerings, opportunity")</data>
+      <data key="d6">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;EMPRESA&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Companies hire students from the University of Brasilia (UnB) for internships.")</data>
+      <data key="d5">("hiring, education institution relationship")</data>
+      <data key="d6">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;PROGRAMA DE INICIAÇÃO CIENTÍFICA (PROLC)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The University of Brasilia (UnB) hosts the Program of Scientific Initiation (ProlC)."</data>
+      <data key="d5">"education, research"</data>
+      <data key="d6">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;DECANATO DE PÓS-GRADUAÇÃO (DPG)&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The University of Brasilia (UnB) has the Dean's Office of Postgraduate Studies (DPG)."</data>
+      <data key="d5">"education, research"</data>
+      <data key="d6">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;DECANATO DE EXTENSÃO (DEX)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The University of Brasilia (UnB) has the Dean's Office of Extension (DEX)."</data>
+      <data key="d5">"education, community outreach"</data>
+      <data key="d6">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;ASSOCIAÇÃO NACIONAL DE DIRIGENTES DE INSTITUIÇÕES FEDERAIS DE ENSINO SUPERIOR (ANDIFES)&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The National Association of Directors of Federal Higher Education Institutions (Andifes) includes the University of Brasilia (UnB)."</data>
+      <data key="d5">"education, collaboration"</data>
+      <data key="d6">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;INTERCÂMBIO E MOBILIDADE ACADÊMICA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The University of Brasilia (UnB) offers opportunities for interchange and academic mobility."</data>
+      <data key="d5">"education, international exchange"</data>
+      <data key="d6">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;SECRETARIA DE ASSUNTOS INTERNACIONAIS (INT)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The University of Brasilia (UnB) has the International Affairs Secretariat (INT)."</data>
+      <data key="d5">"education, international affairs"</data>
+      <data key="d6">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;PROGRAMA DE MONITORIA&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The University of Brasilia (UnB) offers the Program of Monitoria."</data>
+      <data key="d5">"education, teaching methods"</data>
+      <data key="d6">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;SEMANA UNIVERSITÁRIA&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The University Week is an event promoted by the Dean's Office of Extension (DEX) at the University of Brasilia (UnB)."</data>
+      <data key="d5">"education, community outreach"</data>
+      <data key="d6">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;LEI FEDERAL DE ESTÁGIO Nº 11.788/2008&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The University of Brasília is regulated by the Federal Law 11.788/2008."</data>
+      <data key="d5">"regulation, legal compliance"</data>
+      <data key="d6">chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;RESOLUÇÃO CEPE Nº 104/2021&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The University of Brasília is governed by Resolution CEPE 104/2021."</data>
+      <data key="d5">"regulation, internal compliance"</data>
+      <data key="d6">chunk-19ba12cc91f6df25812c8d49583d1695</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;PROFESSOR(A)&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The University of Brasília provides educators to guide students in their academic projects.")</data>
+      <data key="d5">("education, student guidance"</data>
+      <data key="d6">chunk-1a5dd6915ab901bad633c800a1755091</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;THE STUDENT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Student needs help with their internship registration from UnB."</data>
+      <data key="d5">"assistance, education"</data>
+      <data key="d6">chunk-f9ff63049ba3e98452d1c02711fe4da8</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;COORDENAÇÃO DE ESTÁGIOS DE GRADUAÇÃO (CESG)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The University is associated with the Coordenação de Estágios de Graduação."</data>
+      <data key="d5">"university, internship coordination"</data>
+      <data key="d6">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;DIRETORIA DE ACOMPANHAMENTO E INTEGRAÇÃO ACADÊMICA (DAIA)&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"The Universidade de Brasília (UnB) is responsible for the Diretoria de Acompanhamento e Integração Acadêmica (DAIA)."&lt;SEP&gt;"The University is associated with the Diretoria de Acompanhamento e Integração Acadêmica."</data>
+      <data key="d5">"administration, education"&lt;SEP&gt;"university, academic guidance"</data>
+      <data key="d6">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84&lt;SEP&gt;chunk-ac407f61310418797bb84a4df139e830</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;DECANATO DE ENSINO E GRADUAÇÃO (DEG)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The University is associated with the Decanato de Enseno y Graduación."</data>
+      <data key="d5">"university, undergraduate education"</data>
+      <data key="d6">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;PROF. DR. DIÊGO MADUREIRA DE OLIVEIRA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Dean of Undergraduate Education is associated with the University."</data>
+      <data key="d5">"leadership, university association"</data>
+      <data key="d6">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;PROF. DR. RAFAEL OLIVEIRA ROCHA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Director of Academic Guidance and Integration is associated with the University."</data>
+      <data key="d5">"leadership, university association"</data>
+      <data key="d6">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;PROFA. DRA. THAÍS ALVES DA COSTA LAMOUNIER&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The coordinator of internships is associated with the University."</data>
+      <data key="d5">"leadership, university association"</data>
+      <data key="d6">chunk-90c9b5d9dcc0ebcd94a23ecb667edc84</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;STUDENT&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The University of Brasilia provides education and internships to students."</data>
+      <data key="d5">"education, career development"</data>
+      <data key="d6">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;DISCENTE (STUDENT)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The University of Brasília (UnB) is the educational institution where the student's internship takes place."</data>
+      <data key="d5">"education, internship"</data>
+      <data key="d6">chunk-5a080acc0efc63e3b6d8a356d163a71d</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;COORDENAÇÃO DE ESTÁGIOS (CESG)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Universidade de Brasília (UnB) is responsible for managing the Coordenação de Estágios (CESG)."</data>
+      <data key="d5">"administration, education"</data>
+      <data key="d6">chunk-ac407f61310418797bb84a4df139e830</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;DECANATO DE ENSINO DE GRADUAÇÃO (DEG)&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Universidade de Brasília (UnB) is associated with the Decanato de Ensino de Graduação (DEG)."</data>
+      <data key="d5">"education, governance"</data>
+      <data key="d6">chunk-ac407f61310418797bb84a4df139e830</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB)&quot;" target="&quot;SISTEMA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The system is associated with the Universidade de Brasília (UnB), used for managing stages."</data>
+      <data key="d5">"software management, education"</data>
+      <data key="d6">chunk-ac407f61310418797bb84a4df139e830</data>
+    </edge>
+    <edge source="&quot;EVENTOS CIENTÍFICOS, ARTÍSTICOS OU CULTURAIS&quot;" target="&quot;PARTICIPAÇÃO EM EVENTOS CIENTÍFICOS, ARTÍSTICOS OU CULTURAIS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Participation in scientific, artistic or cultural events is considered a complementary activity for students."</data>
+      <data key="d5">"complementarity, activity"</data>
+      <data key="d6">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </edge>
+    <edge source="&quot;EVENTOS CIENTÍFICOS, ARTÍSTICOS OU CULTURAIS&quot;" target="&quot;REALIZAÇÃO DE CURSOS E MINICURSOS EXTERNOS À UNB&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Taking external courses and mini-courses can be considered a complementary activity for students."</data>
+      <data key="d5">"complementarity, learning"</data>
+      <data key="d6">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA (UNB) CURRICULAR STRUCTURE (CURRÍCULO)&quot;" target="&quot;COMPONENTES CURRICULARES OBRIGATÓRIOS, OPTATIVOS OU ELETIVOS (CURRÍCULO DO CURSO)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Components required, optional or elective as per the curriculum of the course are part of the UnB Curricular Structure."</data>
+      <data key="d5">"course structure, component type"</data>
+      <data key="d6">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </edge>
+    <edge source="&quot;COMPONENTES CURRICULARES OBRIGATÓRIOS, OPTATIVOS OU ELETIVOS (CURRÍCULO DO CURSO)&quot;" target="&quot;PRE-REQUISITO&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Pre-requisites must be fulfilled before enrolling in components as per the curriculum of the course."</data>
+      <data key="d5">"prerequisite, component enrollment"</data>
+      <data key="d6">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </edge>
+    <edge source="&quot;COMPONENTES CURRICULARES OBRIGATÓRIOS, OPTATIVOS OU ELETIVOS (CURRÍCULO DO CURSO)&quot;" target="&quot;CORESQUISITOS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Corequisites must be taken concurrently with other components as per the curriculum of the course."</data>
+      <data key="d5">"concurrent requirement, component enrollment"</data>
+      <data key="d6">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </edge>
+    <edge source="&quot;COMPONENTES CURRICULARES OBRIGATÓRIOS, OPTATIVOS OU ELETIVOS (CURRÍCULO DO CURSO)&quot;" target="&quot;CADEIA DE SELETIVIDADE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"A chain of selection is a predetermined group of disciplines from which students can choose as per the curriculum of the course."</data>
+      <data key="d5">"selection, component choice"</data>
+      <data key="d6">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </edge>
+    <edge source="&quot;COMPONENTES CURRICULARES OBRIGATÓRIOS, OPTATIVOS OU ELETIVOS (CURRÍCULO DO CURSO)&quot;" target="&quot;EQUIVALÊNCIA DE COMPONENTES CURRICULARES&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Approval in one component can be used to fulfill the requirement of another as per the curriculum of the course."</data>
+      <data key="d5">"component equivalence, fulfillment"</data>
+      <data key="d6">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </edge>
+    <edge source="&quot;CADEIA DE SELETIVIDADE&quot;" target="&quot;DISCIPLINAS OBRIGATÓRIAS SELETIVAS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Selected obligatory disciplines are disciplines that must be chosen from the chain of selection."</data>
+      <data key="d5">"discipline choice, selection"</data>
+      <data key="d6">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </edge>
+    <edge source="&quot;ENSINO A DISTÂNCIA (EAD)&quot;" target="&quot;PROGRAMA UNIVERSIDADE ABERTA DO BRASIL (UAB)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Distance learning (EAD) is one of the programs offered by the Program UAB."</data>
+      <data key="d5">"distance learning, program offering"</data>
+      <data key="d6">chunk-96a7086e478d3df01d362bce62a3701a</data>
+    </edge>
+    <edge source="&quot;AY!&quot;" target="&quot;STUDENTS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"AY! provides guidance to the students regarding their courses."</data>
+      <data key="d5">"guidance, education"</data>
+      <data key="d6">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </edge>
+    <edge source="&quot;STUDENTS&quot;" target="&quot;APRENDER 3&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Students access and use the APRENDER platform for course-related activities."</data>
+      <data key="d5">"education, technology"</data>
+      <data key="d6">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </edge>
+    <edge source="&quot;STUDENTS&quot;" target="&quot;CEAD&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Centre of Distance Education (CEAD) manages the APRENDER platform and provides technical support to students."</data>
+      <data key="d5">"support, education"</data>
+      <data key="d6">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </edge>
+    <edge source="&quot;STUDENTS&quot;" target="&quot;MATRÍCULA&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Students need to enroll (matriculate) in their courses every semester."</data>
+      <data key="d5">"enrollment, academic progress"</data>
+      <data key="d6">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </edge>
+    <edge source="&quot;STUDENTS&quot;" target="&quot;WWW.DEG.UNB.BR&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The students can access www.deg.unb.br for more detailed information about the enrollment process."</data>
+      <data key="d5">"information, academic administration"</data>
+      <data key="d6">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </edge>
+    <edge source="&quot;STUDENTS&quot;" target="&quot;WWW.CEAD.UNB.BR&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The students can access www.cead.unb.br for more detailed information about the APRENDER platform and its use."</data>
+      <data key="d5">"education, technology"</data>
+      <data key="d6">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </edge>
+    <edge source="&quot;STUDENTS&quot;" target="&quot;COORDENAÇÕES DE CURSO&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The students may enroll in certain components of their courses through the coordinations of course."</data>
+      <data key="d5">"enrollment, academic administration"</data>
+      <data key="d6">chunk-24ed024080994acf4b7f84fdfdadf700</data>
+    </edge>
+    <edge source="&quot;MATRÍCULA&quot;" target="&quot;COORDENAÇÃO&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The matrícula process can be coordinated by the respective department, as in the case of internships, TCC, individual orientation activities, and courses that form specific teams."</data>
+      <data key="d5">"coordination, academic activities"</data>
+      <data key="d6">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </edge>
+    <edge source="&quot;MATRÍCULA&quot;" target="&quot;RESERVA DE VAGAS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Choosing courses with reservations for a particular course increases the chances of enrollment."</data>
+      <data key="d5">"enrollment, academic strategy"</data>
+      <data key="d6">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </edge>
+    <edge source="&quot;MATRÍCULA&quot;" target="&quot;DATAS E PRAXOS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"For success in enrollment, it is crucial to pay attention to the dates and deadlines of each stage."</data>
+      <data key="d5">"enrollment, academic timelines"</data>
+      <data key="d6">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </edge>
+    <edge source="&quot;MATRÍCULA&quot;" target="&quot;CALENDÁRIO DE MATRÍCULA&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The calendário de matrícula provides important information for successful enrollment."</data>
+      <data key="d5">"enrollment, academic resources"</data>
+      <data key="d6">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </edge>
+    <edge source="&quot;MATRÍCULA&quot;" target="&quot;SEMESTRE DE VERÃO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The semestre de verão is an opportunity for students to complete certain courses in a shorter timeframe."</data>
+      <data key="d5">"academic flexibility, condensed learning"</data>
+      <data key="d6">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </edge>
+    <edge source="&quot;MATRÍCULA&quot;" target="&quot;ANTES DA MATRÍCULA&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Preparing before enrollment can facilitate the process and increase chances of success."</data>
+      <data key="d5">"preparation, academic strategy"</data>
+      <data key="d6">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </edge>
+    <edge source="&quot;AVALIAÇÃO&quot;" target="&quot;MENÇÕES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The avaliação process includes the categorization of student performance into different groups."</data>
+      <data key="d5">"academic grading, evaluation method"</data>
+      <data key="d6">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </edge>
+    <edge source="&quot;AVALIAÇÃO&quot;" target="&quot;CRITÉRIOS DE APROVAÇÃO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The critérios de aprovação determine whether a student has passed or failed a course."</data>
+      <data key="d5">"grading, academic performance"</data>
+      <data key="d6">chunk-4710c9d0424f9ec55118db8522b9dad7</data>
+    </edge>
+    <edge source="&quot;APROVEITAMENTO DE ESTUDOS&quot;" target="&quot;APROVEITAMENTO DE DISCIPLINAS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The possibility of earning credit for courses taken at another institution is based on the equivalence of content and duration."</data>
+      <data key="d5">"credit transfer, educational equivalence"</data>
+      <data key="d6">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </edge>
+    <edge source="&quot;APROVEITAMENTO DE ESTUDOS&quot;" target="&quot;SAA&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Students must seek advice from the SAA before starting the credit transfer process."</data>
+      <data key="d5">"information seeking, advisory role"</data>
+      <data key="d6">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </edge>
+    <edge source="&quot;ESTUDANTE&quot;" target="&quot;DESLIGAMENTO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"A student can be voluntarily or involuntarily discharged from the UnB."</data>
+      <data key="d5">"student status, academic standing"</data>
+      <data key="d6">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </edge>
+    <edge source="&quot;E-MAIL&quot;" target="&quot;DIPLOMA&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"An e-mail is sent to request the digital or physical signing of the diploma."</data>
+      <data key="d5">"document approval, digital communication"</data>
+      <data key="d6">chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
+    </edge>
+    <edge source="&quot;SEI&quot;" target="&quot;TRANCAMENTO DE MATRÍCULA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The trancamento de matrícula process has a unique SEI number for tracking purposes."</data>
+      <data key="d5">"process tracking, identification number"</data>
+      <data key="d6">chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
+    </edge>
+    <edge source="&quot;CEG&quot;" target="&quot;CEPE&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"CEG and CEPE are responsible for formulating academic norms across UnB."</data>
+      <data key="d5">"academic regulation, governance"</data>
+      <data key="d6">chunk-0d75f7bf60eadf2224d1e18fa5fbaaef</data>
+    </edge>
+    <edge source="&quot;CEG&quot;" target="&quot;STUDENT(S)&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Student(s) may appeal to the CEG if their reintegration request is denied, but there will be a probationary period during which they must meet specific conditions to avoid being disengaged again."</data>
+      <data key="d5">"appeal process, academic probation"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;TRANCAMENTO&quot;" target="&quot;DETALHES&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The trancamento process requires detailed information, which is provided on the website wyw.deg.unb.br."</data>
+      <data key="d5">"information provision, transparency"</data>
+      <data key="d6">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </edge>
+    <edge source="&quot;APROVEITAMENTO DE DISCIPLINAS&quot;" target="&quot;CURSO&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Credit can be earned for courses taken at another institution, but only if they are part of the student's current course at the UnB."</data>
+      <data key="d5">"credit transfer, academic alignment"</data>
+      <data key="d6">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </edge>
+    <edge source="&quot;APROVEITAMENTO DE DISCIPLINAS&quot;" target="&quot;DISCIPLINA OBRIGATÓRIA&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Required courses must be taken at the UnB for credit transfer."</data>
+      <data key="d5">"academic requirements, educational institution alignment"</data>
+      <data key="d6">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </edge>
+    <edge source="&quot;PROFESSOR(A)&quot;" target="&quot;PLANO DE ESTUDO&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Professor(a) prepares the Study Plan, which outlines the rules of academic performance."</data>
+      <data key="d5">"academic planning, curriculum design"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;PROFESSOR(A)&quot;" target="&quot;DECANATO DE ENSEÑO DE GRADUACIÓN (DEG)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The graduate education department is responsible for providing educators to students.")</data>
+      <data key="d5">("education, graduate program"</data>
+      <data key="d6">chunk-1a5dd6915ab901bad633c800a1755091</data>
+    </edge>
+    <edge source="&quot;PROFESSOR(A)&quot;" target="&quot;DIRECCIÓN DE ACOMPAÑAMIENTO Y INTEGRACIÓN ACADÉMICA (DAIA)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The department of academic follow-up and integration is responsible for providing educators to students.")</data>
+      <data key="d5">("academic support, student guidance"</data>
+      <data key="d6">chunk-1a5dd6915ab901bad633c800a1755091</data>
+    </edge>
+    <edge source="&quot;PROFESSOR(A)&quot;" target="&quot;COORDENACIÓN DE ESTÁGIOS (CESG)&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The internship coordination department is responsible for providing educators to students during their work experience.")</data>
+      <data key="d5">("internships, student guidance"</data>
+      <data key="d6">chunk-1a5dd6915ab901bad633c800a1755091</data>
+    </edge>
+    <edge source="&quot;PROFESSOR(A)&quot;" target="&quot;DOCENTE INTERNO / DOCENTE VOLUNTÁRIO&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Type of Advisor"</data>
+      <data key="d5">"The type of advisor determines if a professor is an internal or voluntary advisor.")</data>
+      <data key="d6">chunk-1a5dd6915ab901bad633c800a1755091</data>
+    </edge>
+    <edge source="&quot;PROFESSOR(A)&quot;" target="&quot;SUPERVISOR(A)&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Supervisor refers to the professional responsible for supervising and guiding the student during their work experience.")</data>
+      <data key="d5">("student guidance, academic support"</data>
+      <data key="d6">chunk-1a5dd6915ab901bad633c800a1755091</data>
+    </edge>
+    <edge source="&quot;STUDENT(S)&quot;" target="&quot;PLANO DE ESTUDO&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Student(s) follow the Study Plan, presented by the Professor(a)."</data>
+      <data key="d5">"study adherence, academic progress"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;STUDENT(S)&quot;" target="&quot;DESLIGAMENTO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Student(s) may be disengaged from their academic program, but they still have the opportunity to reestablish their connection with UnB through the reintegration process."</data>
+      <data key="d5">"disengagement recovery, university reintegration"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;STUDENT(S)&quot;" target="&quot;REINTEGRAÇÃO&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Student(s) may apply for reintegration to UnB within two years of their disengagement, after formalizing the disengagement process."</data>
+      <data key="d5">"academic re-admission, university readmission"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;STUDENT(S)&quot;" target="&quot;PRAZO MÁXIMO&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Student(s) must follow the maximum timeframe when applying for reintegration after being disengaged."</data>
+      <data key="d5">"time limit, re-admission deadline"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;DESLIGAMENTO&quot;" target="&quot;REPROVADO(A)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"A student can be academically terminated if they have three fails in the same course."</data>
+      <data key="d5">"academic standing, grade performance"</data>
+      <data key="d6">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </edge>
+    <edge source="&quot;DIRETORIA DE ACESSIBILIDADE DO DECANATO DE ASSUNTOS COMUNITÁRIOS (DAC)&quot;" target="&quot;STUDENTS WITH SPECIFIC NEEDS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Students with specific needs can seek help from the DAC to facilitate their academic progress."</data>
+      <data key="d5">"academic support, disability services"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;ÓRGÃOS COLEGIADOS&quot;" target="&quot;VOCÊ&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The student can voice their opinions, criticisms, or compliments about any university-related matters through the student representative bodies at UnB."</data>
+      <data key="d5">"student feedback, university governance"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;OUVIDORIA DA UNB&quot;" target="&quot;VOCÊ&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The student can use the Ouvidoria da UnB to submit comments, criticisms, or compliments about any aspect of the university."</data>
+      <data key="d5">"formal complaint, university feedback"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;TERMO DE COMPROMISSO DE ESTÁGIO (TCE)&quot;" target="&quot;ESTÁGIO&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"The Internship requires signing a TCE, which establishes the terms of the agreement between the student and the University and the company or institution where the internship will be performed."&lt;SEP&gt;"The Internship requires signing a TCE, which establishes the terms of the agreement between the student and the University."</data>
+      <data key="d5">"agreement, internship regulations"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;DIRETORIA DE ACESSIBILIDADE&quot;" target="&quot;STUDENTS WITH SPECIFIC NEEDS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Students with specific needs can seek help from the Diretoria de Acessibilidade to facilitate their academic progress."</data>
+      <data key="d5">"academic support, disability services"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;PPC DO SEU CURSO&quot;" target="&quot;VOCÊ&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The student can contact the PPC of their course to learn more about the study plan and potential internship requirements."</data>
+      <data key="d5">"course guidance, internship information"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;LEI&quot;" target="&quot;ESTÁGIO&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Internships are regulated by the law to protect students from being misused as labor."</data>
+      <data key="d5">"internship regulations, labor protection"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;ESTÁGIO OBRIGATÓRIO&quot;" target="&quot;ESTÁGIO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"An obligatory internship is a type of internship that must be completed as part of the student's academic requirements."</data>
+      <data key="d5">"internship classification, academic requirement"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;ESTÁGIO OBRIGATÓRIO&quot;" target="&quot;CURSO&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Estágio Obrigatório is a mandatory event that can be part of the requirements for course completion.")</data>
+      <data key="d5">("course requirement, compliance")</data>
+      <data key="d6">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </edge>
+    <edge source="&quot;ESTÁGIO NÃO OBRIGATÓRIO&quot;" target="&quot;ESTÁGIO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"A non-obligatory internship is a type of internship that can be chosen by the student but is not required for their academic completion."</data>
+      <data key="d5">"internship classification, academic choice"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;ESTÁGIO REMUNERADO&quot;" target="&quot;ESTÁGIO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"A remunerated internship is a type of internship where the student receives payment for their work."</data>
+      <data key="d5">"internship classification, compensation"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;ESTÁGIO NÃO REMUNERADO&quot;" target="&quot;ESTÁGIO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"A non-remunerated internship is a type of internship where the student does not receive payment for their work."</data>
+      <data key="d5">"internship classification, unpaid"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;CURRICULO DO CURSO&quot;" target="&quot;VOCÊ&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The student can consult their course curriculum to understand their academic requirements and potential internship opportunities."</data>
+      <data key="d5">"course information, academic planning"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;COMPONENTE OBRIGATÓRIO&quot;" target="&quot;VOCÊ&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The student should prioritize completing the required components of their course curriculum as they contribute towards academic completion."</data>
+      <data key="d5">"academic requirement, course progress"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;COMPONENTE OPTATIVO&quot;" target="&quot;VOCÊ&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The student can choose which optional components of their course curriculum they would like to complete, depending on their interests and career goals."</data>
+      <data key="d5">"course choice, personal development"</data>
+      <data key="d6">chunk-b5bb0f4549b11ac50894507586c40c60</data>
+    </edge>
+    <edge source="&quot;CURSO&quot;" target="&quot;ESTÁGIO OPCIONAL&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Optional Stage complements the academic and professional development of a course.")</data>
+      <data key="d5">("complement, course development")</data>
+      <data key="d6">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </edge>
+    <edge source="&quot;EMPRESA&quot;" target="&quot;TCE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The TCE is a contract between the company and the University of Brasilia (UnB) to formalize the internship agreement.")</data>
+      <data key="d5">("internship agreement, formalization")</data>
+      <data key="d6">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </edge>
+    <edge source="&quot;EMPRESA&quot;" target="&quot;PLANO DE ATIVIDADES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Plan of Activities outlines the tasks and activities to be performed by students in a company.")</data>
+      <data key="d5">("task allocation, company relationship")</data>
+      <data key="d6">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </edge>
+    <edge source="&quot;EMPRESA&quot;" target="&quot;MATRÍCULA ATIVA&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Active enrollment is required for students to be eligible for internships in companies.")</data>
+      <data key="d5">("eligibility, education institution relationship")</data>
+      <data key="d6">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </edge>
+    <edge source="&quot;EMPRESA&quot;" target="&quot;CONVENÇÃO&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Agreement allows the integrator or company to manage internship vacancies within the University of Brasilia (UnB).")</data>
+      <data key="d5">("management, university-industry relationship")</data>
+      <data key="d6">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </edge>
+    <edge source="&quot;TCE&quot;" target="&quot;CONTRAPRESTAÇÃO&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Termo de Compromisso (TCE) may include information about scholarships and transportation allowances for the internship."</data>
+      <data key="d5">"financial arrangements, agreement"</data>
+      <data key="d6">chunk-49fd5da657bdbf3b4c28d98b6599a846</data>
+    </edge>
+    <edge source="&quot;TCE&quot;" target="&quot;PLANO DE ATIVIDADES&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Termo de Compromisso (TCE) outlines the activities of the internship according to the Plano de Atividades."</data>
+      <data key="d5">"activity planning, agreement"</data>
+      <data key="d6">chunk-49fd5da657bdbf3b4c28d98b6599a846</data>
+    </edge>
+    <edge source="&quot;CONTRATO&quot;" target="&quot;ESTAGIÁRIO(A)&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Contract outlines the terms and conditions of the internship agreement between the student and company.")</data>
+      <data key="d5">("internship agreement, student-company relationship")</data>
+      <data key="d6">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </edge>
+    <edge source="&quot;COMISSÃO FORMADA&quot;" target="&quot;OUTORGA ANTECIPADA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Commission formed evaluates early graduation requests from students.")</data>
+      <data key="d5">("evaluation, early graduation request")</data>
+      <data key="d6">chunk-5219cf0817cbb82473514dd9f7028dc0</data>
+    </edge>
+    <edge source="&quot;SEMANA UNIVERSITÁRIA&quot;" target="&quot;COORDENADOR(A) DE CURSO&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"A coordinator of a course can provide information about the initiatives available during University Week."</data>
+      <data key="d5">"education, events"</data>
+      <data key="d6">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </edge>
+    <edge source="&quot;SEMANA UNIVERSITÁRIA&quot;" target="&quot;CENTRO ACADÊMICO&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"An academic center may offer initiatives or activities during University Week."</data>
+      <data key="d5">"education, community outreach"</data>
+      <data key="d6">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </edge>
+    <edge source="&quot;COORDENADOR(A) DE CURSO&quot;" target="&quot;CENTRO ACADÊMICO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"An academic center may have a coordinator of a course who can provide information and support to students."</data>
+      <data key="d5">"education, student support"</data>
+      <data key="d6">chunk-ab673f3f31e4b6cfe2fab27d4c223fbb</data>
+    </edge>
+    <edge source="&quot;OU DE AJUDA SOCIOECONÔMICA&quot;" target="&quot;AJUDA ACADÊMICA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"ou de ajuda socioeconômica provides academic assistance, which includes tutoring and monitoring for students."</data>
+      <data key="d5">"assistance, education"</data>
+      <data key="d6">chunk-49989619f0773c99866fbaca6a4a26c4</data>
+    </edge>
+    <edge source="&quot;MONITORIA&quot;" target="&quot;TUTORIA DE GRADUAÇÃO&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Monitoria and Tutoria de Graduação share the goal of providing academic assistance to students."</data>
+      <data key="d5">"academic support, student success"</data>
+      <data key="d6">chunk-49989619f0773c99866fbaca6a4a26c4</data>
+    </edge>
+    <edge source="&quot;PROGRAMA BOLSA ALIMENTAÇÃO NO RESTAURANTE UNIVERSITÁRIO&quot;" target="&quot;UNIVERSIDADE DE BRASÍLIA&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The University of Brasília offers the Programa Bolsa Alimentação no Restaurante Universitário for food benefits."</data>
+      <data key="d5">"food benefits, student support"</data>
+      <data key="d6">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </edge>
+    <edge source="&quot;PROGRAMA AUXÍLIO SOCIOECONÔMICO (PASEUNB)&quot;" target="&quot;UNIVERSIDADE DE BRASÍLIA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The University of Brasília offers Programa Auxílio Socioeconômico (PASeUnB) for socioeconomic assistance."</data>
+      <data key="d5">"socioeconomic support, student aid"</data>
+      <data key="d6">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA&quot;" target="&quot;SECRETARIA DE ADMINISTRAÇÃO ACADÊMICA DA UNB (SAA)&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The University of Brasília provides administrative support through the Secretaria de Administração Acadêmica da UnB (SAA)."</data>
+      <data key="d5">"administrative support, academic affairs"</data>
+      <data key="d6">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA&quot;" target="&quot;PROGRAMA MORADIA ESTUDANTIL DA GRADUAÇÃO (PME-G)&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The University of Brasília provides Programa Moradia Estudantil da Graduação (PME-G) for student housing assistance."</data>
+      <data key="d5">"student housing, support services"</data>
+      <data key="d6">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </edge>
+    <edge source="&quot;UNIVERSIDADE DE BRASÍLIA&quot;" target="&quot;PROGRAMA AUXÍLIO CRECHE (PACRECHE)&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The University of Brasília provides Programa Auxílio Creche (PACreche) for childcare assistance."</data>
+      <data key="d5">"childcare support, student aid"</data>
+      <data key="d6">chunk-69065f8900adcc5c23cde0bc047686d0</data>
+    </edge>
+    <edge source="&quot;CESG&quot;" target="&quot;DAIA&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Diretoria de Acompanhamento e Integração Acadêmica (DAIA) and Coordenação de Estágios (CESG) are parts of the University of Brasília's academic support system."</data>
+      <data key="d5">"organizational structure, educational support"</data>
+      <data key="d6">chunk-49fd5da657bdbf3b4c28d98b6599a846</data>
+    </edge>
+    <edge source="&quot;COORDENAÇÃO DE ESTÁGIOS (CESG)&quot;" target="&quot;THE STUDENT&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Student interacts with CESG regarding their internship registration."</data>
+      <data key="d5">"registration process, internship"</data>
+      <data key="d6">chunk-f9ff63049ba3e98452d1c02711fe4da8</data>
+    </edge>
+    <edge source="&quot;COORDENAÇÃO DE ESTÁGIOS (CESG)&quot;" target="&quot;DECANATO DE ENSENHO DE GRADUAÇÃO (DEG)&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The DECANATO DE ENsENHO DE GRADUAÇÃO (DEG) is a department of the University of Brasília (UnB) that coordinates internships, working with the Coordenação de Estágios (CESG)."</data>
+      <data key="d5">"education administration, coordination"</data>
+      <data key="d6">chunk-5a080acc0efc63e3b6d8a356d163a71d</data>
+    </edge>
+    <edge source="&quot;DISCENTE&quot;" target="&quot;PRÉ-CADASTRO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The student will start their process with Pré-Cadastro."</data>
+      <data key="d5">"registration, event participation"</data>
+      <data key="d6">chunk-49fd5da657bdbf3b4c28d98b6599a846</data>
+    </edge>
+    <edge source="&quot;TIPO DE ORIENTADOR&quot;" target="&quot;QUEM SERÁ MEU PROFESSOR(A) ORIENTADOR(A)&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The selection of the type of advisor (internal or voluntary) is important for determining who will be the student's professor or advisor."</data>
+      <data key="d5">"advisor selection, decision-making"</data>
+      <data key="d6">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </edge>
+    <edge source="&quot;DOCENTE INTERNO&quot;" target="&quot;O(A) PROFESSOR(A) DO SEU CURSO DE GRADUAÇÃO QUE VAI ASSINAR O TERMO DE COMPROMISSO OU DOCUMENTO DE ESTÁGIO!&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"If the professor or advisor is an employee of the University of Brasília, they will sign the student's agreement or documentation."</data>
+      <data key="d5">"employment status, advisor role"</data>
+      <data key="d6">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </edge>
+    <edge source="&quot;SUPERVISOR(A)&quot;" target="&quot;DISCENTE (STUDENT)&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The student will have a supervisor who will guide and oversee their internship activities."</data>
+      <data key="d5">"internship guidance, mentorship"</data>
+      <data key="d6">chunk-5a080acc0efc63e3b6d8a356d163a71d</data>
+    </edge>
+    <edge source="&quot;SECRETARIA/COORDENAÇÃO OU PROFESSOR(A) ORIENTADOR(A)&quot;" target="&quot;THE STUDENT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Student sends their termination document to the Secretaria/coordenação or professor/advisor."</data>
+      <data key="d5">"termination process, education"</data>
+      <data key="d6">chunk-f9ff63049ba3e98452d1c02711fe4da8</data>
+    </edge>
+    <edge source="&quot;TERMO DE RESCISÃO OU CANCELAMENTO DO ESTÁGIO NÃO OBRIGATÓRIO&quot;" target="&quot;THE STUDENT&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Student might have to send a document called Termo de Rescisão ou Cancelamento do Estágio não Obrigatório if they want to terminate their internship."</data>
+      <data key="d5">"termination, education"</data>
+      <data key="d6">chunk-f9ff63049ba3e98452d1c02711fe4da8</data>
+    </edge>
+    <edge source="&quot;STUDENT&quot;" target="&quot;CURRICULAR OBLIGATORY INTERNSHIP&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Students are required to complete Curricular Obligatory Internships for graduation."</data>
+      <data key="d5">"graduation, mandatory internship"</data>
+      <data key="d6">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </edge>
+    <edge source="&quot;STUDENT&quot;" target="&quot;NON-CURRICULAR INTERNSHIP&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Students can opt to do Non-Curricular Internships if they meet certain requirements."</data>
+      <data key="d5">"optional career development, financial compensation"</data>
+      <data key="d6">chunk-048bc3dae71a6d58215d4e108c5d85c5</data>
+    </edge>
+    <edge source="&quot;O(A) PROFESSOR(A) DO SEU CURSO DE GRADUAÇÃO QUE VAI ASSINAR O TERMO DE COMPROMISSO OU DOCUMENTO DE ESTÁGIO!&quot;" target="&quot;QUEM SERÁ MEU PROFESSOR(A) ORIENTADOR(A)&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The question asks for the name of the professor or advisor who will sign the student's agreement or documentation."</data>
+      <data key="d5">"question and answer"</data>
+      <data key="d6">chunk-a6bd9c133e851de0c23f808943eeda2d</data>
+    </edge>
+    <edge source="&quot;AÇÕES (ÍCONE MAIS À DIREITA, AO LADO DA SITUAÇÃO ATIVO)&quot;" target="&quot;SISTEMA&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Actions is an event where you can interact with the system for filling out and submitting reports."</data>
+      <data key="d5">"interaction, software management"</data>
+      <data key="d6">chunk-ac407f61310418797bb84a4df139e830</data>
+    </edge>
+    <edge source="&quot;AÇÕES (ÍCONE MAIS À DIREITA, AO LADO DA SITUAÇÃO ATIVO)&quot;" target="&quot;SALVAR E ENVIAR&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Actions is the event where you can save and submit a report that was filled out using the system."</data>
+      <data key="d5">"submission, software management"</data>
+      <data key="d6">chunk-ac407f61310418797bb84a4df139e830</data>
+    </edge>
+    <edge source="&quot;CURRICULUM STRUCTURE&quot;" target="&quot;MEC&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Ministry of Education's laws and specific orientations influence the curriculum structure."</data>
+      <data key="d5">"education policy, curriculum structure"</data>
+      <data key="d6">chunk-8c59ac10b277f004755ca3a5a2e708dc</data>
+    </edge>
+    <edge source="&quot;CERTIFICADOS OU DIPLOMAS OBTIDOS&quot;" target="&quot;CONCESSÃO DE CRÉDITOS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Foreign language credits can be obtained by presenting certificates or diplomas."</data>
+      <data key="d5">"credit recognition, document submission"</data>
+      <data key="d6">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </edge>
+    <edge source="&quot;CONDIÇÃO IMPOSTA&quot;" target="&quot;RISCO DE DESLIGAMENTO&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Students at risk of academic termination must fulfill certain conditions to avoid it."</data>
+      <data key="d5">"academic standing, condition fulfillment"</data>
+      <data key="d6">chunk-8737c0a41a63b20de6e94c4437660b84</data>
+    </edge>
+    <edge source="&quot;CONDIÇÃO&quot;" target="&quot;PLANO DE ESTUDO ELABORADO POR UM(A) PROFESSOR(A)&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"A study plan can be required as a condition for avoiding academic termination."</data>
+      <data key="d5">"academic support, personalized guidance"</data>
+      <data key="d6">chunk-8737c0a41a63b20de6e94c4437660b84</data>
     </edge>
   </graph>
 </graphml>

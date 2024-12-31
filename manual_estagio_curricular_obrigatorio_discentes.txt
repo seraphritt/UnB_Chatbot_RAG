@@ -1,0 +1,497 @@
+ 
+Manual de Orientações no Módulo de Estágio 
+do Sistema Integrado de Gerenciamento de 
+Atividades Acadêmicas (SIGAA)  
+ 
+ Estágio Curricular Obrigatório 
+– Discentes – 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brasília, 19 de agosto de 2022 
+ 
+
+ 
+– Prefácio – 
+ 
+A Universidade de Brasília (UnB) aprovou em 16 de setembro de 2021 em 
+sua 631ª Reunião do Conselho de Ensino, Pesquisa e Extensão (CEPE), o 
+Regulamento Geral de Estágios de Graduação (Resolução CEPE nº 104/2021). Com 
+isso, a Coordenação de Estágios de Graduação (CESG) juntamente com a Diretoria 
+de Acompanhamento e Integração Acadêmica (DAIA) e o Decanato de Ensino e 
+Graduação (DEG) vem trabalhando para otimizar a tramitação e a assinatura dos 
+Termos de Compromisso de Estágio (TCE) e documentos relacionados, tais como: 
+Termo Aditivo, Termo de Rescisão e Relatórios de Atividades. Para isso, ativamos o 
+módulo de estágios do Sistema Integrado de Gestão de Atividades Acadêmicas 
+(SIGAA). 
+Este manual foi elaborado para orientar os(as) discentes da UnB no uso do 
+Módulo de Estágios do SIGAA, onde terão papel fundamental no processo sendo 
+vocês os(as) responsáveis pela abertura do processo através do Pré-Cadastro.  
+ 
+Atenciosamente, 
+ 
+ 
+Prof. Dr. Diêgo Madureira de Oliveira 
+Decano de Ensino de Graduação 
+Prof. Dr. Rafael Oliveira Rocha 
+Diretor de Acompanhamento e Integração Acadêmica 
+Profa. Dra. Thaís Alves da Costa Lamounier 
+Coordenadora de Estágios de Graduação 
+
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+ 
+– Sumário – 
+ 
+INFORMAÇÕES INICIAIS SOBRE ESTÁGIO ..................................................... 04 
+INSTRUÇÕES INICIAIS PARA O PRÉ-CADASTRO DO ESTÁGIO ........................ 06 
+INICIAR A ABERTURA DO PROCESSO NO SIGAA (PRÉ-CADASTRO) ................ 06  
+CADASTRAR SUPERVISOR(A) DE ESTÁGIO .................................................... 13  
+HORÁRIO DO ESTÁGIO ................................................................................ 14 
+SEGURO CONTRA ACIDENTES PESSOAIS ...................................................... 14 
+ENVIEI O PRÉ-CADASTRO PARA MEU(MINHA) PROFESSOR(A) ORIENTADOR(A) 
+MAS ERREI ALGUM DADO. O QUE EU FAÇO? ............................................... 16 
+TEMPO QUE O PRÉ-CADASTRO FICARÁ DISPONÍVEL PARA TORNAR O ESTÁGIO 
+ATIVO ......................................................................................................... 17 
+ENVIO DE TERMO DE RESCISÃO OU CANCELAMENTO DE ESTÁGIO NÃO 
+OBRIGATÓRIO ............................................................................................. 18 
+MEU ESTÁGIO ESTÁ ATIVO. COMO FAÇO PARA MANDAR O ARQUIVO pdf 
+ASSINADO PARA A EMPRESA/LOCAL DE ESTÁGIO? ...................................... 18 
+PARA GERENCIAR SEU ESTÁGIO E PREENCHER O RELATÓRIO FINAL ............. 19 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+4 
+ 
+MANUAL DE ORIENTAÇÕES DE PRÉ-CADASTRO NO 
+MÓDULO DE ESTÁGIO DO SIGAA 
+TERMO DE ESTÁGIO OBRIGATÓRIO – DISCENTES  
+ 
+INFORMAÇÕES INICIAIS SOBRE ESTÁGIO  
+ 
+Alguns detalhes importantes sobre estágios curriculares e a legislação que os regem, a Lei 
+de Estágio nº 11.788/2008 e a Resolução CEPE nº 104/2021: 
+ 
+✓ Os estágios são a oportunidade que o(a) discente têm de aprendizado no campo de 
+atuação da sua área de formação, antes mesmo da sua formatura. Essa modalidade de 
+ensino/aprendizagem é prevista nos Planos Políticos Pedagógicos dos Cursos (PPC). 
+✓ Os estágios podem ser classificados como:  
+ Estágio Curricular Obrigatório: é o componente/atividade curricular no qual o(a) 
+discente precisa cursar, com a aprovação, a fim de integralizar a carga horária e 
+concluir o curso (formatura). Nesta modalidade de estágio, geralmente não existe a 
+contrapartida da empresa/escola (bolsa e vale transporte). Em alguns casos, pode 
+haver a remuneração por parte da empresa. Nestes casos, é necessário que a 
+empresa/escola tenha convênio formalizado com a Universidade de Brasília (UnB). 
+ Estágio Não Obrigatório: é a atividade curricular que exige a contrapartida da 
+empresa/escola, tais como: bolsa e vale transporte. Esse tipo de estágio também é 
+previsto nos PPCs dos cursos e deve ter suas atividades voltadas para as atividades 
+fins do curso.  
+✓ Ambas as modalidades de estágios são regidas por uma Lei Federal, a Lei de Estágio nº 
+11.788/2008, e uma normativa interna da Universidade de Brasília, a Resolução CEPE nº 
+104/2021, que dizem: 
+ O estágio não gera vínculo empregatício; 
+ Em todo tipo de estágio é necessário um Termo de Compromisso de Estágio (TCE), 
+assinado por todos os envolvidos: discente, empresa, supervisor(a) no campo de 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+5 
+estágio e professor(a) orientador(a) da UnB. O TCE é o documento jurídico oficial 
+com cláusulas bem definidas e aprovadas pelo setor jurídico da UnB e das 
+empresas, mediante celebração de convênios; 
+ Todo TCE deve conter a indicação de uma apólice de seguro contra acidentes 
+pessoais. No caso dos estágios curriculares obrigatórios, a UnB fornece a apólice de 
+seguros. Já para os estágios não obrigatórios, a empresa deve fornecer o seguro 
+contra acidentes e constar no TCE; 
+ O(A) discente só pode iniciar suas atividades de estágio após a formalização e 
+assinatura do Termo de Compromisso de Estágio (TCE) por todos os envolvidos: 
+discente, empresa, supervisor(a) e professor(a) orientador(a), vinculado à 
+Instituição de Ensino (no caso, um(a) professor(a) da UnB); 
+ O plano de atividades deve ser condizente com a área de formação do(a) discente, 
+não gerando desvio de função. Cabe ao professor(a) orientador(a) analisar 
+academicamente o plano de atividades, conforme as atividades previstas no PPC do 
+curso; 
+ O(A) supervisor(a) no campo de estágio deve ter a mesma formação, ou formação 
+equivalente, do curso do(a) estagiário(a). É quem vai acompanhar/orientar o(a) 
+discente na execução das atividades previstas no Plano de Atividades dentro da 
+empresa; 
+ Em hipótese alguma deve haver choque de horário das atividades de estágio com 
+as disciplinas ou outras atividades acadêmicas desenvolvidas pelo(a) discente; 
+ Conforme o Art. 10, inciso II da Lei 11.788/2008, a carga horária diária não pode 
+ultrapassar 6h e a carga horária semanal não pode ultrapassar 30h, salvo quando 
+previsto no PPC do curso a excepcionalidade prevista na lei, onde o(a) discente 
+pode chegar à carga horária máxima semanal até 40h e a carga horária diária até 
+8h, desde que não choque horário com outras atividades do(a) discente. 
+ A carga horária deve ser exatamente a prevista no TCE, lembrando que o(a) 
+supervisor(a) deve estar nos horários combinados e previstos no TCE. Em hipótese 
+alguma o(a) estagiário(a) deve ficar sozinho, sem o devido acompanhamento do(a) 
+supervisor(a); 
+ O(A) discente pode ter mais de um estágio, desde que não ultrapasse o disposto no 
+item anterior e não tenha choque de horário entre os estágios e as disciplinas. 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+6 
+ Vale lembrar sempre que os estágios são oportunidades oferecidas pelas 
+empresas, mas que não devem ser o foco principal, pois a formatura do(a) 
+discente é prioridade para a Universidade de Brasília, salvo no caso dos estágios 
+curriculares obrigatórios nos quais sem estes, não há formatura! 
+ 
+INSTRUÇÕES INICIAIS PARA O PRÉ-CADASTRO DO ESTÁGIO 
+ 
+PARA REALIZAR O ESTÁGIO CURRICULAR OBRIGATÓRIO: O(A) DISCENTE DEVERÁ ESTAR 
+MATRICULADO(A) NO COMPONENTE CURRICULAR DE ESTÁGIO OBRIGATÓRIO! 
+CASO VOCÊ NÃO ESTEJA MATRICULADO(A), PROCURE A COORDENAÇÃO DO SEU CURSO. 
+ 
+1. O(a) discente irá iniciar o processo através do registro do estágio no SIGAA (Pré-Cadastro). 
+ 
+O sistema aceita apenas a data atual (não é possível cadastrar estágio com 1 dia de data 
+retroativa!). Sendo assim, o(a) discente deverá cadastrar o Termo de Compromisso de Estágio 
+(TCE) com pelo menos 10 dias de antecedência da data de início das atividades do estágio prevista 
+no Plano de Atividades. Esse período de 10 dias de antecedência é importante pois existe um fluxo 
+na tramitação do processo até a efetiva formalização e ativação do estágio no SIGAA. 
+Somente após a ativação do TCE no sistema SIGAA é que o(a) discente pode iniciar seu 
+estágio. Vale lembrar que é terminantemente proibido a realização do estágio sem a 
+formalização do TCE por todas as partes envolvidas: discente, concedente e UNB. 
+ 
+INICIAR A ABERTURA DO PROCESSO NO SIGAA (PRÉ-CADASTRO) 
+ 
+1) Fazer login no sistema SIGAA e acessar o “Portal do Discente” (indicado na Figura abaixo com 
+uma seta vermelha). 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+7 
+ 
+ 
+2) Ao entrar no portal, selecionar as opções: Estágio → Pré-Cadastro de Estágios, como ilustrado 
+nas figuras abaixo. 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+8 
+ 
+ 
+3) Quando o Estágio Curricular Obrigatório for: 
+a) Não remunerado: sem contraprestação da empresa/escola, ou seja, sem o pagamento de 
+bolsa e vale transporte: 
+✓ Se a empresa tiver um convênio específico com a UNB: Buscar a empresa pelo Nome da 
+empresa (Concedente) ou CNPJ;  
+✓ Selecionar ESTÁGIO CURRICULAR OBRIGATÓRIO → Buscar;  
+✓ Se a empresa NÃO tiver um convênio específico com a UNB: Marcar UnB - Estágio 
+Obrigatório e apertar na setinha verde (
+). 
+ 
+b) Remunerado, ou seja, for previsto o pagamento de bolsa e vale transporte, verificar se a 
+empresa possui convênio com a UnB: 
+✓ Buscar a empresa pelo Nome da empresa (Concedente) ou CNPJ;  
+✓ Selecionar ESTÁGIO CURRICULAR OBRIGATÓRIO → Buscar;  
+✓ Marcar a empresa conveniada na setinha verde (
+). 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+9 
+ 
+ 
+ 
+ 
+4) Se o estágio obrigatório for não remunerado, os seguintes campos devem ser preenchidos: 
+Tipo de estágio → obrigatório, carga horária semanal, professor(a) orientador(a) da UnB e 
+Local ou Setor de Estágio; 
+5) Se o estágio obrigatório for remunerado, a empresa deve ter convênio com a UnB, e os 
+seguintes campos devem ser preenchidos: Tipo de estágio → obrigatório, carga horária 
+semanal, Tipo de Local, professor(a) orientador(a) da UnB, valor da bolsa, valor do auxílio 
+transporte (os dois últimos representados nas caixas verdes. 
+ 
+ 
+ 
+Todos os campos com asterisco azul (*) são de preenchimento obrigatório! 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+10 
+ 
+ 
+ 
+6) Na opção "TIPO DE LOCAL: Interno ou Externo", clicar na opção INTERNO para estágio 
+realizado no âmbito da UnB, e a opção EXTERNO para estágio realizado fora da UnB. 
+7) Quando o estágio for realizado no âmbito da UnB: o(a) discente deverá informar, em SETOR 
+DE ESTÁGIO, o local da UnB onde serão realizadas as atividades (departamento, hospital e 
+etc). 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+11 
+8) Ao escolher EXTERNO, será possível preenchimento com os dados do LOCAL DE ESTÁGIO, 
+onde o(a) discente irá inserir os dados da empresa/escola. 
+ 
+ 
+ 
+QUEM SERÁ MEU PROFESSOR(A) ORIENTADOR(A)? O(a) Professor(a) do seu Curso de 
+Graduação que vai assinar o Termo de Compromisso ou documento de estágio! 
+ 
+9) Para selecionar o(a) professor(a) orientador(a), quando o(a) professor(a) for servidor(a) 
+EFETIVO 
+da 
+UnB 
+(do 
+quadro 
+ou 
+substituto(a)): 
+selecionar 
+em 
+TIPO 
+DE 
+ORIENTADOR: DOCENTE INTERNO e inserir os dados do(a) professor(a). 
+  
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+12 
+ 
+  
+10) Quando o(a) professor(a) for VOLUNTÁRIO(A): selecionar em TIPO DE ORIENTADOR:  
+DOCENTE VOLUNTÁRIO e inserir os dados do(a) professor(a). 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+13 
+ 
+CADASTRAR SUPERVISOR(A) DE ESTÁGIO 
+ 
+11) Nos campos do Supervisor do Estágio, clicar em: Supervisor → Selecionar Cadastrar 
+Supervisor → incluir Nome e CPF → clicar em Adicionar Supervisor. 
+ 
+ 
+ 
+12) No momento de cadastrar o(a) supervisor(a), os dados de CPF, NOME e CARGO são 
+obrigatórios. No campo Cargo escrever a palavra: SUPERVISOR ou SUPERVISORA. Quando 
+aparecer a mensagem: Supervisor cadastrado com sucesso, clicar em VOLTAR. Observação: 
+os dados de RG e e-mail não são obrigatórios. 
+ 
+ 
+ 
+13) Selecionar o supervisor → clicar em Adicionar Supervisor. 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+14 
+ 
+ 
+ 
+ 
+HORÁRIO DO ESTÁGIO 
+ 
+14) Cadastrar o horário do estágio na grade horária (não pode ter choque de horário com as 
+disciplinas ou outras atividades acadêmicas). Conforme a Lei 11.788/2008, art. 10, inciso II: a 
+carga horária máxima por dia deverá ser de 6 horas e a carga horária semanal máxima de 
+30h. Observação: a lei permite a excepcionalidade da carga horária semanal ser de 40h, 
+sendo a carga horária diária máxima de 8h, desde que prevista no Plano Político Pedagógico 
+do Curso (PPC) e aprovada em reunião colegiada. Consulte seu(sua) coordenador(a) de curso 
+para saber dessa excepcionalidade. 
+ 
+ 
+ 
+SEGURO CONTRA ACIDENTES PESSOAIS 
+ 
+15) No caso dos Estágios Curriculares Obrigatórios, a Universidade de Brasília (UnB) fornece o 
+seguro contra acidentes pessoais da MBM Seguradora. Os dados a serem inseridos nos 
+campos: CNPJ da seguradora, nome da seguradora, apólice do seguro, valor da apólice, são: 
+CNPJ da Seguradora (87.883.807/0001-06), Nome da Seguradora (MBM SEGURADORA S.A.), Apólice 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+15 
+do Seguro (09.0982.001.52213), Valor da Apólice (R$ 10.000,00). A apólice pode ser obtida através 
+do link: Apólice de Seguro Contra Acidentes Pessoais Coletivos para Discentes da UnB. 
+ 
+Observação:  não precisa anexar o arquivo pdf da apólice do seguro. 
+ 
+ 
+ 
+16) Preencher: a data de início do estágio (não pode ser data retroativa de 1 dia!); data de fim do 
+estágio (último dia letivo do semestre); as atividades no plano de trabalho → clicar em 
+Continuar → depois clicar em Confirmar. 
+ 
+ 
+ 
+ 
+17) Verificar a mensagem: Operação Realizada com Sucesso! 
+ 
+ 
+ 
+18) A secretaria/coordenação do curso ou o(a) professor(a) orientador(a) vai dar o 
+encaminhamento do processo e avisar o(a) discente sobre o resultado. 
+Preencher aqui o Plano de Atividades 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+16 
+ 
+ 
+ENVIEI O PRÉ-CADASTRO PARA MEU(MINHA) PROFESSOR(A) 
+ORIENTADOR(A) MAS ERREI ALGUM DADO. O QUE EU FAÇO? 
+ 
+ 
+19) Na página inicial, clicar no menu: Estágio → Gerenciar Estágios. 
+ 
+ 
+ 
+ 
+20) Em Ações (ícone mais à direita, ao lado da Situação: AGUARDANDO ASSINATURA), clicar em 
+Cancelar Estágio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+17 
+ 
+ 
+21)  Selecione o motivo do cancelamento (Erro de Cadastro) → coloque sua Senha → Confirmar. 
+ 
+ 
+ 
+  
+TEMPO QUE O PRÉ-CADASTRO FICARÁ DISPONÍVEL PARA TORNAR O 
+ESTÁGIO ATIVO 
+  
+22) Caso o cadastro não seja ativado, após as etapas descritas acima, no prazo de 10 dias, o 
+SIGAA passará automaticamente o pré-cadastro para o status CANCELADO e enviará uma 
+notificação por e-mail ao(à) discente.  
+23) Quando isso acontecer, o(a) discente deverá realizar um novo pré-cadastro. Vale lembrar 
+que se o TCE estiver, após esse prazo de 10 dias, com data retroativa, o(a) discente deverá 
+atualizar o documento de estágio junto à empresa/integradora/escola com uma nova data 
+de início de suas atividades de estágio, para depois realizar o pré-cadastro novamente. 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+18 
+ 
+ENVIO DE TERMO DE RESCISÃO OU CANCELAMENTO DE ESTÁGIO 
+OBRIGATÓRIO 
+ 
+24) O(a) discente deverá encaminhar para a secretaria/coordenação ou professor(a) orientador(a) 
+o arquivo do Termo de Rescisão ou Cancelamento do Estágio não Obrigatório escaneado, em 
+formato pdf, com as seguintes assinaturas: do(a) representante da empresa, do(a) 
+supervisor(a) e do(a) discente. 
+ 
+25) Neste caso, não será realizado o registro no SIGAA, apenas o envio do documento, conforme 
+as orientações do item anterior. 
+ 
+ 
+MEU ESTÁGIO ESTÁ ATIVO. COMO FAÇO PARA MANDAR O ARQUIVO 
+pdf ASSINADO PARA A EMPRESA/LOCAL DE ESTÁGIO? 
+ 
+ 
+26) Na página inicial, clicar no menu: Estágio → Gerenciar Estágios 
+ 
+ 
+ 
+ 
+27) Em Ações (ícone mais à direita, ao lado da Situação ATIVO), clicar em: Visualizar Estágio. 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+19 
+ 
+ 
+28) Em Termos do Estágio, clicar no ícone verde ao lado de Termo de Compromisso de Estágio 
+assinado Pelas Partes. Será feito o download do arquivo do Termo de Compromisso de 
+Estágio, no formato pdf, para o computador, que poderá ser enviado por e-mail ou impresso 
+para ser entregue na empresa/local do estágio. 
+ 
+ 
+ 
+ 
+PARA GERENCIAR SEU ESTÁGIO E PREENCHER O RELATÓRIO FINAL 
+ 
+ 
+29) Na página inicial, clicar no menu: Estágio → Gerenciar Estágios. 
+ 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+20 
+ 
+ 
+30) Em Ações (ícone mais à direita, ao lado da Situação ATIVO), você poderá visualizar o estágio e 
+Preencher Relatório Final, de acordo com os requisitos da Lei 11.788/2008. 
+ 
+ 
+31) Quando o relatório estiver disponível para preenchimento, você deverá preencher todos os 
+campos e enviar. Observação: o sistema só permite o preenchimento do relatório na data 
+específica, calculada por ele. Clicar em SALVAR e ENVIAR. 
+
+                                                                                                    
+ 
+Universidade de Brasília (UnB) – Decanato de Ensino de Graduação (DEG) 
+Diretoria de Acompanhamento e Integração Acadêmica (DAIA) – Coordenação de Estágios (CESG) 
+21 
+ 
+ 
+32) Verificar a mensagem: Operação Realizada com Sucesso! 
+ 
+ 
+33) Por fim, avisar o(a) professor(a) orientador(a) sobre o preenchimento dos campos do 
+Relatório para ser dada a continuidade na análise do relatório. 
+
