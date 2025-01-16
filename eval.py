@@ -11,7 +11,8 @@ from ragas.metrics import (
     context_recall,
     context_precision,
     answer_relevancy,
-    answer_similarity
+    answer_similarity,
+    answer_correctness
 )
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -41,8 +42,21 @@ data_samples = {
     "ground_truth": ground_truths,
 }
 
-models = ["gemma2:latest"]
+models = ["llama3.1:latest"]
 for model in models:
+    # file_name = f"qa_{model}.json"
+    # with open(file_name, "r", encoding="utf-8") as json_file:
+    #     data = json.load(json_file)
+    # questions = [data[str(x)][0]["question"] for x in range(100)]
+    # answers = [data[str(x)][0]["answer"] for x in range(100)]
+    # ground_truths = [data[str(x)][0]["ground_truth"] for x in range(100)]
+    # contexts = [[data[str(x)][0]["context"]] for x in range(100)]
+    # data_samples = {
+    #     "question": questions,
+    #     "answer":  answers,
+    #     "contexts": contexts,
+    #     "ground_truth": ground_truths,
+    # }
     model_name = model
     llm = Ollama(model=model_name, temperature=0.1)
     embed = LangchainEmbeddingsWrapper(FastEmbedEmbeddings(model_name='intfloat/multilingual-e5-large'))
@@ -55,6 +69,7 @@ for model in models:
             faithfulness,
             answer_similarity,
             context_entity_recall,
+            answer_correctness,
     ], callbacks  = None, run_config=run_config, raise_exceptions=False,
     )
 
@@ -63,16 +78,16 @@ for model in models:
     print(df)
     csv_file_name = f"evaluation_results_{model_name}.csv"
     df.to_csv(csv_file_name, index=False, encoding='utf-8')
-    categories = ['context_precision', 'answer_relevancy', 'context_recall', 'faithfulness', 'answer_similarity', 'context_entity_recall']
+    categories = ['context_precision', 'answer_relevancy', 'context_recall', 'faithfulness', 'answer_similarity', 'context_entity_recall', 'answer_correctness']
     data = [df[category].dropna() for category in categories]  # Drop NaN 
     plt.figure(figsize=(15, 6))
     plt.boxplot(data, vert=True, patch_artist=True, tick_labels=['Context Precision', 'Answer Relevancy', 'Context Recall', 
-                                                            'Faithfulness', 'Answer Similarity', 'Context Entity Recall'])
+                                                            'Faithfulness', 'Answer Similarity', 'Context Entity Recall', 'Answer Correctness'])
     plt.xlabel('Métricas')
     plt.ylabel('Valores')
     plt.title(f'Distribução das Métricas (RAGAS) no modelo {model_name}')
 
-    with PdfPages(f'boxplot_graph_{model_name}_teste.pdf') as pdf:
+    with PdfPages(f'boxplot_graph_{model_name}.pdf') as pdf:
         pdf.savefig()
         plt.close()
     print(f"Documento evaluation_results_{model_name}.csv e boxplot (boxplot_graph_{model_name}_teste.pdf) criados")

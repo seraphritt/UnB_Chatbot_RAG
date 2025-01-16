@@ -26,31 +26,48 @@ rag = LightRAG(
     embedding_dim=1024,
     max_token_size=8192,
     func=lambda texts: ollama_embedding(
-        texts, embed_model="bge-m3", host="http://localhost:11434"
+        texts, embed_model="jeffh/intfloat-multilingual-e5-large-instruct:f16", host="http://localhost:11434"
         ),
     ),
 
-    addon_params={"language": "Portuguese"}
+    addon_params={"language": "English"}
 )
 
-# with open("manual_check_naoob_ob.txt", "r", encoding="utf-8") as f:
-#     rag.insert(f.read())
+texts = []
+for filename in os.listdir("docs"):
+    if filename.endswith(".txt"):
+        file_path = os.path.join("docs", filename)
+        with open(file_path, "r", encoding="utf-8") as file:
+            texts.append(file.read())
+
+
+# Batch insert texts into LightRAG with a retry mechanism
+def insert_texts_with_retry(rag, texts, retries=1, delay=2):
+    for _ in range(retries):
+        try:
+            rag.insert(texts)
+            return
+        except Exception as e:
+            print(
+                f"Error occurred during insertion: {e}. Retrying in {delay} seconds..."
+            )
+            time.sleep(delay)
+    raise RuntimeError("Failed to insert texts after multiple retries.")
+
+
+insert_texts_with_retry(rag, texts)
+
 # Perform naive search
-print(
-    rag.query("Answer in Portuguese: O que é a FAU?", param=QueryParam(mode="local", only_need_context=True, top_k=3))
-)
-print(
-    rag.query("Answer in Portuguese: What is the FAU?", param=QueryParam(mode="local", top_k=3))
-)
+
 # print(
-#     rag.query("Responda em Portuguẽs: Quem é Vanessa Oliveira e qual é a sua relação com Diego Madureire no contexto da Universidade de Brasília?", param=QueryParam(mode="local"))
+#     rag.query("Responda em Portuguẽs: Quem é Vanessa Oliveira e qual é a sua relação com Diego Madureira no contexto da Universidade de Brasília?", param=QueryParam(mode="local"))
 # )
 
 # print(
 #     rag.query("Answer in Portuguese: Who is Vanessa Oliveira and what is her relation with Diego Madureira in the context of Universidade de Brasília?", param=QueryParam(mode="naive", only_need_context=True))
 # )
 # print(
-#     rag.query("Responda em Portuguẽs: Quem é Vanessa Oliveira e qual é a sua relação com Diego Madureire no contexto da Universidade de Brasília?", param=QueryParam(mode="hybrid", only_need_context=True))
+#     rag.query("Responda em Portuguẽs: Quem é Vanessa Oliveira e qual é a sua relação com Diego Madureira no contexto da Universidade de Brasília?", param=QueryParam(mode="hybrid", only_need_context=True))
 # )
 # end_time = time.time()
 # execution_time_seconds = end_time - start_time

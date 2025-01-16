@@ -7,24 +7,9 @@ from langchain.chains import RetrievalQA
 from langchain.llms import Ollama
 from langchain import PromptTemplate
 from ragas.embeddings import LangchainEmbeddingsWrapper
-import ragas
 from langchain_community.embeddings import FastEmbedEmbeddings
-from datasets import Dataset
-from ragas import evaluate
-from ragas.metrics import (
-    faithfulness,
-    answer_relevancy,
-    context_recall,
-    context_precision,
-    answer_similarity,
-    context_entity_recall,
-
-)
-import pandas as pd
 import matplotlib.pyplot as plt
-from matplotlib.backends.backend_pdf import PdfPages
 import extract_qa
-import re
 from langchain.document_loaders import PyMuPDFLoader
 
 def load_pdf_data(file_paths):
@@ -62,8 +47,8 @@ template = """
 ### System:
 You are a respectful and honest assistant specialized to answer ONLY about University of Brasília, don't use greetings or saudations. Elaborate your answer with details. \
 All your answers from now on must be in Portuguese. \
-If the question is not related to the University field, don't answer \
-If the answer is not given in the context, say: "Desculpe, mas eu não sei te responder".
+If the question is not related to the University field, you cannot answer. \
+Only use the given context to develop your answer. \
 Given the following context, answer the following User Question: \
 
 ### Context:
@@ -83,7 +68,7 @@ def get_response(retriever, query, template, llm):
     # print("RESPOSTA")
     return [llm.invoke(template.format(context=context, question=query)), context]
 
-llm = Ollama(model="gemma2:latest", temperature=0.2)
+llm = Ollama(model="llama3.1:latest", temperature=0.1)
 embed = LangchainEmbeddingsWrapper(FastEmbedEmbeddings(model_name='intfloat/multilingual-e5-large'))
 # List of PDF files to be processed
 pdf_files = ["docs/manual_dos_estudantes_22.pdf", "docs/check_list_calouro.pdf", "docs/manual_estagio_curricular_obrigatorio_discentes.pdf", "docs/manual_estagio_nao_obrigatorio_discentes.pdf"]
