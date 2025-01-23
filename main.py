@@ -40,6 +40,8 @@ def load_embedding_model(model_path, normalize_embedding=True):
 def create_embeddings(chunks, embedding_model, storing_path="vectorstore"):
     vectorstore = FAISS.from_documents(chunks, embedding_model)
     vectorstore.save_local(storing_path)
+    print("Tamanho da Vector Store")
+    print(vectorstore.index.ntotal)
     return vectorstore
 
 
@@ -79,31 +81,31 @@ documents = split_docs(documents=docs)
 # Creating vectorstore
 vectorstore = create_embeddings(documents, embed)
 
-qa = extract_qa.qaExtractor("ground_truth.txt", "perguntas.txt")
-questions = qa.get_questions()
-ground_truth = qa.get_answers()
-# Converting vectorstore to a retriever
-# search_type= similarity (uses l2 (Euclidian Distance) as default)) search_kwargs = k: 3 (take the top 3 results of the similarity search)
-retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 3})
-# Creating the prompt from the template
-prompt = PromptTemplate.from_template(template)
-count = 0
-dicio = {}
-# print(get_response(retriever, "Quem é Vanessa Oliveira e qual é a sua relação com Diego Madureire no contexto da Universidade de Brasília?", template, llm))
-print("Respondendo questões...")
-for entrada in questions:
-    answer, contexto = get_response(retriever, entrada, template, llm)
-    dicio.update({count : [{"question" : entrada, "answer" : answer, "context": contexto, "ground_truth": ground_truth[count]}]})
-    count += 1
-    # results = vectorstore.similarity_search(query, k=3)
-    # print(f"Retrieved {len(results)} results for the query:")
-    # for i, result in enumerate(results):
-    #     print(f"Result {i+1}:")
-    #     print(f"Content: {result.page_content}")
-file_name = "qa.json"
-with open(file_name, "w", encoding="utf-8") as json_file:
-    json.dump(dicio, json_file, indent=4, ensure_ascii=False)
-print(f"JSON data has been saved to {file_name}")
-# read json file
-with open(file_name, "r", encoding="utf-8") as json_file:
-    data = json.load(json_file)
+# qa = extract_qa.qaExtractor("ground_truth.txt", "perguntas.txt")
+# questions = qa.get_questions()
+# ground_truth = qa.get_answers()
+# # Converting vectorstore to a retriever
+# # search_type= similarity (uses l2 (Euclidian Distance) as default)) search_kwargs = k: 3 (take the top 3 results of the similarity search)
+# retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 3})
+# # Creating the prompt from the template
+# prompt = PromptTemplate.from_template(template)
+# count = 0
+# dicio = {}
+# # print(get_response(retriever, "Quem é Vanessa Oliveira e qual é a sua relação com Diego Madureire no contexto da Universidade de Brasília?", template, llm))
+# print("Respondendo questões...")
+# for entrada in questions:
+#     answer, contexto = get_response(retriever, entrada, template, llm)
+#     dicio.update({count : [{"question" : entrada, "answer" : answer, "context": contexto, "ground_truth": ground_truth[count]}]})
+#     count += 1
+#     # results = vectorstore.similarity_search(query, k=3)
+#     # print(f"Retrieved {len(results)} results for the query:")
+#     # for i, result in enumerate(results):
+#     #     print(f"Result {i+1}:")
+#     #     print(f"Content: {result.page_content}")
+# file_name = "qa.json"
+# with open(file_name, "w", encoding="utf-8") as json_file:
+#     json.dump(dicio, json_file, indent=4, ensure_ascii=False)
+# print(f"JSON data has been saved to {file_name}")
+# # read json file
+# with open(file_name, "r", encoding="utf-8") as json_file:
+#     data = json.load(json_file)
