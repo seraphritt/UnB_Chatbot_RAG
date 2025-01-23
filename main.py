@@ -26,6 +26,11 @@ def split_docs(documents, chunk_size=700, chunk_overlap=200):
         chunk_overlap=chunk_overlap
     )
     chunks = text_splitter.split_documents(documents=documents)
+    soma = 0
+    for chunk in chunks:
+        soma += len(chunk.page_content)
+    print("Total de tokens armazenados")
+    print(soma) 
     return chunks
 
 def load_embedding_model(model_path, normalize_embedding=True):
