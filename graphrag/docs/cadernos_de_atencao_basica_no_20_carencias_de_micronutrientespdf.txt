@@ -1,0 +1,2524 @@
+CADERNOS DE 
+ATENÇÃO BÁSICA
+MINISTÉRIO DA SAÚDE
+CARÊNCIAS DE MICRONUTRIENTES
+Cadernos de Atenção Básica - nº 20
+Brasília - DF
+2007
+
+
+CADERNOS DE 
+ATENÇÃO BÁSICA
+MINISTÉRIO DA SAÚDE
+Secretaria de Atenção à Saúde
+Departamento de Atenção Básica
+CARÊNCIAS DE MICRONUTRIENTES
+Cadernos de Atenção Básica - nº 20
+Série A. Normas e Manuais Técnicos
+Brasília - DF
+2007
+
+Elaboração, distribuição e informações:
+MINISTÉRIO DA SAÚDE
+Secretaria de Atenção à Saúde
+Departamento de Atenção Básica
+Coordenação-Geral da Política de Alimentação 
+e Nutrição
+SEPN 511, bloco C, Edifício Bittar IV
+, 4º andar
+CEP: 70750-543, Brasília-DF
+T
+els.: (61) 3448-8040 / 3448-8232
+Fax: (61) 3448-8228
+Supervisão geral:
+Luis Fernando Rolim Sampaio
+Coordenação técnica:
+Antônio Dercy Silveira Filho
+Colaborador: 
+Malaquias Batista Filho
+Revisão técnica: 
+Ana Beatriz Vasconcellos, Ana Maria 
+Cavalcante de Lima; Anelise Rizzolo de 
+Oliveira Pinheiro, Elisabetta Recine; Gracy 
+Santos Heijblom; Juliana Ubarana; Maria 
+de Fátima Carvalho; Patrícia Chaves Gentil; 
+Yedda Paschoal; Patrícia de Campos Couto; 
+Élida Amorim Valentim.
+Preparação de originais e revisão: 
+Yana Palankof
+Impresso no Brasil / Printed in Brazil
+Série Cadernos de Atenção Básica nº 20 – Série A. Normas e Manuais Técnicos
+Tiragem: 1ª Edição – 2007 – 50.000 exemplares
+Brasil. Ministério da Saúde. Unicef. Cadernos de Atenção Básica: Carências de 
+Micronutrientes / Ministério da Saúde, Unicef; Bethsáida de Abreu Soares Schmitz. - 
+Brasília: Ministério da Saúde, 2007.
+60 p. - (Série A. Normas e Manuais Técnicos)
+ISBN 978-85-334-1404-4
+1. Vitamina A. 2. Ferro. 3. Iodo. I. Brasil. Ministério da Saúde. II.
+Unicef. III. Schmitz, Bethsáida de Abreu Soares. IV
+. Título. IV
+. Série.
+NLMQU 167
+Ficha Catalográfica
+Catalogação na fonte - 2007- Editora MS – Documentação e Informação
+SIA T
+recho 4, Lotes 540/610 – 71200-040 – Brasília-DF
+T
+el.: (61) 3233-1774/2020 – Fax: (61) 3233-9558
+Endereço eletrônico: editora.ms@saude.gov.br
+©2007. Ministério da Saúde. Unicef.
+Direitos cedidos pela autora Bethsáida de Abreu Soares Schmitz.
+É permitida a reprodução parcial ou total desta obra, desde que citada a fonte.
+Ministro de Estado da Saúde
+Secretário de Assistência à Saúde
+Diretor do Departamento de Atenção Básica
+Coordenadora da Coordenação-Geral da Política de Alimentação e Nutrição
+
+SUMÁRIO
+Apresentação  	
+6
+1 Hipovitaminose A 	
+8
+1.1 Deficiência de vitamina A 	
+8	
+1.2 Funções da vitamina A 	
+9
+1.3 Vitamina A 	
+10
+1.4 Fontes de vitamina A 	
+11
+1.5 Diagnóstico da deficiência de vitamina A 	
+12 
+1.6 Prevenção e controle da hipovitaminose A 	
+16
+1.7 Brasil: Programa Nacional de Suplementação de Vitamina A 	
+18
+Resumindo 	
+21
+2 Anemia por deficiência de ferro 	
+23
+2.1 Magnitude da anemia 	
+23
+2.2 Grupos de risco e conseqüências da anemia por deficiência de ferro 	
+25 
+2.3 Etiologia da anemia 	
+27
+2.4 Diagnóstico do estado nutricional de ferro 	
+30
+2.5 Estratégias de prevenção e tratamento 	
+32
+2.6 Ações de suplementação a grupos de risco 	
+32 
+2.7 Educação nutricional  	
+33
+2.8 Fortificação de alimentos 	
+34
+2.9 Brasil: Programa Nacional de Suplementação de Ferro 	
+35
+Resumindo 	
+38
+3 Distúrbios por Deficiência de Iodo (DDI) 	
+39
+3.1 Introdução 	
+39
+3.2 Iodo 	
+40
+3.3 Fontes de iodo 	
+41
+3.4 Grupos de risco 	
+42
+3.5 Conseqüências da deficiência de iodo 	
+43
+3.6 Diagnóstico dos Distúrbios por Deficiências de Iodo 	
+45
+3.7 Prevenção e tratamento dos Distúrbios por Deficiência de Iodo 	
+47
+3.8 Histórico sobre o controle dos Distúrbios por Deficiência de Iodo no Brasil 	
+50
+Resumindo 	
+54
+Referências	
+55
+
+6
+Cadernos de 
+Atenção Básica
+APRESENTAÇÃO
+Uma em cada três pessoas no mundo é afetada pela deficiência de vitamina A, 
+ferro ou iodo. Manifestações clínicas dessas carências, como morte materna e infantil, 
+resposta imunológica diminuída, cegueira, retardo mental e anemia, afetam mais de meio 
+bilhão da população mundial.
+Esses efeitos devastadores são somente parte do problema. Outros dois bilhões 
+de pessoas residentes em áreas de baixo nível socioeconômico, tanto na área urbana 
+quanto na rural, são deficientes marginais em micronutrientes, impossibilitados de alcançar 
+seu potencial de desenvolvimento físico e mental.
+A Política Nacional de Alimentação e Nutrição, aprovada em 1999 pelo Ministério 
+da Saúde, em conformidade com a Política Nacional de Atenção Básica (PNAB 2006), 
+tem como eixo fundamental a promoção da realização do direito humano à alimentação, 
+a segurança alimentar e nutricional e a nutrição de toda a população brasileira. Uma de 
+suas diretrizes de ação baseia-se na prevenção e no controle dos distúrbios nutricionais 
+e das doenças associadas à alimentação e à nutrição.
+As ações do Ministério da Saúde que objetivam reduzir as deficiências de mi-
+cronutrientes na população brasileira estão apoiadas também na suplementação com 
+megadoses de vitamina A e suplementos de sulfato ferroso, na fortificação de alimentos, 
+como farinhas de trigo e milho com ferro e ácido fólico e na adição de iodo no sal para 
+consumo humano.
+Este manual faz parte da estratégia do Ministério da Saúde para reduzir a prevalência 
+da deficiência de vitamina A, ferro e iodo na população brasileira. Para o enfrentamento 
+desse quadro é necessário ação integrada em todas as instâncias, federal, estadual e 
+municipal, assim como a participação dos profissionais de saúde do Brasil em ações que 
+levem a uma melhor nutrição e saúde de toda a população e, principalmente, dos gru-
+pos mais vulneráveis. Este manual destina-se às equipes da estratégia Saúde da Família 
+e demais unidades de atenção básica, e tem como objetivo o apoio à capacitação de 
+profissionais, trazendo informações e orientações técnicas sobre os problemas de saúde 
+causados pela deficiência de vitamina A, ferro e iodo.
+A alimentação e a nutrição são fundamentais para o desenvolvimento humano e 
+devem estar inseridas em um contexto de ações integradas voltadas para a prevenção 
+e a promoção da saúde e de modos de vida saudáveis.
+Desse modo, os profissionais de Atenção Básica de saúde (especialmente da 
+estratégia Saúde da Família) são um dos pilares para que a alimentação e a nutrição pos-
+sam prevenir doenças e promover a saúde da população brasileira. Esses profissionais 
+de saúde estão em contato direto com as famílias e conhecem a realidade de cada uma 
+delas. Nesse contexto, colaboram para a realização do direito humano à alimentação e 
+à nutrição adequadas, bem como a busca pela garantia da Segurança Alimentar e Nutri-
+cional na comunidade em que trabalham quando:
+– identificam famílias e comunidades que podem estar sofrendo as conseqüências 
+da falta de vitamina A, ferro e iodo na alimentação, possibilitando ação integrada dos 
+
+7
+carênciaS DE
+micronutrientes
+profissionais de saúde e de outros setores governamentais para corrigi-las (orientações 
+alimentares, hortas domiciliares ou comunitárias, medidas de saneamento, ações edu-
+cativas, encaminhamento para programas de controle e prevenção de deficiências de 
+micronutrientes);
+– informam a população sobre práticas alimentares saudáveis, a importância do 
+aleitamento materno exclusivo e complementar, a importância da alimentação variada e 
+a utilização de alimentos disponíveis regionalmente;
+– orientam as famílias a buscar apoio dos serviços de saúde para avaliação e trata-
+mento de possíveis problemas relacionados à alimentação inadequada;
+– informam e estimulam cada família e comunidade a garantirem seus direitos de 
+cidadania, tais como: direito ao registro civil gratuito (certidão de nascimento), direito à 
+educação básica gratuita, direito à saúde, direito de acesso aos programas sociais existen-
+tes, bem como informam sobre instrumentos disponíveis para denúncia e busca desses 
+direitos (Conselho Municipal de Saúde, Conselho de Defesa dos Direitos da Criança, 
+Conselho T
+utelar, Promotoria de Justiça, órgãos de defesa do consumidor, como PRO-
+CON e IDEC).
+MINISTÉRIO DA SAÚDE
+
+8
+Cadernos de 
+Atenção Básica
+1 	 HIPOVITAMINOSE A
+1.1	 DEFICIÊNCIA DE VITAMINA A
+A deficiência de vitamina A é responsável por uma série de problemas de saúde. 
+A sigla mais conhecida para determinar este problema é VAD, da terminologia em inglês 
+Vitamin A Deficiency.1
+A deficiência crônica de vitamina A ainda é um dos mais resistentes problemas 
+nutricionais nos países em desenvolvimento, a despeito dos sintomas não serem de 
+difícil identificação, da etiologia ser bem conhecida, do tratamento ser disponível e, em 
+grande parte das situações, de existirem fontes alimentares, disponíveis e acessíveis, de 
+vitamina A, seja na forma de carotenóides, seja como retinol.2
+Sabe-se há muito tempo que a deficiência de vitamina A pode levar à cegueira, 
+carência esta que afeta milhões de crianças no mundo. Mesmo nos casos de deficiência 
+leve, pode haver comprometimento do sistema imunológico, o que reduz a resistência à 
+diarréia e ao sarampo, que, por sua vez, contribuem para a morte de, respectivamente, 
+2,2 milhões e 1 milhão de crianças por ano no mundo.3
+Estima-se que aproximadamente 190 milhões de indivíduos apresentem deficiên-
+cia subclínica, 13 milhões, algum sintoma de xeroftalmia, e, como conseqüência desta, 
+ 
+250.000 a 500.000 crianças são atingidas, anualmente, de cegueira irreversível.4 
+Conjunto de estudos relacionado a ação da suplementação com vitamina A em 
+crianças de 6 meses a 5 anos verificou que esta poderia reduzir as taxas de mortalidade 
+infantil em 23% nas situações de risco da deficiência, sendo o maior impacto obtido nas 
+mortes relacionadas à diarréia e ao sarampo.3,5 Considera-se, nesse sentido, que o efeito 
+da vitamina A é duplo, não somente reduzindo a gravidade das doenças e salvando vidas, 
+mas também aliviando a demanda de atendimentos por parte dos serviços de saúde que, 
+na maior parte das vezes, estão sobrecarregados.
+A relação da deficiência de vitamina A com a mortalidade materna também vem 
+sendo descrita, principalmente nas regiões menos desenvolvidas. Análise desse problema 
+realizada no Nepal mostrou que a suplementação de vitamina A, em pequenas doses 
+semanais, durante o pré-natal, foi capaz de produzir redução de 44% na mortalidade das 
+gestantes. Isso é da maior relevância, pois, à semelhança de outros países em desenvol-
+vimento no mundo, a taxa de mortalidade materna no Nepal é muito alta, sendo 125 
+vezes maior do que a dos Estados Unidos. A deficiência de vitamina A nessas gestantes 
+é comum, com a cegueira noturna manifestando-se em cerca de 10% a 20% dessas 
+mulheres.3
+Os resultados desse estudo indicaram que, em regiões com deficiência de vitamina 
+A, a ingestão regular e adequada dessa vitamina ou de beta-caroteno, por mulheres em 
+fase reprodutiva, pode diminuir marcadamente a mortalidade relacionada à gravidez, a 
+anemia na gestação, quando combinada ao tratamento para verminose, e o percentual 
+de cegueira noturna.3
+
+9
+carênciaS DE
+micronutrientes
+Apesar de reconhecida há muitos anos, a cegueira noturna em gestantes dissemi-
+nou-se em vários países no mundo e, somente nos últimos anos, passou a ser vista como 
+problema de saúde pública. Estima-se que somente na Ásia Meridional entre um milhão e 
+dois milhões de mulheres grávidas sofram desse problema. Estudos têm relacionado essa 
+condição à inadequação e à deficiência de vitamina A na dieta, à anemia por deficiência 
+de ferro, à desnutrição, ao aumento de morbidade na gravidez e à mortalidade até dois 
+anos após o diagnóstico.3
+Esses vários enfoques relacionados à importância da manutenção de estado ade-
+quado de vitamina A, tanto em crianças quanto em adultos, indicam a relevância de se 
+levar em consideração as inúmeras funções que esse nutriente desempenha no corpo 
+humano, assim como a importante tarefa de se desenvolver estratégias e ações eficientes 
+para o adequado controle e a prevenção dessa carência.
+1.2	 FUNÇÕES DA VITAMINA A
+A importância do adequado estado nutricional de vitamina A é incontestável, uma 
+vez que ela possui papel fisiológico muito diversificado, atuando no bom funcionamento do 
+processo visual, na integridade do tecido epitelial e no sistema imunológico, entre outros.1
+1.2.1 PROCESSO VISUAL
+A ação da vitamina A na visão dá-se em razão de sua combinação com a opsina 
+no segmento exterior dos bastonetes da retina. A opsina é uma proteína que produz a 
+rodopsina – pigmento visual dos bastonetes que participa do processo visual em condi-
+ções de luminosidade reduzida. Em situação de deficiência de vitamina A, ocorre retar-
+do no tempo de adaptação à obscuridade, sendo, portanto, mais difícil o processo de 
+adaptação ao ambiente com pouca luminosidade. Esse efeito da deficiência de vitamina 
+A é conhecido como cegueira noturna, que é uma forma de disfunção da retina, sendo 
+grave o suficiente para ocasionar deficiência subjetiva da visão noturna.
+1.2.2 DIFERENCIAÇÃO CELULAR
+A vitamina A atua nas células produtoras de queratina em vários tecidos epiteliais do 
+organismo, e, na ausência desta, ocorre ressecamento epitelial denominado de xerose, tipica-
+mente encontrado na conjuntiva e na córnea. T
+ambém se observa que essa vitamina tem  ação 
+semelhante a de um hormônio na diferenciação celular de vários tecidos e órgãos. 
+1.2.3 RESPOSTA IMUNITÁRIA
+A vitamina A atua nos processos de manutenção da imunocompetência, princi-
+palmente em relação aos linfócitos, de respostas mediadas pelas células T e de ativação 
+de macrófagos.
+
+10
+Cadernos de 
+Atenção Básica
+1.2.4 MORTALIDADE E MORBIDADE
+Vários estudos epidemiológicos vêm destacando, nas duas últimas décadas, 
+o papel da vitamina A na redução da mortalidade e da morbidade, principalmente 
+por doenças infecciosas. Observou-se que, em populações com alta prevalência 
+de deficiência, o aumento no consumo de vitamina A em crianças reduz o risco de 
+morte, principalmente quando associado à diarréia. A metanálise dos oito principais 
+estudos de intervenção em relação à mortalidade indica que a redução geral na 
+mortalidade foi de 23% em crianças menores de 5 anos. Pesquisas com sarampo 
+indicam que, nos casos graves, observa-se redução na morbi-mortalidade em crianças 
+suplementadas com vitamina A. Em geral, o sarampo apresenta-se de forma mais 
+grave e aguda em crianças desnutridas, levando a complicações mais freqüentes 
+e aumentando a taxa de mortalidade, o que diminui quando o tratamento inclui a 
+suplementação com vitamina A.1,5
+Outra abordagem sobre a deficiência de vitamina A e morbidade tem sido desen-
+volvida, ainda preliminarmente, em relação à Síndrome da Imunodeficiência Adquirida 
+(Aids), pois se verifica que a mortalidade média é maior nos indivíduos soropositivos 
+com menor concentração de retinol sérico. Nesse sentido, o estado nutricional de 
+vitamina A na infecção por HIV é muito importante, e a suplementação poderá ser uma 
+estratégia de intervenção nesses casos.1,5 T
+ambém a suplementação de vitamina A em 
+crianças infectadas com HIV parece ser benéfica na redução da incidência e da gravidade 
+da diarréia.6
+Estudos têm sido desenvolvidos ainda em relação às funções da vitamina na em-
+briogênese, na reprodução, no crescimento e na associação com a anemia por deficiência 
+de ferro. 
+Com relação aos carotenóides, observa-se que, em alguns tipos, a principal função 
+nos seres humanos é a formação da vitamina A. Os carotenóides também podem atuar 
+como antioxidantes, reduzindo radicais livres e, portanto, exercendo efeito protetor em 
+alguns sistemas orgânicos. Essas propriedades, entretanto, parecem não estar relacionadas 
+com a função de provitamina A.1
+1.3	 Vitamina A
+Os agentes precursores da vitamina A fazem parte de um grande grupo conhecido 
+como carotenóides ou provitamina A. Estes são considerados como vitamina em po-
+tencial, mas não o são na realidade, sendo precursores dietéticos do retinol. Eles fazem 
+parte de um grupo de pigmentos naturais, roxos, alaranjados e amarelos encontrados 
+em plantas e animais, com produção pela natureza estimada em aproximadamente 100 
+milhões de toneladas de pigmentos de carotenóides por ano.1
+Esse conjunto de carotenóides dispostos na natureza atua em pigmentos de algas 
+marinhas, plumagem de algumas aves, cores das frutas e hortaliças, além de estar pre-
+sente em fungos, leveduras, bactérias, plantas e animais. Destes elementos chamados de 
+
+11
+carênciaS DE
+micronutrientes
+carotenóides com ação de provitamina A, mais de 50 são capazes de converter-se em 
+vitamina A. De todos, o que possui maior capacidade de conversão é o beta-caroteno 
+(em torno de 100%), seguido do alfa-caroteno (50% – 54%) e do gama-caroteno 
+(42% – 50%).1
+1.4 	 Fontes de vitamina A
+A melhor fonte de vitamina A para o lactente é o leite materno. Outras fontes 
+principais de provitamina A são as folhas de cor verde-escura (como o caruru), os frutos 
+amarelo-alaranjados (como a manga e o mamão), as raízes de cor alaranjada (como a 
+cenoura) e os óleos vegetais (óleo de dendê, pequi e pupunha). Com relação às frutas, 
+apesar da atividade de vitamina A ser menor do que nas hortaliças, sua melhor aceitabi-
+lidade entre as crianças traduz-se em vantagem para as ações de intervenção. Quanto 
+às raízes e aos tubérculos, a maioria dos produtos analisados têm baixa quantidade de 
+carotenóides. A maior parte dos óleos vegetais possui carotenóides, mesmo que em 
+concentrações baixas. As exceções são o óleo de dendê e o de buriti, que são ricos 
+nessa substância.1
+A maior parte dos carotenóides existentes não possui atividade de vitamina A, 
+apesar de possuírem cores fortes e brilhantes. Este é o caso, por exemplo, dos ovos 
+de galinha, cujos principais pigmentos são a luteína e a zeaxantina, e menos de 7% do 
+total é representado pelo beta-caroteno. O mesmo ocorre em alguns pescados, cujos 
+principais pigmentos são xantófilos, que não tem propriedade de provitamina A.1
+Existem fatores que podem atuar isolada ou conjuntamente na alteração da ab-
+sorção dos carotenóides, modificando, portanto, sua biodisponibilidade – capacidade de 
+o nutriente estar disponível para utilização pelo organismo. A estrutura química de um 
+carotenóide pode determinar sua atividade de vitamina A. T
+ambém a forma na qual o 
+carotenóide se encontra nos alimentos é importante. Ele pode estar ligado a um comple-
+xo pigmento-proteína ou a gotículas de gordura, cuja liberação é facilitada. O tempo de 
+cocção do alimento pode ajudar na liberação do carotenóide, mas, caso seja prolongado, 
+pode levar à sua destruição oxidativa. A composição química dos alimentos também pode 
+influenciar, pois a gordura favorece a absorção, pela formação das micelas.8
+Ainda como fatores facilitadores, observa-se a necessidade de bom estado nu-
+tricional em relação à proteína e ao zinco e a presença de vitamina E, que atua como 
+antioxidante, protegendo a vitamina A da oxidação.
+Por outro lado, as fibras, a clorofila e os carotenóides, que não têm ação de provi-
+tamina A, atuam reduzindo a biodisponibilidade do carotenóide com atividade de vitamina 
+A. A interação entre micronutrientes que coexistem no mesmo alimento também pode 
+interferir na sua biodisponibilidade, potencializando estados de deficiência.8
+Outros fatores que podem prejudicar a biodisponibilidade dos carotenóides são a má 
+absorção de gordura e os parasitas intestinais, como Ascaris lumbricoides e Giardia lamblia.8 
+Com relação à vitamina A pré-formada, os óleos de fígado de peixe são fontes 
+concentradas da vitamina A; entretanto, são mais utilizados como remédios. Nos 
+
+12
+Cadernos de 
+Atenção Básica
+peixes de água salgada, esse composto é armazenado como álcool de vitamina 
+A1 (retinol) e, nos peixes de água doce, como álcool de vitamina A2 (3-des-hidro-
+retinol), que possui cerca de 40% da atividade do retinol. Os derivados do leite, 
+como queijo e manteiga, além dos ovos, são considerados fontes moderadas de 
+vitamina A.1,7  
+A melhor fonte de vitamina A na natureza é o fígado de alguns peixes, como o 
+linguado, o bacalhau e o arenque. As concentrações mais altas encontram-se nos animais 
+que estão no final da cadeia alimentar, na qual situam-se por ordem de concentração os 
+carotenóides e, depois, a vitamina A.1   
+1.5 	 Diagnóstico da deficiência de vitamina A8
+A determinação da magnitude, da gravidade e da distribuição dessa deficiência 
+é fundamental no sentido da promoção de estratégias corretas de controle e pre-
+venção, sendo da maior importância o conhecimento e o uso de indicadores clínicos 
+e bioquímicos relacionados à carência de vitamina A. Os indicadores que definem a 
+deficiência de vitamina A clínica, isto é, os sinais de xeroftalmia, sempre que possível, 
+devem ser reforçados por evidências de níveis sangüíneos inadequados de vitamina 
+A (retinol sérico). 
+A deficiência de vitamina A subclínica é definida como uma situação na qual as 
+concentrações dessa vitamina estão suficientemente baixas para levar a conseqüências 
+deletérias à saúde, mesmo na ausência de evidências clínicas de xeroftalmia. Segundo 
+especialistas, o termo deficiência inclui uma situação clínica e subclínica de distintos graus 
+– grave, moderada e leve –, mas todos produzem efeitos adversos sobre a saúde. Em 
+situações em que a deficiência se refere somente à presença de sinais clínicos, recomenda-
+se que seja usado o termo deficiência clínica ou xeroftalmia.
+A ocorrência de deficiência de vitamina A deve ser considerada principalmente em 
+locais com dificuldades de realização de diagnóstico clínico de xeroftalmia e onde existem 
+casos de desnutrição e diarréia freqüentes.
+1.5.1  Indicadores clínicos
+O termo xeroftalmia significa “olho seco”, sendo a xerose uma alteração que 
+pode ocorrer não só no olho, mas em outras partes do organismo, como a pele, 
+por exemplo. Esse termo inclui todas as alterações, os sinais e os sintomas clínicos 
+que acometem o olho, em situação de deficiência de vitamina A. A xerose está 
+delimitada principalmente por alterações nas estruturas epiteliais oculares, como a 
+conjuntiva e a córnea. 
+A Organização Mundial da Saúde classificou os diferentes aspectos oculares da 
+xeroftalmia e desenvolveu critérios para determinação da gravidade do problema em 
+termos de saúde pública. A prevalência de um ou mais indicadores significa um problema 
+de saúde pública.
+
+13
+carênciaS DE
+micronutrientes
+Classificação 	
+Indicador 	
+Prevalência mínima
+XN 	
+Cegueira noturna 	
+1,0%
+X1A 	
+Xerose da conjuntiva 	
+não usada
+X1B 	
+Mancha de Bitot 	
+0,5%
+X2 	
+Xerose da córnea 	
+0,01%
+X3A 	
+Ulceração córnea/ceratomalácia	
+<1/3 superfície da córnea 0,01%
+X3B 	
+Ulceração córnea/ceratomalácia	
+≥1/3 superfície da córnea 0,01%
+XS 	
+cicatriz na córnea 	
+0,05%
+XF 	
+fundo xeroftálmico 	
+não usado
+Classificação da xeroftalmia segundo sinais oculares
+indicadores de deficiência de vitamina A
+clínica-xeroftalmia, em crianças de 6-71 meses
+Fonte: WHO. Indicators for assessing Vitamin A Deficiency and their application in monitoring and evaluating intervention programmes. 
+WHO/NUT/96.10. 1996.8
+1.5.1.1 Cegueira noturna (XN): é a forma mais extrema da disfunção reti-
+niana e pode causar redução subjetiva da visão noturna. Como indicador da deficiência, 
+tem a vantagem de não ser invasivo. Alguns testes podem ser feitos por pessoal capa-
+citado, como aplicação de questionário e observação do desempenho de crianças e 
+mulheres gestantes em condições de pouca iluminação. Contudo o diagnóstico objetivo 
+de visão noturna requer equipamentos caros e complexos, manuseados por pessoal 
+qualificado.1 Esse indicador caracteriza-se por inadequada adaptação à obscuridade, 
+sendo o primeiro e mais precoce indicador funcional da manifestação da deficiência 
+passível de mensuração.
+A cegueira noturna em crianças de 24–71 meses deve ser avaliada a partir da 
+entrevista com as mães. Nas crianças menores de 24 meses e em algumas culturas, a 
+criança menor não tem muita mobilidade à noite, não sendo este um bom indicador 
+nesses casos. Já, com mulheres grávidas, o indicador deve ser utilizado para identifi-
+cação da deficiência.
+A interpretação da prevalência de cegueira noturna em crianças de 24–71 me-
+ses e sua identificação como problema de saúde pública é estabelecida segundo os 
+critérios abaixo: 
+Nível de importância	
+Prevalência
+Leve	
+> 0 - <1%
+Moderada	
+≥ 1% - < 5%
+Grave	
+≥ 5%
+Fonte: WHO. Indicators for assessing Vitamin A Deficiency and their application in monitoring and evaluating intervention programmes. 
+WHO/NUT/96.10. 1996.8
+
+14
+Cadernos de 
+Atenção Básica
+1.5.1.2  Xerose da conjuntiva (X1A): este termo pode ser aplicado a qual-
+quer das etapas de mudanças que ocorrem na conjuntiva. A categoria de mudanças 
+oculares caracterizadas pela X1A está sujeita a grandes variações entre os observadores, 
+sendo um indicador pouco confiável. O processo de xerose que afeta a conjuntiva 
+e a córnea se deve basicamente a trocas entre as proteínas tissulares, parecendo a 
+diminuição das lágrimas ser um fenômeno secundário que piora a xerose já existente. 
+Nessa situação, as infecções oculares locais são freqüentes.
+1.5.1.3  Mancha de Bitot (X1B): é o resultado final do processo de xerose 
+que afeta a conjuntiva bulbar, sendo característica da parte exposta da conjuntiva. Con-
+siste em agrupamento de células epiteliais queratinizadas, esfoliadas, que formam uma 
+estrutura elevada que pode ser retirada facilmente. As manchas variam em tamanho e 
+forma e as áreas afetadas podem ser múltiplas. Em geral, entretanto, existe apenas uma 
+mancha no olho, sendo seu aspecto semelhante à espuma, resultante, possivelmente, 
+da ação de bactérias que formam gases. A resposta ou não ao tratamento com vitamina 
+A determina se a mancha de Bitot se relaciona à deficiência de vitamina A presente 
+ou se está vinculada a outros problemas, como traumatismo local, exposição a raios 
+ultravioleta em grandes altitudes, entre outros.
+1.5.1.4  Xerose da córnea (X2): o processo de xerose na conjuntiva tende 
+a difundir-se até afetar a córnea, quando a mesma adquire aspecto opaco. A tendência 
+é que essa condição dure em torno de dois dias, evoluindo em seguida para a etapa 
+de deformação da córnea, que é conhecida como ceratomalácia. Ressalta-se que, até 
+esta etapa, o tratamento com megadoses de vitamina A pode reverter o processo, 
+preservando, assim, a visão.
+1.5.1.5 Ceratomalácia (X3A, X3B): a divisão está baseada no grau de 
+comprometimento da córnea. Esse quadro é caracterizado por xerose crescente do 
+epitélio, com liquefação da córnea a partir de processo de necrose, quando o estroma 
+se torna edemaciado. Como resultado final, sempre haverá algum grau de lesão ou 
+deformidade visual, podendo levar à cegueira irreversível. Normalmente, é obser-
+vada uma úlcera por olho e, em 20% dos casos, os dois olhos estão afetados com 
+características similares. O processo pode progredir muito rapidamente, em questão 
+de horas, especialmente em crianças muito pequenas. Nesses casos, deve-se atentar 
+para o fato de que a ceratomalácia pode apresentar-se sem nenhum indício de xerose 
+na conjuntiva ou na córnea, o que acontece principalmente em situações de quadros 
+infecciosos.
+1.5.1.6  Cicatrizes na córnea (XS): este tipo de deformação pode ser o 
+resultado de uma série de doenças que afetam os olhos. A deficiência visual é inevitável 
+e o seu grau dependerá da densidade da cicatriz. Quando as estruturas internas são 
+afetadas, normalmente como resultado de infecções concomitantes, não é possível 
+fazer melhorias nessa condição por meio de intervenção cirúrgica.
+
+15
+carênciaS DE
+micronutrientes
+1.5.1.7  Fundo xeroftálmico (XF): condição caracterizada por danos estrutu-
+rais nos bastonetes. Não é uma situação comum e tem sido observada principalmente 
+em escolares. Parece ser o resultado de deficiência prolongada de vitamina A, quando 
+a deficiência na função dos bastonetes é seguida por lesões estruturais.
+1.5.2  Indicadores BIOQUÍMICOS
+Entre os indicadores bioquímicos, os principais são:
+1.5.2.1 Retinol sérico: a vitamina A circula no sangue como retinol, ligada a 
+uma proteína carreadora conhecida pela sigla RBP (retinol-binding protein). O nível de 
+retinol sérico está sob controle homeostático e reflete as reservas corporais somente 
+quando estas são muito baixas ou muito altas. Nesse sentido, a concentração sérica 
+do retinol não é um bom indicador para diagnóstico da deficiência de vitamina A em 
+indivíduos. Em populações, entretanto, a distribuição da freqüência da concentração 
+de retinol sérico pode ser muito útil. Utiliza-se o ponto de corte de ≤ 0.70 µmol/L 
+para indicar baixo nível de vitamina A. Para caracterização desses valores, em termos 
+de nível de importância em saúde pública, utilizam-se os percentuais que seguem:
+1.5.2.2 Concentração de vitamina A no leite materno: este indicador 
+provê informação sobre o estado nutricional em relação à vitamina A da mãe e do 
+bebê amamentado. A secreção de vitamina A no leite materno está diretamente 
+relacionada ao estado de vitamina A da mãe, ressaltando-se que os recém-nascidos 
+têm baixos estoques dessa vitamina. Eles dependem das concentrações de vitamina A 
+do leite materno para acumular e manter estoques adequados até que a alimentação 
+complementar forneça quantidades adicionais da vitamina suficientes para manter 
+requerimentos dessa fase de crescimento. Em populações com níveis adequados de 
+vitamina A, a concentração média desta vitamina no leite materno é de 1.75 – 2.45 
+µmol/L, enquanto em populações deficientes os valores médios são abaixo de 1.4 
+µmol/L. Foi selecionado o ponto de corte de ≤1.05 µmol/L de vitamina A ou ≤ 8 
+µg/g de gordura do leite, sendo propostas as taxas de prevalência conforme a tabela 
+a seguir, para estabelecer a gravidade do problema.
+Nível de importância como problema de saúde pública             Prevalência
+Leve	
+≥ 2% – ≤ 10%
+Moderado	
+>10% – < 20%
+Grave	
+≥ 20%
+Prevalência de valores séricos de vitamina A
+≤ 0.70 µmol/L em crianças ≥ 1 ano
+Fonte: WHO. Indicators for assessing Vitamin A Deficiency and their application in monitoring and evaluating intervention program-
+mes. WHO/NUT/96.10. 1996.8
+
+16
+Cadernos de 
+Atenção Básica
+1.6	 Prevenção e controle da hipovitaminose A
+Entre diversos compromissos assumidos por dirigentes de vários países em 
+eventos internacionais, como a Cúpula Mundial da Infância, em 1990, e a Conferência 
+Internacional de Nutrição, em 1992, estava a meta de eliminar a deficiência de vitamina 
+A e suas conseqüências até o ano 2000. Entretanto, isso ainda não foi possível, mes-
+mo com a combinação de estratégias voltadas para o controle desse problema. No 
+mundo, observa-se que a xeroftalmia clínica tem diminuído anualmente; no entanto, 
+a prevalência da deficiência subclínica tem aumentado e, em muitos países, ainda não 
+existem dados disponíveis sobre o avanço nessa área.1
+Entre as ações e as estratégias passíveis de realização, destacam-se:1
+– controle da deficiência clínica, que se relaciona com o tratamento em hospitais 
+e consultórios dos casos diagnosticados, usualmente com administração de 
+altas doses de vitamina A. Nessas situações, é necessária a manutenção do 
+oferecimento dessa vitamina nas regiões de maior gravidade dos transtornos 
+por deficiência de vitamina A;
+– a suplementação ou distribuição periódica de vitamina A em altas doses nas 
+populações em risco, sendo esta uma estratégia de ação de curto prazo. Em 
+muitos países, essa atividade é feita paralelamente à vacinação, uma vez que 
+se conhece a estreita associação da carência de vitamina A com problemas 
+infecciosos;
+– a fortificação de alimentos é outra estratégia, sendo tão importante no caso 
+da vitamina A quanto no caso de outras carências de micronutrientes como, 
+por exemplo, o ferro. Esta estratégia é mundialmente aceita e recomendada, 
+sendo priorizados alimentos de consumo popular;
+– ações de intervenção educativa e nutricional que visem à diversificação alimentar 
+e ao maior consumo de fontes de vitamina A, principalmente em grupos de 
+maior risco, também devem ser incentivadas;
+– outra atividade que vislumbra maior desenvolvimento no futuro é o melho-
+ramento dos produtos vegetais, visando ao seu enriquecimento em termos 
+de micronutrientes.
+Nível de importância como problema de saúde pública	
+Prevalência
+Leve	
+<10%
+Moderado	
+≥10 - <25%
+Grave	
+≥25%
+Prevalência de valores no leite materno ≤ 1.05 µmol/L
+(≤ 8 µg/g gordura do leite) em uma população de lactantes
+Fonte: WHO. Indicators for assessing Vitamin A Deficiency and their application in monitoring and evaluating intervention program-
+mes. WHO/NUT/96.10. 1996.8
+
+17
+carênciaS DE
+micronutrientes
+De forma geral, as três principais linhas de ação em relação aos programas de 
+nutrição e saúde pública são a suplementação de megadoses de vitamina A, a forti-
+ficação de alimentos e o estímulo à produção e ao consumo de alimentos fontes de 
+vitamina A.
+A suplementação periódica da população de risco com doses maciças de 
+vitamina A, a curto prazo, é uma das estratégias mais utilizadas para prevenir e con-
+trolar a Deficiência de Vitamina A (DVA). A conduta de administração da megadose 
+de vitamina A é:
+– para crianças de 6 meses a 11 meses de idade – 1 megadose de vitamina A 
+na concentração de 100.000 UI;
+– para crianças de 12 a 59 meses de idade – 1 megadose de vitamina A na 
+concentração de 200.000 UI a cada 6 meses;
+– para puérperas – 1 megadose de vitamina A na concentração de 200.000 UI, 
+no pós-parto imediato, ainda na maternidade, antes da alta hospitalar.
+A utilização dessas doses é segura e tem baixa incidência de efeitos colaterais. No 
+entanto, é necessário cuidado especial no que concerne aos grupos de risco (mulheres 
+no período reprodutivo e gestantes) ante os problemas potenciais que esta estratégia 
+pode apresentar9 como, por exemplo, casos de toxicidade até efeitos teratogênicos 
+sobre o feto, no caso de administração inadequada à gestantes.	
+A fortificação de alimentos com vitamina A constitui-se em uma intervenção 
+a médio e a longo prazos, já tendo sido realizadas experiências com vários alimentos 
+como o açúcar, o trigo, a farinha de milho e o arroz. Desde o início do século XX, 
+esse tipo de ação vem sendo desenvolvida. Nas décadas de 1930 e 1940, o leite 
+foi fortificado com vitamina A em vários países da Europa e na América do Norte. A 
+margarina fortificada com vitamina A foi introduzida na Dinamarca em 1981.10
+A tecnologia de fortificação de alimentos é uma oportunidade importante, prin-
+cipalmente para países em desenvolvimento, no sentido da melhoria das condições 
+de saúde em relação à má nutrição por deficiência de micronutrientes. A fortificação é 
+uma ação socialmente aceitável, não requer mudanças nos hábitos alimentares e não 
+deve levar a mudanças nas características dos alimentos. Para o sucesso da ação, deve 
+haver compromisso entre o governo e as indústrias de alimentos envolvidas, além do 
+devido esclarecimento aos consumidores visando orientar a preferência para consumo 
+de alimentos fortificados com micronutrientes.11,12
+Os setores da saúde e da indústria de alimentos, associados à comunidade científica, 
+devem procurar trabalhar em conjunto, encarando essa estratégia como uma oportuni-
+dade importante para o combate às carências por micronutrientes, visando ao sucesso 
+desse esforço, que se traduzirá em melhores condições de saúde para a população.
+O Brasil dispõe de alimentos fortificados com vitamina A no mercado, mas ainda 
+não optou por essa estratégia como ação de saúde pública por inexistência de dados 
+epidemiológicos que embasem de forma segura e justifiquem a fortificação universal 
+de alimentos para controle da deficiência no país.
+
+18
+Cadernos de 
+Atenção Básica
+Outro tipo de ação relevante para o controle e prevenção não só da hipovita-
+minose A, mas a outras carências por micronutrientes, é a modificação e a diver-
+sificação dietética por meio de estratégias de educação alimentar e nutricional, 
+visando à promoção de hábitos alimentares mais saudáveis. Isso envolve mudanças nas 
+práticas de produção e no padrão de seleção de alimentos, assim como nos métodos 
+domésticos tradicionais de processamento destes. O objetivo principal é a melhoria 
+na disponibilidade, no acesso e na utilização de alimentos com alto conteúdo e bio-
+disponibilidade de micronutrientes durante todo o ano.7
+Ações que visem ao aumento da disponibilidade e do consumo de alimentos 
+fontes de vitamina A devem ser promovidas, devendo, entretanto, ser considerados 
+os fatores intervenientes, tanto de ordem econômica e social, quanto educacional e 
+cultural. O consumo rotineiro de alimentos fontes de vitamina A pré-formada por parte 
+da população de risco é mais limitado, sendo os alimentos fontes de beta-caroteno mais 
+acessíveis às populações de baixa renda, devendo ter seu consumo incentivado. 
+Dessa forma, a promoção do consumo de alimentos ricos em carotenóides ou 
+vitamina A pré-formada é uma das estratégias a serem usadas no controle dessa defici-
+ência. Estudos têm sido desenvolvidos no intuito de promover a educação nutricional 
+associada a experiências de incentivo à produção agrícola, como a horticultura e a 
+fruticultura, levando ao aumento no consumo de alimentos ricos em carotenóides.10
+1.7	 Brasil: Programa Nacional de Suplementação de 
+Vitamina A
+Para prevenir e controlar a deficiência de vitamina A, desde 1983, o Minis-
+tério da Saúde distribui cápsulas de 100.000 UI de vitamina A para crianças de 6 a 
+11 meses de idade e de 200.000 UI para crianças de 12 a 59 meses de idade nos 
+Estados da Região Nordeste e no Estado de Minas Gerais (Vale do Jequitinhonha e 
+Vale do Mucuri). 
+Essa distribuição vem sendo feita associada às campanhas de vacinação, na rotina 
+das unidades básicas ou ainda por visitas domiciliares feitas pelos Agentes Comunitários 
+de Saúde.
+No ano de 2001, o programa foi ampliado para atendimento às puérperas, por 
+meio de suplementação com cápsulas de 200.000 UI na maternidade, no pós-parto 
+imediato, uma vez que no Nordeste do Brasil mais de 95% dos partos são realizados 
+em hospitais gerais ou especializados. Esta é uma estratégia para garantir a adequação 
+das reservas corporais maternas. Desta forma, o aporte de vitamina A, por meio do 
+leite materno, garantirá suprimento suficiente da vitamina entre as crianças menores 
+de 6 meses de idade que estão sendo amamentadas.
+Em 2004, o programa foi reestruturado com vistas a promover maior divulga-
+ção e mobilização dos profissionais de saúde e população, com a criação da marca 
+publicitária: VITAMINA A MAIS.
+
+19
+carênciaS DE
+micronutrientes
+No ano de 2005, foi publicada a Portaria nº 729, de 13/5/2005, que definiu as dire-
+trizes do programa de suplementação e as responsabilidades dos três níveis de governo.
+Existem inúmeras estratégias para prevenir a deficiência de vitamina A, cada uma 
+delas com suas próprias vantagens e limitações, mas sempre altamente eficazes quando 
+aplicadas de forma complementar. Essas estratégias incluem:
+1.	
+Educação nutricional com ênfase na diversificação da dieta e aumento 
+do consumo de alimentos ricos em vitamina A. Estímulo ao consumo 
+de alimentos enriquecidos e/ou fortificados com vitamina A, a partir da 
+verificação deste nutriente nos rótulos dos alimentos;
+2.	
+Suplementação com megadoses de vitamina A em crianças de 6 a 59 
+meses de idade e em puérperas no pós-parto imediato residentes em 
+áreas consideradas endêmicas;
+3.	
+Estímulo ao consumo de alimentos fontes de vitamina A, que podem ser 
+garantidos com o fomento à produção e cultivo desses alimentos, levando 
+em consideração a diversidade regional brasileira e considerando, entre 
+outras alternativas, as hortas caseiras, comunitárias ou escolares.
+1.7.1 Público atendido e conduta de intervenção do 
+Ministério da Saúde
+A suplementação em crianças de 6 a 59 meses e puérperas no pós-parto imediato 
+com vitamina A tem se mostrado a medida mais efetiva, a curto prazo, no controle da 
+DVA, além de extremamente promissora como medida de diminuição da mortalidade 
+e morbidade. 
+Algumas ponderações devem ser levadas em consideração
+– As mulheres grávidas ou em idade fértil que podem estar na etapa inicial da 
+gravidez sem sabê-lo não devem receber grandes doses de suplementos de 
+vitamina A. Os suplementos de vitamina A em grandes doses administrados 
+no início da gravidez podem causar problemas de teratogenicidade no feto.
+Período 	
+	
+Dose 	 	
+	
+Freqüência
+Crianças: 6-11 meses	
+ 100.000 UI		
+                 Uma dose
+Crianças: 12-59 meses	
+ 200.000 UI		
+      Uma dose a cada 6 meses
+Puérpera no pós-parto	
+ 200.000 UI		
+                 Uma dose
+imediato antes da alta 
+hospitalar
+Esquema de fornecimento de suplementos de vitamina A para prevenir deficiência 
+de vitamina A em crianças de 6 a 59 meses de idade e puérperas no pós-parto 
+imediato, antes da alta hospitalar
+
+20
+Cadernos de 
+Atenção Básica
+– Os suplementos de vitamina A fornecidos à mulher lactante logo após o par-
+to, em áreas onde ocorre deficiência de vitamina A, aumentarão os níveis de 
+vitamina A não só de suas reservas corporais, mas também do leite materno. 
+ 
+Assim, ao ser amamentado, o bebê aumentará suas reservas de vitamina A.
+– As puérperas devem receber uma dose de vitamina A imediatamente após o 
+parto na maternidade ou hospital (antes da alta hospitalar).
+A definição de parâmetros seguros de suplementação nessas fases é essencial, 
+uma vez que durante a gestação o feto usa as reservas de vitamina A da mãe. 
+Depois do parto, a elevada velocidade de crescimento da criança faz com que 
+sejam necessárias quantidades adequadas de vitamina no leite materno, no caso 
+das crianças amamentadas ao seio, como é o recomendado. Mesmo sendo 
+pequeno o aumento da necessidade de vitamina A durante a gestação, em 
+vários países onde essa carência é endêmica, ocorrem sintomas da deficiência 
+no período inicial do aleitamento, como, por exemplo, a cegueira noturna. 
+Por outro lado, a administração maciça de vitamina A é desaconselhada no 
+período posterior ao parto, pois a baixa cobertura de acompanhamento da 
+mulher no pós-parto não garante que esta não venha a engravidar novamente 
+logo após uma gestação.
+– O leite materno e sua concentração de vitamina A são importantes para o lac-
+tente, uma vez que as reservas hepáticas no nascimento são muito pequenas, 
+sendo aumentadas nos primeiros 6 meses graças à ingestão do leite materno, 
+que é a principal fonte alimentar nessa fase do ciclo de vida. Assim, visando 
+ao aumento do aporte de vitamina A no lactente, a suplementação pode ser 
+feita via mãe/leite materno para atender às necessidades do lactente até os 
+6 meses ou diretamente ao lactente a partir desses 6 meses, sendo os dois 
+métodos seguros.
+– Maternidades e/ou hospitais interessados em aderir ao programa de suple-
+mentação em puérperas devem procurar as Coordenações Estaduais de 
+Alimentação e Nutrição em seus estados.
+Produto a ser utilizado
+O suplemento de vitamina A ou megadose utilizado na suplementação de crian-
+ças e puérperas é: vitamina A na forma líquida, diluída em óleo de soja e acrescida de 
+vitamina E, na dosagem de 100.000 UI e 200.000 UI.
+É essencial que se promova a adequada supervisão e orientação da distribuição 
+dessas megadoses, que deve ser realizada por pessoal habilitado para tal, uma vez 
+que erros na administração das doses podem ter efeitos deletérios sobre a saúde dos 
+indivíduos. (Casos de toxicidade até efeitos teratogênicos sobre o feto, no caso de 
+administração inadequada a gestantes).
+
+21
+carênciaS DE
+micronutrientes
+Identificação e acompanhamento das famílias
+As famílias que tenham crianças de 6 a 59 meses deverão ser identificadas e 
+assistidas por uma Equipe de Saúde da Família ou por Unidades Básicas de Saúde e, as 
+puérperas deverão ser acompanhadas pelas maternidades que realizarem seu parto.
+T
+odas as administrações de vitamina A realizadas deverão ser registradas em 
+formulário próprio e nas cadernetas de saúde da criança e da gestante.
+O consolidado das informações referentes à operacionalização do programa em 
+nível municipal, como o controle de estoque das cápsulas e quantidade administrada mês 
+a mês devem ser encaminhados aos níveis estadual e federal utilizando o instrumento 
+de gerenciamento do programa, na homepage http://www.saude.gov.br/nutricao.
+Resumindo
+POR QUE A VITAMINA A É IMPORTANTE?
+Porque:
+• ela atua no bom funcionamento do sistema visual e sua ausência pode levar, 
+inicialmente, à cegueira noturna, evoluindo até situações mais graves como a 
+perda da visão;
+• participa dos processos de defesa do organismo, contribuindo para a redução 
+da mortalidade e da morbidade por doenças infecciosas.
+O QUE CAUSA A CARÊNCIA DE VITAMINA A NO ORGANISMO?
+• A não amamentação.
+• O consumo deficiente de alimentos fontes de vitamina A, que podem ser de 
+origem animal (óleos de fígado de peixes, derivados do leite, como queijo e 
+manteiga), ou de origem vegetal (folhas de cor verde-escura, frutos amarelos, 
+raízes de cor alaranjada e óleos vegetais).
+• Em áreas de risco de deficiência de vitamina A, a não suplementação dos 
+grupos de risco com as megadoses recomendadas.
+QUEM É MAIS AFETADO PELA DEFICIÊNCIA DE VITAMINA A?
+• A população que reside em regiões de difícil produção ou acesso às fontes 
+alimentares de vitamina A.
+• Crianças de 0 a 5 anos, gestantes e lactantes.
+QUAIS AS CONSEQÜÊNCIAS DA DEFICIÊNCIA DE VITAMINA A?
+• Baixa na reserva de vitamina A no organismo, pode aumentar o risco de mor-
+bidade por diarréia e infecções respiratórias e mortalidade, principalmente 
+nos grupos de risco.
+• Com relação aos problemas visuais, podem ocorrer: cegueira noturna, ressecamento 
+da conjuntiva, ressecamento da córnea, lesão da córnea e cegueira irreversível.
+
+22
+Cadernos de 
+Atenção Básica
+COMO SE PODE PREVENIR E TRATAR A DEFICIÊNCIA DE VITAMINA A?
+• Orientando a população sobre a necessidade de consumo de alimentos fonte 
+de vitamina A que podem ser de origem animal (óleos de fígado de peixes, 
+derivados do leite, como queijo e manteiga), ou de origem vegetal (folhas de 
+cor verde escura, frutos amarelos, raízes de cor alaranjada e óleos vegetais).
+• Distribuindo, periodicamente, megadoses de vitamina A às populações de risco;
+• Encaminhando pessoas com suspeita de deficiência aos serviços de saúde.
+
+23
+carênciaS DE
+micronutrientes
+2	
+Anemia por deficiência de ferro
+A anemia pode ser definida como um estado em que a concentração de hemoglo-
+bina no sangue está anormalmente baixa, em conseqüência da carência de um ou mais 
+nutrientes essenciais, qualquer que seja a origem dessa carência. Contudo, apesar da 
+ausência de vários nutrientes contribuir para a ocorrência de anemias carenciais, como 
+folatos, proteínas, vitamina B12 e cobre, indiscutivelmente, o ferro é, entre todos, o 
+mais importante. Essa carência é atualmente um dos mais graves problemas nutricionais 
+mundiais em termos de prevalência, sendo determinada, quase sempre, pela ingestão 
+deficiente de alimentos ricos em ferro ou pela inadequada utilização orgânica. Estima-se 
+que aproximadamente 90% de todos os tipos de anemias no mundo ocorram por causa 
+da deficiência de ferro.13
+2.1	 Magnitude da anemia
+Apesar da anemia ter sua etiologia bem conhecida, e algumas soluções para o 
+problema já estarem bastante sedimentadas, o problema ainda persiste.14
+Uma revisão de estudos sobre a prevalência da anemia no mundo verificou que 
+cerca de 30% dos indivíduos eram anêmicos, o que, em 1980, representava cerca de 
+1,3 bilhão de pessoas. Essa prevalência variava de 8% nas regiões desenvolvidas a 36% 
+em regiões menos desenvolvidas. No caso das crianças, esse percentual foi, em média, 
+de 43%. Os estudos na América Latina revelaram prevalências de anemia de 12% a 
+69% em crianças menores de 5 anos.15
+Posteriormente, dados da Organização Pan-Americana da Saúde indicaram 
+que houve agravamento nessa situação, com estimativas revelando que dois bilhões 
+de pessoas no mundo apresentam deficiência de ferro; destas, mais da metade é 
+anêmica. Nos países em desenvolvimento, a prevalência de anemia entre crianças 
+e gestantes é de mais de 50%. Essa situação vem se agravando, apesar da dispo-
+nibilidade de intervenções efetivas e de baixo custo para prevenção e tratamento 
+da anemia.14
+Com algumas exceções, poucos países têm informações nacionais detalhadas sobre 
+prevalências da anemia nos grupos de risco e, embora seja um problema predominante-
+mente de países em desenvolvimento, os países desenvolvidos também possuem grupos 
+de risco para anemia, mas com percentuais expressivamente inferiores.
+As causas para esses percentuais menores são o melhor padrão de ingestão de 
+ferro em crianças, por meio de práticas de alimentação mais adequadas, uso de alimentos 
+fortificados, além da influência positiva dos programas de saúde voltados para a melhoria 
+da nutrição e da alimentação das comunidades. Nos Estados Unidos, as reduções ob-
+servadas desde a década de 1960, entre os lactentes, podem ser creditadas ao aumento 
+no uso de fórmulas fortificadas e à melhoria na biodisponibilidade do ferro usado para 
+fortificar os alimentos infantis.16
+
+24
+Cadernos de 
+Atenção Básica
+Na América do Sul e na América Central a anemia tem se apresentado como um 
+grave problema, principalmente nos grupos com necessidades fisiológicas aumentadas, 
+como crianças e mulheres em idade reprodutiva. 
+No Brasil têm sido verificadas elevadas prevalências dessa deficiência, principal-
+mente entre as crianças de 6 a 24 meses, que constituem a faixa de maior risco. Essa é 
+uma das fases do ciclo de vida mais sensível à deficiência de ferro, pois o requerimento 
+natural desse nutriente é mais elevado, mas na maioria das vezes ele se encontra em 
+quantidades insuficientes nas dietas. É também nessa idade que ocorre a etapa de maior 
+vulnerabilidade do sistema nervoso central, coincidindo esse período com momentos 
+importantes do desenvolvimento cerebral, como a iniciação de processos motores e 
+mentais fundamentais.
+No país, não se dispõe de uma pesquisa de representatividade nacional que indique 
+a situação dessa carência nas várias regiões, sendo os estudos existentes pontuais, nem 
+sempre obedecendo metodologia similar. Entretanto, eles revelam aumento progressivo 
+na prevalência da anemia por deficiência de ferro, o que faz que esta seja considerada atu-
+almente como um grave problema de saúde pública, ressaltando-se que, diferentemente 
+da desnutrição, a anemia está disseminada por todas as classes de renda.
+Levantamento sobre a prevalência da anemia no país, por meio de trabalhos 
+realizados no período de 1965 a 1990, revela que grande parte das pesquisas ocor-
+reu na década de 1980, tendo os resultados apresentado grandes variações. Entre 
+pré-escolares a prevalência varia de 13,3% a 60,5%. As maiores prevalências foram 
+observadas entre os menores de 2 anos (41% a 77%). Observa-se tendência ao 
+aumento da anemia, apesar de os estudos terem sido realizados em locais variados 
+com diferentes metodologias, o que torna mais difícil estabelecer o perfil evolutivo de 
+sua prevalência no país.17
+Em São Paulo, vários trabalhos nos últimos anos têm demonstrado a tendência 
+crescente na prevalência da anemia, principalmente no grupo infantil, indicando a rele-
+vância dessa problemática e a necessidade de ações preventivas que revertam a situa-
+ção. Em um estudo de 1978, foi encontrada uma prevalência de 22,7% de anemia em 
+menores de 60 meses no município de São Paulo. Uma década após, esse percentual 
+havia aumentado para 35,6%. Outro estudo (1994) indicou prevalência de anemia de 
+59,1% em crianças de 6 a 23 meses.18,19,20
+Para classificação da anemia em relação ao seu nível de importância para a Saúde 
+Pública, utilizam-se os percentuais abaixo:
+Nível de importância como problema de saúde pública	
+Prevalência
+Normal	
+≤ 4.9%
+Leve	
+5% – 19.9%
+Moderado	
+>20% – < 39.9%
+Grave	
+≥ 40%
+Classificação da Prevalência de Anemia em relação à importância como Problema 
+de Saúde Pública
+Fonte: WHO. Iron Deficiency Anaemia Assessment, Prevention and Control. A guide manangers programme. 200121
+
+25
+carênciaS DE
+micronutrientes
+Nesse sentido, alta prioridade deve ser dispensada ao estudo da anemia por de-
+ficiência de ferro, bem como ao recrudescimento de intervenções para seu controle e 
+prevenção, não só pela sua expressiva prevalência, mas também pelas conseqüências 
+que produz.
+2.2	 Grupos de risco e conseqüências da anemia por 
+deficiência de ferro
+Mesmo dispondo-se, atualmente, de inúmeras informações relativas à etiologia e à 
+prevalência da anemia, esta continua persistindo como um dos mais graves problemas de 
+saúde pública no mundo. Ela atinge principalmente os grupos mais vulneráveis à carência 
+de ferro que são as crianças e as gestantes, em função do aumento das necessidades desse 
+mineral, decorrente da rápida expansão de massa celular vermelha e pelo crescimento 
+acentuado dos tecidos nessas fases da vida.
+2.2.1 Crianças
+Identifica-se a primeira infância como uma das fases de maior risco em razão de 
+alguns fatores relacionados às necessidades de ferro do lactente, como as reservas de 
+ferro ao nascer, a velocidade de crescimento, a ingestão e as perdas do mineral.
+O último trimestre da gestação é o período no qual ocorre o mais importante 
+aumento de peso e de armazenamento de ferro no feto. Crianças prematuras ou de 
+baixo peso ao nascimento terão acumulado menos ferro em comparação com um 
+recém-nascido a termo. Após o nascimento, observa-se uma fase de elevada velocidade 
+de crescimento e, em uma criança a termo, as reservas adquiridas durante a gestação 
+serão utilizadas durante os primeiros 4 a 6 meses de vida. O leite materno possui pe-
+quena quantidade de ferro, mas, entretanto, alta biodisponibilidade para este mineral, 
+com uma utilização elevada quando da ausência de outros fatores dietéticos. Após o 
+esgotamento da reserva, o organismo dependerá do ferro exógeno (dietético) para 
+evitar o aparecimento da anemia.22
+Os elevados requerimentos fisiológicos de ferro na primeira infância tornam a 
+criança especialmente vulnerável à anemia por deficiência de ferro durante o segundo 
+semestre e o segundo ano de vida. Nesse sentido, atenção especial deve ser dada ao 
+período de amamentação e posterior fase de introdução de alimentos complementares, 
+quando deverá ocorrer a introdução oportuna, correta e apropriada dos alimentos ricos 
+em ferro e outros micronutrientes, igualmente necessários ao crescimento e desenvol-
+vimento adequado.18
+Alguns fatores, como a amamentação prolongada e a introdução precoce do leite 
+de vaca estão associados à anemia, mas o uso contínuo de fórmulas infantis fortificadas 
+parece ser um fator protetor. Deve-se ressaltar que o leite fluido de vaca, principalmente 
+quando administrado a crianças menores de 4 meses, pode induzir à anemia pela pro-
+dução constante de microhemorragias. Por outro lado, a quantidade de ferro no leite 
+
+26
+Cadernos de 
+Atenção Básica
+materno, embora baixa, é extremamente bem absorvida graças à sua alta biodisponibi-
+lidade, quando comparada à fórmula de leites não fortificados.22
+Uma vez que o ferro é elemento essencial para o desenvolvimento normal e 
+para a integridade funcional dos tecidos linfóides, a deficiência pode levar a alterações 
+na resposta imunitária. Dessa forma, a anemia pode contribuir para maior morbidade 
+em razão de menor resistência a infecções. Além disso, pode prejudicar o crescimento, 
+o desenvolvimento da linguagem, reduzir a atividade física, a produtividade e o apetite. 
+Pode também modificar o comportamento e levar ao pobre desenvolvimento cognitivo, 
+o qual tem recebido destaque na literatura atual. Porém, há necessidade de mais estu-
+dos sobre o assunto, pois a interpretação dos resultados requer cautela, uma vez que o 
+desenvolvimento, além de ser influenciado por fatores nutricionais, também se relaciona 
+a fatores e condições ambientais.23
+Aproximadamente 10% das crianças em países desenvolvidos e 30% a 80% nos 
+países em desenvolvimento têm anemia por volta de um ano de idade, podendo sofrer 
+de retardo psicomotor. Ao entrarem na escola, suas habilidades de linguagem e coor-
+denação motora fina poderão estar reduzidas significativamente.14
+Alguns trabalhos demonstram que crianças com deficiência de ferro e anemia 
+têm menor desempenho em testes de desenvolvimento mental e psicomotor do que 
+crianças não anêmicas. Nessas pesquisas, o tratamento por dois a três meses não foi 
+capaz de melhorar o desempenho dos anêmicos nos testes, sugerindo que a terapia de 
+ferro adequada para a correção da anemia é insuficiente para reverter distúrbios com-
+portamentais e de desenvolvimento em várias crianças, ou que certos efeitos são de 
+longa duração, dependendo do tempo, da severidade ou de quão crônica tenha sido a 
+deficiência de ferro ou a anemia.24,25
+Assim, evitar a anemia por deficiência de ferro na infância é muito importante. 
+As políticas de saúde pública e as intervenções pediátricas e de cunho nutricional que 
+objetivem a prevenção são as estratégias mais seguras, uma vez que a maior prevalência 
+ocorre entre crianças de 6 a 24 meses de idade.
+2.2.2 Gestantes
+Durante a gravidez, as inúmeras mudanças fisiológicas que acontecem levam ao 
+aumento do volume plasmático e à diminuição do estoque de micronutrientes. Como a 
+demanda de energia e nutrientes está aumentada, caso não seja atendida, pode desen-
+cadear, além da desnutrição, deficiências nutricionais específicas, como a de ferro. 
+A anemia grave na gestação está associada ao maior risco de morbidade e mor-
+talidade fetal e materna. Mesmo no caso de anemia moderada, verificam-se maiores 
+riscos de parto prematuro e baixo peso ao nascer, que, por sua vez, se associam a riscos 
+elevados de infecções e mortalidade infantil.26 Em algumas regiões do mundo, observa-se 
+que a anemia grave eleva em até cinco vezes o risco de mortalidade materna relacionada 
+à gestação e ao parto.27
+Entre as gestantes, as adolescentes tornam-se em um grupo mais vulnerável por 
+causa do expressivo aumento da demanda de ferro associada ao rápido crescimento físico 
+
+27
+carênciaS DE
+micronutrientes
+da menina. Na gestante adolescente os efeitos da anemia são mais pronunciados, sendo 
+o fator da menor busca pelos serviços de saúde e do pré-natal uma influência negativa 
+sobre seu estado de saúde. Deve-se considerar que a gestante adolescente necessita de 
+mais energia, e de macro e micronutrientes, em especial o ferro. Demandas nutricionais 
+elevadas devem ser asseguradas para que a menina possa ter seu próprio crescimento 
+físico e desenvolvimento, além de preparar a reserva orgânica para a lactação.27
+2.3	 Etiologia da anemia
+Estudos realizados, principalmente com crianças, verificaram que a parasitose intes-
+tinal não pode ser considerada como fator etiopatogênico da anemia no Brasil. Em São 
+Paulo, em análise de crianças de diferentes níveis socioeconômicos, verificou-se elevada 
+prevalência de parasitose em menores de 2 anos, de baixa renda, sendo a proporção 
+de anêmicos entre os não parasitados significativamente maior do que entre os parasita-
+dos.28 T
+ambém se verificou, em São Paulo, que as parasitoses atingiam freqüências mais 
+elevadas em crianças de maior faixa etária, que são justamente as mais protegidas da 
+anemia. Nesse sentido, entende-se que no país, em relação às crianças, que constituem 
+o principal grupo de risco, as causas de anemia de origem dietética são preponderantes 
+em relação às causadas por parasitoses.28,29 
+Na etiologia da anemia, fatores dietéticos, como a ingestão inadequada de ali-
+mentos fontes de ferro, e demais problemas decorrentes da interação dos constituintes 
+da dieta com o ferro são importantes. O ferro proveniente dos alimentos pode não 
+estar sendo ofertado em quantidade suficiente para suprir as necessidades metabólicas 
+do organismo, ou pode estar numa forma química inadequada à sua absorção. Sabe-se 
+que o ferro está presente naturalmente nos alimentos na forma ferrosa (Fe 2+) ou férrica 
+(Fe 3+). A forma ferrosa é mais biodisponível que a férrica. Esta pode ser reduzida para 
+ferrosa na presença de ácido clorídrico e de agentes redutores, como o ácido ascórbico, 
+melhorando a sua absorção.22
+O teor de ferro na alimentação é determinado pela quantidade deste nos alimen-
+tos e pela sua biodisponibilidade. Este termo é bem mais abrangente do que apenas 
+o conceito de absorção, incluindo não só a proporção de ferro ingerido que se torna 
+disponível para o organismo, após a absorção, mas também o ferro biodisponível após 
+a finalização dos processos metabólicos.
+O mecanismo de absorção do ferro é bastante complexo, vários processos 
+agem juntos para prevenir o desenvolvimento da deficiência de ferro ou seu acúmulo 
+no organismo, mantendo o balanço do nutriente em estado normal. A quantidade de 
+ferro absorvida varia em razão das quantidades de ferro não-heme e heme na dieta, de 
+sua biodisponibilidade e da natureza da dieta em termos de fatores estimuladores ou 
+inibidores de absorção. 
+Assim, nem todo ferro contido nos alimentos é absorvido, pois a biodisponibili-
+dade desse mineral varia de acordo com fatores extrínsecos e intrínsecos. No primeiro 
+caso, encontram-se fatores da alimentação, que podem agir inibindo ou promovendo a 
+
+28
+Cadernos de 
+Atenção Básica
+absorção do ferro. No segundo caso, encontram-se fatores relacionados às necessidades 
+individuais do mineral, que abrangem o estado nutricional, a saúde, o sexo e a idade.
+2.3.1   Fatores extrínsecos30
+2.3.1.1 Forma química: existe diferença na forma química deste mineral: o ferro 
+heme é encontrado nos produtos de origem animal (carnes em geral) e é 
+melhor absorvido que o ferro não-heme, presente nos produtos vegetais 
+como cereais, tubérculos e leguminosas.
+O ferro heme é derivado principalmente da hemoglobina e da mioglobina 
+das carnes, das aves e dos peixes. Apesar de representar uma pequena 
+proporção do conteúdo de ferro da dieta, desempenha importante papel, 
+uma vez que a porcentagem absorvida é bem maior e sua absorção é 
+menos afetada pelos demais componentes da dieta. 
+Por outro lado, quase todo o ferro da dieta é não-heme, respondendo por mais 
+de 85% do ferro total. Sua absorção depende, em grande parte, das reservas 
+corporais e da solubilidade na parte proximal do intestino delgado, que, por sua 
+vez, depende da influência que a composição da refeição, em seu conjunto, 
+exerce sobre a solubilidade deste mineral. O ferro não-heme precisa de uma 
+proteína transportadora (transferrina) para sua absorção, estando sujeito a fatores 
+químicos ou alimentares que podem influenciar nesse processo.
+ 
+2.3.1.2 Composição da dieta: como dito anteriormente, a composição da dieta 
+em relação à presença de fatores inibidores ou estimuladores da absorção 
+do ferro é sobremaneira relevante para a adequada absorção do ferro 
+dietético.
+2.3.1.2.1 Fatores estimuladores: são aqueles que se unem firmemente 
+ao ferro para manter a estabilidade da ligação e a solubilidade do 
+complexo através do trato gastrointestinal. Eles formam quelatos 
+solúveis com o ferro, especialmente na forma férrica, prevenindo 
+sua precipitação e permitindo a liberação do ferro para absorção 
+pelas células da mucosa.
+Entre os fatores estimuladores, o ácido ascórbico, presente 
+basicamente nas frutas, destaca-se por ser um potente facilitador 
+da absorção do ferro, quando oferecido juntamente com a refei-
+ção, podendo aumentar a biodisponibilidade do ferro das dietas. 
+Ele possui propriedade redutora e quelante, podendo melhorar a 
+absorção do ferro em refeições com baixa biodisponibilidade que 
+contenham potentes inibidores, como os fitatos e os polifenóis. Em 
+dietas em que a participação das carnes é reduzida, o conteúdo de 
+ácido ascórbico torna-se da maior relevância para a determinação 
+do valor nutritivo do ferro. Outros ácidos orgânicos também con-
+
+29
+carênciaS DE
+micronutrientes
+tribuem para o aumento na absorção do ferro, como os ácidos 
+cítrico, málico, e tartárico, encontrados nos vegetais, nas 
+frutas e em temperos.
+Semelhantemente, observa-se o efeito facilitador das carnes na 
+absorção do ferro, sendo este mais marcante naqueles alimentos 
+que possuem fatores inibidores.
+2.3.1.2.2 Fatores inibidores: os agentes inibidores são ligantes que 
+quelam o ferro, formando complexos insolúveis de alta afinidade, 
+de tal forma que o ferro não é liberado para a absorção.
+A adição ou a presença de alguns minerais na dieta pode pre-
+judicar a absorção do ferro, como, por exemplo, zinco, cobre, 
+cobalto, níquel, cádmio e manganês. Isso sugere que podem 
+existir vias comuns de absorção, levando a um mecanismo de 
+competição entre esses minerais. Observa-se com relação espe-
+cificamente ao cálcio que este mineral interfere na absorção do 
+ferro não-heme.
+Provavelmente, o mais importante inibidor de absorção do ferro 
+em cereais e vegetais é o fitato ou ácido fítico. As maiores 
+fontes desse elemento são cereais integrais, fibras e feijões. As 
+fibras também podem diminuir a absorção graças ao aumento 
+do trânsito intestinal. Outro fator inibidor da absorção do ferro 
+é o ácido oxálico, encontrado no espinafre, na beterraba e em 
+algumas leguminosas.
+Os compostos fenólicos são um grupo de substâncias em alimentos 
+e bebidas considerados prejudiciais à biodisponibilidade do ferro. São 
+eles: os flavonóides, os ácidos fenólicos, os polifenóis e os 
+taninos. Esses compostos são encontrados principalmente nos chás 
+preto e mate, no café, em alguns refrigerantes, no chocolate, no vinho 
+tinto e, em menor proporção, em alguns vegetais e leguminosas. 
+Portanto, a presença na dieta de fatores estimuladores da absorção 
+desse mineral e a concomitante ausência de fatores inibidores são 
+de fundamental importância para a melhoria da biodisponibilidade 
+do ferro não-heme, principalmente em populações nas quais é 
+conhecida a baixa ingestão de ferro de origem animal, visando assim 
+prevenir o aparecimento da anemia por deficiência de ferro.
+2.3.2 	
+Fatores intrínsecos30
+2.3.2.1  Situações fisiológicas: existem alguns momentos fisiológicos que podem 
+alterar o processo de absorção do ferro, como as etapas da vida em que há 
+maior taxa de crescimento, o que ocorre na infância e na gravidez. Nesses 
+períodos, há aumento na biodisponibilidade do ferro, principalmente do 
+
+30
+Cadernos de 
+Atenção Básica
+não-heme, favorecendo assim sua maior absorção para suprir com maior 
+facilidade os requerimentos do organismo.
+2.3.2.2 Situações de deficiência nutricional: quando ocorre a instalação da 
+anemia, há maior absorção do ferro, sendo essa situação considerada como 
+o mais importante determinante da taxa de absorção do ferro, seja ele heme 
+ou não-heme. Há evidências de que um indivíduo anêmico pode absorver 
+duas a três vezes mais ferro do que um indivíduo normal.
+2.3.2.3 Situações de baixa acidez gástrica: levam a redução da absorção, 
+uma vez que o ácido clorídrico é um potente agente solubilizante do ferro 
+não-heme. Essa condição pode acompanhar redução da secreção de ácido 
+clorídrico pelo estômago após consumo exagerado de antiácidos, após 
+cirurgias ou em situação de idade avançada.
+2.4	 Diagnóstico do estado nutricional de ferro31
+A forma mais comum de se detectar a anemia é por meio da medida do valor da 
+concentração da hemoglobina no sangue. Esse valor é controlado homeostaticamente, 
+variando levemente entre pessoas normais. Deve-se observar que a deficiência de ferro 
+no organismo se desenvolve em três estágios, e seus efeitos adversos iniciam-se antes 
+mesmo dos indivíduos apresentarem anemia, como pode ser verificado abaixo:
+1º Estágio – Ocorre depleção nos depósitos de ferro, o que pode ser medido 
+pela diminuição da ferritina sérica, normalmente para valores inferiores a 12 µg/L. Neste 
+momento, a concentração plasmática do ferro, a saturação da transferrina e a concen-
+tração da hemoglobina permanecem normais. A dosagem da concentração de ferritina 
+sérica é um dos métodos mais sensíveis para o diagnóstico dessa deficiência, entretanto 
+existem situações que podem levar a elevação desse indicador mesmo na presença de 
+deficiência deste mineral, como, por exemplo, doenças hepáticas e câncer.
+2º Estágio – Ocorrem mudanças bioquímicas como reflexo da falta de ferro 
+para a produção normal da hemoglobina e outros componentes essenciais, sendo 
+observadas alterações no transporte do ferro e nas hemácias que foram recente-
+mente distribuídas na circulação sangüínea. Neste momento, ocorre diminuição 
+nos níveis de saturação da transferrina, e a maior parte do ferro presente no soro 
+encontra-se unida a ela. Neste estágio, como o ferro sérico se encontra reduzido, 
+a capacidade total de ligação da transferrina apresenta-se aumentada, e a saturação 
+da transferrina, diminuída. 
+3º Estágio – É a anemia por deficiência de ferro propriamente dita, quando a 
+produção da hemoglobina diminui o suficiente para levar a redução da sua concentração 
+abaixo dos valores normais para pessoas de mesma idade e sexo. Caracteriza-se por ser 
+anemia hipocrômica e microcítica. Outro indicador que pode ser usado para diagnóstico 
+nesta fase é o volume corpuscular, que é a medida do volume ocupado pelas células 
+vermelhas em relação ao volume total do sangue centrifugado.
+
+31
+carênciaS DE
+micronutrientes
+O quadro abaixo sintetiza os indicadores abordados em relação aos três estágios 
+de depleção e às alterações encontradas nos parâmetros bioquímicos.32 
+A utilização da hemoglobina para a avaliação do estado nutricional de ferro tem se 
+mostrado satisfatória, sendo este um indicador de fácil operacionalização e baixo custo, 
+com ampla utilização em pesquisas populacionais. Os pontos de corte de hemoglobina 
+para diagnóstico da anemia, definidos pela Organização Mundial da Saúde em 1968, 
+ainda são utilizados para populações que vivem ao nível do mar e são apresentados na 
+tabela abaixo:33 
+Em 1998, a OMS e o Unicef, em revisão destes pontos de corte, subdividiram a faixa 
+etária de 6 a 14 anos. Em crianças de: 5–11anos (11,5 g/dL) e 12–13 anos (12 g/dL).34
+Outra classificação distingue os níveis de gravidade da anemia, segundo valores de 
+hemoglobina para menores de 5 anos e gestantes, conforme tabela abaixo:35
+Apesar de considerar-se que a concentração de hemoglobina abaixo dos valores 
+recomendados é indicativo da presença de anemia, deve-se lembrar que indivíduos com 
+níveis aparentemente normais de hemoglobina podem responder a administração de 
+ferro, com subseqüente elevação desses valores, indicando que estes eram deficientes 
+nesse mineral. Assim, pode-se correr o risco de subestimação da prevalência dessa 
+deficiência.
+A anemia pode ser diagnosticada com a dosagem de hemoglobina sérica em labo-
+ratório e, por meio de métodos mais simples feitos com o HemoCue (aparelho portátil 
+Grupos	
+Hb (g/dL)
+Crianças de 6 meses a 6 anos	
+11
+Crianças de 6 anos a 14 anos	
+12
+Mulheres adultas	
+12
+Homens adultos	
+13
+Mulheres grávidas	
+11
+Classificação	
+Hb(g/dL)
+Anemia leve	
+9,0 - 11,0
+Anemia moderada	
+7,0 - 9,0
+Anemia grave	
+<7,0
+Anemia muito grave	
+<4,0
+	
+Sobrecarga	
+Normal	
+Depleção de	
+Deficiência de	
+Anemia por
+	
+	
+	
+depósitos	
+de ferro	
+defic. de ferro
+Ferritina sérica	
+	
+N	
+	
+	
+Saturação de transferrina	
+	
+N	
+N	
+	
+VCM	
+N	
+N	
+N	
+N	
+Hemoglobina	
+N	
+N	
+N	
+N	
+(N - normal)
+
+32
+Cadernos de 
+Atenção Básica
+que utiliza amostras colhidas por punção digital ou do calcanhar). Essa técnica foi validada 
+por comparação às técnicas-padrão de laboratório para medidas do nível de hemoglobina, 
+tanto em crianças normais quanto anêmicas, adultos e amostras de sangue fetal. 35
+  O exame físico clássico toma por base a presença de sinais clínicos e sintomas de 
+anemia, tais como: palidez cutânea, da conjuntiva, dos lábios, da língua e das palmas das 
+mãos, além de respiração ofegante, dificuldade na deglutição (disfagia), fraqueza orgânica 
+(astenia) e perda de apetite. Entretanto, esses sinais e sintomas apresentam baixa precisão 
+ao serem usados como método inicial e exclusivo para identificação da anemia, podendo 
+levar a falsas conclusões, uma vez que alguns desses sinais são inespecíficos e difíceis de 
+detectar. Deve-se considerar que estes podem ser influenciados por outras variáveis, 
+como a pigmentação da pele, por exemplo. Nesse sentido, o diagnóstico bioquímico é 
+o mais indicado, por sua precisão.35
+2.5	 Estratégias de prevenção e tratamento
+Ante os dados apresentados anteriormente, tanto em relação aos expressivos 
+contingentes populacionais atingidos pela anemia quanto às suas graves conseqüências 
+sobre a saúde e a qualidade de vida dos indivíduos, estratégias que visem ao adequado 
+controle e à prevenção dessa carência devem merecer destaque.
+Esse problema deve ser uma das prioridades na área de alimentação e nutrição, 
+com ações e intervenções a curto, a médio e a longo prazos em relação à suplemen-
+tação de grupos de risco, a fortificação de alimentos e a ações educativas que visem a 
+diversificação alimentar.
+2.6	 Ações de suplementação a grupos de risco
+A utilização de suplementação medicamentosa com sais de ferro para prevenir 
+e tratar a anemia é um recurso tradicional e amplamente utilizado, sendo a forma oral 
+de administração a preferencial. Ela pode ser usada como ação curativa em indivíduos 
+deficientes ou profilaticamente em grupos com risco de desenvolver anemia.
+A suplementação apresenta algumas dificuldades em relação ao surgimento de 
+efeitos colaterais indesejáveis e à longa duração do tratamento. Em muitos casos, os 
+pacientes têm dificuldade em aderir ao tratamento porque o surgimento de efeitos 
+adversos é superior às queixas relatadas e relacionadas à própria anemia. Dessa forma, 
+a falta de motivação para a manutenção do tratamento tem levado a situações de baixa 
+efetividade desse tipo de terapia medicamentosa.
+A reconhecida baixa adesão à estratégia de suplementação profilática é 
+hoje questão prioritária a ser superada para que se garanta o controle da anemia 
+por deficiência de ferro. Uma alternativa recente para a minimização desta baixa 
+adesão tem sido a redução da periodicidade da administração das doses de sais 
+de ferro. Estudos recentes têm demonstrado que a administração semanal pro-
+
+33
+carênciaS DE
+micronutrientes
+picia consideráveis reduções de efeitos colaterais (vômitos, diarréia, constipação 
+intestinal e cólicas) freqüentemente associados ao abandono da suplementação, 
+tornando-se, dessa forma, uma excelente estratégia para o alcance de resultados 
+mais efetivos.36,37
+Segundo Unicef, a dose semanal de ferro a ser administrada em crianças 
+deve ser correspondente ao dobro da recomendação da Recommended Daily 
+Allowances (RDA).38
+No que se refere às gestantes e às mulheres até o terceiro mês pós-parto, a Orga-
+nização Mundial da Saúde preconiza a suplementação de apenas uma dose diária de 60 
+mg, já que os problemas decorrentes da intolerância do suplemento de ferro têm sido 
+mais freqüentemente observados quando a gestante faz uso de mais de um comprimido 
+de 60 mg de ferro por dia.21 
+Além de contribuir para redução de efeitos colaterais, a recomendação de ingestão 
+diária de 60mg de ferro elementar tem sido significativamente eficaz para o tratamento 
+da anemia em gestantes.39
+Vale ressaltar, que a OMS considera que doses diárias acima de 30 mg já trazem 
+efeitos positivos na prevenção da anemia por deficiência de ferro em gestantes.
+Entre os diversos tipos de sais de ferro, o sulfato ferroso (Fe SO4) é um dos 
+mais utilizados e de menor custo, sendo absorvido rapidamente em situações ideais de 
+administração. Apesar de normalmente ser o medicamento de escolha, possui como 
+limitantes as intercorrências gastrointestinais e a interferência da dieta na absorção do 
+sal de ferro. Pode ser usado na forma de tabletes ou solução líquida, sendo esta última 
+mais indicada no caso de crianças.
+2.7	 Educação nutricional
+A educação alimentar e nutricional deve buscar o aumento do consumo de ferro, 
+melhorando a ingestão dos alimentos-fonte ou dos alimentos habituais com densidade 
+de ferro adequada.
+Em muitos casos, alterações qualitativas e quantitativas no consumo podem 
+ser uma alternativa bem sucedida, em que por meio do conhecimento dos fatores 
+estimuladores e inibidores da absorção do ferro se pode contribuir para o melhor 
+aproveitamento do ferro dietético e biodisponibilidade da alimentação. Deve-se 
+buscar o aumento do consumo de alimentos ricos em ferro, bem como o aumento 
+do potencial de biodisponibilidade desse mineral, minimizando os fatores que in-
+terferem na dieta.
+Deve-se ressaltar que mudanças nos hábitos alimentares são obtidas a longo 
+prazo e devem ser inseridas em um contexto mais abrangente, no qual outras 
+estratégias de controle e prevenção das carências nutricionais também estejam 
+sendo desenvolvidas. A suplementação, a fortificação e a diversificação alimentar 
+podem ser estratégias cumulativas e podem ser consideradas, em conjunto, sem-
+pre que possível.
+
+34
+Cadernos de 
+Atenção Básica
+2.8	 Fortificação de alimentos40
+Historicamente, a fortificação de alimentos pela adição de nutrientes tem sido usada 
+por muitos países como medida de saúde pública visando à prevenção de deficiências 
+em grandes segmentos populacionais, sendo aceita como um dos melhores meios de 
+controle de carências específicas. 
+Uma das vantagens observadas na fortificação é que, embora esta modifique 
+a ingestão do nutriente, ela não modifica o modelo alimentar da população, desde 
+que o alimento eleito seja nutricionalmente correto e largamente consumido. Um 
+alimento básico da população é, portanto, um veículo adequado para que se atinjam 
+os grupos de risco, permitindo até mesmo a adição de mais de um nutriente, o que 
+comumente é feito.
+Países desenvolvidos, como os Estados Unidos da América, já utilizam, há muitos 
+anos, essa estratégia no controle da anemia por deficiência de ferro, diminuindo drasti-
+camente sua prevalência.16 T
+ambém em alguns países em desenvolvimento, a fortificação 
+de alimentos básicos com ferro tem-se traduzido em uma das principais estratégias de 
+controle da anemia por deficiência de ferro. A América Latina e o Caribe são pioneiros 
+na fortificação de alimentos graças ao adequado desenvolvimento de sua indústria, a 
+aceitação da fortificação de alimentos com micronutrientes por parte dos governos, e 
+ao apoio da legislação. 40
+O Brasil adotou a fortificação universal das farinhas de trigo e milho com ferro e 
+ácido fólico. Já a fortificação do sal para consumo humano com iodo vem sendo adotado 
+desde 1953. 
+Existem experiências de fortificação em vários países. Com relação ao ferro, já foi 
+realizada fortificação do açúcar, do leite em pó, do leite integral, do leite in natura, de 
+fórmulas infantis, fórmulas lácteas para gestantes e nutrizes, cereais, da farinha de trigo, 
+da farinha de arroz, do pão, do sal, do amido de milho, de biscoitos, da água, do queijo 
+petit suisse e de bebida à base de chocolate. As experiências foram variadas em relação 
+aos diferentes veículos testados, adaptando-se também às características e aos hábitos 
+de consumo dos países envolvidos, mostrando resultados satisfatórios no combate às 
+carências nutricionais por micronutrientes. 
+Na seleção do veículo apropriado para a fortificação, deve-se considerar entre 
+outros fatores:
+–	
+a composição nutricional adequada do alimento selecionado;
+–	
+a freqüência e a média de consumo do alimento pelo grupo-alvo deve ser 
+conhecida, principalmente entre crianças e gestantes;
+–	
+a biodisponibilidade do nutriente com cuidado de não haver risco de excesso 
+de consumo, levando à toxicidade;
+–	
+a adição do nutriente não deve alterar as características organolépticas;
+–	
+desenvolvimento de tecnologia necessária com custo do processamento 
+e da adição do nutriente que não deve dificultar ou inviabilizar o acesso ao 
+produto por parte do público-alvo.
+
+35
+carênciaS DE
+micronutrientes
+Especificamente em relação ao ferro, foi estabelecido no Brasil, em 1999, 
+o “Compromisso Social para Redução da Anemia Ferropriva”, no qual se 
+firmaram parcerias entre órgãos do governo, organismos internacionais, 
+representantes da indústria e sociedade civil.
+Com o objetivo de reduzir a anemia por deficiência de ferro em pré-escolares 
+e escolares brasileiros em 1/3 até o ano de 2003, foram previstas ações para a pro-
+moção da alimentação saudável, orientação da população para diversificação da dieta 
+a baixo custo, suplementação de ferro para grupos específicos e enriquecimento 
+facultativo de parte da produção brasileira das farinhas de trigo e milho com ferro.
+Em agosto de 2001, o Ministério da Saúde decidiu tornar obrigatória a fortificação 
+com ferro de todas as farinhas de trigo e milho disponíveis para a venda no mercado 
+brasileiro, com valor correspondente a 30% da IDR de ferro, representando 4,2 mg 
+de ferro em 100 g de farinha. A Agência Nacional de Vigilância Sanitária (Anvisa), com 
+o objetivo de normatizar a fortificação dessas farinhas, abriu consulta pública em agosto 
+de 2001.
+Nessa consulta houve sugestão de incluir na fortificação obrigatória das farinhas de 
+trigo e milho, o ácido fólico. Medida que tem como objetivo a redução dos defeitos do 
+tubo neural. Considerando esse pleito importante para a saúde da população brasileira, 
+o Ministério da Saúde decidiu acatar essa sugestão.
+Foi aberta então nova consulta pública para fortificação das farinhas de trigo e 
+milho, considerando para o ferro 4,2mg/100g e 150µg para o ácido fólico. Em 2002, 
+foi consolidada a consulta pública, sendo aprovada a fortificação das farinhas de trigo e 
+milho com ferro e ácido fólico, por meio da RDC nº 344, de 13/12/2002 da Anvisa, 
+determinando-se prazo de 18 meses para adequação das empresas. T
+al prazo expirou 
+em junho de 2004, data a partir da qual todas as farinhas de trigo e milho disponibilizadas 
+para venda no Brasil passaram a estar fortificadas com ferro e ácido fólico.
+	
+ 
+2.9	Brasil: Programa Nacional de Suplementação 
+de Ferro
+Além da fortificação das farinhas de trigo e de milho e das ações educativas, o 
+Ministério da Saúde desenvolve o Programa Nacional de Suplementação de Ferro.
+Esse Programa destina-se à suplementação preventiva de todas as crianças de 6 
+a 18 meses com ferro; gestantes a partir da 20ª semana gestacional com ferro e ácido 
+fólico e mulheres até o terceiro mês pós-parto e pós-aborto com ferro.
+Algumas considerações em relação ao Programa
+1 – Casos de anemia diagnosticada: para os casos de anemia com sintomas clínicos 
+clássicos ou casos já diagnosticados, o tratamento deve ser prescrito de acordo com 
+a conduta clínica para anemia, definida pelo profissional de saúde responsável.
+
+36
+Cadernos de 
+Atenção Básica
+2 – 	Baixo peso ao nascer e prematuridade: para crianças pré-termo (< 37 sema-
+nas) ou nascidas de baixo peso (< 2500 gramas) a conduta de suplementação 
+segue as recomendações da Sociedade Brasileira de Pediatria – Manual de 
+Alimentação do Departamento Científico de Nutrologia. 
+3 – 	Período de suplementação para as crianças: como regra, as crianças devem ser 
+suplementadas ininterruptamente dos 6 aos 18 meses de idade. Se a criança 
+não estiver em aleitamento materno exclusivo, a suplementação poderá ser 
+realizada dos 4 aos 18 meses de idade. Nos casos em que a suplementação 
+seja iniciada muito tardiamente, mais precisamente a partir dos 12 meses, 
+orienta-se que a criança permaneça no programa por 6 meses.
+4 – Parasitoses: as parasitoses intestinais não são causas diretas da anemia, mas 
+podem piorar as condições de saúde das crianças anêmicas. Por isso, para o 
+melhor controle da anemia, faz-se necessário que, além da suplementação 
+de ferro, sejam implementadas ações para o controle de doenças parasitárias 
+como a ancilostomíase e a esquitossomose.
+Observação: Os principais aspectos a serem observados para a prevenção e 
+o controle das referidas parasitoses intestinais podem ser encontrados na 4ª 
+edição do Guia sobre Doenças Infecciosas e Parasitárias do Ministério da Saúde. 
+Este guia, publicado em 2004, está disponível na opção publicações do site: 
+<www.saude.gov.br/svs>.
+5 – Gestantes e mulheres no pós-parto: além do ferro, as gestantes devem 
+ser suplementadas também com o ácido fólico, conforme a conduta es-
+tabelecida pela Área Técnica de Saúde da Mulher do Ministério da Saúde, 
+pois esta vitamina tem papel importante na gênese da anemia. T
+odas as 
+mulheres até o terceiro mês pós-parto devem ser suplementadas apenas 
+com sulfato ferroso, mesmo que por algum motivo estejam impossibilitadas 
+de amamentar. A suplementação também é recomendada nos casos de 
+abortos. Nestes dois últimos casos, a suplementação tem o objetivo de 
+repor as reservas corporais maternas.
+
+37
+carênciaS DE
+micronutrientes
+Atenção: 
+As crianças e/ou gestantes que apresentarem doenças que cursam por acúmulo 
+de ferro como, anemia falciforme, não devem ser suplementadas com ferro, ressalvadas 
+aquelas que tenham a indicação de profissional competente. Havendo suspeita dessas 
+doenças, a suplementação não deverá ser iniciada até a confirmação do diagnóstico.
+Os profissionais de saúde deverão estar atentos aos seguintes sintomas e sinais, 
+pois estes são comumente observados em pessoas que têm anemia falciforme:
+– anemia crônica;
+– crises dolorosas no corpo;
+– palidez, cansaço constante, icterícia (cor amarelada, visivelmente identificada no 
+interior dos olhos);
+– feridas nas pernas;
+– constantes infecções e febres; e
+– inchaço muito doloroso nas mãos e nos pés de crianças.
+Observação: Caso a criança e/ou a gestante apresente os sinais e sintomas men-
+cionados acima, encaminhe-os ao médico ou a uma unidade de saúde onde possa 
+ser realizado o diagnóstico mais detalhado. Lembre-se de não suplementá-las com 
+sulfato ferroso.
+Identificação e acompanhamento das famílias
+Cada município deverá adotar a sua estratégia para a identificação da população 
+que será atendida e rotineiramente acompanhada, podendo ser:
+– demanda espontânea nas unidades de saúde (identificação durante as consultas 
+regulares do crescimento e desenvolvimento infantil e do pré-natal);
+– busca ativa (Agentes Comunitários de Saúde, Equipe de Saúde da Família, etc.);
+– campanhas de vacinação;
+– maternidades;
+– indicação de parceiros que atuam na prevenção e controle dos distúrbios nu-
+tricionais em nível local.
+Os dados de distribuição dos suplementos à população partícipe do Programa 
+devem ser registrados nos formulários de acompanhamento disponíveis em unidades 
+de saúde, ambulatórios e outros. 
+Ao final de cada mês, as informações devem ser compiladas no consolidado mensal, 
+de forma a facilitar e possibilitar o registro das informações do município no módulo de 
+gerenciamento do Programa <www.saude.gov.br/nutricao>.
+
+38
+Cadernos de 
+Atenção Básica
+Resumindo
+POR QUE O FERRO É IMPORTANTE?
+Porque:
+– participa nos processos de crescimento e desenvolvimento do organismo, prin-
+cipalmente no período da infância e durante a gestação;
+– contribui para a saúde, mantendo em equilíbrio as funções do organismo;
+– contribui para melhoria da capacidade física e mental e, conseqüentemente, da 
+aprendizagem e da capacidade produtiva.
+O QUE CAUSA A ANEMIA POR DEFICIÊNCIA DE FERRO?
+– O desequilíbrio entre a absorção e as necessidades orgânicas deste mineral, 
+decorrente da:
+. baixa ingestão de alimentos-fonte de ferro ou de alimentos com fatores facili-
+tadores da absorção do ferro;
+. alta ingestão de alimentos com fatores inibidores da absorção do ferro dietético, 
+ou seja, que prejudicam a biodisponibilidade do ferro;
+. necessidades aumentadas em alguns grupos específicos;
+. perdas crônicas de ferro;
+. baixo consumo de alimentos fortificados com ferro.
+QUAIS SÃO OS GRUPOS DE RISCO PARA ANEMIA POR DEFICIÊNCIA DE 
+FERRO?
+– Indivíduos que se encontram com as necessidades de ferro elevadas, em função 
+da rápida expansão do volume plasmático e pelo crescimento acentuado dos 
+tecidos, como:
+. crianças menores de dois anos; 
+. gestantes.
+QUAIS AS CONSEQÜÊNCIAS DA ANEMIA POR DEFICIÊNCIA DE FERRO?
+– Comprometimento do desenvolvimento motor e da coordenação, prejuízo do 
+desenvolvimento da linguagem e da aprendizagem, alterações de comportamento 
+(fadiga, desatenção, insegurança) e diminuição da atividade física;
+– Comprometimento do sistema imune, com aumento da predisposição a infecções, 
+além de redução da produtividade, do apetite e da capacidade de concentração; 
+– Maior risco de mortalidade relacionada à gestação e ao parto, maior risco de 
+morbidade e mortalidade fetal, prematuridade e baixo peso ao nascer.
+
+39
+carênciaS DE
+micronutrientes
+3   Distúrbios por Deficiência de Iodo (DDI)
+      Introdução
+Segundo o Conselho Internacional para o Controle das Doenças causadas pela 
+Deficiência de Iodo (ICCIDD), a deficiência de iodo é a causa mais comum e prevenível 
+de retardo mental e danos cerebrais no mundo. Essa deficiência também é responsável 
+pela redução do crescimento e do desenvolvimento infantil, trazendo sérias conseqüên-
+cias às crianças, tais como: baixa estatura, apatia, atraso no desenvolvimento cerebral, 
+prejuízos à capacidade motora, à fala e à audição, entre outros.41
+A deficiência acontece principalmente nas regiões montanhosas ou sujeitas a fre-
+qüentes inundações, que retiram o iodo do solo, prejudicando, dessa forma, a adequada 
+ingestão desse mineral por parte da população. Os problemas decorrentes da baixa 
+ingestão de iodo são conhecidos como distúrbios por deficiência de iodo (DDI).42
+Em relação à magnitude dessa carência, suas repercussões na saúde e seu sig-
+nificado para o desenvolvimento socioeconômico de uma nação, verifica-se que a 
+deficiência de iodo é um grave problema de saúde pública em muitos países. Estima-se 
+que 1,6 bilhão de pessoas vivem em áreas onde essa deficiência é prevalente, estando, 
+portanto, em risco de apresentar algum distúrbio por deficiência de iodo. Destes, 655 
+milhões são afetados pelo bócio, que é o aumento da glândula tireóide, e 11 milhões 
+pelo cretinismo, que é a expressão mais grave da deficiência de iodo.44 Estima-se que 
+mesmo formas mais amenas do bócio também estejam associadas a alguns dos níveis 
+de retardo mental, sendo previstos anualmente no mundo um total de 60 mil abortos 
+naturais, natimortos e mortes de recém-nascidos decorrentes de grave deficiência de 
+iodo no início da gestação.42
+Uma representação gráfica que indica bem a gravidade da situação em relação aos 
+vários prejuízos causados e/ou associados à deficiência de iodo pode ser vista na figura a 
+seguir, chamada iceberg dos distúrbios associados à deficiência de iodo.41
+3.1
+
+40
+Cadernos de 
+Atenção Básica
+Observa-se que, apesar de o cretinismo ser a manifestação mais grave do problema, 
+existem outros comprometimentos à saúde que atingem uma parcela mais expressiva da 
+população exposta a essa deficiência que podem trazer consideráveis atrasos ao desenvolvi-
+mento econômico e à qualidade de vida desses indivíduos. A pirâmide revela que cerca de 
+90% das conseqüências da deficiência de iodo não são evidenciadas claramente, ou seja, 
+os efeitos não são visíveis, mas nem por isso deixam de ter indiscutível relevância.41
+Associado a esses problemas, a deficiência de iodo contribui para o maior gasto 
+com o atendimento à saúde, maiores taxas de repetência e evasão escolar, redução 
+da capacidade para o trabalho e comprometimento até mesmo da produção animal. 
+Portanto, direta ou indiretamente acaba por trazer prejuízos socioeconômicos ao país. 
+A deficiência de iodo pode ser obstáculo ao desenvolvimento humano e social de co-
+munidades que vivem em ambientes deficientes em iodo e necessitam-se, portanto, de 
+estratégias e ações que revertam ou previnam esse quadro.
+O êxito de uma intervenção realizada por meio da iodação do sal pode ser mos-
+trado pelo caso da vila de Jixian, na província de Heilongjian, na China, em 1978, então 
+conhecida como “vila dos idiotas”. Os resultados descritos na tabela abaixo demonstram 
+os relevantes progressos obtidos a partir do programa de iodação do sal, com efeito 
+marcante até mesmo sobre o desenvolvimento socioeconômico da região.44
+Observa-se, portanto, que todos os esforços devem ser envidados para se prevenir 
+as conseqüências decorrentes da deficiência de iodo, contribuindo não só para a melhoria 
+das condições de saúde das populações afetadas, mas também para o desenvolvimento 
+social e econômico dos países e das regiões onde os distúrbios por deficiência de iodo 
+são encontrados.
+3.2	 Iodo
+O iodo é um elemento traço, à semelhança de outros como o cálcio e o ferro, 
+porém, mais raro que estes. Sua importância decorre do fato de ser necessário para 
+o adequado funcionamento da glândula tireóide, uma vez que é parte constituinte dos 
+hormônios tireóideos.
+	
+Antes  	
+Depois 
+	
+(1978)  	
+(1986)
+Prevalência de bócio	
+80%	
+4.5%
+Prevalência de cretinismo	
+11%	
+-
+Posição da escola 	
+14a	
+3a
+(entre as 14 existentes no distrito)	
+T
+axa de reprovação escolar	
+> 50%	
+2%
+Valor da produção agrícola ($ yuan)	
+19.000	
+180.000
+Renda per capita ($ yuan)	
+43	
+550
+Efeito do controle da deficiência de iodo na aldeia de Jixian, China
+
+41
+carênciaS DE
+micronutrientes
+ Existe um ciclo de iodo na natureza, e a maior parte desse mineral encontra-se 
+nos oceanos. A concentração média de iodo na água do mar é de 50–60 µg/L, na terra, 
+300 µg/kg, e 0,7 µg/ m3 no ar, sendo o mar e o ar fontes importantes para seu ciclo. O 
+iodo esteve presente na crosta terrestre durante os primórdios do desenvolvimento da 
+T
+erra; mas, com o passar dos anos, grandes quantidades desse mineral foram levadas 
+da superfície da T
+erra pela glaciação, pela neve ou pela chuva e foram carregadas pelos 
+ventos, pelos rios e pelas enchentes em direção ao mar. No mar, os íons são oxidados 
+pela luz solar na forma do elemento iodo, que é volátil. Na atmosfera, o iodo retorna à 
+terra pelo vento e pela chuva, que tem concentrações de iodo de 1,8–8,5 µg/L, sendo 
+precipitado então de volta ao solo, completando-se assim o ciclo de mar-ar-terra.44,45
+O conteúdo de iodo nos vegetais varia muito, sendo proporcional ao seu con-
+teúdo no solo e na água da região. Isso explica porque um mesmo alimento pode ter 
+variações no seu conteúdo de iodo, dependendo da localidade onde está sendo pro-
+duzido. Por sua vez, o conteúdo de iodo nos alimentos de origem animal dependerá 
+da concentração desse elemento nas plantas e/ou rações utilizadas pelos animais para 
+sua alimentação.45
+3.3   Fontes de iodo
+As fontes de origem animal do iodo são usualmente os produtos do mar, uma vez 
+que os oceanos contêm quantidades consideráveis desse elemento químico. O conteúdo 
+de iodo nos peixes refletirá, portanto, seu conteúdo na água. Pode-se citar como fontes 
+de iodo de origem animal: sardinhas, atum, ostras e moluscos.
+Outras fontes são o leite e demais produtos lácteos e ovos provenientes de regiões 
+onde os animais são alimentados com rações enriquecidas com iodo, ou, no caso do leite, 
+pastaram em áreas com adequada quantidade de iodo. Isso é relevante, uma vez que, caso 
+essas plantações sejam realizadas em solo pobre em iodo, o conteúdo desse mineral será 
+insatisfatório, tanto nos vegetais produzidos para consumo humano como nas plantas para 
+consumo animal. Portanto, o iodo disponível nos alimentos dependerá da procedência 
+destes últimos e, conseqüentemente, do iodo disponível no solo ou na água.
+As considerações em relação às fontes de iodo e as suas diferentes concentrações 
+nos alimentos indicam que nem sempre é fácil o alcance das recomendações necessá-
+rias ao bom funcionamento do organismo humano, nas distintas faixas etárias e estados 
+fisiológicos que, por sua vez, determinam as fases de risco.
+Apesar da necessidade constante de estímulo ao consumo de alimentos-fonte de 
+iodo, observa-se que fatores ambientais, econômicos ou mesmo culturais podem pre-
+judicar a adequada ingestão desses alimentos nas quantidades necessárias ao suprimento 
+das necessidades humanas.
+Por outro lado, o consumo diário do sal iodado, com concentrações segundo a 
+legislação brasileira de  20 a 60 partes por milhão (ppm), em alimentação normossódica 
+(< 5g/dia de sal)46,47,48,49,50, conterá de 100 a 300 µg de iodo, suprindo, portanto, as reco-
+mendações relativas aos indivíduos, conforme pode ser visto no quadro que segue:
+
+42
+Cadernos de 
+Atenção Básica
+Lactentes	
+1 a 12 meses	
+50 µg
+Crianças	
+2 a 6 anos	
+90 µg
+Crianças	
+7 a 12 anos	
+120 µg
+Crianças a partir de 12 anos, 	
+-	
+150 µg
+adolescentes e adultos	
+Gestantes e lactantes	
+-	
+200 µg
+Fonte: ICCIDD OBS: 1µg (micrograma) = 1 milionésimo de grama.
+O estímulo ao consumo do sal iodado é necessário como estra-
+tégia de prevenção e controle dos DDI, não devendo ser enca-
+rado como potencial fator de risco para elevação no consumo 
+de sódio, uma vez que dieta normossódica permite atender às 
+recomendações de iodo para a população.
+3.4	 Grupos de risco
+A adoção da terminologia distúrbios por deficiência de iodo reflete uma nova di-
+mensão sobre a compreensão do espectro completo dos efeitos dessa deficiência sobre 
+uma população. No entanto, alguns grupos tornam-se mais sensíveis aos problemas 
+decorrentes dessa carência.41,44
+– Gestantes: a deficiência de iodo durante a gestação está associada a uma série de 
+riscos ao feto e ao bebê, indicando a importância da função tireoidiana adequada 
+na mãe para a sobrevivência e o desenvolvimento satisfatório do feto. As princi-
+pais conseqüências observadas quando essa deficiência ocorre na gestação são: 
+abortos; natimortos; anomalias congênitas; aumento da mortalidade perinatal; 
+bócio neonatal; hipotireoidismo congênito transitório e alterações psicomotoras. 
+O cretinismo é o resultado mais grave da deficiência no período fetal, levando 
+a danos cerebrais irreversíveis na criança. Deve-se atentar para o fato de que, 
+após o nascimento, o cérebro continuará crescendo e se desenvolvendo, e o 
+adequado suprimento de iodo e, conseqüentemente, a produção satisfatória 
+dos hormônios tireóideos é essencial para a continuidade do desenvolvimento 
+cerebral.44
+– Crianças: esta carência pode contribuir para o aumento na mortalidade infantil, 
+além das situações de hipotireoidismo, bócio, retardo do desenvolvimento e 
+do crescimento físico. Estudos em escolares de vários países, residentes em 
+áreas com deficiência de iodo, têm demonstrado redução em seu desempenho 
+psicomotor em comparação com crianças de áreas não deficientes.44 Na fase 
+escolar a deficiência de iodo pode levar ao comprometimento na capacidade 
+
+43
+carênciaS DE
+micronutrientes
+de aprendizagem, causando letargia e apatia nas crianças e contribuindo para o 
+aumento dos índices de repetência e evasão escolar.
+– Adultos: nesta fase, os indivíduos podem apresentar bócio e suas complicações, 
+como a compressão da traquéia, problemas na respiração e na deglutição, além 
+de dor local. Alguns sintomas de hipotireoidismo, como lentidão de movimen-
+tos, fadiga, letargia, cansaço excessivo e capacidade mental diminuída podem 
+ser encontrados. Nas mulheres, podem ocorrer ciclos menstruais irregulares e 
+anovulatórios, com redução da fertilidade.44,47
+3.5 	 Conseqüências da deficiência de iodo
+Quando a ingestão de iodo não é suficiente e adequada, ocorre comprometimento 
+da tireóide e conseqüentemente da produção dos hormônios tireóideos, o que pode 
+levar a uma série de danos à saúde, alguns irreversíveis. Essa glândula localiza-se na parte 
+frontal do pescoço, é formada por dois lóbulos, um de cada lado, e possui a forma de 
+uma borboleta.
+Para a adequada síntese dos hormônios tireóideos, há necessidade de aporte diário 
+de iodo na alimentação. Nenhuma outra glândula endócrina é tão dependente de um 
+micronutriente quanto a tireóide.48 
+A tireóide é responsável pela secreção de 75 µg de iodo orgânico por dia, basica-
+mente na forma de tiroxina (T4) e pequena quantidade de triiodotironina (T3). A síntese e a 
+secreção dos hormônios tireóideos são reguladas por fatores extratiróideos ou intratiróideos 
+e, entre os extratiróideos, o hormônio tirotrofina (TSH) exerce importante papel. 
+Após a produção dos hormônios tireóideos, estes são liberados na corrente 
+sangüínea e passam a exercer importantes funções em distintos processos químicos em 
+várias partes do corpo humano. São essenciais principalmente para o adequado desen-
+volvimento e funcionamento do cérebro e do sistema nervoso, além da manutenção 
+da temperatura corporal. Em situações de deficiência de iodo, ocorre interferência na 
+produção dos hormônios tireóideos, o que leva a aumento na secreção da tirotrofina 
+(TSH). Esta estimula a tireóide a aumentar a produção de seus hormônios, levando a 
+hiperplasia das células, o que conduz a aumento no tamanho da glândula. Como conse-
+qüência dessa estimulação contínua, ocorre o desenvolvimento do bócio.44,45,49
+A seguir, algumas informações mais detalhadas sobre o bócio e o cretinismo.
+A) Bócio
+Utiliza-se o termo “bócio”, vulgarmente conhecido como “papo”, para caracterizar 
+uma situação em que a glândula tireóide possui tamanho acima do normal. Isso acontece 
+nas pessoas com deficiência de iodo, porque elas não estão conseguindo produzir os 
+hormônios tireóideos em quantidade suficiente. Os baixos níveis desses hormônios no 
+sangue levam a aumento na secreção da tirotrofina (TSH), numa tentativa de fazer que 
+a tireóide produza mais dos seus hormônios. Apesar desse aumento da estimulação do 
+
+44
+Cadernos de 
+Atenção Básica
+TSH ser uma adaptação normal, leva em contrapartida ao bócio, que é o crescimento 
+da tireóide. Particularmente, este sintoma se torna mais intenso, se essa estimulação se 
+tornar crônica em razão de uma deficiência contínua na ingestão de iodo. Nesse sentido, 
+o bócio nada mais é do que um sinal de que o organismo está tentando compensar a 
+falta de iodo.49
+O tamanho da tireóide responde às alterações na ingestão de iodo, variando de 
+forma inversa ao teor desse nutriente, em um período que pode variar de 6 a 12 meses 
+em crianças e adultos jovens (<30 anos). 43 
+O bócio pode levar a comprometimentos na respiração, com compressão da 
+traquéia, asfixia, dor local, problemas na deglutição, além da invasão do mediastino, o 
+que é chamado de bócio mergulhante. 
+Para se estimar a prevalência do bócio, tradicionalmente é usado o método da 
+inspeção e palpação para a determinação do tamanho da tireóide. T
+ambém pode ser 
+utilizada a ultra-sonografia, como um método mais preciso e objetivo.
+B) Cretinismo
+O cretinismo é causado pela carência de iodo e, conseqüentemente, pela defi-
+ciência na síntese dos hormônios tireóideos durante o período fetal, traduzindo-se em 
+sério comprometimento do sistema nervoso central e retardo mental irreversível. O 
+cretinismo endêmico está associado ao bócio endêmico e à deficiência grave de iodo, 
+sendo caracterizado pela deficiência mental e por duas formas ou dois tipos distintos de 
+manifestações clínicas:43,47
+Cretinismo neurológico: há predominância das manifestações decorrentes 
+dos distúrbios neurológicos, como alterações auditivas, da linguagem, neuromotoras e 
+estrabismo, comprometimento da marcha e da postura; nos casos mais graves, caminhar 
+ou o manter-se de pé é impossível. O cretinismo neurológico típico é caracterizado por 
+retardo mental grave. Nos casos de deficiência mais leve, ocorrem diferentes graus de 
+comprometimento da coordenação motora.
+Cretinismo hipotiróideo: ocorrem os sinais clássicos do hipotireoidismo, asso-
+ciados a graus leves de retardo mental; os indivíduos afetados são capazes de desenvolver 
+tarefas manuais simples. Os sinais incluem edema generalizado, pele seca, voz rouca, 
+cabelos escassos, lentidão, reflexos diminuídos, retardo no desenvolvimento sexual, na 
+maturação das proporções do corpo e baixa estatura. Esse quadro clínico é confirmado 
+por níveis extremamente baixos de T3 e T4 e altos níveis de TSH. Graus mais leves de 
+hipotireoidismo possuem poucos sinais clínicos e de anormalidades bioquímicas.
+Em razão das diferentes formas de manifestações clínicas, a identificação dos indivíduos 
+afetados pelo cretinismo em uma população não é tarefa simples, havendo a necessidade de 
+especialistas para se proceder ao diagnóstico. A obtenção dessa prevalência não é um indicador 
+sensível do nível de iodo na população, visto as dificuldades na identificação dos casos, princi-
+palmente naqueles com manifestações subclínicas.43,47 De fato, os indivíduos moderadamente 
+afetados podem não ser diagnosticados, exceto quando examinados por especialistas ou quando 
+são usados métodos especializados, como os testes audiométricos, entre outros. 
+
+45
+carênciaS DE
+micronutrientes
+Por outro lado, os sujeitos mais severamente afetados, embora sejam mais facilmen-
+te identificados, representam apenas a ponta do iceberg no que se refere aos problemas 
+causados pela deficiência de iodo.43 Mesmo a presença de prevalências muito baixas de 
+cretinismo em uma comunidade são significativas, uma vez que indica a exposição a uma 
+grave deficiência de iodo cujas conseqüências podem ser irreversíveis.
+Somada às graves manifestações clínicas de cretinismo típico, a deficiência de iodo 
+pode levar a déficits clínicos e subclínicos moderados, tanto nos aspectos sensoriais quan-
+to motores e intelectuais, comprometendo o próprio desenvolvimento da população 
+afetada. Nesse sentido, investimentos no desenvolvimento econômico e educacional de 
+uma população afetada pela deficiência de iodo somente terão sucesso se esse problema 
+for resolvido ou controlado. 
+3.6	 Diagnóstico dos Distúrbios por Deficiência de 
+Iodo
+3.6.1	Indicadores clínicos
+Palpação da tireóide
+Para a palpação, o examinador deve ficar diante da pessoa a ser examinada, colocar 
+seus dois polegares ao lado da traquéia e passar suavemente os dedos sobre a tireóide, 
+observando o tamanho de cada lóbulo. Este não é um método prático para ser usado 
+em neonatos. Entretanto, pode ser utilizado em crianças preferencialmente na faixa 
+etária de 6 a12 anos. No caso de crianças muito novas, observa-se que quanto menor 
+a criança, menor a tireóide, e mais difícil se torna a palpação.
+Entre os adultos, as gestantes e as lactantes merecem atenção especial, principalmente 
+as gestantes, já que estas são particularmente sensíveis à deficiência marginal de iodo e pos-
+suem maior acesso para diagnóstico em função da realização do pré-natal.43 Atualmente, o 
+sistema de classificação do bócio inclui três níveis, que vão do grau zero ao grau dois:43
+Classificação simplificada do bócio
+GRAU 0
+Bócio não visível ou palpável
+GRAU 1
+Caracterizado por massa no pescoço que é consistente com o aumento da tireóide, que é 
+palpável, mas não visível quando o pescoço se encontra na posição normal. Move-se para cima 
+no pescoço quando o sujeito engole. Alteração(s) nodular(es) pode ocorrer mesmo quando a 
+tireóide não está visivelmente aumentada.
+GRAU 2
+Aumento de tamanho no pescoço que é visível quando este se encontra na posição normal e é 
+consistente com a ampliação da tireóide quando o pescoço é palpado. 
+Fonte: Indicators for assessing IDD and control through salt iodization,WHO./NUT/94.644
+
+46
+Cadernos de 
+Atenção Básica
+O método da palpação pode ser facilmente aplicado em pesquisa de campo e 
+não requer equipamento especializado. Por outro lado, os examinadores devem ser 
+capacitados e inicialmente supervisionados por outros examinadores com experiência 
+para que se obtenha uniformidade nos resultados.49
+Ultrassonografia
+Este é um método que deve ser utilizado por profissionais capacitados, sendo 
+seguro e não invasivo. O volume da tireóide é calculado utilizando-se equipamento 
+de ultra-som portátil que requer eletricidade e possui custo relativamente alto. A ultra-
+sonografia provê medidas muito mais precisas do volume da tireóide quando comparada à 
+palpação, sendo este fato especialmente importante em situações nas quais a prevalência 
+de bócio visível é pequena e em monitoramento de programas de controle dos distúrbios 
+por deficiência de iodo, em que a redução do volume da tireóide é esperada.43
+O critério epidemiológico para se estabelecer a gravidade do distúrbio por deficiên-
+cia de iodo, baseado na prevalência do bócio em crianças em idade escolar, encontra-se 
+na tabela abaixo:43
+Obs.: 1: Deve ser entendido que o termo “leve” é relativo, não significando que 
+esta categoria represente poucas conseqüências.
+Obs.: 2: Prevalência de 5% ou mais em crianças em idade escolar (6–12 anos) 
+indica a presença de um problema de saúde pública. A recomendação anterior de 
+um ponto de corte de 10% está sendo revista, uma vez ter sido observado que 
+prevalências de bócio entre 5% e 10% podem estar associadas com anormalidades 
+que incluem inadequada excreção urinária de iodo e/ou níveis anormais de TSH 
+entre adultos, crianças e neonatos.43
+3.6.2 Indicadores bioquímicos
+Dosagem de iodo urinário
+A excreção urinária do iodo é um bom indicador bioquímico, já que a maior parte 
+do iodo ingerido e absorvido é excretado na urina. Portanto, esse indicador é um bom 
+marcador da ingestão dietética prévia de iodo. Deve-se tomar o cuidado, entretanto, 
+de usá-lo para estimativas populacionais, uma vez que o nível individual de iodo urinário 
+varia diariamente e mesmo durante um mesmo dia.43
+Este método não é complexo e necessita apenas de pequenas amostras de urina. 
+Com o progresso dos programas de prevenção dos DDI, os níveis de iodo urinário têm 
+Gravidade do DDI	
+Leve	
+Moderada	
+Grave
+Prevalência de bócio	
+5,0 - 19,9%	
+20,0 - 29,9%	
+≥ 30,0%
+Fonte: Indicators for assessing IDD and control through salt iodization, WHO./NUT/94.6 43
+
+47
+carênciaS DE
+micronutrientes
+Valor mediano (µg/L)	
+Gravidade do DDI
+< 20 	
+grave
+20 - 49	
+moderado
+50 - 99	
+leve
+≥100	
+ausência de deficiência
+Critério epidemiológico para avaliação da gravidade dos distúrbios por
+deficiência de iodo, com base no nível mediano de iodo urinário
+Fonte: Indicators for assessing IDD and control through salt iodization, WHO./NUT/94.6 43
+Indicador	
+Grupo alvo	
+Leve	
+Moderado	
+Grave
+Grau de bócio > 0	
+escolar	
+5.0-19.9%	
+20.0-29.9%	
+≥30.0%
+Volume da tireóide > 	
+escolar	
+5.0-19.9%	
+20.0-29.9%	
+≥30.0%
+P97 por ultrassom
+Valor mediano	
+escolar	
+50-99	
+20-49	
+< 20
+de iodo urinário (µg/L)
+TSH > 5 mU/L	
+neonatos	
+3.0-19.9%	
+20.0-39.9%	
+≥40.0%
+Fonte: Indicators for assessing IDD and control through salt iodization, WHO./NUT/94.643
+Gravidade do problema (Prevalência)
+Resumo dos indicadores de prevalência de DDI e critérios
+para determinação de um problema de saúde pública
+sido mais utilizados como critério de avaliação para controle e monitoramento dos DDI 
+do que as taxas de prevalência de bócio.43 A tabela a seguir apresenta a caracterização 
+da gravidade do problema segundo os valores medianos  da iodúria:
+Dosagem de tirotrofina (TSH)
+A dosagem de TSH também é outro indicador que deve ser investigado.
+Em situações nas quais existe redução de iodo, com baixa concentração de hor-
+mônios tireóideos, ocorre estimulação da produção do TSH, como uma tentativa de 
+aumentar a produção dos hormônios na tireóide. O nível sangüíneo de TSH reflete 
+diretamente, portanto, a disponibilidade e a adequação dos hormônios tireóideos, sendo 
+o melhor teste diagnóstico para a determinação do hipotireoidismo. Níveis elevados de 
+TSH em neonatos e crianças são preocupantes, por significarem inadequação dos valores 
+de hormônios tireóideos nessa fase crucial da vida, principalmente no que diz respeito 
+ao desenvolvimento cerebral.43
+   
+3.7	 Prevenção e tratamento dos Distúrbios por 
+Deficiência de Iodo
+Apesar da quantidade de iodo requerida pelo organismo humano ser mínima, 
+o fato do iodo não poder ser estocado no organismo por longos períodos faz com 
+
+48
+Cadernos de 
+Atenção Básica
+que pequenas quantidades sejam necessárias diariamente. Em áreas de deficiência de 
+iodo, onde o solo, as colheitas e os pastos para os animais não provêem suficiente 
+iodo à população por meio da ingestão dos alimentos, os programas de fortificação e 
+suplementação de iodo têm surtido efeitos positivos.44  A prevenção, o diagnóstico e 
+o tratamento devem ser realizados por meio de programas específicos que atendam a 
+toda a população em risco.50
+Por décadas, a iodação do sal tem sido a estratégia usada em muitos países 
+desenvolvidos onde as doenças por deficiência de iodo já foram controladas e tem-se 
+obtido consideráveis progressos em relação à implementação universal da iodação 
+do sal.51
+Dados do Unicef indicam que em 87 países em desenvolvimento, onde a de-
+ficiência de iodo é um problema de saúde pública e onde existe informação sobre a 
+iodação do sal, 68% da população já consome sal iodado.52 Normalmente, essa é a 
+primeira escolha como estratégia de intervenção a ser utilizada, em função de o sal ser 
+regularmente consumido pela população. Somado a esse fator, o processo de iodação 
+possui tecnologia de processamento bem estabelecida com custo operacional baixo.47 
+Os programas de prevenção e controle da deficiência de iodo devem procurar garantir 
+que todo sal para consumo humano, tanto importado quanto localmente produzido, 
+esteja adequadamente iodado.51 Para que a iodação universal do sal seja efetiva, o sal 
+que chega às residências deve ter a quantidade adequada de iodo.
+ Em algumas situações, outras estratégias podem ser necessárias, como o uso de 
+cápsulas de iodo, a iodação da água ou a fortificação de outros alimentos.51 Programas 
+que usam o óleo iodado têm sido limitados a áreas com grave deficiência de iodo, onde 
+a distribuição e o consumo do sal iodado são precários e onde há previsão de implan-
+tação do programa a longo prazo. É considerado, portanto, um método emergencial, 
+que deve ser utilizado em curto prazo, até que medidas efetivas sejam executadas para 
+a iodação do sal. Pode ser ministrado por via intramuscular ou via oral.43,47
+3.7.1  Armazenamento e conservação do sal iodado
+Uma vez que a iodação do sal é o método de escolha para prevenir as conseqüên-
+cias da deficiência de iodo, é importante que todos os indivíduos consumam apenas o sal 
+iodado e saibam armazená-lo corretamente para que se reduza o risco de perda de iodo. 
+Alguns fatores podem interferir no uso correto do sal de cozinha. Mesmo considerando 
+que o iodato de potássio – produto usado na iodação do sal – seja estável na sua forma 
+pura, a sua permanência no sal de cozinha dependerá de condições tais como umidade 
+do ambiente, forma de acondicionamento e ao tempo de armazenamento.
+Uma pesquisa realizada no Instituto Adolfo Lutz investigou algumas dessas carac-
+terísticas no sal de cozinha. É de dois anos o prazo máximo de armazenamento do sal 
+nos pontos de venda, se armazenado em condições ambientais adequadas.53
+T
+ambém é importante que as famílias observem alguns cuidados na utilização e 
+armazenamento do sal de cozinha, são eles:
+
+49
+carênciaS DE
+micronutrientes
+a) não consumir o sal destinado para animais. Este sal, usualmente muito parecido 
+com o sal refinado e moído para consumo humano, é encontrado em sacos de 
+25kg ou a granel, e não deve ser usado para cozinhar, uma vez que não possui 
+iodo na quantidade adequada para a prevenção dos DDI. Essa prática pode 
+causar distúrbios por deficiência de iodo. No Brasil, a legislação atual recomen-
+da que seja adicionado iodo no sal de consumo humano em quantidade que 
+pode variar de 20 a 60 ppm, enquanto que o sal destinado aos animais possui 
+menos de 10 ppm;
+b) no momento da compra do sal, é necessário ler adequadamente o rótulo, veri-
+ficando se o produto é iodado e, portanto, adequado para consumo humano;
+c) dar preferência, no momento da compra, ao sal que tiver sido fabricado mais 
+recentemente, uma vez que seu prazo de validade será maior. Caso o prazo de 
+validade do sal esteja vencido, pode ocorrer prejuízo na qualidade do iodo; 
+d) o armazenamento do saco de sal iodado deve ser feito em local fresco e ventilado, 
+evitando-se colocá-lo próximo a locais quentes, como o fogão a gás ou a lenha;
+e) após a abertura da embalagem do sal iodado, procurar manter o sal nesse in-
+vólucro original, dentro de um pote ou vidro, de preferência, com tampa;
+f) procurar manter o sal distante de locais úmidos e molhados, evitando-se colocar 
+colheres molhadas em contato com o produto;
+g) em situações nas quais é utilizado o tempero completo para o preparo dos 
+alimentos, deve-se procurar intercalar este tempero com o sal iodado, pois não 
+há garantia de que sal iodado tenha sido usado na produção do tempero.
+Esses cuidados básicos com o armazenamento vão aumentar a garantia 
+de que o iodo existente no sal não perdeu sua qualidade.
+Conduta recomendada pelo Ministério da Saúde para controle dos distúrbios por 
+deficiência de iodo na população brasileira:
+• orientar a população para somente consumir sal destinado ao consumo domés-
+tico, devidamente iodado;
+• orientar, principalmente a população da zona rural, dos riscos à saúde ocasionados 
+pelo consumo do sal destinado ao consumo animal;
+• orientar a respeito do risco do consumo excessivo de sal. A média de consumo 
+de sal pela população brasileira, no ano 2000, foi de 16 g/dia, e o recomendado 
+em uma dieta normossódica é <5 g/dia46,47,48,49,50. Este valor (5 g/dia = uma 
+colher rasa de chá) é suficiente para alcançar a recomendação diária de iodo, 
+bem como protege contra o risco de desenvolver hipertensão arterial;
+• orientar para manuseio e armazenagem correta do sal no domicílio e nos locais 
+de venda, verificando nestes se a embalagem não se encontra violada e se o 
+sal não está úmido;
+• em caso de suspeita da procedência e da qualidade do sal iodado, acione a 
+Vigilância Sanitária Municipal com as seguintes informações do produto: nome/
+marca; fabricante; distribuidor; data de validade; data de fabricação; e lote;
+
+50
+Cadernos de 
+Atenção Básica
+Caso não exista vigilância sanitária em seu município, acione a Vigilância Sanitária 
+Estadual. Endereços e telefones podem ser encontrados no site da Agência Nacional de 
+Vigilância Sanitária – www.anvisa.gov.br.
+3.8	 Histórico sobre o controle dos Distúrbios por 
+Deficiência de Iodo no Brasil54
+3.8.1	Legislação
+No Brasil, várias ações vêm sendo desenvolvidas para controlar a deficiência de 
+iodo. Em 14 de agosto de 1953, foi promulgada a Lei nº 1.944, que determinava obri-
+gatória a iodação do sal para consumo humano nas áreas de bócio endêmico. 
+O Decreto nº 39.814, de 17 de agosto de 1956, delimitava as áreas de bócio 
+endêmico, determinava a abrangência da iodação para muitos estados brasileiros 
+que fossem regiões endêmicas do bócio e em todas as outras localidades onde 
+fossem assinalados novos casos, e tornava o Ministério da Saúde (MS) responsável 
+pela importação do iodato.
+A Lei nº 6.150, de 3 de dezembro de 1974, determinou a obrigatoriedade da 
+iodação de todo o sal para consumo humano e animal produzido no país. Segundo esta 
+lei, cada quilograma de sal deveria conter de 10 a 30mg de iodo metalóide; as indústrias 
+deveriam adquirir diretamente o iodo e o equipamento necessários para a iodação do 
+sal, sendo assumida a responsabilidade da iodação pelo setor produtivo de sal; e a fisca-
+lização, responsabilidade dos estados e dos municípios.
+O Decreto nº 75.697, de 6 de maio de 1975, estabeleceu padrões de qualidade 
+e de identificação do sal (uso humano). Em 1983, o Ministério da Saúde, por meio do 
+Instituto Nacional de Alimentação e Nutrição (INAN), criou o Programa de Combate ao 
+Bócio Endêmico (PCBE), dando ênfase à iodação do sal. Nesse contexto, o Ministério 
+da Saúde e a Fundação Nacional de Saúde passaram a arcar com as despesas da iodação 
+do sal produzido no país, adquirindo e distribuindo iodato de potássio (KIO3). A decisão 
+de comprar e distribuir o iodo necessário para todo o sal de consumo humano e animal 
+produzido no país foi tomada pela constatação de que a maioria das empresas do setor, 
+descumprindo a lei, não iodavam o sal, e, adicional a isto, a fiscalização sob responsabi-
+lidade do governo ainda era incipiente.
+Em 1994, o PCBE foi reformulado e reestruturado visando aumentar sua área de 
+atuação. Criou-se então o Programa Nacional de Controle dos Distúrbios por Deficiência 
+de Iodo (PNCDDI), sendo esta reformulação oficializada a partir da Portaria nº 2.165 do 
+Ministério da Saúde. Neste mesmo ano, a Portaria Ministerial nº 1.806, de 24 de outubro 
+de 1994, aumentou o teor de iodo no sal para consumo humano para 40–60 mg/kg.
+Em março de 1999, com a Portaria nº 218, o Ministério da Saúde, estabeleceu 
+como próprio para consumo humano o sal com teor igual ou superior a 40mg até o 
+limite de 100 mg de iodo por quilograma de produto. Em maio de 2003, essa Portaria 
+foi revogada, passando a vigorar a Resolução Sanitária RDC nº 130, que diminuiu os 
+
+51
+carênciaS DE
+micronutrientes
+teores para 20 a 60 miligramas de iodo por quilograma de sal.
+Neste mesmo ano, foi publicada a Medida Provisória nº 1.814-2, de 22 de abril 
+de 1999, que retirou a obrigatoriedade do governo fornecer iodato de potássio, sendo 
+a responsabilidade pela compra passada às indústrias salineiras.
+Ainda em 1999, foi publicada a Portaria MS/GM nº 1.328, de 11 de novembro, 
+instituindo a Comissão Interinstitucional para Controle dos Distúrbios por Deficiência 
+de Iodo no âmbito do Ministério da Saúde. Com a publicação da Portaria nº 520, de 6 
+de abril de 2005, foi instituída uma nova composição dos membros da comissão, com 
+o propósito de aperfeiçoar o acompanhamento das ações de prevenção e controle 
+dos DDI.
+3.8.2	 Inquéritos nacionais de prevalência de bócio no Brasil
+O primeiro inquérito nacional foi realizado em 1955, sob a coordenação da Divi-
+são de Organização Sanitária do MS. Esse estudo compreendeu a avaliação de 86.217 
+escolares e detectou prevalência de bócio de 20,7%. Neste momento foram delimitadas 
+as zonas de bócio endêmico no país. 
+No período de 1974 a 1976, foi realizado pela Superintendência de Campanhas de 
+Saúde Pública (SUCAM, Ministério da Saúde), o segundo inquérito nacional, envolvendo 
+421.752 escolares com idade entre 7 e 14 anos. Este estudo mostrou prevalência de bócio 
+de 14,1%, ou seja, redução de 6,5% no período de 20 anos. Houve, no entanto, redução 
+significativa dos bócios visíveis. De acordo com este levantamento, estimou-se, na época, 
+que cerca de 15 milhões de brasileiros eram portadores de bócio. 
+A partir de 1984, estabeleceram-se em vários estados, os municípios-sentinela, 
+visando à monitoração periódica dos níveis de controle da endemia. Em um desses estu-
+dos, realizado em 1990 pelo INAN, a prevalência encontrada de bócio foi preocupante, 
+indicando problemas no controle da endemia, conforme mostra a tabela abaixo:
+Estado                                 Município                                      	
+% Bócio
+Minas Gerais	
+Jequitinhonha	
+39,4
+	
+Mirabela	
+29,5
+Goiás	
+Palmeiras de Goiás	
+25,0
+	
+Cabeceiras	
+21,2
+	
+Flores de Goiás	
+26,9
+	
+Nova Roma	
+17,4
+Maranhão	
+Riachão	
+16,4
+	
+São Raimundo das Mangabeiras	
+19,5
+Pará	
+Cametá	
+19,2
+	
+Oeiras do Pará	
+20,7
+	
+Limoeiro do Ajuru	
+17,2
+T
+ocantins	
+Peixe	
+39,9
+	
+Natividade	
+28,6
+Fonte: Urinary Iodine in 16.803 Brazilian Schoolchildren. Urinary Iodine Excretion, 1997. 55
+Prevalência de bócio em escolares nos municípios-sentinela
+
+52
+Cadernos de 
+Atenção Básica
+Em 1994–1995, foi realizado o inquérito nacional sobre prevalência de bócio 
+endêmico em escolares, complementado por análise do conteúdo de iodo urinário em 
+escolares de 6 a 14 anos de idade em 17 municípios-sentinela, por haver suspeita de 
+deficiência de iodo. Outros 73 municípios limítrofes foram igualmente avaliados. Em cada 
+município, cinco escolas foram aleatoriamente sorteadas para os exames referidos. Em 
+decisão tomada posteriormente, ampliou-se a pesquisa para 428 municípios do território 
+brasileiro, sendo examinados 178.774 escolares.
+Os resultados indicaram prevalência leve de bócio em 19,4%, moderada em 
+3,5% e grave em 0,9% dos municípios visitados. Concluiu-se que 76% dos municípios 
+brasileiros não apresentam sinais de carência de iodo. Em relação à excreção de iodo, 
+os estados do Acre, Amapá e T
+ocantins exibiram valores baixos, e três municípios de 
+T
+ocantins e Goiás mostraram valores muito baixos, o que sinalizou a necessidade de 
+monitoramento cuidadoso nestas regiões.
+No ano 2000, duas importantes ações foram implementadas, visando à erradi-
+cação da Deficiência de Iodo no Brasil. Uma delas foi o Projeto Thyromobil na América 
+Latina, do Conselho Internacional para o Controle dos Distúrbios por Deficiência de 
+Iodo (ICCIDD), financiado pelo setor privado, Mercosul e Ministério da Saúde. 
+O Thyromobil foi implementado em 17 municípios-sentinela de 6 estados 
+brasileiros, cuja amostra foi composta por 1.977 escolares de 6 a 12 anos de idade 
+de ambos os sexos. Foram feitos exames ultra-sonográficos do volume da tiróide 
+em todos os estudantes e coletadas amostras de urina em cerca de 65% destes 
+com o objetivo de analisar o iodo urinário. Foram coletadas também amostras de 
+sal domiciliar e no comércio local de todas as marcas disponíveis para análises da 
+quantidade de iodo.
+A média da concentração de iodo no sal foi de 48,3 ± 28,9 ppm, e em alguns 
+estados mais de 10% das amostras apresentaram baixa concentração de iodo (0 a 10 
+ppm). A análise do iodo urinário mostrou valores médios considerados altos nos 17 
+municípios-sentinela (360 µg/L), e em todos os estados, exceto o Maranhão, a média 
+de valores em todos os municípios-sentinela foi maior que 300 µg/L. 
+Somente 6% dos municípios estavam na faixa de valores medianos adequados 
+(100 a 199 µg/L) de iodo excretado, segundo recomendação de organizações interna-
+cionais. Um total de 29% apresentou valores mais que adequados (200 a 299 µg/L). 
+Esses resultados indicam provável excesso de ingestão de iodo. A prevalência média de 
+bócio encontrada no país foi de 1,4%.
+A segunda ação desenvolvida pelo Ministério da Saúde, iniciada em 2000, foi a 
+execução de um Projeto Piloto em T
+ocantins visando à avaliação da qualidade do sal no 
+domicílio. O objetivo foi o treinamento dos Agentes Comunitários de Saúde do estado, 
+em ações de prevenção dos DDI, incorporando-os à rotina dos serviços e, posterior-
+mente ampliando a experiência para outros estados do país, principalmente os de maior 
+risco para os DDI.
+A incorporação dos Agentes Comunitários de Saúde no controle dos DDI é 
+fundamental para o sucesso dessa ação, uma vez que têm condições de promover a 
+disseminação das informações e estratégias que levam à prevenção do problema.
+
+53
+carênciaS DE
+micronutrientes
+Essencial que se garanta a continuidade do progresso alcançado pelo Brasil no 
+controle dos DDI por meio de medidas adequadas de vigilância, incluindo a qualidade 
+do sal iodado em sua fabricação, transporte e armazenagem, tanto no comércio quanto 
+no domicílio.56 O recrudescimento das estratégias de educação e informação tanto de 
+profissionais de saúde quanto da população são ações adicionais e complementares para 
+o alcance da meta de eliminação integral dos DDI no país.
+Apesar do considerável avanço do controle dos DDI no Brasil, ainda há a necessi-
+dade de aperfeiçoamento das ações de prevenção e controle, uma vez que o constante 
+monitoramento da deficiência de iodo constitui peça fundamental para evitar a reincidência 
+deste problema.
+Em nível mundial, o continente americano é o que tem alcançado maiores avanços 
+no controle da deficiência de iodo, porém existem casos de retrocesso de alguns países, 
+ 
+pela falta de sustentabilidade dos programas.
+Por este motivo, o Ministério da Saúde e a Agência Nacional de Vigilância Sanitária, 
+em parceria com os demais membros da Comissão Interinstitucional para Prevenção e 
+Controle dos Distúrbios por Deficiência de Iodo, têm trabalhado no sentido de aper-
+feiçoar a execução de ações estabelecidas pelo Programa Nacional para Prevenção e 
+Controle dos Distúrbios por Deficiência de Iodo – Pró-Iodo. Este programa, que é 
+coordenado pelo Ministério da Saúde, em parceria com outros órgãos e entidades, 
+destina-se a promover a eliminação virtual sustentável dos DDI. Entre as suas principais 
+linhas de ação estão:
+– o monitoramento do teor de iodo do sal para consumo humano;
+– o monitoramento do impacto da iodação do sal na saúde da população;
+– a atualização dos parâmetros legais dos teores de iodo do sal destinado ao 
+consumo humano; e
+– a implementação contínua de estratégias de informação, educação, comunicação 
+e mobilização social.
+
+54
+Cadernos de 
+Atenção Básica
+Resumindo
+POR QUE O IODO É IMPORTANTE?
+Porque:
+• promove o crescimento e o desenvolvimento normal do organismo;
+• promove o crescimento e o desenvolvimento normal do cérebro;
+• contribui para a saúde, mantendo em equilíbrio as funções do organismo;
+• melhora a capacidade física e mental e, conseqüentemente, a aprendizagem e 
+a produção no trabalho.
+O QUE CAUSA A CARÊNCIA DE IODO NO ORGANISMO?
+• deficiência ou ausência de iodo na água e na terra onde são plantados os alimentos;
+• a não utilização de sal iodado na preparação da comida.
+QUAL É A POPULAÇÃO DE MAIOR RISCO?
+• a população que reside em regiões distantes do mar e com solos pobres em iodo;
+• a população que consome sal não iodado;
+• a população que consome sal destinado à alimentação animal.
+QUAIS SÃO OS GRUPOS DE RISCO PARA OS DDI?
+• gestantes;
+• fetos e recém-nascidos;
+• crianças de zero a cinco anos.
+QUAIS AS CONSEQÜÊNCIAS DOS DISTÚRBIOS POR DEFICIÊNCIA DE
+IODO?
+• deficiência mental grave (cretinismo);
+• comprometimento do crescimento e do desenvolvimento (nanismo, dificuldades 
+na aprendizagem);
+• desenvolvimento do bócio;
+• abortos espontâneos, aumento do risco de morbidade e mortalidade, princi-
+palmente nos grupos de risco;
+• em uma população, a longo prazo, representa comprometimento da capacidade 
+para o trabalho e do desenvolvimento intelectual, reduzindo, portanto, a própria 
+qualidade de vida destes indivíduos e das gerações futuras.
+COMO SE PODE PREVENIR E TRATAR OS DDI?
+• orientando sobre a necessidade de consumo de sal iodado, prazo de validade, 
+suas formas de conservação e armazenamento;
+• encaminhando pessoas com suspeita de bócio aos serviços de saúde;
+• informando as autoridades locais sobre as graves conseqüências da deficiência 
+de iodo e a importância do uso do sal iodado.
+
+55
+carênciaS DE
+micronutrientes
+Referências
+1. MCLAREN, D. S.; FRIGG, M. Manual de ver y vivir sobre los transtornos por 
+deficiencia de vitamina A (VAD). [S.l.]: OPAS, 1999. p. 143.
+2. VUONG, L.T
+. Underutilized fl-carotene-rich crops of Vietnam. Food and Nu-
+trition Bulletin, [S.l.], v. 21, n. 2, p. 173-181, 2000.
+3. FUNDO DAS NAÇÕES UNIDAS PARA A INFÂNCIA. Unicef. Situação mundial 
+da infância. A nutrição em foco. [S.l.; s.n], 1998. 131 p.
+4. SOMMER A.; JRWEST
+, K. P
+. Vitamin A deficiency: health, survival and vision. 
+New York: Oxford University, 1996. In: DINIZ, A. S. Combate à deficiência. 
+de vitamina A: linhas de ação e perspectivas. Revista Brasileira Saúde Materno 
+Infantil, Recife, v. 1, n. 1, p. 31-36, jan.-abr., 2001.
+5. DINIZ, A. S. Combate à deficiência de vitamina A: linhas de ação e pers-
+pectivas. Revista Brasileira Saúde de Materno-Infantil, Recife, v. 1, n. 1, p. 31-36, 
+jan.-abr., 2001.
+6. COUTSOUDIS, A. The relationship between vitamin A deficiency and HIV 
+infection: Review of scientific studies. Food and Nutrition Bulletin, [S.l.], v. 22, n. 3, 
+p. 235-247, 2001.
+7. GIBSON, R. S. et al. Dietary strategies to combat deficiencies of iron, zinc and 
+vitamin A in developing countries: development, implementation, monitoring, and 
+evaluation. Food and Nutrition Bulletin, [S.l.], v. 21, n. 2, p. 219-231, 2000.
+8. WORLD HEALTH ORGANIZATION. Indicators for Assessing Vitamin A 
+Deficiency and their application in monitoring and evaluating intervention 
+programmes. Geneva: WHO, 1996. 66 p.
+9. DINIZ, A. S. D., SANTOS, L. M. P
+. Hipovitaminose A e xeroftalmia. Jornal de 
+Pediatria, [S.l.], v. 76, p. S311-S322, 2000. Supl. 3
+10. CHAKRAVARTY, I. Food-based strategies to control vitamin A deficiency. Food 
+and Nutrition Bulletin, [S.l.] , v. 21, n. 2, p. 135-143, 2000.
+11. NHATAN, R. Regulation of fortified foods to address micronutrient malnutrition: 
+legislation, regulations and enforcement. Canadá: The Micronutrient Initiative, 
+OMNI, 1994. 55 p.
+
+56
+Cadernos de 
+Atenção Básica
+12. LOFTI, M. et al. The Micronutrient Initiative (OMNI), International Agricultiral 
+Center. Micronutrient Fortification of Foods. Current practices, research and 
+opportunities. Canada: Micronutrient Fortification of Foods, 1996. 106 p.
+13. FUNDO DAS NAÇÕES UNIDAS PARA A INFÂNCIA (Unicef). The State 
+of the World’s Children 1998: A UNICEF Report Malnutrition: Causes, Con-
+sequences, and Solutions. Nutrition Reviews, [S.l.], v. 56, n. 4, p. 115-123, 1998.
+14. FREIRE, W. B. Strategies of the Pan American Health Organization/World Health 
+Organization for the Control of  Iron Deficiency in Latin America. Nutrition 
+Reviews, [S.l.], v. 55, n. 6, p. 183-188, 1997.
+15. DEMAEYER, E.; ADIELS-TEGMAN, M. The prevalence of anaemia in the 
+world. World Health Statistics Quartely, [S.l.], v. 38, p. 302-316, 1985.
+16. LOOKER, A. C. et al. Prevalence of iron deficiency in the United States. JAMA, 
+[S.l.], v. 277, n. 12, p. 973-976, 1997.
+17. VANUCCHI, H.; FREITAS, M. L. S.; SZARFARC, S. C. A prevalência de anemias 
+nutricionais no Brasil. Cadernos de Saúde Pública, [S.l.], v. 4, p. 7-26, 1992.
+18. SIGULEM, D. M. et al. Anemia ferropriva em crianças do município de São 
+Paulo. Revista de Saúde Pública, [S.l.], v. 12, n. 2, p. 168-178, 1978.
+19. MONTEIRO, C. A.; SZARFARC, S. C. Estudo das condições de saúde das 
+crianças no município de São Paulo, SP (BRASIL), 1984-985. V-Anemia. Revista de 
+Saúde Pública, [S.l.], v. 21, n. 3, p. 255-60, 1987.
+20. TORRES, M. A. A.; SATO, K.; QUEIROZ, S. S. Anemia em crianças menores de 
+dois anos atendidas nas Unidades Básicas de Saúde no Estado de São Paulo, Brasil. 
+Revista de Saúde Pública, [S.l.], v. 28, n. 4, p. 290-4, 1994.
+21. WORLD HEALTH ORGANIZATION (WHO). Iron deficiency Anaemia. Assessment, 
+Prevention and Control. A guide programme managers. Geneva: WHO, 2001.
+22. De ANGELIS, R. C., CTENAS, M. L. B. Biodisponibilidade de ferro na alimentação 
+infantil. Temas de Pediatria, [S.l.], v. 52, 1993.
+23. LATHAM, M. Policy implications of the effects of health and nutrition on child 
+development. In: Pan American Health Organization. Nutrition, Health, 
+and Child Development. Research Advances and Policy Recommendations. Scientific 
+Publication, Washington, n. 566, p. 225-233, 1998.
+
+57
+carênciaS DE
+micronutrientes
+24. POLLITT
+, E. et al. Iron deficiency and behavioral development in infants and 
+preschool children. American Journal of Clinical Nutrition, [S.l.], v. 43, p, 555-65, 1986.
+25. RIVERA, F
+.; WALTER, T
+. Efecto de la anemia ferropriva en el lactante sobre el 
+desarrollo psicológico del escolar. Jornal de Pediatria, [S.l.] v. 73, Supl. 1, p. S49-
+S54, 1997.
+26. ALLEN, L. H. Anemia and iron deficiency: effects on pregnancy outcome. 
+American Journal Clinical Nutrition, [S.l.], v. 71, p. 1280S-1284S, 2000.
+27. VITERI, F
+.E. The consequences of iron deficiency and anaemia in pregnancy on 
+maternal health the foetus and the infant. Administrative Committee on Coordination 
+Sub-committee on Nutrition News, [S.l.], n. 11, p. 14-18, 1994.
+28. SIGULEM, D. M. et al. Anemia nutricional e parasitose intestinal em menores 
+de cinco anos. Revista Paulista de Medicina, [S.l.], v. 103, n. 6, p. 308-12, 1985.
+29. ADMINISTRATIVE COMMITTEE ON COORDINATION. SUB COMMITTE 
+ON NUTRITION (ACC/SCN). Symposium report Nutrition Policy paper, n. 16. 
+Nutrition and Poverty, Geneva, 1997, p. 103.
+30. ALLEN, L. H., AHLUWALIA, N. Improving Iron Status Through Diet. The 
+application of knowledge concerning dietary iron bioavailability in human popu-
+lations. [S.l.]: Opportunities for micronutrient interventions (OMNI), 1997. 83 p.
+31. PAIVA, A. A.; RONDO, P
+. H. C.; GUERRA-SHINOHARA, E. M. Parâmetros 
+para avaliação do estado nutricional de ferro. Revista de Saúde Pública, [S.l.], v. 34, 
+n. 4, p. 421-6, 2000.
+32. DALLMAN, P
+. R.; YIP
+, R. H. In: Ziegler, E. E., Filer, Jr. (Ed.) Conocimientos 
+Actuales sobre Nutrición. 7. ed. Washington: OPAS/OMS: ILST
+, 1997.
+33. ORGANIZACIÓN MUNDIAL DE LA SALUD.  Anemias nutricionales. Ginebra: 
+OMS, 1968. (Série de Informes Técnicos, 405).
+34. UNITED NATION CHILDREN’S FUND (Unicef). World Health Organization 
+Preventing iron deficiency in women and children. Thechnical Consensus on Key 
+Issues. 1998, 59 p.
+35. OPPORTUNITIES FOR MICRONUTRIENT INTERVENTIONS (OMNI). U.S. 
+Agency for International Development (Usaid). Anemia Detection Methods in 
+Low-Resource Settings: A Manual For Health Workers. Washington, 1997, 51 p.
+
+58
+Cadernos de 
+Atenção Básica
+36. VITIERI, F
+. E. Iron Supplementation for the control of iron deficiency in popu-
+lation at risk. Nutrition Reviews, [S.l.], v. 55, n. 6, p. 195-209, 1997. 
+37. BATISTA FILHO, M.; FERREIRA, L.O.C. Prevenção e tratamento da anemia 
+nutricional ferropriva: novos enfoques e perspectivas. Cadernos de Saúde Pública, 
+[S.l.], v. 12, n. 3, p. 411-415, 1996.
+38 - MICRONUTRIENT SUPPLEMENTATION THROUGHOUT THE LIFE 
+CYCLE. Report of a workshop held by the Ministry of Health, Brazil and Unicef. 
+ Unicef: Rio de Janeiro, 1999.
+39. SOUZA, A. I. et al. The effectiveness of three regimens using ferrous sulfate to 
+treat anemia in pregnant women. Revista Panamericana Salud Publica, Washington, 
+v.15, n. 5, May 2004. 
+40. FOOD AND NUTRITION PROGRAM. Pan American Health Organization. 
+Iron Fortification: Guidelines and recommendations for Latin America and the 
+Caribbean (Draft) 2001.
+41. International Council for the Control of Iodine Deficiency 
+Disorders, 2007. Disponível em: http:// www.ICCIDD.org
+42. FUNDO DAS NAÇÕES UNIDAS PARA A INFÂNCIA (Unicef). Situação 
+Mundial da Infância. Brasil: Unicef, 1995. 89 p.
+43. WORLD HEALTH ORGANIZATION. Indicators for assessing Iodine Deficiency 
+Disorders and their control through salt iodization. Micronutrient Series.
+Document. Geneva: WHO, 1994. 55 p.
+44. HETZEL, B. S.; PANDAV
+, C. S. S.O.S. for a Biliion. The conquest of Iodine-
+Deficiency Disorders. Delhi: [s.n.], 1994.
+45. STANBURY, J. B.; HETZEL, B. S. Endemic Goiter and Endemic Cretinism.
+[S.l.]: Wlley Medical Publication, 1980.
+46. WORLD HEALTH ORGANIZATION. Diet, Nutrition and the prevention on 
+chronic diseases: report of a joint WHO/FAO expert consultation. Geneva: WHO, 
+2003a. (WHO T
+echnical Report Series, 916). Disponível em: http://www.who.int/
+hpr/>. Acesso em: 22/09/2004.
+47. BRASIL. Ministério da Saúde. Manual de combate aos distúrbios por deficiência de 
+iodo no Brasil. Brasília: Ministério da Saúde, 1996. 34 p.
+
+59
+carênciaS DE
+micronutrientes
+48. MEDEIROS NETO, G.; KNOBEL, M. Tireóide. In: Wajchenberg, B. L. 
+Tratado de Endocrinologia Clinica. São Paulo: Roca, 1992.
+49. DUNN, T
+. J.; VAN DER HARR, F
+. A Practical Guide to the Correction of Iodine 
+Deficiency. [S.l.]: International Council for Control of Iodine Deficiency Disorders, 
+1990. 62 p. (Thecnical Manual, n. 3)
+50. National Research Council (NRC). Diet and Health.Implications for 
+reducing chronic disease risk. Washington, D.C: National Academy Press, 1989.
+51. UNITED NATION CHILDREN’S FUND (Unicef). Monitoring Universal Salt 
+Iodization Programmes. [S.l.]: Unicef, 1995. 101 p.
+52. HOUSTON, R. et al. Assessing Country Progress in Universal Salt Iodization 
+Programs. Iodized Salt Program Assessment Tool (ISPAT). Ottawa: OMNI, 1999. 51 p.
+53. SILVEIRA, N.V
+. et. al. Estabilidade do teor de iodo no sal após tempo de prateleira 
+e cocção. Revista Instituto Adolfo Lutz, [S.l.], v. 52(½), p. 41-5, 1993.
+54. BRASIL. Ministério da Saúde. Departamento de Políticas de Alimentação e 
+Nutrição. Secretaria de Políticas de Saúde. A Importância da iodação do sal para o 
+Controle do Bócio Endêmico no Brasil. Brasília: Ministério da Saúde, 2000. 14 p. 
+Mimeografado
+55. Esteves, R. Z.; Maciel, R. M. B. Urinary Iodine in 16.803. Brazilian 
+Schoolchildren. Urinary Iodine Excretion, 1997. DisponÌvel em: http://www.lats.
+org/TESE1.HTM. 
+56. UNITED NATION CHILDREN’S FUND-UNICEF
+. OMNI. Salt Iodization 
+Programmes: Strengthening Monitoring for success. [S.l.]: Unicef, 1999. 87 p.
+
+ATENÇÃO: 
+Conheça outros materiais de apoio para a promoção da estratégia de educação 
+alimentar e nutricional, como: “10 passos para uma alimentação saudável” e “
+Alimentos 
+regionais brasileiros”, que estão disponíveis no site da Coordenação-Geral da Política de 
+Alimentação e Nutrição (CGPAN) – <http://www.saude.gov.br/nutricao>.
+
