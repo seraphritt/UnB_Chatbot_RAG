@@ -79,19 +79,19 @@ llm = Ollama(model="llama3.1:latest", temperature=0.1)
 embed = LangchainEmbeddingsWrapper(FastEmbedEmbeddings(model_name='intfloat/multilingual-e5-large'))
 # List of PDF files to be processed
 pdf_files = [
-    "docs/caderno_34",
-    "docs/cadernos_de_atencao_basica_no_13_canceres_do_colo_do_utero_e_da_mamapdf",
-    "docs/cadernos_de_atencao_basica_no_19_envelhecimento_e_saude_da_pessoa_idosapdf",
-    "docs/cadernos_de_atencao_basica_no_20_carencias_de_micronutrientespdf",
-    "docs/cadernos_de_atencao_basica_no_23_saude_da_crianca_aleitamento_materno_e_alimentacao_complementarpdf",
-    "docs/cadernos_de_atencao_basica_no_29_rastreamentopdf",
-    "docs/cadernos_de_atencao_basica_no_32_atencao_ao_pre_natal_de_baixo_riscopdf",
-    "docs/cadernos_de_atencao_basica_no_33_saude_da_crianca_crescimento_e_desenvolvimentopdf",
-    "docs/cadernos_de_atencao_basica_no_35_estrategias_para_o_cuidado_da_pessoa_com_doenca_cronicapdf",
-    "docs/cadernos_de_atencao_basica_no_36_estrategias_para_o_cuidado_da_pessoa_com_doenca_cronica_diabetes_mellituspdf",
-    "docs/cadernos_de_atencao_basica_no_37_estrategias_para_cuidado_da_pessoa_com_doenca_cronica_hipertensao_arterial_sistemicapdf",
-    "docs/cadernos_de_atencao_basica_no_38_estrategias_para_cuidado_da_pessoa_com_doenca_obesidadepdf",
-    "docs/cadernos_de_atencao_basica_no_40_estrategias_para_o_cuidado_da_pessoa_com_doenca_cronica_o_cuidado_da_pessoa_tabagistapdf"
+    "docs/caderno_34" + ".pdf",
+    "docs/cadernos_de_atencao_basica_no_13_canceres_do_colo_do_utero_e_da_mamapdf"  + ".pdf",
+    "docs/cadernos_de_atencao_basica_no_19_envelhecimento_e_saude_da_pessoa_idosapdf"  + ".pdf",
+    "docs/cadernos_de_atencao_basica_no_20_carencias_de_micronutrientespdf"  + ".pdf",
+    "docs/cadernos_de_atencao_basica_no_23_saude_da_crianca_aleitamento_materno_e_alimentacao_complementarpdf"  + ".pdf",
+    "docs/cadernos_de_atencao_basica_no_29_rastreamentopdf" + ".pdf",
+    "docs/cadernos_de_atencao_basica_no_32_atencao_ao_pre_natal_de_baixo_riscopdf" + ".pdf",
+    "docs/cadernos_de_atencao_basica_no_33_saude_da_crianca_crescimento_e_desenvolvimentopdf" + ".pdf",
+    "docs/cadernos_de_atencao_basica_no_35_estrategias_para_o_cuidado_da_pessoa_com_doenca_cronicapdf" + ".pdf",
+    "docs/cadernos_de_atencao_basica_no_36_estrategias_para_o_cuidado_da_pessoa_com_doenca_cronica_diabetes_mellituspdf" + ".pdf",
+    "docs/cadernos_de_atencao_basica_no_37_estrategias_para_cuidado_da_pessoa_com_doenca_cronica_hipertensao_arterial_sistemicapdf" + ".pdf",
+    "docs/cadernos_de_atencao_basica_no_38_estrategias_para_cuidado_da_pessoa_com_doenca_obesidadepdf" + ".pdf",
+    "docs/cadernos_de_atencao_basica_no_40_estrategias_para_o_cuidado_da_pessoa_com_doenca_cronica_o_cuidado_da_pessoa_tabagistapdf" + ".pdf"
 ]
 # Sou calouro, preciso fazer matrícula?
 # Loading and splitting the documents from multiple PDF files
