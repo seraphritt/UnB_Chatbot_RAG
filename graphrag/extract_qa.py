@@ -6,7 +6,7 @@ class qaExtractor:
         self.filename_answer = filename_answer
         self.filename_question = filename_question
 
-    def get_answers(self):
+    def get_first(self):
         self._answer = []
         with open(self.filename_answer, "r") as respostas:
             for line in respostas:
@@ -14,7 +14,7 @@ class qaExtractor:
                     self._answer.append(line.strip())
         return self._answer
 
-    def get_questions(self):
+    def get_second(self):
         self._question = []
         with open(self.filename_question, "r") as respostas:
             for line in respostas:

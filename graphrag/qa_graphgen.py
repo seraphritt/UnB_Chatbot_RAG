@@ -1,15 +1,5 @@
 import extract_qa
 import pandas as pd
-
-df = pd.read_csv('resultRagasEval.csv')
-# print(df.keys)
-with open('ground_truth.txt', 'w') as file:
-    for each in df['reference']:
-        file.write(f'{each[1:-1]}\n\n')
-# qa = extract_qa.qaExtractor("ground_truth.txt", "perguntas.txt")
-# questions = qa.get_questions()
-# ground_truth = qa.get_answers()
-
 import os
 import logging
 from lightrag import LightRAG, QueryParam
@@ -17,7 +7,8 @@ from lightrag.llm import ollama_model_complete, ollama_embedding
 from lightrag.utils import EmbeddingFunc
 import time
 import shutil
-
+import re
+import json
 start_time = time.time()
 WORKING_DIR = os.getcwd()
 # example: /home/user/graphrag
@@ -27,11 +18,12 @@ logging.basicConfig(format="%(levelname)s:%(message)s", level=logging.INFO)
 
 if not os.path.exists(WORKING_DIR):
     os.mkdir(WORKING_DIR)
+model_name = "qwen2.5:latest"
 # start_time = time.time()
 rag = LightRAG(
     working_dir=WORKING_DIR,
     llm_model_func=ollama_model_complete,
-    llm_model_name="qwen2.5:latest",
+    llm_model_name=model_name,
     llm_model_max_async=4,
     llm_model_max_token_size=32768,
     llm_model_kwargs={"host": "http://localhost:11434", "options": {"num_ctx": 32768}},
@@ -45,15 +37,26 @@ rag = LightRAG(
 
     addon_params={"language": "English"}
 )
+qa = extract_qa.qaExtractor("perguntas.txt", "ground_truth.txt")
+dicio = {}
+ground_truth = qa.get_second()
+perguntas = qa.get_first()
+count = 0
+for pergunta in perguntas:
+    resposta = rag.query(f"Responda em Português: {pergunta}", param=QueryParam(mode="local"))
+    result = rag.query(f"Responda em Português: {pergunta}", param=QueryParam(mode="local", only_need_context=True))
+    split_text = result.split('-----Sources-----')
+    if len(split_text) > 1:
+        csv_content = split_text[1].strip()
+        csv_content = csv_content[6:-3]
 
-start_time = time.time()
-print(
-    rag.query("Responda em Português: A partir de quando a gestante deve procurar o serviço de saúde para suplementação de ferro?", param=QueryParam(mode="local"))
-)
-print(
-    rag.query("Responda em Português: Quem é Vanessa Oliveira e qual é a sua relação com Diego Madureira no contexto da Universidade de Brasília?", param=QueryParam(mode="local", only_need_context=True))
-)
-end_time = time.time()
-execution_time_seconds = end_time - start_time
-execution_time_minutes = execution_time_seconds / 60
-print(f"Execution time: {execution_time_minutes} minutes")
+    with open("context.csv", "w") as file:
+        file.write(csv_content)
+    df = pd.read_csv('context.csv')
+    contexto = df['content'][0]
+    file_name = "qa.json"
+    dicio.update({count : [{"question" : pergunta, "answer" : resposta, "context": contexto, "ground_truth": ground_truth[count]}]})
+    count += 1
+with open(file_name, "w", encoding="utf-8") as json_file:
+    json.dump(dicio, json_file, indent=4, ensure_ascii=False)
+print(f"JSON data has been saved to {file_name}")
