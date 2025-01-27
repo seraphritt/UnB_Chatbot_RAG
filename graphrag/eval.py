@@ -31,10 +31,10 @@ file_name = "qa.json"
 with open(file_name, "r", encoding="utf-8") as json_file:
     data = json.load(json_file)
 
-questions = [data[str(x)][0]["question"] for x in range(312)]
-answers = [data[str(x)][0]["answer"] for x in range(312)]
-ground_truths = [data[str(x)][0]["ground_truth"] for x in range(312)]
-contexts = [[data[str(x)][0]["context"]] for x in range(312)]
+questions = [data[str(x)][0]["question"] for x in range(311)]
+answers = [data[str(x)][0]["answer"] for x in range(311)]
+ground_truths = [data[str(x)][0]["ground_truth"] for x in range(311)]
+contexts = [[data[str(x)][0]["context"]] for x in range(311)]
 data_samples = {
     "question": questions,
     "answer":  answers,
