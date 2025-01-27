@@ -78,7 +78,7 @@ for model in models:
     csv_file_name = f"evaluation_results_GRAPH_{model_name}.csv"
     df.to_csv(csv_file_name, index=False, encoding='utf-8')
     print(df.keys())
-    categories = ['context_precision', 'answer_relevancy', 'context_recall', 'faithfulness', 'answer_similarity', 'context_entity_recall', 'answer_correctness']
+    categories = ['context_precision', 'answer_relevancy', 'context_recall', 'faithfulness', 'semantic_similarity', 'context_entity_recall', 'answer_correctness']
     data = [df[category].dropna() for category in categories]  # Drop NaN 
     plt.figure(figsize=(15, 6))
     plt.boxplot(data, vert=True, patch_artist=True, tick_labels=['Context Precision', 'Answer Relevancy', 'Context Recall', 
