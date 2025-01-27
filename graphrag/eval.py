@@ -27,7 +27,7 @@ def load_embedding_model(model_path, normalize_embedding=True):
             'normalize_embeddings': normalize_embedding
         }
     )
-file_name = "qa_graph.json"
+file_name = "qa.json"
 with open(file_name, "r", encoding="utf-8") as json_file:
     data = json.load(json_file)
 
@@ -42,7 +42,7 @@ data_samples = {
     "ground_truth": ground_truths,
 }
 
-models = ["llama3.1:latest"]
+models = ["qwen2.5:latest"]
 for model in models:
     # file_name = f"qa_{model}.json"
     # with open(file_name, "r", encoding="utf-8") as json_file:
@@ -76,7 +76,7 @@ for model in models:
     print(result)
     df = result.to_pandas()
     print(df)
-    csv_file_name = f"evaluation_results_{model_name}.csv"
+    csv_file_name = f"evaluation_results_GRAPH_{model_name}.csv"
     df.to_csv(csv_file_name, index=False, encoding='utf-8')
     categories = ['context_precision', 'answer_relevancy', 'context_recall', 'faithfulness', 'answer_similarity', 'context_entity_recall', 'answer_correctness']
     data = [df[category].dropna() for category in categories]  # Drop NaN 

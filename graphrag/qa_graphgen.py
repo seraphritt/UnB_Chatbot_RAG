@@ -43,20 +43,25 @@ ground_truth = qa.get_second()
 perguntas = qa.get_first()
 count = 0
 for pergunta in perguntas:
-    resposta = rag.query(f"Responda em Português: {pergunta}", param=QueryParam(mode="local"))
-    result = rag.query(f"Responda em Português: {pergunta}", param=QueryParam(mode="local", only_need_context=True))
-    split_text = result.split('-----Sources-----')
-    if len(split_text) > 1:
-        csv_content = split_text[1].strip()
-        csv_content = csv_content[6:-3]
-
-    with open("context.csv", "w") as file:
-        file.write(csv_content)
-    df = pd.read_csv('context.csv')
-    contexto = df['content'][0]
-    file_name = "qa.json"
-    dicio.update({count : [{"question" : pergunta, "answer" : resposta, "context": contexto, "ground_truth": ground_truth[count]}]})
-    count += 1
+    try:
+        resposta = rag.query(f"Responda em Português: {pergunta}", param=QueryParam(mode="local"))
+        result = rag.query(f"Responda em Português: {pergunta}", param=QueryParam(mode="local", only_need_context=True))
+        if result:
+            split_text = result.split('-----Sources-----')
+            if len(split_text) > 1:
+                csv_content = split_text[1].strip()
+                csv_content = csv_content[6:-3]
+            with open("context.csv", "w") as file:
+                file.write(csv_content)
+            df = pd.read_csv('context.csv')
+            contexto = df['content'][0]
+        else:
+            contexto = "no context"
+        file_name = "qa.json"
+        dicio.update({count : [{"question" : pergunta, "answer" : resposta, "context": contexto, "ground_truth": ground_truth[count]}]})
+        count += 1
+    except:
+        continue
 with open(file_name, "w", encoding="utf-8") as json_file:
     json.dump(dicio, json_file, indent=4, ensure_ascii=False)
 print(f"JSON data has been saved to {file_name}")
