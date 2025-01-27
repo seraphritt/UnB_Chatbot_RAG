@@ -31,10 +31,10 @@ file_name = "qa.json"
 with open(file_name, "r", encoding="utf-8") as json_file:
     data = json.load(json_file)
 
-questions = [data[str(x)][0]["question"] for x in range(100)]
-answers = [data[str(x)][0]["answer"] for x in range(100)]
-ground_truths = [data[str(x)][0]["ground_truth"] for x in range(100)]
-contexts = [[data[str(x)][0]["context"]] for x in range(100)]
+questions = [data[str(x)][0]["question"] for x in range(1)]
+answers = [data[str(x)][0]["answer"] for x in range(1)]
+ground_truths = [data[str(x)][0]["ground_truth"] for x in range(1)]
+contexts = [[data[str(x)][0]["context"]] for x in range(1)]
 data_samples = {
     "question": questions,
     "answer":  answers,
@@ -75,9 +75,9 @@ for model in models:
 
     print(result)
     df = result.to_pandas()
-    print(df)
     csv_file_name = f"evaluation_results_GRAPH_{model_name}.csv"
     df.to_csv(csv_file_name, index=False, encoding='utf-8')
+    print(df.keys())
     categories = ['context_precision', 'answer_relevancy', 'context_recall', 'faithfulness', 'answer_similarity', 'context_entity_recall', 'answer_correctness']
     data = [df[category].dropna() for category in categories]  # Drop NaN 
     plt.figure(figsize=(15, 6))
