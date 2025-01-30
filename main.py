@@ -77,6 +77,7 @@ llm = Ollama(model="llama3.1:latest", temperature=0.1)
 embed = LangchainEmbeddingsWrapper(FastEmbedEmbeddings(model_name='intfloat/multilingual-e5-large'))
 # List of PDF files to be processed
 pdf_files = ["docs/" + x for x in os.listdir("docs") if os.path.isfile("docs/" + x)]
+print(len(pdf_files))
 # Sou calouro, preciso fazer matrícula?
 # Loading and splitting the documents from multiple PDF files
 docs = load_pdf_data(file_paths=pdf_files)
