@@ -76,7 +76,7 @@ for model in models:
     print(result)
     df = result.to_pandas()
     print(df)
-    csv_file_name = f"evaluation_results_{model_name}.csv"
+    csv_file_name = f"evaluation_results_saude{model_name}.csv"
     df.to_csv(csv_file_name, index=False, encoding='utf-8')
     categories = ['context_precision', 'answer_relevancy', 'context_recall', 'faithfulness', 'answer_similarity', 'context_entity_recall', 'answer_correctness']
     print(df.keys())
@@ -88,8 +88,8 @@ for model in models:
     plt.ylabel('Valores')
     plt.title(f'Distribução das Métricas (RAGAS) no modelo {model_name}')
 
-    with PdfPages(f'boxplot_graph_{model_name}.pdf') as pdf:
+    with PdfPages(f'boxplot_graph_saude{model_name}.pdf') as pdf:
         pdf.savefig()
         plt.close()
-    print(f"Documento evaluation_results_{model_name}.csv e boxplot (boxplot_graph_{model_name}_teste.pdf) criados")
+    print(f"Documento evaluation_results_saude{model_name}.csv e boxplot (boxplot_graph_saude{model_name}_teste.pdf) criados")
 
