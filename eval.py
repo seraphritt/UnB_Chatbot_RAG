@@ -78,7 +78,7 @@ for model in models:
     print(df)
     csv_file_name = f"evaluation_results_saude{model_name}.csv"
     df.to_csv(csv_file_name, index=False, encoding='utf-8')
-    categories = ['context_precision', 'answer_relevancy', 'context_recall', 'faithfulness', 'answer_similarity', 'context_entity_recall', 'answer_correctness']
+    categories = ['context_precision', 'answer_relevancy', 'context_recall', 'faithfulness', 'semantic_similarity', 'context_entity_recall', 'answer_correctness']
     print(df.keys())
     data = [df[category].dropna() for category in categories]  # Drop NaN 
     plt.figure(figsize=(15, 6))
