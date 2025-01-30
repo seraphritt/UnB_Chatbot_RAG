@@ -43,7 +43,7 @@ def create_embeddings(chunks, embedding_model, storing_path="vectorstore"):
     return vectorstore
 
 def load_vectorstore(storing_path="vectorstore", embedding_model=None):
-    vectorstore = FAISS.load_local(storing_path, embeddings=embedding_model)
+    vectorstore = FAISS.load_local(storing_path, embeddings=embedding_model, allow_dangerous_deserialization=True)
     return vectorstore
 
 template = """
