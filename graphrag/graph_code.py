@@ -10,7 +10,7 @@ start_time = time.time()
 WORKING_DIR = os.getcwd()
 # example: /home/user/graphrag
 # use pwd command
-
+start_time = time.time()
 logging.basicConfig(format="%(levelname)s:%(message)s", level=logging.INFO)
 
 if not os.path.exists(WORKING_DIR):
@@ -19,7 +19,7 @@ if not os.path.exists(WORKING_DIR):
 rag = LightRAG(
     working_dir=WORKING_DIR,
     llm_model_func=ollama_model_complete,
-    llm_model_name="qwen2.5:latest",
+    llm_model_name="gemma2:latest",
     llm_model_max_async=4,
     llm_model_max_token_size=32768,
     llm_model_kwargs={"host": "http://localhost:11434", "options": {"num_ctx": 32768}},
@@ -61,17 +61,16 @@ while os.listdir("docs"):
         insert_texts_with_retry(rag, texts)
 
 # Perform naive search
-start_time = time.time()
-print(
-    rag.query("Responda em Português: A partir de quando a gestante deve procurar o serviço de saúde para suplementação de ferro?", param=QueryParam(mode="local"))
-)
+# print(
+#     rag.query("Responda em Português: A partir de quando a gestante deve procurar o serviço de saúde para suplementação de ferro?", param=QueryParam(mode="local"))
+# )
 
-# print(
-#     rag.query("Answer in Portuguese: Who is Vanessa Oliveira and what is her relation with Diego Madureira in the context of Universidade de Brasília?", param=QueryParam(mode="naive", only_need_context=True))
-# )
-# print(
-#     rag.query("Responda em Portuguẽs: Quem é Vanessa Oliveira e qual é a sua relação com Diego Madureira no contexto da Universidade de Brasília?", param=QueryParam(mode="hybrid", only_need_context=True))
-# )
+# # print(
+# #     rag.query("Answer in Portuguese: Who is Vanessa Oliveira and what is her relation with Diego Madureira in the context of Universidade de Brasília?", param=QueryParam(mode="naive", only_need_context=True))
+# # )
+# # print(
+# #     rag.query("Responda em Portuguẽs: Quem é Vanessa Oliveira e qual é a sua relação com Diego Madureira no contexto da Universidade de Brasília?", param=QueryParam(mode="hybrid", only_need_context=True))
+# # )
 end_time = time.time()
 execution_time_seconds = end_time - start_time
 execution_time_minutes = execution_time_seconds / 60

@@ -1056,3 +1056,29 @@
 2025-01-26 23:06:39,465 - lightrag - INFO - Local query uses 60 entites, 56 relations, 3 text units
 2025-01-26 23:06:41,895 - lightrag - INFO - Local query uses 60 entites, 53 relations, 3 text units
 2025-01-26 23:07:06,322 - lightrag - INFO - Local query uses 60 entites, 53 relations, 3 text units
+2025-01-26 23:16:40,028 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2025-01-26 23:16:40,028 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-26 23:16:40,029 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-26 23:16:40,029 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-26 23:17:32,222 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2025-01-26 23:17:32,222 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-26 23:17:32,222 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-26 23:17:32,222 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-26 23:17:32,226 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-26 23:17:32,825 - lightrag - INFO - [New Chunks] inserting 95 chunks
+2025-01-26 23:17:32,825 - lightrag - INFO - Inserting 95 vectors to chunks
+2025-01-26 23:18:12,779 - lightrag - INFO - [Entity Extraction]...
+2025-01-28 13:17:59,723 - lightrag - INFO - Inserting 855 vectors to entities
+2025-01-28 13:22:33,940 - lightrag - INFO - Inserting 142 vectors to relationships
+2025-01-28 13:23:19,031 - lightrag - INFO - Writing graph with 901 nodes, 142 edges
+2025-01-28 13:23:19,053 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-28 13:23:19,124 - lightrag - INFO - [New Chunks] inserting 73 chunks
+2025-01-28 13:23:19,124 - lightrag - INFO - Inserting 73 vectors to chunks
+2025-01-28 13:23:48,641 - lightrag - INFO - [Entity Extraction]...
+2025-01-29 19:30:06,337 - lightrag - INFO - Inserting 588 vectors to entities
+2025-01-29 19:33:18,262 - lightrag - INFO - Inserting 171 vectors to relationships
+2025-01-29 19:34:13,266 - lightrag - INFO - Writing graph with 1522 nodes, 310 edges
+2025-01-29 19:34:13,305 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-29 19:34:13,365 - lightrag - INFO - [New Chunks] inserting 62 chunks
+2025-01-29 19:34:13,365 - lightrag - INFO - Inserting 62 vectors to chunks
+2025-01-29 19:34:38,335 - lightrag - INFO - [Entity Extraction]...
