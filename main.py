@@ -11,7 +11,7 @@ from langchain_community.embeddings import FastEmbedEmbeddings
 import matplotlib.pyplot as plt
 import extract_qa
 from langchain.document_loaders import PyMuPDFLoader
-
+import os
 def load_pdf_data(file_paths):
     all_docs = []
     for file_path in file_paths:
@@ -45,8 +45,6 @@ def load_embedding_model(model_path, normalize_embedding=True):
 def create_embeddings(chunks, embedding_model, storing_path="vectorstore"):
     vectorstore = FAISS.from_documents(chunks, embedding_model)
     vectorstore.save_local(storing_path)
-    print("Tamanho da Vector Store")
-    print(vectorstore.index.ntotal)
     return vectorstore
 
 
@@ -78,7 +76,7 @@ def get_response(retriever, query, template, llm):
 llm = Ollama(model="llama3.1:latest", temperature=0.1)
 embed = LangchainEmbeddingsWrapper(FastEmbedEmbeddings(model_name='intfloat/multilingual-e5-large'))
 # List of PDF files to be processed
-pdf_files = ["docs/manual_dos_estudantes_22.pdf", "docs/check_list_calouro.pdf", "docs/manual_estagio_curricular_obrigatorio_discentes.pdf", "docs/manual_estagio_nao_obrigatorio_discentes.pdf"]
+pdf_files = ["docs/" + x for x in os.listdir("docs") if os.path.isfile("docs/" + x)]
 # Sou calouro, preciso fazer matrícula?
 # Loading and splitting the documents from multiple PDF files
 docs = load_pdf_data(file_paths=pdf_files)
