@@ -37,20 +37,19 @@ def load_embedding_model(model_path, normalize_embedding=True):
         }
     )
 
-def create_embeddings(chunks, embedding_model, storing_path="vectorstore"):
+def create_embeddings(chunks, embedding_model, storing_path="vectorstore_saude"):
     vectorstore = FAISS.from_documents(chunks, embedding_model)
     vectorstore.save_local(storing_path)
     return vectorstore
 
-def load_vectorstore(storing_path="vectorstore", embedding_model=None):
+def load_vectorstore(storing_path="vectorstore_saude", embedding_model=None):
     vectorstore = FAISS.load_local(storing_path, embeddings=embedding_model, allow_dangerous_deserialization=True)
     return vectorstore
 
 template = """
 ### System:
-You are a respectful and honest health assistant specialized to answer ONLY about medicine and health subjects, don't use greetings or saudations. Elaborate your answer with details. \
+You are a respectful and honest health assistant specialized to answer about medicine and health subjects, don't use greetings or saudations. Elaborate your answer with details. \
 All your answers from now on must be in Portuguese. \
-If the question is not related to the medicine field, you cannot answer. \
 Only use the given context to develop your answer. \
 Given the following context, answer the following User Question: \
 
@@ -81,7 +80,7 @@ print(len(pdf_files))
 docs = load_pdf_data(file_paths=pdf_files)
 documents = split_docs(documents=docs)
 # Creating vectorstore
-# vectorstore = create_embeddings(documents, embed)
+vectorstore = create_embeddings(documents, embed)
 vectorstore = load_vectorstore(embedding_model=embed)
 qa = extract_qa.qaExtractor("ground_truth_saude.txt", "perguntas_saude.txt")
 questions = qa.get_questions()
