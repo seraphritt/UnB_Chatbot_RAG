@@ -80,7 +80,7 @@ print(len(pdf_files))
 docs = load_pdf_data(file_paths=pdf_files)
 documents = split_docs(documents=docs)
 # Creating vectorstore
-vectorstore = create_embeddings(documents, embed)
+# vectorstore = create_embeddings(documents, embed)
 vectorstore = load_vectorstore(embedding_model=embed)
 qa = extract_qa.qaExtractor("ground_truth_saude.txt", "perguntas_saude.txt")
 questions = qa.get_questions()
