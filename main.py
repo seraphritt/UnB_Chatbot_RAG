@@ -70,7 +70,7 @@ def get_response(retriever, query, template, llm):
     # print("RESPOSTA")
     return [llm.invoke(template.format(context=context, question=query)), context]
 
-llm = Ollama(model="mistral:latest", temperature=0.1)
+llm = Ollama(model="gemma2:latest", temperature=0.1)
 embed = LangchainEmbeddingsWrapper(FastEmbedEmbeddings(model_name='intfloat/multilingual-e5-large'))
 # List of PDF files to be processed
 pdf_files = ["docs/" + x for x in os.listdir("docs") if os.path.isfile("docs/" + x)]
