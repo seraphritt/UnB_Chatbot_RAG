@@ -37,7 +37,7 @@ rag = LightRAG(
 
     addon_params={"language": "English"}
 )
-qa = extract_qa.qaExtractor("perguntas.txt", "ground_truth.txt")
+qa = extract_qa.qaExtractor("perguntas_saude.txt", "ground_truth_saude.txt")
 dicio = {}
 ground_truth = qa.get_second()
 perguntas = qa.get_first()
