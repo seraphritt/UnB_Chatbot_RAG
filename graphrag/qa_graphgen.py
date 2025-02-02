@@ -42,8 +42,9 @@ dicio = {}
 ground_truth = qa.get_second()
 perguntas = qa.get_first()
 count = 0
-for pergunta in perguntas[:150]:
+for pergunta in perguntas[:100]:
     try:
+        print(count)
         resposta = rag.query(f"Responda em Português: {pergunta}", param=QueryParam(mode="local"))
         result = rag.query(f"Responda em Português: {pergunta}", param=QueryParam(mode="local", only_need_context=True))
         if result:
