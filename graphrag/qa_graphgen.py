@@ -41,8 +41,8 @@ qa = extract_qa.qaExtractor("perguntas_saude.txt", "ground_truth_saude.txt")
 dicio = {}
 ground_truth = qa.get_second()
 perguntas = qa.get_first()
-count = 0
-for pergunta in perguntas[:95]:
+count = 91
+for pergunta in perguntas[95:190]:
     try:
         print(count)
         resposta = rag.query(f"Responda em Português: {pergunta}", param=QueryParam(mode="local"))
