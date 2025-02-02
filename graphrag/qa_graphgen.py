@@ -41,7 +41,7 @@ qa = extract_qa.qaExtractor("perguntas_saude.txt", "ground_truth_saude.txt")
 dicio = {}
 ground_truth = qa.get_second()
 perguntas = qa.get_first()
-count = 91
+count = 0
 for pergunta in perguntas:
     try:
         print(count)
