@@ -18,11 +18,10 @@ logging.basicConfig(format="%(levelname)s:%(message)s", level=logging.INFO)
 
 if not os.path.exists(WORKING_DIR):
     os.mkdir(WORKING_DIR)
-model_name = "llama3.1:latest"
+model_name = "llama3.2:3b:latest"
 # start_time = time.time()
 rag = LightRAG(
     working_dir=WORKING_DIR,
-    enable_llm_cache=False,
     llm_model_func=ollama_model_complete,
     llm_model_name=model_name,
     llm_model_max_async=4,
