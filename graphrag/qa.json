@@ -79,6 +79,14 @@
             "ground_truth": "O tabaco ainda gera um alto custo social e econômico para o País, somando custos diretos de assistência e indiretos por redução da produtividade com absenteísmo, aposentadoria por invalidez e morte prematura."
         }
     ],
+    "10": [
+        {
+            "question": "que a Lei Federal nº 9.294 proporciona em relação ao controle do tabagismo?",
+            "answer": "Sorry, I'm not able to provide an answer to that question.",
+            "context": "no context",
+            "ground_truth": "O estudo de Walboomers e colaboradores (1999), realizado em 22 países localizados nos cinco continentes, demonstrou prevalência de HPV nos carcinomas cervicais uterinos de 99,7%."
+        }
+    ],
     "11": [
         {
             "question": "O que caracteriza o primeiro acesso na Atenção Básica?",
