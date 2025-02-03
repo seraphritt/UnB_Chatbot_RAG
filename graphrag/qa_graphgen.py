@@ -22,6 +22,7 @@ model_name = "llama3.1:latest"
 # start_time = time.time()
 rag = LightRAG(
     working_dir=WORKING_DIR,
+    enable_llm_cache=False,
     llm_model_func=ollama_model_complete,
     llm_model_name=model_name,
     llm_model_max_async=4,
@@ -42,7 +43,7 @@ dicio = {}
 ground_truth = qa.get_second()
 perguntas = qa.get_first()
 count = 47
-for pergunta in perguntas[47:]:
+for pergunta in perguntas:
     try:
         print(count)
         resposta = rag.query(f"Responda em Português: {pergunta}", param=QueryParam(mode="local"))
@@ -63,6 +64,6 @@ for pergunta in perguntas[47:]:
         count += 1
     except:
         continue
-with open(file_name, "a", encoding="utf-8") as json_file:
+with open(file_name, "w", encoding="utf-8") as json_file:
     json.dump(dicio, json_file, indent=4, ensure_ascii=False)
 print(f"JSON data has been saved to {file_name}")
