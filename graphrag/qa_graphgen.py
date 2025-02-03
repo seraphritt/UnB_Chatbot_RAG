@@ -63,6 +63,6 @@ for pergunta in perguntas[47:]:
         count += 1
     except:
         continue
-with open(file_name, "w", encoding="utf-8") as json_file:
+with open(file_name, "a", encoding="utf-8") as json_file:
     json.dump(dicio, json_file, indent=4, ensure_ascii=False)
 print(f"JSON data has been saved to {file_name}")
