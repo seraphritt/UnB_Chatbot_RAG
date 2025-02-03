@@ -43,7 +43,7 @@ ground_truth = qa.get_second()
 perguntas = qa.get_first()
 print(len(ground_truth))
 print(len(perguntas))
-for i in len(perguntas):
+for i in range(len(perguntas)):
     try:
         resposta = rag.query(f"Responda em Português: {perguntas[i]}", param=QueryParam(mode="local"))
         result = rag.query(f"Responda em Português: {perguntas[i]}", param=QueryParam(mode="local", only_need_context=True))
