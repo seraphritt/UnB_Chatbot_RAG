@@ -511,7 +511,7 @@
             "ground_truth": "O sr. João Adamastor, 75 anos, é viúvo, apresenta hipertensão arterial de difícil controle, tem dificuldade de deambular devido à gonartrose bilateral..."
         }
     ]
-}{
+,
     "71": [
         {
             "question": "Quais são os principais fatores de risco comuns às doenças crônicas?",
@@ -680,7 +680,7 @@
             "ground_truth": "Este Caderno de Atenção Básica está inserido nesta proposta como uma das ofertas que objetivam apoiar as equipes de atenção básica no processo de qualificação do cuidado"
         }
     ]
-}{
+,
     "92": [
         {
             "question": "Que condições devem ser avaliadas na anamnese do recém-nascido?",
