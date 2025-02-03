@@ -41,12 +41,12 @@ qa = extract_qa.qaExtractor("perguntas_saude.txt", "ground_truth_saude.txt")
 dicio = {}
 ground_truth = qa.get_second()
 perguntas = qa.get_first()
-count = 0
-for pergunta in perguntas:
+print(len(ground_truth))
+print(len(perguntas))
+for i in len(perguntas):
     try:
-        print(count)
-        resposta = rag.query(f"Responda em Português: {pergunta}", param=QueryParam(mode="local"))
-        result = rag.query(f"Responda em Português: {pergunta}", param=QueryParam(mode="local", only_need_context=True))
+        resposta = rag.query(f"Responda em Português: {perguntas[i]}", param=QueryParam(mode="local"))
+        result = rag.query(f"Responda em Português: {perguntas[i]}", param=QueryParam(mode="local", only_need_context=True))
         if result:
             split_text = result.split('-----Sources-----')
             if len(split_text) > 1:
@@ -59,10 +59,9 @@ for pergunta in perguntas:
         else:
             contexto = "no context"
         file_name = "qa.json"
-        dicio.update({count : [{"question" : pergunta, "answer" : resposta, "context": contexto, "ground_truth": ground_truth[count]}]})
+        dicio.update({i : [{"question" : perguntas[i], "answer" : resposta, "context": contexto, "ground_truth": ground_truth[i]}]})
     except:
         continue
-    count += 1
 with open(file_name, "w", encoding="utf-8") as json_file:
     json.dump(dicio, json_file, indent=4, ensure_ascii=False)
 print(f"JSON data has been saved to {file_name}")
