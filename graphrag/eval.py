@@ -42,7 +42,7 @@ data_samples = {
     "ground_truth": ground_truths,
 }
 
-models = ["llama3.1:latest"]
+models = ["llama3.2:3b:latest"]
 for model in models:
     # file_name = f"qa_{model}.json"
     # with open(file_name, "r", encoding="utf-8") as json_file:
