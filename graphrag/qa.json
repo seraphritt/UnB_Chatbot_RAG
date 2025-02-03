@@ -1346,7 +1346,7 @@
             "ground_truth": "Mesmo nos países com rastreamento mamográfico e boa cobertura, mais de 40% dos cânceres são identificados inicialmente como massa palpável..."
         }
     ]
-}{
+,
     "183": [
         {
             "question": "Qual a finalidade da inspeção estática durante o ECM?",
