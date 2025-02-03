@@ -60,9 +60,9 @@ for pergunta in perguntas:
             contexto = "no context"
         file_name = "qa.json"
         dicio.update({count : [{"question" : pergunta, "answer" : resposta, "context": contexto, "ground_truth": ground_truth[count]}]})
-        count += 1
     except:
         continue
+    count += 1
 with open(file_name, "w", encoding="utf-8") as json_file:
     json.dump(dicio, json_file, indent=4, ensure_ascii=False)
 print(f"JSON data has been saved to {file_name}")
