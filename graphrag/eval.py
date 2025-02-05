@@ -79,7 +79,7 @@ for model in models:
     #     "ground_truth": ground_truths,
     # }
     model_name = model
-    llm = LangChainLLMWrapper(Ollama(model=model_name, temperature=0.1))
+    llm = LangchainLLMWrapper(Ollama(model=model_name, temperature=0.1))
     embed = LangchainEmbeddingsWrapper(FastEmbedEmbeddings(model_name='intfloat/multilingual-e5-large'))
     run_config = ragas.RunConfig(timeout=180, max_retries=10, max_wait=60)
     dataset = Dataset.from_dict(data_samples)
