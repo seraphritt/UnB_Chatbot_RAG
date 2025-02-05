@@ -18,7 +18,7 @@ logging.basicConfig(format="%(levelname)s:%(message)s", level=logging.INFO)
 
 if not os.path.exists(WORKING_DIR):
     os.mkdir(WORKING_DIR)
-model_name = "llama3.1:latest"
+model_name = "gemma2:latest"
 # start_time = time.time()
 rag = LightRAG(
     working_dir=WORKING_DIR,
