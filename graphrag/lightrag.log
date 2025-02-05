@@ -1703,3 +1703,73 @@
 2025-02-03 16:06:17,858 - lightrag - INFO - Local query uses 60 entites, 32 relations, 3 text units
 2025-02-03 16:06:19,784 - lightrag - INFO - Local query uses 60 entites, 33 relations, 3 text units
 2025-02-03 16:06:42,526 - lightrag - INFO - Local query uses 60 entites, 33 relations, 3 text units
+2025-02-05 12:37:56,928 - lightrag - INFO - Logger initialized for working directory: /home/UnB_Chatbot_RAG/graphrag
+2025-02-05 12:37:56,930 - lightrag - INFO - Load KV llm_response_cache with 342 data
+2025-02-05 12:37:56,933 - lightrag - INFO - Load KV full_docs with 2 data
+2025-02-05 12:37:56,936 - lightrag - INFO - Load KV text_chunks with 168 data
+2025-02-05 12:37:56,953 - lightrag - INFO - Loaded graph from /home/UnB_Chatbot_RAG/graphrag/graph_chunk_entity_relation.graphml with 1522 nodes, 310 edges
+2025-02-05 12:38:29,322 - lightrag - INFO - Logger initialized for working directory: /home/UnB_Chatbot_RAG/graphrag
+2025-02-05 12:38:29,325 - lightrag - INFO - Load KV llm_response_cache with 342 data
+2025-02-05 12:38:29,327 - lightrag - INFO - Load KV full_docs with 2 data
+2025-02-05 12:38:29,330 - lightrag - INFO - Load KV text_chunks with 168 data
+2025-02-05 12:38:29,347 - lightrag - INFO - Loaded graph from /home/UnB_Chatbot_RAG/graphrag/graph_chunk_entity_relation.graphml with 1522 nodes, 310 edges
+2025-02-05 12:38:43,226 - lightrag - INFO - Local query uses 60 entites, 5 relations, 3 text units
+2025-02-05 12:39:07,015 - lightrag - INFO - Local query uses 60 entites, 4 relations, 3 text units
+2025-02-05 12:39:57,496 - lightrag - INFO - Local query uses 60 entites, 4 relations, 3 text units
+2025-02-05 12:40:20,712 - lightrag - INFO - Local query uses 60 entites, 8 relations, 3 text units
+2025-02-05 12:41:26,499 - lightrag - INFO - Local query uses 60 entites, 8 relations, 3 text units
+2025-02-05 12:41:40,675 - lightrag - INFO - Local query uses 60 entites, 7 relations, 3 text units
+2025-02-05 12:42:37,857 - lightrag - INFO - Local query uses 60 entites, 7 relations, 3 text units
+2025-02-05 12:43:00,757 - lightrag - INFO - Local query uses 60 entites, 13 relations, 3 text units
+2025-02-05 12:43:40,504 - lightrag - INFO - Local query uses 60 entites, 13 relations, 3 text units
+2025-02-05 12:44:03,797 - lightrag - INFO - Local query uses 60 entites, 7 relations, 3 text units
+2025-02-05 12:44:44,932 - lightrag - INFO - Local query uses 60 entites, 7 relations, 3 text units
+2025-02-05 12:45:08,740 - lightrag - INFO - Local query uses 60 entites, 10 relations, 3 text units
+2025-02-05 12:46:05,418 - lightrag - INFO - Local query uses 60 entites, 10 relations, 3 text units
+2025-02-05 12:46:30,749 - lightrag - INFO - Local query uses 60 entites, 12 relations, 3 text units
+2025-02-05 12:47:31,075 - lightrag - INFO - Local query uses 60 entites, 12 relations, 3 text units
+2025-02-05 12:47:52,449 - lightrag - INFO - Local query uses 60 entites, 12 relations, 3 text units
+2025-02-05 12:48:16,587 - lightrag - INFO - Local query uses 60 entites, 12 relations, 3 text units
+2025-02-05 12:48:35,655 - lightrag - INFO - Local query uses 60 entites, 12 relations, 3 text units
+2025-02-05 12:49:43,903 - lightrag - INFO - Local query uses 60 entites, 12 relations, 3 text units
+2025-02-05 12:50:10,746 - lightrag - INFO - Local query uses 60 entites, 12 relations, 3 text units
+2025-02-05 12:50:59,150 - lightrag - INFO - Local query uses 60 entites, 12 relations, 3 text units
+2025-02-05 12:51:19,912 - lightrag - INFO - Local query uses 60 entites, 10 relations, 3 text units
+2025-02-05 12:51:34,148 - lightrag - INFO - Local query uses 60 entites, 34 relations, 3 text units
+2025-02-05 12:52:14,705 - lightrag - INFO - Local query uses 60 entites, 11 relations, 3 text units
+2025-02-05 12:52:39,152 - lightrag - INFO - Local query uses 60 entites, 11 relations, 3 text units
+2025-02-05 12:52:57,244 - lightrag - INFO - Local query uses 60 entites, 8 relations, 3 text units
+2025-02-05 12:53:48,087 - lightrag - INFO - Local query uses 60 entites, 8 relations, 3 text units
+2025-02-05 12:54:16,543 - lightrag - INFO - Local query uses 60 entites, 7 relations, 3 text units
+2025-02-05 12:55:16,810 - lightrag - INFO - Local query uses 60 entites, 7 relations, 3 text units
+2025-02-05 12:55:56,505 - lightrag - INFO - Local query uses 60 entites, 9 relations, 3 text units
+2025-02-05 12:56:49,482 - lightrag - INFO - Local query uses 60 entites, 9 relations, 3 text units
+2025-02-05 12:57:04,353 - lightrag - INFO - Local query uses 60 entites, 14 relations, 3 text units
+2025-02-05 12:57:28,370 - lightrag - INFO - Local query uses 60 entites, 14 relations, 3 text units
+2025-02-05 12:57:52,961 - lightrag - INFO - Local query uses 60 entites, 5 relations, 3 text units
+2025-02-05 12:58:11,879 - lightrag - INFO - Local query uses 60 entites, 7 relations, 3 text units
+2025-02-05 12:58:38,333 - lightrag - INFO - Local query uses 60 entites, 7 relations, 3 text units
+2025-02-05 12:59:02,096 - lightrag - INFO - Local query uses 60 entites, 11 relations, 3 text units
+2025-02-05 12:59:53,327 - lightrag - INFO - Local query uses 60 entites, 11 relations, 3 text units
+2025-02-05 13:00:12,571 - lightrag - INFO - Local query uses 60 entites, 29 relations, 3 text units
+2025-02-05 13:00:40,170 - lightrag - INFO - Local query uses 60 entites, 29 relations, 3 text units
+2025-02-05 13:00:57,709 - lightrag - INFO - Local query uses 60 entites, 12 relations, 3 text units
+2025-02-05 13:01:42,545 - lightrag - INFO - Local query uses 60 entites, 12 relations, 3 text units
+2025-02-05 13:02:08,922 - lightrag - INFO - Local query uses 60 entites, 30 relations, 3 text units
+2025-02-05 13:03:14,355 - lightrag - INFO - Local query uses 60 entites, 30 relations, 3 text units
+2025-02-05 13:03:28,393 - lightrag - INFO - Local query uses 60 entites, 10 relations, 3 text units
+2025-02-05 13:04:29,283 - lightrag - INFO - Local query uses 60 entites, 10 relations, 3 text units
+2025-02-05 13:04:43,796 - lightrag - INFO - Local query uses 60 entites, 10 relations, 3 text units
+2025-02-05 13:05:59,934 - lightrag - INFO - Local query uses 60 entites, 10 relations, 3 text units
+2025-02-05 13:06:21,791 - lightrag - INFO - Local query uses 60 entites, 17 relations, 3 text units
+2025-02-05 13:07:02,381 - lightrag - INFO - Local query uses 60 entites, 17 relations, 3 text units
+2025-02-05 13:07:21,779 - lightrag - INFO - Local query uses 60 entites, 9 relations, 3 text units
+2025-02-05 13:07:55,537 - lightrag - INFO - Local query uses 60 entites, 9 relations, 3 text units
+2025-02-05 13:08:10,049 - lightrag - INFO - Local query uses 60 entites, 11 relations, 3 text units
+2025-02-05 13:08:58,063 - lightrag - INFO - Local query uses 60 entites, 11 relations, 3 text units
+2025-02-05 13:09:17,583 - lightrag - INFO - Local query uses 60 entites, 14 relations, 3 text units
+2025-02-05 13:09:45,272 - lightrag - INFO - Local query uses 60 entites, 14 relations, 3 text units
+2025-02-05 13:10:08,838 - lightrag - INFO - Local query uses 60 entites, 11 relations, 3 text units
+2025-02-05 13:10:49,989 - lightrag - INFO - Local query uses 60 entites, 11 relations, 3 text units
+2025-02-05 13:11:14,271 - lightrag - INFO - Local query uses 60 entites, 14 relations, 3 text units
+2025-02-05 13:11:42,361 - lightrag - INFO - Local query uses 60 entites, 14 relations, 3 text units
