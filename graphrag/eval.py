@@ -81,7 +81,7 @@ for model in models:
     model_name = model
     llm = LangchainLLMWrapper(Ollama(model=model_name, temperature=0.1))
     embed = LangchainEmbeddingsWrapper(FastEmbedEmbeddings(model_name='intfloat/multilingual-e5-large'))
-    run_config = ragas.RunConfig(timeout=30, max_retries=10, max_wait=60)
+    run_config = ragas.RunConfig(timeout=100, max_retries=10, max_wait=60)
     dataset = Dataset.from_dict(data_samples)
     result = evaluate(llm=llm, embeddings=embed, dataset=dataset, metrics=[
             context_precision,
