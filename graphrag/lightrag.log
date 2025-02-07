@@ -2643,3 +2643,13 @@
 2025-02-07 02:13:10,947 - lightrag - INFO - Local query uses 23 entites, 37 relations, 3 text units
 2025-02-07 02:13:43,592 - lightrag - INFO - Local query uses 60 entites, 62 relations, 3 text units
 2025-02-07 02:14:28,084 - lightrag - INFO - Local query uses 60 entites, 62 relations, 3 text units
+2025-02-07 11:07:08,177 - lightrag - INFO - Logger initialized for working directory: /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag
+2025-02-07 11:07:08,179 - lightrag - INFO - Load KV llm_response_cache with 293 data
+2025-02-07 11:07:08,180 - lightrag - INFO - Load KV full_docs with 1 data
+2025-02-07 11:07:08,180 - lightrag - INFO - Load KV text_chunks with 25 data
+2025-02-07 11:07:08,186 - lightrag - INFO - Loaded graph from /home/isaquesantos/tg1-isaque/chatbot_git/tcc/graphrag/graph_chunk_entity_relation.graphml with 207 nodes, 81 edges
+2025-02-07 11:07:56,197 - lightrag - INFO - Local query uses 60 entites, 52 relations, 3 text units
+2025-02-07 11:08:20,967 - lightrag - INFO - Local query uses 60 entites, 52 relations, 3 text units
+2025-02-07 11:08:28,549 - lightrag - INFO - Local query uses 46 entites, 56 relations, 3 text units
+2025-02-07 11:08:58,689 - lightrag - INFO - Local query uses 46 entites, 56 relations, 3 text units
+2025-02-07 11:09:08,548 - lightrag - INFO - Local query uses 41 entites, 46 relations, 3 text units
