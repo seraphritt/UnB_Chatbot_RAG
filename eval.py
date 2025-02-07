@@ -16,6 +16,7 @@ from ragas.metrics import (
 )
 import pandas as pd
 import matplotlib.pyplot as plt
+from ragas.llms import LangchainLLMWrapper
 from ragas.embeddings import LangchainEmbeddingsWrapper
 from langchain_community.embeddings import FastEmbedEmbeddings
 
@@ -58,9 +59,9 @@ for model in models:
     #     "ground_truth": ground_truths,
     # }
     model_name = model
-    llm = Ollama(model=model_name, temperature=0.1)
+    llm = LangchainLLMWrapper(Ollama(model=model_name, temperature=0.1))
     embed = LangchainEmbeddingsWrapper(FastEmbedEmbeddings(model_name='intfloat/multilingual-e5-large'))
-    run_config = ragas.RunConfig(timeout=180, max_retries=10, max_wait=60)
+    run_config = ragas.RunConfig(timeout=100, max_retries=10, max_wait=60)
     dataset = Dataset.from_dict(data_samples)
     result = evaluate(llm=llm, embeddings=embed, dataset=dataset, metrics=[
             context_precision,

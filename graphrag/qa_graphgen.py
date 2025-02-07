@@ -18,7 +18,7 @@ logging.basicConfig(format="%(levelname)s:%(message)s", level=logging.INFO)
 
 if not os.path.exists(WORKING_DIR):
     os.mkdir(WORKING_DIR)
-model_name = "llama3.1:latest"
+model_name = "gemma2:latest"
 # start_time = time.time()
 rag = LightRAG(
     working_dir=WORKING_DIR,
@@ -41,7 +41,7 @@ qa = extract_qa.qaExtractor("perguntas_saude.txt", "ground_truth_saude.txt")
 dicio = {}
 ground_truth = qa.get_second()
 perguntas = qa.get_first()
-for i in range(279, len(perguntas)):
+for i in range(196, len(perguntas)):
     try:
         resposta = rag.query(f"Responda em Português: {perguntas[i]}", param=QueryParam(mode="local"))
         result = rag.query(f"Responda em Português: {perguntas[i]}", param=QueryParam(mode="local", only_need_context=True))
