@@ -2,17 +2,17 @@ import extract_qa
 import pandas as pd
 from langchain.llms import Ollama
 
-qa = extract_qa.qaExtractor("perguntas_unb.txt", "ground_truth_unb.txt")
+qa = extract_qa.qaExtractor("perguntas_unb.txt", "")
 queries = qa.get_first()
 model1 = pd.read_csv('evaluation_results_saudeqwen2.5:latest.csv')
 model2 = pd.read_csv('evaluation_results_GRAPH_qwen2.5:latest.csv')
-llm = Ollama(model="gemma2:latest", temperature=0.1)
+llm = Ollama(model="llama3.1:8b-instruct-q4_K_M", temperature=0.1)
 answers1_vectorstore = model1['response']
 answers2_graph = model2['response']
 for i, (query, answer1, answer2) in enumerate(zip(queries, answers1_vectorstore, answers2_graph)):
     sys_prompt = """
     ---Role---
-    You are an expert tasked with evaluating two answers to the same question based on three criteria: **Comprehensiveness**, **Diversity**, and **Empowerment**.
+    You are an expert tasked with evaluating two answers in Portuguese to the same question in Portuguese based on three criteria: **Comprehensiveness**, **Diversity**, and **Empowerment**.
     """
 
     prompt = f"""
@@ -54,4 +54,7 @@ for i, (query, answer1, answer2) in enumerate(zip(queries, answers1_vectorstore,
         }}
     }}
     """
-    
+    print(sys_prompt)
+    print(prompt)
+    print(llm.invoke(sys_prompt + prompt))
+    break
