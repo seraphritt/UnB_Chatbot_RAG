@@ -3,9 +3,9 @@ import pandas as pd
 from langchain.llms import Ollama
 import re
 import json
-qa = extract_qa.qaExtractor("perguntas_saude.txt", "")
+qa = extract_qa.qaExtractor("perguntas_unb.txt", "")
 queries = qa.get_first()
-model1 = pd.read_csv('evaluation_results_saudeqwen2.5:latest.csv')
+model1 = pd.read_csv('evaluation_results_qwen2.5:latest.csv')
 model2 = pd.read_csv('evaluation_results_GRAPH_qwen2.5:latest.csv')
 llm = Ollama(model="llama3.1:8b-instruct-q4_K_M", temperature=0.1)
 answers1_vectorstore = model1['response']
