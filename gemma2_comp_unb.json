@@ -1,0 +1,1798 @@
+[
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece alguma informação sobre o que a FAU pode representar, embora seja uma explicação muito vaga. A resposta 1 não oferece nenhuma informação útil."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva sobre o que a FAU pode ser, embora seja muito superficial. A resposta 1 não oferece nenhuma perspectiva ou insight."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda um pouco a entender o que a FAU pode representar, embora seja uma explicação muito limitada. A resposta 1 não ajuda em nada a entender o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque oferece alguma informação e perspectiva sobre o que a FAU pode ser, embora seja muito superficial. Ela ajuda um pouco a entender o assunto, mas não de forma satisfatória."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais informações sobre o IL, incluindo a lista de componentes e a referência ao manual da Universidade de São Paulo. Isso mostra que a resposta 2 é mais completa e abrangente em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre o IL, incluindo a referência ao manual da Universidade de São Paulo. Isso mostra que a resposta 2 é mais variada e rica em termos de informações."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor o IL, fornecendo informações sobre os componentes e a referência ao manual da Universidade de São Paulo. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor em todos os critérios avaliados (Compreensividade, Diversidade e Empoderamento). Isso ocorre porque ela fornece mais informações completas sobre o IL, apresenta diferentes perspectivas e ajuda o leitor a entender melhor o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma definição clara e concisa do IdA, explicando sua fórmula e como é calculado. Isso mostra que a resposta 1 aborda todos os aspectos importantes do IdA, tornando-a mais completa em termos de compreensão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações sobre o IdA e a vida acadêmica na UnB. Ela inclui um link para uma tabela de conteúdo, sugerindo que há mais informações disponíveis, e também menciona processos universitários específicos da UnB. Isso mostra que a resposta 2 é mais rica em termos de diferentes perspectivas e insights sobre o IdA."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor o conceito do IdA, explicando como ele é calculado e quais são os componentes considerados. Isso permite que o leitor faça julgamentos informados sobre o IdA e sua importância na vida acadêmica."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "Embora a resposta 1 seja mais completa em termos de compreensão do IdA, a resposta 2 é mais rica em termos de diferentes perspectivas e insights sobre o IdA. Além disso, ela ajuda o leitor a entender melhor o contexto universitário da UnB, tornando-a mais empoderante para o leitor."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma definição mais concisa e direta das unidades acadêmicas, limitando-se à descrição de faculdades e institutos que compõem a Universidade de Brasília. Embora seja um pouco vaga, ela ainda consegue fornecer uma ideia geral do conceito. A resposta 2, por outro lado, é mais detalhada, mas inclui informações desnecessárias sobre a localização da universidade e programas específicos oferecidos."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais ampla das unidades acadêmicas, incluindo exemplos de áreas de estudo como Direito. Isso mostra que a resposta está disposta a fornecer diferentes perspectivas e insights sobre o conceito. A resposta 1, por outro lado, se limita a uma definição muito geral."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor as unidades acadêmicas fornecendo exemplos específicos de áreas de estudo e programas oferecidos. Isso permite que o leitor faça julgamentos mais informados sobre o conceito. A resposta 1, embora seja concisa, não fornece informações suficientes para que o leitor possa fazer julgamentos informados."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua capacidade de fornecer uma visão mais ampla e detalhada das unidades acadêmicas, além de ajudar o leitor a entender melhor o conceito. Embora seja um pouco longa, ela oferece informações valiosas que permitem ao leitor fazer julgamentos informados."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre as responsabilidades do coordenador de curso, como gerenciar demandas de graduação e orientações específicas. Isso mostra que a resposta 1 é mais completa e abrangente em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 não fornece nenhuma informação sobre o coordenador de curso, mas isso permite que o leitor busque informações adicionais e diferentes perspectivas sobre o assunto. Isso mostra que a resposta 2 é mais variada e rica em termos de diferentes pontos de vista."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor as responsabilidades do coordenador de curso, fornecendo informações claras e precisas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor em termos de compreensividade, empowerment e, embora não seja a mais variada, sua abordagem clara e precisa permite que o leitor faça julgamentos informados sobre o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma definição clara e concisa da SAA, enquanto a resposta 2 se limita a fornecer informações sobre o SIGAA e não aborda diretamente a pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações, incluindo a possibilidade de encontrar mais detalhes sobre o SIGAA e o processo de estágio, enquanto a resposta 1 se limita a fornecer apenas uma definição."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como encontrar informações adicionais sobre o SIGAA e o processo de estágio, tornando-o mais empoderado para tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "Embora a resposta 1 seja mais concisa em termos de definição, a resposta 2 apresenta uma variedade de informações e ajuda o leitor a se sentir mais empoderado para tomar decisões informadas. Por isso, é considerada a resposta mais completa e útil."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre como encontrar relevantes informações sobre a UnB, o que é uma resposta mais completa em relação à pergunta feita. A resposta 1 não oferece nenhuma informação útil ou relevante para a pergunta."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre como encontrar informações relevantes, o que é uma característica importante de uma boa resposta. A resposta 1 não oferece nenhuma variedade ou riqueza em termos de perspectivas."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como encontrar informações relevantes e a tomar decisões informadas sobre o assunto, o que é um objetivo importante de uma boa resposta. A resposta 1 não oferece nenhuma ajuda ou orientação para o leitor."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora em todos os critérios, pois fornece mais detalhes e informações completas (Compreensividade), apresenta diferentes perspectivas e insights (Diversidade) e ajuda o leitor a entender melhor o assunto (Empoderamento)."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma definição clara e concisa das disciplinas obrigatórias, especificando que são componentes curriculares que devem ser cursados por todos os estudantes de um determinado curso. Isso mostra que a resposta 1 aborda o conceito de forma completa e precisa."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2, embora seja muito curta, oferece uma perspectiva diferente da resposta 1. Embora não forneça muitos detalhes, ela ainda apresenta um ponto de vista sobre o assunto."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda a entender melhor o conceito de disciplinas obrigatórias e como eles são integrados ao currículo. Isso permite que os leitores façam julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor por apresentar uma definição clara e completa das disciplinas obrigatórias, além de ajudar os leitores a entender melhor o conceito. Embora a resposta 2 ofereça uma perspectiva diferente, ela não fornece muitos detalhes e não ajuda tanto quanto a resposta 1 em termos de empowerment."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre as disciplinas optativas, incluindo a possibilidade de escolha e o limite de horas estabelecido pelo curso. Isso mostra que ela abrange melhor todos os aspectos da pergunta."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 oferece uma visão mais variada das disciplinas optativas, destacando a possibilidade de diversificar conhecimentos e explorar áreas de interesse. Isso mostra que ela é mais rica em perspectivas e insights."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor as disciplinas optativas, fornecendo informações claras sobre como elas podem ser escolhidas e integradas ao plano de estudos. Isso mostra que ela é mais eficaz em empoderar o leitor para tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral porque apresenta uma abordagem mais completa, diversificada e empoderadora das disciplinas optativas. Ela fornece informações claras e relevantes que permitem ao leitor entender melhor o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma descrição mais detalhada e precisa das disciplinas de módulo livre, incluindo a informação de que elas são oferecidas por outros cursos da UnB e não estão listadas na estrutura curricular do curso em questão. Isso mostra que a resposta 1 aborda todos os aspectos relevantes da pergunta."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta uma visão mais ampla e variada das disciplinas de módulo livre, incluindo a possibilidade de escolha de disciplinas além das obrigatórias. Isso mostra que a resposta 1 é mais rica em termos de perspectivas e insights."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor as disciplinas de módulo livre, incluindo como elas podem ser escolhidas e integradas ao currículo. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral devido à sua excelência em todos os critérios avaliados. Ela fornece uma descrição detalhada e precisa das disciplinas de módulo livre, apresenta uma visão variada e rica do assunto e ajuda o leitor a entender melhor o tema."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações sobre a falta de conhecimento do sistema de créditos da Universidade de Brasília, o que é uma abordagem direta e honesta. Embora não seja uma resposta completa ou detalhada, ela é mais precisa do que a resposta 2, que é vazia."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta uma perspectiva única de que o sistema de créditos não está disponível ou não foi fornecido. A resposta 2 não oferece nenhuma perspectiva ou insight, apenas um campo vazio."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender que não há informações disponíveis sobre o sistema de créditos da Universidade de Brasília. Isso permite ao leitor tomar uma decisão informada ou buscar mais informações. A resposta 2 não fornece nenhuma informação útil e não ajuda o leitor a tomar uma decisão."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção porque apresenta uma abordagem direta e honesta, oferece uma perspectiva única e ajuda o leitor a tomar uma decisão informada. Embora não seja perfeita, ela é mais útil do que a resposta 2."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma definição clara e concisa das disciplinas equivalentes, incluindo exemplos de como a equivalência pode ocorrer entre componentes ou grupos de componentes. Além disso, ela destaca as implicações da aprovação em uma disciplina equivalente para o estudante. A resposta 2 não fornece nenhuma informação relevante sobre o tema."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta diferentes perspectivas sobre as disciplinas equivalentes, incluindo a possibilidade de equivalência entre componentes ou grupos de componentes e a aproveitamento da aprovação em uma disciplina equivalente. A resposta 2 não oferece nenhuma variedade ou riqueza em termos de perspectivas."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor as disciplinas equivalentes e como elas podem ser utilizadas para benefício do estudante. Ela também fornece informações práticas sobre como a aprovação em uma disciplina equivalente pode ser aproveitada. A resposta 2 não oferece nenhuma informação útil ou empoderadora."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção devido à sua abordagem completa e detalhada das disciplinas equivalentes, incluindo exemplos práticos e informações úteis para o estudante. Ela também apresenta diferentes perspectivas e ajuda o leitor a entender melhor o tema."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma descrição detalhada e completa sobre o trancamento da matrícula, incluindo as modalidades principais (TGM e Trancamento Parcial de Matrícula) e suas submodalidades. Além disso, ela explica os requisitos e limitações para cada tipo de trancamento, fornecendo uma visão clara e completa do assunto."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta diferentes perspectivas sobre o trancamento da matrícula, incluindo as modalidades principais e suas submodalidades. Isso permite que o leitor tenha uma visão mais ampla do assunto e entenda melhor como funciona o sistema de trancamento na UnB."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender e tomar decisões informadas sobre o trancamento da matrícula, fornecendo informações claras e precisas sobre os requisitos e limitações para cada tipo de trancamento. Isso permite que o leitor faça escolhas conscientes e planeje suas atividades acadêmicas com mais eficácia."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral devido à sua excelência em todos os critérios. Ela fornece uma descrição completa e detalhada do trancamento da matrícula, apresenta diferentes perspectivas e ajuda o leitor a tomar decisões informadas. Isso a torna a resposta mais útil e eficaz para o leitor."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o trancamento geral da matrícula, incluindo a definição do TGM e as condições para fazer o trancamento. Além disso, ela menciona a existência de dois tipos de trancamento: automático e justificado. Isso mostra que a resposta 1 é mais completa e abrangente em relação à questão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais ampla do trancamento geral da matrícula, incluindo as implicações para os estudantes e a importância de entender o conceito. Além disso, ela menciona a possibilidade de o TGM ser usado como uma ferramenta para lidar com questões pessoais ou acadêmicas. Isso mostra que a resposta 2 é mais variada e rica em termos de perspectivas e insights."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor o conceito de trancamento geral da matrícula, fornecendo informações claras e precisas sobre as condições para fazer o trancamento. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor em termos de compreensão geral, pois fornece mais detalhes e informações precisas sobre o trancamento geral da matrícula. Além disso, ela ajuda o leitor a entender melhor o conceito, tornando-a uma ferramenta útil para quem busca informações sobre o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma lista detalhada das menções e seus respectivos intervalos percentuais, o que é mais completo do que a resposta 1. Além disso, a resposta 2 explica melhor como as menções refletem diferentes níveis de aprendizado e são utilizadas em vez de notas numéricas."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade maior de informações, incluindo a explicação sobre como as menções refletem diferentes níveis de aprendizado e são utilizadas em vez de notas numéricas. Isso mostra que a resposta 2 fornece perspectivas mais ricas e variadas do que a resposta 1."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como as menções são utilizadas para avaliar o desempenho dos estudantes, além de explicar como elas refletem diferentes níveis de aprendizado. Isso permite que o leitor faça julgamentos mais informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral porque fornece uma lista detalhada das menções, apresenta perspectivas mais ricas e variadas e ajuda o leitor a entender melhor como as menções são utilizadas para avaliar o desempenho dos estudantes. Isso a torna a resposta mais completa e empoderadora do que a resposta 1."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o critério de aprovação da UnB, mencionando a importância da aprovação em disciplinas que somem o mínimo de créditos por semestre definido para o curso e a possibilidade de um plano de estudo elaborado por um professor. Isso mostra uma compreensão mais completa do processo de aprovação."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre o critério de aprovação da UnB, incluindo a possibilidade de um plano de estudo e a importância da aprovação em disciplinas. Isso mostra uma riqueza de informações e diferentes pontos de vista."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor o processo de aprovação da UnB, fornecendo informações claras sobre os critérios importantes. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção devido à sua compreensão mais completa do processo de aprovação da UnB, apresentação de diferentes perspectivas e capacidade de empoderar o leitor com informações claras."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes sobre o processo de revisão da menção, incluindo informações sobre os prazos estabelecidos no calendário acadêmico e a importância de consultar o departamento ou coordenador do curso para obter informações detalhadas. Além disso, ela também menciona que o sistema de avaliação da UnB categoriza o desempenho acadêmico dos estudantes em categorias específicas."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre a revisão da menção, incluindo a necessidade de consultar o departamento ou coordenador do curso para obter informações detalhadas e a importância de buscar informações no documento 'Manual para estudantes de graduação da Universidade de Brasília (UnB)'. Isso mostra que a resposta 2 é mais variada e rica em termos de perspectivas."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações claras e diretas sobre o processo de revisão da menção, incluindo a necessidade de preencher o formulário de revisão de menção e anexar documentos relevantes. Isso ajuda o leitor a entender melhor como solicitar a revisão da menção e a tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre a possibilidade de concessão de créditos em língua estrangeira, incluindo a equivalência entre certificados ou diplomas obtidos e disciplinas oferecidas pelo departamento de Línguas Estrangeiras e Tradução do Instituto de Letras da UnB. Além disso, ela menciona a possibilidade de realização de exame de proficiência para aproveitamento de créditos de língua estrangeira."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma abordagem mais variada e rica, pois não se limita a apenas uma forma de concessão de créditos. Ela também não fornece informações específicas sobre a equivalência entre certificados ou diplomas obtidos e disciplinas oferecidas pelo departamento de Línguas Estrangeiras e Tradução do Instituto de Letras da UnB, o que pode ser considerado uma vantagem em termos de diversidade."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda a entender melhor como os créditos podem ser concedidos e como os estudantes podem aproveitar essa possibilidade. Ela fornece informações específicas sobre as disciplinas oferecidas pelo departamento de Línguas Estrangeiras e Tradução do Instituto de Letras da UnB, o que pode ajudar os leitores a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor em termos de compreensão e empowerment. Ela fornece mais detalhes sobre a possibilidade de concessão de créditos em língua estrangeira e ajuda os leitores a entender melhor como aproveitar essa possibilidade."
+        }
+    },
+    {
+        "Compreensividade": {
+            "Vencedor": "Resposta 1",
+            "Explicação": "A resposta 1 fornece uma definição clara e concisa do risco de desligamento, mencionando exemplos específicos de situações que levam a esse risco."
+        },
+        "Diversidade": {
+            "Vencedor": "Resposta 1",
+            "Explicação": "A resposta 1 apresenta diferentes perspectivas sobre o risco de desligamento, incluindo exemplos específicos de situações que levam a esse risco."
+        },
+        "Empoderamento": {
+            "Vencedor": "Resposta 1",
+            "Explicação": "A resposta 1 ajuda o leitor a entender melhor o risco de desligamento e como evitar esse risco."
+        },
+        "Vencedor geral": {
+            "Vencedor": "Resposta 1",
+            "Explicação": "A resposta 1 é a vencedora geral devido à sua compreensividade, diversidade e capacidade de empoderar o leitor."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma lista detalhada de ações que o estudante deve tomar após ser aprovado(a) na UnB, incluindo a confirmação da aprovação, acesso ao SIGAA, realização da matrícula, familiarização com o Manual do Aluno e planejamento da grade de aulas. Essas informações são mais completas e abrangentes em relação à resposta 1, que apenas menciona preencher os campos do Relatório e informar o professor orientador."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de perspectivas e insights sobre as ações necessárias após ser aprovado(a) na UnB, incluindo a importância da confirmação da aprovação, o uso do SIGAA para gerenciar a matrícula e acompanhar o desempenho acadêmico. A resposta 1 é mais limitada em termos de diversidade de informações."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os passos necessários para oficializar sua matrícula e iniciar seu processo acadêmico na UnB, fornecendo informações claras e precisas sobre cada etapa. A resposta 1 é mais vaga e não fornece as mesmas informações detalhadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a melhor opção em termos de Compreensividade, Diversidade e Empoderamento. Ela fornece uma visão completa das ações necessárias após ser aprovado(a) na UnB, apresenta diferentes perspectivas e insights sobre o processo acadêmico e ajuda o leitor a entender melhor os passos necessários para iniciar seu processo acadêmico."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações detalhadas sobre como se preparar para a matrícula, incluindo a análise da lista de disciplinas ofertadas e o fluxo do curso. Além disso, ela sugere que o estudante verifique as vagas disponíveis em cada componente curricular e monte sua grade de forma estratégica. Isso mostra uma compreensão mais profunda das necessidades do calouro durante o processo de matrícula."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta diferentes perspectivas sobre como se preparar para a matrícula, incluindo a análise da lista de disciplinas ofertadas e o fluxo do curso. Além disso, ela sugere que o estudante verifique as vagas disponíveis em cada componente curricular, o que mostra uma compreensão mais ampla das necessidades do calouro durante o processo de matrícula."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor como se preparar para a matrícula, fornecendo informações detalhadas e sugestões práticas. Isso permite que o estudante faça escolhas informadas sobre sua grade de cursos e aumente suas chances de sucesso durante o processo de matrícula."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral porque apresenta uma compreensão mais profunda das necessidades do calouro durante o processo de matrícula, oferece diferentes perspectivas e sugestões práticas, e ajuda o leitor a fazer escolhas informadas. Isso torna a resposta 1 mais útil e eficaz para os estudantes que precisam se preparar para a matrícula na UnB."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações específicas sobre a existência de cursos na modalidade EAD na UnB, incluindo o programa Universidade Aberta do Brasil (UAB) e a plataforma virtual APRENDER 3. Isso mostra que a resposta 1 é mais completa e detalhada em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma abordagem diferente, com um título que sugere uma perspectiva mais ampla sobre a educação. Embora não forneça informações específicas sobre a UnB, ela mostra uma variedade de pensamento e pode ser mais interessante para o leitor."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor a existência de cursos na modalidade EAD na UnB, fornecendo informações concretas e específicas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor em termos de compreensividade, empowerment e, embora não seja a mais diversificada, sua abordagem direta e específica sobre a pergunta feita a torna a escolha mais adequada."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o processo de matrícula, incluindo a importância da reserva de vagas nas turmas de cada componente curricular e a estratégia para conseguir as vagas desejadas. Além disso, ela aborda também a rematrícula e a matrícula extraordinária, fornecendo uma visão mais completa do processo."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta diferentes perspectivas sobre o processo de matrícula, incluindo a importância da estratégia para conseguir as vagas desejadas e a possibilidade de ajustes na oferta de vagas entre a matrícula e a rematrícula. Isso mostra uma compreensão mais profunda do tema."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor o processo de matrícula e a tomar decisões informadas sobre como se preparar para ele. Ela fornece informações práticas e estratégias que podem ser aplicadas, tornando-a mais empoderante do que a resposta 2."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção devido à sua abordagem mais completa e estratégica do processo de matrícula. Ela fornece informações práticas, apresenta diferentes perspectivas e ajuda o leitor a tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre as etapas da matrícula, incluindo a matrícula e rematrícula, além de uma etapa extraordinária. Isso mostra que a resposta 1 é mais completa e abrange todos os aspectos da pergunta."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre as etapas da matrícula, embora seja um pouco confusa. A resposta 1 é mais direta e não apresenta muitas opiniões ou perspectivas."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor as etapas da matrícula, fornecendo informações claras e precisas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral porque apresenta uma abordagem mais completa, clara e precisa das etapas da matrícula. Além disso, ajuda o leitor a entender melhor o assunto, tornando-a mais empoderante."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre a reserva de vagas, explicando que algumas ou todas as vagas disponíveis só podem ser ocupadas por estudantes de determinado curso. Isso mostra uma compreensão mais profunda do conceito e como ele afeta os estudantes."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva diferente, mencionando a plataforma SIGAA e sua relação com o curso. Isso adiciona uma dimensão de diversidade à resposta, mostrando que há mais coisas envolvidas na reserva de vagas do que apenas a oferta de turmas."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor como funciona a reserva de vagas e como isso afeta os estudantes. Isso permite que o leitor faça julgamentos informados sobre o assunto, enquanto a resposta 2 não fornece informações suficientes para alcançar esse nível de compreensão."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor em termos de Compreensividade e Empoderamento, e embora a resposta 2 seja mais diversificada, não supera a resposta 1 em termos gerais. Portanto, a resposta 1 é considerada a vencedora geral."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o cálculo do IRA, incluindo a fórmula utilizada e os pesos atribuídos aos diferentes componentes. Isso permite que o leitor tenha uma compreensão mais completa da medida."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva diferente, enfatizando a aplicação específica do IRA na Universidade de Brasília. Isso adiciona diversidade à discussão e permite que o leitor considere diferentes contextos."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações mais detalhadas sobre como o IRA é calculado, o que ajuda o leitor a entender melhor a medida e a fazer julgamentos informados. Além disso, a explicação da fórmula permite que o leitor aplique esse conhecimento em outros contextos."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a vencedora geral devido à sua abordagem mais completa e detalhada do IRA. Ela fornece informações precisas sobre como o índice é calculado, o que ajuda o leitor a entender melhor a medida e a fazer julgamentos informados."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece informações mais detalhadas sobre como mudar de curso, incluindo a necessidade de avaliar as opções disponíveis e considerar os impactos das decisões. Isso mostra uma compreensão mais profunda do processo de mudança de curso."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre como mudar de curso, incluindo a necessidade de avaliar as opções disponíveis e considerar os impactos das decisões. Isso mostra uma variedade de pensamentos e insights."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como mudar de curso, fornecendo informações detalhadas sobre as etapas envolvidas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua compreensão mais profunda do processo de mudança de curso, variedade de pensamentos e insights, e capacidade de empoderar o leitor com informações detalhadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma informação mais precisa e direta sobre a questão, embora seja limitada. A resposta 2 é vaga e não oferece nenhuma informação útil."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva diferente da questão, embora seja difícil entender o que ela está tentando dizer. A resposta 1 não oferece nenhuma perspectiva ou insight."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda a esclarecer a questão e fornece uma informação mais precisa, embora seja limitada. A resposta 2 não ajuda a entender a questão de forma alguma."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é o vencedor geral porque fornece uma informação mais precisa e direta sobre a questão, embora seja limitada. Ela também ajuda a esclarecer a questão e fornece uma perspectiva mais clara."
+        }
+    },
+    {
+        "Compreensividade": {
+            "Vencedor": "Resposta 1",
+            "Explicação": "A resposta 1 fornece mais detalhes sobre o plano de ensino, incluindo as regras do curso, metodologia utilizada, cronograma de conteúdos e atividades, e bibliografia recomendada."
+        },
+        "Diversidade": {
+            "Vencedor": "Resposta 2",
+            "Explicação": "A resposta 2 não está disponível para avaliação, mas suponho que ela possa fornecer uma perspectiva diferente sobre o plano de ensino."
+        },
+        "Empoderamento": {
+            "Vencedor": "Resposta 1",
+            "Explicação": "A resposta 1 ajuda o leitor a entender melhor o que é um plano de ensino e como ele funciona, além de fornecer informações práticas sobre como os professores devem apresentar o plano de ensino no início de cada semestre."
+        },
+        "Vencedor Geral": {
+            "Vencedor": "Resposta 1",
+            "Explicação": "A resposta 1 é a vencedora geral porque fornece uma visão completa e abrangente sobre o plano de ensino, além de ser mais empoderante do que a resposta 2."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o estágio, mencionando que ele faz parte dos requisitos para a conclusão do curso, seja na modalidade de componente obrigatório ou optativo. Isso mostra que a resposta 1 aborda todos os aspectos da pergunta e fornece informações precisas."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva mais ampla sobre o estágio, mencionando que ele não é obrigatório em todos os casos. Isso mostra que a resposta 2 fornece diferentes pontos de vista e insights sobre a pergunta."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor o conceito de estágio e como ele se relaciona com a conclusão do curso. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "Embora a resposta 1 seja mais detalhada e ajude a entender melhor o conceito de estágio, a resposta 2 apresenta uma perspectiva mais ampla e diversificada sobre o assunto. Isso torna a resposta 2 a vencedora em termos de compreensão geral do tema."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o que é necessário para assinar o documento, incluindo a necessidade de assinatura do representante da empresa, supervisor e estudante. Isso mostra uma compreensão mais completa das etapas envolvidas no processo."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 oferece diferentes perspectivas sobre quem deve assinar o documento, incluindo representante da empresa, supervisor e estudante. Isso mostra uma variedade de pontos de vista que não estão presentes na resposta 2."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda a entender melhor o processo de assinatura do documento, fornecendo informações claras e precisas. Isso permite que o leitor faça julgamentos informados sobre o tema."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral devido à sua compreensão mais completa do processo, variedade de perspectivas e capacidade de empoderar o leitor com informações claras."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre os requisitos para a formatura, incluindo a necessidade de aprovação em todos os componentes curriculares obrigatórios e participação na outorga de grau. Além disso, ela menciona o processo de conclusão do curso, incluindo a submissão de documentos pelo SIGAA. Isso demonstra uma compreensão mais completa dos requisitos para a formatura."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre a formatura, incluindo informações sobre a colação de grau e o título de graduado. Além disso, ela menciona situações específicas em que o título pode ser concedido antecipadamente. Isso demonstra uma riqueza de detalhes e variedade de informações."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda a entender melhor os requisitos para a formatura, fornecendo informações claras sobre o processo de conclusão do curso. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "Embora a resposta 1 seja mais completa em termos de detalhes, a resposta 2 apresenta uma riqueza de informações e perspectivas que a tornam mais empoderante. Além disso, ela fornece contextos adicionais sobre a colação de grau e o título de graduado, o que é fundamental para entender melhor o processo de formatura."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A colação de grau é uma cerimônia formal, organizada de forma autônoma pelos institutos e faculdades da UnB, em que você receberá seu título de graduado(a). Esta resposta fornece mais detalhes sobre a colação de grau, incluindo o contexto e a importância da cerimônia. Já a resposta 2 é muito genérica e não oferece informações relevantes sobre a colação de grau."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta uma visão mais completa da colação de grau, incluindo o contexto e a importância da cerimônia. Já a resposta 2 é muito limitada e não oferece diferentes perspectivas sobre o assunto."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor a colação de grau, incluindo o que acontece durante a cerimônia e por que ela é importante. Já a resposta 2 não oferece informações suficientes para ajudar o leitor a tomar decisões informadas sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção porque fornece mais detalhes, apresenta uma visão mais completa e ajuda o leitor a entender melhor o assunto. Ela também oferece diferentes perspectivas sobre a colação de grau, tornando-a mais empoderante para os leitores."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre as oportunidades de intercâmbio e mobilidade acadêmica na UnB, incluindo a possibilidade de mobilidade nacional através de convênios com outras IFES. Isso mostra que a resposta 1 é mais completa e abrangente em relação à questão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva diferente, embora seja muito curta e não forneça muitos detalhes. No entanto, ela mostra que a UnB pode ter outras opções de intercâmbio além das mencionadas na resposta 1."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor as oportunidades de intercâmbio e mobilidade acadêmica na UnB, fornecendo informações claras e precisas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral porque apresenta uma abordagem mais completa, diversificada e empoderadora em relação à questão. Ela fornece detalhes precisos sobre as oportunidades de intercâmbio e mobilidade acadêmica na UnB, ajudando o leitor a entender melhor o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre a monitoria, incluindo sua integração ao conjunto de ações do Decanato de Ensino de Graduação e seu objetivo de reduzir os índices de reprovação e evasão na UnB. Além disso, ela descreve o papel dos estudantes mais experientes em auxiliar outros estudantes a se integrarem à Universidade e potencializarem a aprendizagem."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais ampla da monitoria, incluindo sua definição e objetivos. Ela também menciona a importância da monitoria para os estudantes e como ela pode ser benéfica para eles."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor a monitoria e seu papel na Universidade, fornecendo informações detalhadas sobre sua implementação e objetivos. Isso permite que o leitor faça julgamentos informados sobre a monitoria."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção devido à sua abordagem mais detalhada e completa da monitoria. Ela fornece informações precisas e relevantes sobre o assunto, permitindo que o leitor faça julgamentos informados. Embora a resposta 2 apresente uma visão mais ampla da monitoria, ela não é tão detalhada quanto a resposta 1."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre os passos necessários para se tornar um monitor na UnB, incluindo a identificação dos cursos que oferecem monitoria, o contato com o professor responsável e as etapas do processo de seleção. Além disso, ela também inclui dicas adicionais para aumentar as chances de ser selecionado como monitor."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações e perspectivas sobre o processo de seleção de monitores, incluindo a importância da frequência e desempenho acadêmico na disciplina, do interesse pela disciplina e da vontade de ajudar os colegas. Isso mostra que a resposta 2 considera diferentes aspectos importantes para se tornar um monitor."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor o processo de seleção de monitores e a tomar decisões informadas sobre como se candidatar. Ela também fornece dicas práticas para aumentar as chances de ser selecionado, tornando-a mais empoderante do que a resposta 1."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque ela apresenta uma combinação perfeita de compreensão, diversidade e empowerment. Ela fornece mais detalhes e informações sobre o processo de seleção de monitores, apresenta diferentes perspectivas importantes para se tornar um monitor e ajuda o leitor a tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações mais detalhadas e precisas sobre a tutoria, incluindo seu objetivo e como funciona. Ela também menciona a importância da redução dos índices de reprovação e evasão na UnB, o que sugere que a tutoria é uma ferramenta importante para melhorar a qualidade do ensino e da aprendizagem."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 oferece diferentes perspectivas sobre a tutoria, incluindo sua função como um programa de apoio acadêmico e sua importância para a integração dos estudantes na Universidade. Além disso, ela menciona a coordenação pedagógica docente, o que sugere que a tutoria é uma ferramenta que envolve múltiplos atores."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor a função e o propósito da tutoria, fornecendo informações precisas e detalhadas. Isso permite que o leitor faça julgamentos informados sobre a importância da tutoria para a qualidade do ensino e da aprendizagem na UnB."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção devido à sua abordagem mais completa, diversificada e empoderadora. Ela fornece informações precisas e detalhadas sobre a tutoria, oferece diferentes perspectivas e ajuda o leitor a entender melhor a importância da tutoria para a qualidade do ensino e da aprendizagem na UnB."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma descrição detalhada das funções da tutoria e monitoria, incluindo objetivos, responsáveis e atividades realizadas. Além disso, ela destaca as diferenças entre os dois programas de apoio acadêmico. A resposta 2 é muito vaga e não fornece informações claras sobre o assunto."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta diferentes perspectivas sobre a tutoria e monitoria, incluindo a integração dos estudantes à universidade, desenvolvimento de habilidades acadêmicas e resolução de dúvidas curriculares. A resposta 2 não oferece nenhuma perspectiva adicional ou diversificada."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender as diferenças entre tutoria e monitoria, fornecendo informações claras sobre os objetivos e funções de cada programa. Além disso, ela permite que o leitor faça julgamentos informados sobre o assunto. A resposta 2 não oferece nenhuma ajuda para o leitor entender ou julgar o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral devido à sua compreensividade, diversidade e capacidade de empoderar o leitor. Ela fornece informações claras e detalhadas sobre as diferenças entre tutoria e monitoria, permitindo que o leitor faça julgamentos informados."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes e informações sobre os programas de ajuda oferecidos pela UnB, incluindo a Política de Assistência Estudantil da UnB, o Programa Bolsa Alimentação no Restaurante Universitário e o Programa Moradia Estudantil da Graduação (PME-G). Além disso, ela também menciona o apoio psicológico e acadêmico disponibilizado pela universidade. Isso mostra que a resposta 1 é mais completa e abrangente em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações, incluindo o fato de ser um estudante da UNBS, o que pode sugerir diferentes perspectivas e insights sobre a pergunta feita. Além disso, ela também menciona a importância da educação para o corpo discente. Isso mostra que a resposta 2 é mais diversificada em relação à pergunta feita."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor os programas de ajuda oferecidos pela UnB e como participar desses programas. Além disso, ela também fornece informações sobre onde buscar apoio psicológico e acadêmico, o que pode ajudar o leitor a tomar decisões informadas. Isso mostra que a resposta 1 é mais empoderadora em relação à pergunta feita."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção devido ao seu alto desempenho em todos os critérios. Ela fornece informações detalhadas e completas sobre os programas de ajuda oferecidos pela UnB, apresenta uma variedade de perspectivas e insights e ajuda o leitor a tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre uma plataforma específica (o 'portal' da UnB) que pode ser utilizada na universidade, embora não seja completa. A resposta 2 é muito vaga e não oferece nenhuma informação útil."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre as plataformas que podem ser utilizadas na UnB, embora seja muito vaga. A resposta 1 é limitada a apenas uma plataforma."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor sobre uma das plataformas que podem ser utilizadas na UnB, embora não seja completa. A resposta 2 é muito vaga e não ajuda o leitor a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção porque fornece mais detalhes sobre uma plataforma específica, embora não seja completa. Ela também ajuda o leitor a entender melhor sobre as plataformas que podem ser utilizadas na UnB."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma descrição mais detalhada da fórmula do IRA e como ela considera os componentes obrigatórios, optativos e eletivos. Isso mostra que a resposta 1 é mais completa e abrangente em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva diferente sobre o IRA, destacando a oportunidade de ganhar crédito e aplicá-lo. Isso mostra que a resposta 2 é mais variada e rica em termos de perspectivas e insights."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor como funciona o IRA, fornecendo informações claras sobre a fórmula e como ela é aplicada. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor em termos de compreensão, empowerment e diversidade. Embora a resposta 2 apresente uma perspectiva diferente, a resposta 1 fornece mais detalhes e informações claras sobre o funcionamento do IRA."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais informações sobre a seção do manual para estudantes chamada 'Direitos e Deveres', embora não detalhe quais são esses direitos e deveres. Isso mostra que a resposta 1 está mais próxima de fornecer uma visão geral completa da questão, mesmo que não seja exaustiva."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva diferente sobre os direitos e deveres dos estudantes da UnB, destacando a capacidade do modelo de responder a perguntas sobre a universidade. Isso mostra que a resposta 2 é mais variada e rica em termos de diferentes pontos de vista."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor os direitos e deveres dos estudantes da UnB, embora não forneça detalhes específicos. Isso mostra que a resposta 1 é mais empoderadora do que a resposta 2, pois ajuda o leitor a tomar decisões informadas sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a vencedora geral porque apresenta uma visão mais completa da questão, embora não seja exaustiva. Além disso, ajuda o leitor a entender melhor os direitos e deveres dos estudantes da UnB, tornando-a mais empoderadora do que a resposta 2."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o processo de solicitação de revisão de menção, incluindo a necessidade de preencher um formulário e anexar documentos relevantes. Além disso, ela menciona o prazo para análise do pedido pelo professor(a). A resposta 2 é incompleta e não fornece informações claras sobre o processo."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 oferece uma visão mais completa do processo de solicitação de revisão de menção, considerando os aspectos administrativos e acadêmicos. A resposta 2 é muito genérica e não apresenta diferentes perspectivas sobre o tema."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda a entender melhor o processo de solicitação de revisão de menção, fornecendo informações claras e específicas. Isso permite que os leitores sejam mais informados e tomem decisões mais acertadas sobre como proceder. A resposta 2 não fornece informações suficientes para ajudar os leitores a entender o processo."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção devido à sua abordagem mais completa e detalhada do processo de solicitação de revisão de menção. Ela oferece informações claras, específicas e relevantes para ajudar os leitores a entender o tema e tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece detalhes específicos sobre os requisitos necessários para se formar na UnB, incluindo a aprovação em todos os componentes curriculares obrigatórios, integralização do número de horas exigidas e participação da outorga de grau. Além disso, ela também menciona as etapas específicas que o estudante deve seguir durante o período de conclusão do curso."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 oferece uma visão mais completa e detalhada dos requisitos necessários para se formar na UnB, abordando aspectos como a aprovação em componentes curriculares e a integralização de horas. Isso demonstra uma compreensão mais profunda do processo de formatura."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor os requisitos necessários para se formar na UnB, fornecendo informações claras e específicas sobre as etapas que devem ser seguidas. Isso permite ao leitor tomar decisões informadas sobre seu processo de formatura."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção em todos os critérios avaliados (Compreensividade, Diversidade e Empoderamento). Ela fornece detalhes específicos sobre os requisitos necessários para se formar na UnB, oferece uma visão mais completa do processo de formatura e ajuda o leitor a tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o processo de matrícula na UnB, incluindo as duas etapas principais (matrícula e rematrícula) e a existência de matrículas extraordinárias. Isso mostra que a resposta 1 é mais completa e abrangente em relação à questão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 não está disponível, mas se ela fornecesse diferentes perspectivas ou insights sobre o processo de matrícula na UnB, poderia ser considerada mais rica e variada em relação à questão. No entanto, sem a resposta 2, é difícil avaliar sua diversidade."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor o processo de matrícula na UnB, fornecendo informações claras e concisas sobre as duas etapas principais e as oportunidades de tentar estratégias alternativas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor em relação à questão, pois fornece mais detalhes e informações claras (compreensividade), ajuda o leitor a entender melhor o processo de matrícula na UnB (empoderamento) e, embora não seja tão rica e variada quanto poderia ser (diversidade), ainda é uma resposta completa e útil."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma descrição detalhada e clara das etapas do processo de matrícula em disciplinas, incluindo a lista de disciplinas ofertadas, o histórico escolar e o fluxo do curso. Além disso, ela menciona a rematrícula como uma etapa importante para preencher as vagas restantes. A resposta 2 é incompreensível e não fornece nenhuma informação útil sobre o processo de matrícula."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta uma visão mais completa do processo de matrícula, incluindo a lista de disciplinas ofertadas e a rematrícula. A resposta 2 não oferece nenhuma perspectiva ou insight adicional sobre o assunto."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda os leitores a entender melhor o processo de matrícula e como escolher as disciplinas certas. Além disso, ela fornece informações importantes sobre a rematrícula e como preencher as vagas restantes. A resposta 2 não oferece nenhuma informação útil para ajudar os leitores a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é o vencedor geral devido à sua compreensão detalhada e clara do processo de matrícula, diversidade de informações apresentadas e capacidade de empoderar os leitores com conhecimentos importantes para tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais informações sobre como confirmar a pré-matrícula em disciplinas na UnB, embora seja um pouco vaga. A resposta 1 não oferece nenhuma informação útil."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre como confirmar a pré-matrícula, embora seja um pouco vaga. A resposta 1 não oferece nenhuma perspectiva ou insight."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como confirmar a pré-matrícula em disciplinas na UnB, embora seja um pouco vaga. A resposta 1 não ajuda o leitor a entender ou tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque oferece mais informações e perspectivas sobre como confirmar a pré-matrícula em disciplinas na UnB, embora seja um pouco vaga. Ela ajuda o leitor a entender melhor o processo e tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre as atividades complementares e como elas podem ser aproveitadas na UnB. Ela menciona especificamente projetos, programas e ações de extensão, além de fornecer links para sites que oferecem informações adicionais sobre iniciação científica e extensão."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta uma visão mais ampla das atividades complementares, incluindo ciência, tecnologia, arte, política, esporte, educação e cultura. Isso mostra que a resposta 1 é capaz de abordar diferentes perspectivas e insights sobre o tema."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor como as atividades complementares podem contribuir para melhorar a vida da comunidade, além de fornecer informações práticas sobre onde encontrar mais informações. Isso torna a resposta 1 mais empoderadora do que a resposta 2."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção porque fornece uma visão mais completa e diversificada das atividades complementares, além de ser mais empoderadora do que a resposta 2. Ela ajuda o leitor a entender melhor como as atividades complementares podem contribuir para melhorar a vida da comunidade e fornecer informações práticas sobre onde encontrar mais informações."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece detalhes sobre os requisitos para o estágio obrigatório na UnB, incluindo a possibilidade de remuneração e os campos necessários para registro. Além disso, ela também menciona as etapas para registrar o estágio, tornando-a mais completa e útil."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta diferentes perspectivas sobre o estágio obrigatório na UnB, incluindo a possibilidade de remuneração e os requisitos para registro. Isso torna a resposta mais rica e variada em termos de informações."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor como funciona o estágio obrigatório na UnB, incluindo os requisitos para registro e as etapas necessárias. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora em todos os critérios, pois fornece detalhes completos e úteis sobre o estágio obrigatório na UnB. Além disso, ela apresenta diferentes perspectivas e ajuda o leitor a entender melhor o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece informações mais detalhadas sobre as normas para a realização de eventos e festas na UnB, incluindo a necessidade de autorização prévia e a importância da comunicação com a universidade. Isso mostra que a resposta 2 aborda os aspectos relevantes do problema."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta uma variedade de perspectivas, incluindo a falta de conhecimento sobre o assunto. Isso mostra que a resposta 1 é mais flexível e aberta a diferentes pontos de vista."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor as normas para a realização de eventos e festas na UnB, fornecendo informações claras e precisas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua abordagem mais detalhada e precisa das normas para a realização de eventos e festas na UnB. Além disso, ela ajuda o leitor a entender melhor o assunto, tornando-a uma escolha mais empoderadora."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece informações sobre o Plano de Respeito à Diversidade da UnB, embora seja um pouco vaga. A resposta 1 não oferece nenhuma informação útil."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão geral do Plano de Respeito à Diversidade da UnB, embora seja limitada. A resposta 1 não oferece nenhuma perspectiva ou insight."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender o Plano de Respeito à Diversidade da UnB, embora seja necessário mais contexto. A resposta 1 não ajuda o leitor a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque oferece informações sobre o Plano de Respeito à Diversidade da UnB, embora seja limitada. Ela também ajuda o leitor a entender o assunto e tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes sobre os serviços de apoio oferecidos pela UnB para estudantes com necessidades específicas, incluindo acomodações acadêmicas e recursos. Isso mostra que ela aborda melhor todos os aspectos da pergunta."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre os serviços de apoio oferecidos pela UnB, incluindo acomodações acadêmicas e recursos. Isso mostra que ela é mais rica em termos de diversidade de informações."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os serviços de apoio oferecidos pela UnB e como eles podem ser úteis para estudantes com necessidades específicas. Isso mostra que ela é mais empoderadora em termos de informação."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral porque ela apresenta uma abordagem mais completa, diversificada e empoderadora dos serviços de apoio oferecidos pela UnB para estudantes com necessidades específicas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece informações sobre o sistema SIGAA utilizado pela UnB, que é relevante para a avaliação docente. Embora não seja uma explicação detalhada, ela oferece um contexto importante."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva diferente sobre como as avaliações docentes são gerenciadas na UnB, ao mencionar o sistema SIGAA. Isso adiciona riqueza e variedade à resposta."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a entender como as avaliações docentes são gerenciadas na UnB, fornecendo informações sobre o sistema SIGAA. Isso permite que os leitores façam julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua capacidade de fornecer informações relevantes e úteis, além de apresentar uma perspectiva diferente e ajudar os leitores a entender o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre como obter documentos oficiais da UnB, incluindo a referência ao Sistema Eletrônico de Informação (SEI) e à Ouvidoria da UnB. Além disso, ela menciona a possibilidade de solicitar o histórico escolar diretamente aos professores, coordenadores e servidores da universidade."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 oferece diferentes perspectivas sobre como obter documentos oficiais da UnB, incluindo a opção de acessar o SEI e solicitar o histórico escolar diretamente aos professores. Além disso, ela menciona a Ouvidoria da UnB como um canal formal para registros acadêmicos."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor como obter documentos oficiais da UnB e fornece informações concretas sobre onde buscar esses documentos. Além disso, ela oferece opções para que o leitor possa tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral devido à sua abordagem mais completa e diversificada. Ela fornece detalhes sobre como obter documentos oficiais da UnB, oferece diferentes perspectivas e ajuda o leitor a tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre as opções de assistência socioeconômica disponíveis para estudantes na UnB, incluindo o Programa Bolsa Alimentação no Restaurante Universitário e o Programa Moradia Estudantil da Graduação (PME-G). Isso mostra que a resposta 1 é mais completa e abrangente em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 não fornece nenhuma informação, mas isso significa que ela não apresenta nenhum ponto de vista ou perspectiva específica. A resposta 1, por outro lado, apresenta diferentes opções de assistência socioeconômica, o que mostra uma maior variedade e riqueza em termos de pontos de vista."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda a entender melhor as opções de assistência socioeconômica disponíveis para estudantes na UnB, o que pode ajudar os leitores a tomar decisões informadas. Além disso, a resposta 1 fornece informações concretas sobre programas e iniciativas específicas, o que pode ser útil para os estudantes."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção devido à sua abrangência em termos de detalhes (Comprehensiveness), variedade em termos de pontos de vista (Diversity) e capacidade de ajudar os leitores a tomar decisões informadas (Empowerment)."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o processo de solicitação da dispensa de disciplina, incluindo a análise das disciplinas cursadas com aprovação na instituição anterior e a comparação das ementas. Além disso, ela menciona que essa solicitação só pode ser feita nos semestres iniciais do curso."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 oferece uma visão mais completa e detalhada sobre o processo de solicitação da dispensa de disciplina, incluindo a análise das disciplinas cursadas com aprovação na instituição anterior. Isso mostra que ela considerou diferentes aspectos do problema."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor como solicitar a dispensa de disciplina e quais são os requisitos para isso. Além disso, ela fornece informações importantes sobre o prazo para solicitação da dispensa."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral porque oferece mais detalhes e visão completa do processo de solicitação da dispensa de disciplina. Além disso, ela ajuda o leitor a entender melhor como solicitar a dispensa e quais são os requisitos para isso."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre as iniciativas de integração e acolhimento da UnB, incluindo atividades específicas em alguns cursos e cursos extracurriculares relevantes. Isso mostra que a resposta 1 aborda melhor todos os aspectos da inclusão e diversidade na UnB."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de perspectivas, incluindo a falta de disponibilidade do documento em questão. Isso mostra que a resposta 2 é mais rica e variada em termos de diferentes pontos de vista."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor como a UnB lida com a inclusão e diversidade, fornecendo informações específicas sobre as iniciativas da universidade. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral porque apresenta uma boa compreensão dos aspectos da inclusão e diversidade na UnB, oferece informações específicas e ajuda o leitor a fazer julgamentos informados. Embora a resposta 2 seja mais rica em termos de perspectivas, ela não fornece informações concretas sobre a questão."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações sobre a falta de conhecimento do solicitante, o que é uma abordagem direta e honesta. Embora não seja uma resposta completa ou detalhada, ela é transparente e reconhece a limitação da sua capacidade de ajudar."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações sobre como solicitar matrícula em disciplinas optativas na UnB, incluindo detalhes sobre a inscrição online e a necessidade de verificar os requisitos específicos da disciplina. Isso mostra que a resposta 2 é mais rica e variada do que a resposta 1."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como solicitar matrícula em disciplinas optativas na UnB, fornecendo informações detalhadas e específicas. Isso permite que o leitor faça julgamentos informados sobre o processo de inscrição e tome decisões mais eficazes."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral porque apresenta uma combinação equilibrada de Compreensividade, Diversidade e Empoderamento. Ela fornece informações detalhadas e específicas (Compreensividade), apresenta diferentes perspectivas e insights sobre o processo de inscrição (Diversidade) e ajuda o leitor a entender melhor como solicitar matrícula em disciplinas optativas na UnB (Empoderamento)."
+        }
+    },
+    {
+        "Compreensividade": {
+            "Vencedor": "Resposta 1",
+            "Explicação": "A resposta 1 fornece mais detalhes sobre o sistema de tutoria na UnB, incluindo as ações do Decanato de Ensino de Graduação e como os estudantes experientes ajudam outros estudantes."
+        },
+        "Diversidade": {
+            "Vencedor": "Resposta 2",
+            "Explicação": "A resposta 2 apresenta uma perspectiva diferente, destacando a importância da tutoria para os estudantes."
+        },
+        "Empoderamento": {
+            "Vencedor": "Resposta 1",
+            "Explicação": "A resposta 1 ajuda o leitor a entender melhor como funciona o sistema de tutoria na UnB e como ele pode ser útil para os estudantes."
+        },
+        "Vencedor geral": {
+            "Vencedor": "Resposta 1",
+            "Explicação": "A resposta 1 é o vencedor geral porque apresenta uma compreensão mais completa do sistema de tutoria na UnB, oferece perspectivas diferentes e ajuda os leitores a entender melhor como funciona."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece informações sobre os requisitos e processos para mudança de curso na UnB, embora seja muito concisa. A resposta 1 não oferece nenhuma informação útil."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva sobre os requisitos e processos para mudança de curso na UnB, embora seja muito limitada. A resposta 1 não oferece nenhuma perspectiva ou insight."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender os requisitos e processos para mudança de curso na UnB, embora seja muito superficial. A resposta 1 não ajuda o leitor a entender ou tomar decisões informadas sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque fornece informações, perspectivas e insights limitados sobre os requisitos e processos para mudança de curso na UnB. Embora seja muito concisa e superficial, ela ainda oferece mais valor do que a resposta 1."
+        }
+    },
+    {
+        "Comprehensividade": {
+            "Vencedor": "Answer 1",
+            "Explicação": "A resposta 1 fornece informações detalhadas sobre como acessar e usar a plataforma APRENDER 3, incluindo o site do CEAD da UnB e recursos disponíveis para ajudar os usuários. Isso mostra que a resposta 1 é mais completa e abrangente em relação à pergunta feita."
+        },
+        "Diversidade": {
+            "Vencedor": "Answer 2",
+            "Explicação": "A resposta 2 apresenta uma perspectiva única, utilizando um formato de lista com ícones para descrever os recursos da plataforma APRENDER 3. Isso adiciona diversidade à resposta e pode ser mais atraente para alguns leitores."
+        },
+        "Empoderamento": {
+            "Vencedor": "Answer 1",
+            "Explicação": "A resposta 1 fornece informações práticas e úteis sobre como acessar e usar a plataforma APRENDER 3, o que ajuda os usuários a entender melhor como utilizar os recursos disponíveis. Isso empodera os leitores a tomar decisões informadas sobre como usar a plataforma."
+        },
+        "Vencedor Geral": {
+            "Vencedor": "Answer 1",
+            "Explicação": "Considerando todos os critérios, a resposta 1 é considerada a melhor opção. Ela oferece uma compreensão detalhada e prática da plataforma APRENDER 3, além de empoderar os leitores com informações úteis para utilizá-la eficazmente."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece alguma informação sobre o Programa de Avaliação Seriada (PAS) da UnB, embora seja muito vaga e não aborde todos os aspectos do programa. A resposta 1 é completamente vazia e não oferece nenhuma informação útil."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva muito limitada sobre o PAS, apenas mencionando que pode ser um estudante. A resposta 1 não oferece nenhuma perspectiva ou insight."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a entender um pouco sobre o PAS, embora seja muito superficial. A resposta 1 não ajuda em nada a entender o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "Embora a resposta 2 seja limitada e vaga, ela é considerada a melhor opção porque oferece alguma informação sobre o PAS da UnB. A resposta 1 não oferece nenhuma informação útil."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre os procedimentos para a colação de grau e emissão de diploma na UnB."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão mais ampla dos procedimentos para a colação de grau e emissão de diploma na UnB."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda mais o leitor a entender os procedimentos para a colação de grau e emissão de diploma na UnB."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "Embora a resposta 2 forneça uma visão mais ampla dos procedimentos, a resposta 1 é mais detalhada e clara em suas explicações."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma descrição detalhada e completa dos dois tipos de trancamento de matrícula oferecidos pela UnB, incluindo os requisitos e limitações para cada um. Além disso, ela também menciona as justificativas aceitas pelo CEPE e como consultar o site da universidade para obter mais informações. Isso mostra que a resposta 1 é mais completa e abrangente em relação à questão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva diferente, mencionando um programa opcional de estudante. Embora não seja claro o que isso significa ou como funciona, é uma abordagem inovadora e pode ser útil para alguns leitores. No entanto, a falta de detalhes e informações específicas sobre esse programa torna difícil avaliar sua relevância e utilidade."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda os leitores a entender melhor como funcionam os trancamentos de matrícula na UnB, incluindo as regras e limitações para cada tipo. Além disso, ela também fornece informações sobre como consultar o site da universidade para obter mais informações, o que pode ajudar os leitores a tomar decisões informadas. Isso mostra que a resposta 1 é mais útil e eficaz em empoderar os leitores."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "Considerando todos os critérios, a resposta 1 é considerada a vencedora. Ela oferece uma descrição completa e detalhada dos trancamentos de matrícula, apresenta diferentes perspectivas e fornece informações úteis para ajudar os leitores a tomar decisões informadas. Embora a resposta 2 tenha apresentado uma abordagem inovadora, ela não foi capaz de superar a resposta 1 em termos de compreensão e empoderamento."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre os direitos dos estudantes de EAD na UnB, mencionando que eles possuem os mesmos direitos que os estudantes presenciais e que é importante conhecer as peculiaridades do curso específico. Isso mostra uma compreensão mais completa da questão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 oferece uma perspectiva diferente, não apenas mencionando os direitos dos estudantes de EAD, mas também deixando espaço para a exploração das peculiaridades do curso específico. Isso mostra uma riqueza de pensamento e abertura para diferentes interpretações."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor os direitos dos estudantes de EAD na UnB, fornecendo informações claras e precisas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral porque fornece uma compreensão completa dos direitos dos estudantes de EAD na UnB, ajuda o leitor a entender melhor o assunto e oferece informações claras e precisas. Embora a resposta 2 seja rica em pensamento e abertura para diferentes interpretações, ela não fornece os mesmos níveis de compreensão e empoderamento da resposta 1."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o processo de solicitação de aproveitamento de estudos na UnB, incluindo as restrições para disciplinas cursadas concomitantemente ao curso atual e a necessidade de buscar orientações detalhadas junto à SAA. Além disso, ela também menciona as instâncias superiores da UnB que podem ser recorridas em caso de não atendimento."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma abordagem mais variada e rica, pois não segue a estrutura tradicional de respostas e pode ser interpretada como um convite à reflexão crítica sobre o processo de solicitação de aproveitamento de estudos na UnB. Embora seja curta, ela desafia a expectativa do leitor e pode estimular uma discussão mais profunda sobre o tema."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor o processo de solicitação de aproveitamento de estudos na UnB, fornecendo informações claras e precisas sobre as etapas envolvidas. Além disso, ela também destaca a importância de buscar orientações detalhadas junto à SAA, o que pode ajudar o leitor a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a vencedora geral porque apresenta uma combinação equilibrada de compreensão, diversidade e empoderamento. Ela fornece informações claras e precisas sobre o processo de solicitação de aproveitamento de estudos na UnB, desafia a expectativa do leitor com sua abordagem variada e rica e ajuda o leitor a entender melhor o tema."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre os critérios de frequência nas disciplinas da UnB, incluindo a frequência mínima obrigatória e as consequências de não atingir essa frequência. Além disso, ela também aborda as justificativas de faltas e como elas são consideradas no cômputo da frequência mínima."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações sobre os critérios de frequência, incluindo a frequência mínima obrigatória e as consequências de não atingir essa frequência. Além disso, ela também aborda as justificativas de faltas e como elas são consideradas no cômputo da frequência mínima."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor os critérios de frequência nas disciplinas da UnB e como eles afetam sua frequência. Além disso, ela também fornece informações sobre as consequências de não atingir a frequência mínima obrigatória, o que permite ao leitor tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção porque fornece mais detalhes e informações precisas sobre os critérios de frequência nas disciplinas da UnB. Além disso, ela ajuda o leitor a entender melhor os conceitos e tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre as iniciativas da UnB para promover a saúde mental dos estudantes, incluindo uma estrutura de acolhimento psicossocial e nutricional, além de soluções para apoiar estudantes em dificuldades acadêmicas ou que necessitem de apoio psicológico ou ajuda socioeconômica. Isso mostra que a resposta 1 aborda mais aspectos da saúde mental dos estudantes."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações sobre as iniciativas da UnB, incluindo a existência de um centro de apoio psicológico e nutricional. Além disso, a resposta 2 menciona que os estudantes podem se informar sobre as iniciativas disponíveis junto ao coordenador(a) de curso ou seu centro acadêmico. Isso mostra que a resposta 2 apresenta diferentes perspectivas e insights sobre o tema."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda os estudantes a entender melhor as iniciativas da UnB para promover a saúde mental, fornecendo informações claras e específicas. Além disso, a resposta 1 fornece soluções concretas para apoiar os estudantes em dificuldades acadêmicas ou que necessitem de apoio psicológico ou ajuda socioeconômica. Isso mostra que a resposta 1 ajuda os estudantes a tomar decisões informadas sobre como buscar apoio."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção porque apresenta uma combinação de detalhes e soluções concretas para apoiar os estudantes. Além disso, a resposta 1 ajuda os estudantes a entender melhor as iniciativas da UnB para promover a saúde mental. Embora a resposta 2 apresente uma variedade de informações, ela não é tão detalhada ou útil quanto a resposta 1."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece informações sobre as responsabilidades e penalidades para infrações na UnB, o que é mais detalhado e abrangente do que a resposta 1. A resposta 1 não oferece nenhuma informação útil ou relevante."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre as responsabilidades e penalidades para infrações na UnB, o que é mais rico e variado do que a resposta 1. A resposta 1 não oferece nenhuma perspectiva ou insight adicional."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor as responsabilidades e penalidades para infrações na UnB, fornecendo informações claras e precisas. A resposta 1 não ajuda o leitor a entender ou tomar decisões informadas sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abrangência, diversidade e capacidade de empoderar o leitor. Ela fornece informações detalhadas e precisas sobre as responsabilidades e penalidades para infrações na UnB, apresentando diferentes perspectivas e ajudando o leitor a entender melhor o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre os programas de bolsas e auxílios oferecidos pela UnB, incluindo descrições específicas de cada programa. Isso permite que o leitor tenha uma visão completa dos recursos disponíveis para os estudantes."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre os programas de bolsas e auxílios, incluindo a ideia de que esses programas são importantes para o desenvolvimento dos estudantes. No entanto, não fornece informações específicas sobre os programas oferecidos pela UnB."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor os recursos disponíveis para os estudantes e como esses programas podem ser úteis para eles. Isso permite que o leitor faça julgamentos informados sobre os programas oferecidos pela UnB."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral devido à sua compreensividade, diversidade e capacidade de empoderar o leitor. Ela fornece informações específicas sobre os programas oferecidos pela UnB, apresenta diferentes perspectivas e ajuda o leitor a entender melhor os recursos disponíveis para os estudantes."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é mais completa e detalhada, pois ao menos tenta fornecer uma explicação sobre a estrutura curricular da UnB. Embora não seja exatamente o que se pede, ela mostra um esforço para entender a pergunta."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é mais variada e rica em termos de perspectivas e insights. Ela não apenas tenta fornecer uma explicação, mas também parece ter uma visão mais ampla da situação."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é mais empoderadora porque ao menos tenta ajudar o leitor a entender melhor a estrutura curricular da UnB, embora não seja exatamente o que se pede. Isso mostra um esforço para fornecer informações úteis."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a vencedora geral porque, embora não seja perfeita, ela mostra um esforço para entender e explicar a estrutura curricular da UnB. Isso a torna mais empoderadora e compreensiva do que a resposta 2."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Nenhum",
+            "Explanation": "Ambas as respostas são incompletas e não fornecem informações detalhadas sobre os requisitos para a realização de estágios não obrigatórios na UnB. A resposta 1 é vaga e não fornece nenhuma informação útil, enquanto a resposta 2 parece ser um texto aleatório sem relação com o tema."
+        },
+        "Diversity": {
+            "Winner": "Nenhum",
+            "Explanation": "Ambas as respostas são muito pobres em termos de diversidade e não fornecem diferentes perspectivas ou insights sobre o tema. A resposta 1 é vaga, enquanto a resposta 2 parece ser um texto aleatório sem relação com o tema."
+        },
+        "Empowerment": {
+            "Winner": "Nenhum",
+            "Explanation": "Ambas as respostas não ajudam o leitor a entender e tomar decisões informadas sobre o tema. A resposta 1 é vaga, enquanto a resposta 2 parece ser um texto aleatório sem relação com o tema."
+        },
+        "Overall Winner": {
+            "Winner": "Nenhum",
+            "Explanation": "Não há uma resposta clara ou útil entre as duas opções. Ambas são incompletas e não fornecem informações detalhadas sobre os requisitos para a realização de estágios não obrigatórios na UnB."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes sobre o funcionamento do Sistema Eletrônico de Informação (SEI) da UnB, incluindo a gestão de informações como notas, cursos tomados e outros dados relevantes para os alunos. Isso mostra que a resposta 2 é mais completa e abrangente em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre o SEI, incluindo a gestão de informações para alunos e professores. Isso mostra que a resposta 2 é mais rica em termos de diversidade de pontos de vista."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como funciona o SEI e quais informações são gerenciadas, permitindo que ele faça julgamentos informados sobre o assunto. Isso mostra que a resposta 2 é mais empoderadora em termos de capacidade de compreensão e tomada de decisões."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque apresenta uma combinação equilibrada de Compreensividade, Diversidade e Empoderamento. Ela fornece detalhes completos sobre o funcionamento do SEI, apresenta diferentes perspectivas e ajuda o leitor a entender e tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece informações específicas sobre as normas para a realização de atividades nos campi da UnB, incluindo horários de funcionamento e restrições de acesso. Isso mostra que ela é mais completa e detalhada em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre as normas para a realização de atividades nos campi da UnB, incluindo horários e restrições. Isso mostra que ela é mais rica em termos de conteúdo e oferece uma visão mais completa do assunto."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor as normas para a realização de atividades nos campi da UnB, fornecendo informações claras e precisas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora em todos os critérios avaliados, mostrando-se mais completa, rica e empoderante do que a resposta 1. Isso se deve à sua capacidade de fornecer informações específicas e claras sobre as normas para a realização de atividades nos campi da UnB."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece informações sobre a Universidade de Brasília (UNB), que é uma universidade pública federal brasileira. Isso mostra que ela tem conhecimento sobre o assunto e pode fornecer detalhes relevantes para responder à pergunta."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas ao mencionar a UNB como uma universidade pública federal brasileira. Isso mostra que ela é capaz de fornecer informações variadas e ricas sobre o assunto."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor o conceito de UNB, fornecendo informações precisas e relevantes. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua capacidade de fornecer informações detalhadas, variadas e empoderadoras. Ela ajuda o leitor a entender melhor o assunto e fazer julgamentos informados."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais informações sobre as responsabilidades das entidades que produzem eventos na UnB, embora seja um pouco confusa. A resposta 1 é muito vaga e não oferece nenhuma informação útil."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre as responsabilidades das entidades que produzem eventos na UnB, embora seja um pouco confusa. A resposta 1 não oferece nenhuma perspectiva ou insight."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor as responsabilidades das entidades que produzem eventos na UnB, embora seja um pouco confusa. A resposta 1 não ajuda o leitor a entender nada."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque fornece mais informações e perspectivas sobre as responsabilidades das entidades que produzem eventos na UnB, embora seja um pouco confusa. Ela ajuda o leitor a entender melhor o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações específicas sobre o peticionamento eletrônico na UnB."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais ampla do processo de peticionamento eletrônico, incluindo a descrição da plataforma utilizada e as etapas envolvidas no processo."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor como funciona o peticionamento eletrônico na UnB, fornecendo informações específicas sobre as opções disponíveis."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "Embora a resposta 2 apresente uma visão mais ampla do processo de peticionamento eletrônico, a resposta 1 fornece informações específicas e diretas sobre o assunto, tornando-a mais útil para os leitores que buscam entender melhor como funciona o peticionamento eletrônico na UnB."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece informações específicas sobre os principais documentos necessários para a vida acadêmica na UnB, como o Cartão de Aluno e o Documento de Identificação. Isso mostra que ela é mais completa em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre os documentos necessários, incluindo a menção ao Cartão de Aluno e ao Documento de Identificação. Isso mostra que ela é mais rica em termos de diversidade de informações."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os documentos necessários para a vida acadêmica na UnB, fornecendo informações claras e específicas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua superioridade em todos os critérios avaliados. Ela fornece informações completas, apresenta diferentes perspectivas e ajuda o leitor a entender melhor o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações específicas sobre a documentação necessária para solicitar trancamento justificado na UnB, incluindo a referência ao site onde as justificativas aceitáveis podem ser encontradas. Isso mostra que a resposta 1 é mais completa e detalhada em relação à questão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações, embora não seja explícita sobre as etapas para solicitar trancamento justificado. No entanto, a falta de informação específica é compensada pela abertura à discussão e possibilidade de diferentes perspectivas."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor as etapas necessárias para solicitar trancamento justificado na UnB, fornecendo informações claras e específicas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção devido à sua abordagem mais completa e detalhada, além de fornecer informações claras que permitem ao leitor fazer julgamentos informados. Embora a resposta 2 apresente uma variedade de informações, ela não é tão específica ou útil em relação à questão."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre as iniciativas da UnB para promover a integração da comunidade acadêmica, incluindo atividades específicas em cursos, cursos extracurriculares e monitoria. Além disso, ela menciona a importância de consultar o coordenador do curso ou o centro acadêmico para se informar sobre as iniciativas disponíveis."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta uma variedade de iniciativas da UnB, incluindo atividades específicas em cursos, cursos extracurriculares e monitoria. Isso mostra que a UnB oferece diferentes tipos de apoio para promover a integração da comunidade acadêmica."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor como a UnB promove a integração da comunidade acadêmica e fornece informações práticas sobre como participar dessas iniciativas. Isso permite que o leitor faça julgamentos informados sobre o tema."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral devido à sua abordagem mais completa e diversificada das iniciativas da UnB para promover a integração da comunidade acadêmica. Ela fornece detalhes, variedade e ajuda o leitor a entender melhor o tema."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações mais detalhadas sobre o que é o Termo de Compromisso de Estágio (TCE), incluindo a assinatura do documento pelos envolvidos e a regulamentação da atividade do estágio. Isso mostra uma compreensão mais completa do conceito."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta diferentes perspectivas sobre o TCE, incluindo a proteção contra vínculo trabalhista e a importância da regulamentação. Isso mostra uma variedade de insights que não estão presentes na resposta 2."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor o conceito de TCE e como ele funciona, fornecendo informações claras sobre a assinatura do documento e a regulamentação da atividade do estágio. Isso permite que o leitor faça julgamentos informados sobre o tema."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção devido à sua compreensão mais completa do conceito, variedade de insights e capacidade de empoderar o leitor para fazer julgamentos informados. Ela fornece informações claras e detalhadas sobre o TCE, tornando-a uma escolha mais confiável."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre os requisitos e características dos estágios obrigatórios e não obrigatórios, incluindo a possibilidade de remuneração e créditos. Além disso, ela destaca as diferenças entre os dois tipos de estágio em termos de formação acadêmica e profissional."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais ampla dos estágios não obrigatórios, destacando a importância da complementação da formação acadêmica e profissional. Além disso, ela menciona a obrigatoriedade da remuneração para os estudantes em estágio não obrigatório."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor as diferenças entre os estágios obrigatórios e não obrigatórios, fornecendo informações claras sobre os requisitos e características de cada tipo. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção porque fornece uma visão mais completa e detalhada dos estágios obrigatórios e não obrigatórios, além de ajudar o leitor a entender melhor as diferenças entre os dois tipos. Isso a torna mais empoderante para o leitor."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre os documentos necessários para o pré-cadastro de estágio no SIGAA, mencionando a data atual e o Termo de Compromisso de Estágio. Isso mostra que a resposta 1 é mais completa e abrangente em relação à questão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações, incluindo o nome do sistema (SIGAA) e a necessidade de registrar o estágio. Isso mostra que a resposta 2 é mais rica em termos de diferentes perspectivas e insights sobre a questão."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor os requisitos para o pré-cadastro de estágio no SIGAA, fornecendo informações claras e precisas. Isso mostra que a resposta 1 é mais eficaz em ajudar o leitor a tomar decisões informadas sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "Embora a resposta 1 seja melhor em termos de Compreensividade e Empoderamento, a resposta 2 é mais diversificada e apresenta uma variedade de informações. Portanto, considerando todos os critérios, a resposta 2 é o vencedor geral."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o que acontece se o cadastro do estágio não for ativado dentro do prazo no SIGAA, incluindo a notificação por e-mail ao discente e as etapas necessárias para realizar um novo pré-cadastro. Além disso, ela também aborda a situação específica de data retroativa do TCE e como o discente deve proceder nesse caso."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva diferente da resposta 1, fornecendo informações sobre as consequências de não ativar o cadastro do estágio dentro do prazo. Embora a resposta 1 seja mais detalhada, a resposta 2 oferece uma visão mais geral e abrangente do problema."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor as etapas necessárias para realizar um novo pré-cadastro e como proceder em caso de data retroativa do TCE. Além disso, ela também fornece informações sobre a notificação por e-mail ao discente, o que pode ajudar o leitor a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção devido à sua abordagem mais detalhada e completa do problema. Ela fornece informações precisas sobre as etapas necessárias para realizar um novo pré-cadastro, incluindo a notificação por e-mail ao discente e as consequências de não ativar o cadastro do estágio dentro do prazo."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece detalhes específicos sobre os passos a serem seguidos para corrigir erros no pré-cadastro do estágio no SIGAA, incluindo a seleção do motivo do cancelamento e a confirmação com senha. Isso mostra que a resposta 1 é mais completa e abrangente em relação à questão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 oferece uma perspectiva diferente, mencionando a possibilidade de aguardar até 10 dias para que o pré-cadastro seja cancelado automaticamente pelo sistema. Isso mostra que a resposta 2 é mais variada e rica em termos de informações."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor os passos necessários para corrigir erros no pré-cadastro do estágio, tornando-o mais capaz de tomar decisões informadas. Além disso, a resposta 1 fornece informações claras e concisas sobre como proceder."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor em termos gerais devido à sua abrangência, capacidade de fornecer informações claras e concisas e ajudar o leitor a tomar decisões informadas. Embora a resposta 2 ofereça uma perspectiva diferente, a resposta 1 é mais completa e útil para resolver o problema."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre quem pode ser professor orientador de um estágio, mencionando tanto os professores efetivos quanto os voluntários. Isso mostra que a resposta 1 é mais completa e abrangente em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva diferente, mencionando também os professores substitutos. Isso mostra que a resposta 2 é mais variada e rica em termos de diferentes pontos de vista sobre quem pode ser professor orientador de um estágio."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor quem pode ser professor orientador de um estágio, fornecendo informações claras e precisas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "Embora a resposta 1 seja mais completa em termos de detalhes, a resposta 2 apresenta uma perspectiva mais variada e rica. Além disso, a resposta 2 ajuda o leitor a entender melhor quem pode ser professor orientador de um estágio, tornando-a a escolha mais adequada para o papel de ajudar os leitores a se informarem sobre o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes e informações sobre a carga horária máxima permitida para estágios, incluindo a excepcionalidade prevista na lei. Além disso, ela menciona o Art. 10, inciso II da Lei 11.788/2008, o que demonstra uma compreensão mais profunda do tema."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta diferentes perspectivas e insights sobre a carga horária máxima permitida para estágios, incluindo a excepcionalidade prevista na lei. Isso demonstra uma compreensão mais ampla do tema."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor e tomar decisões informadas sobre a carga horária máxima permitida para estágios, fornecendo informações precisas e detalhadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a vencedora em todos os critérios. Ela fornece mais detalhes e informações sobre o tema, apresenta diferentes perspectivas e insights, e ajuda o leitor a entender melhor e tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma descrição detalhada das responsabilidades do supervisor de estágio, incluindo a definição de atividades, orientação e acompanhamento do trabalho do estagiário, avaliação do desempenho e promoção da integração ao ambiente de trabalho. Isso mostra que a resposta 1 aborda todos os aspectos importantes das responsabilidades do supervisor de estágio."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva diferente, embora não seja muito clara. Ela parece sugerir que o supervisor de estágio deve ser um profissional experiente e com conhecimento na área em que o estágio se desenvolve. No entanto, a resposta é muito breve e não fornece muitos detalhes sobre as responsabilidades do supervisor de estágio."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor as responsabilidades do supervisor de estágio e como ele pode contribuir para o desenvolvimento profissional do estagiário. Além disso, ela fornece informações práticas sobre como planejar as atividades, orientar e acompanhar o trabalho do estagiário e avaliar seu desempenho."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral porque fornece uma descrição detalhada das responsabilidades do supervisor de estágio, aborda todos os aspectos importantes e ajuda o leitor a entender melhor as suas responsabilidades. Além disso, ela apresenta uma perspectiva mais completa e prática sobre como um supervisor de estágio deve agir."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o que deve constar no plano de atividades do estágio, especificando que as atividades a serem realizadas devem ser descritas no plano de trabalho. Isso mostra uma compreensão mais profunda da questão e fornece informações mais precisas."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre o que deve constar no plano de atividades do estágio, incluindo a descrição das atividades a serem realizadas e a importância da comunicação com o orientador. Isso mostra uma riqueza de informações e diferentes pontos de vista."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda mais a entender como criar um plano de atividades eficaz para o estágio, fornecendo diretrizes claras sobre o que deve ser incluído. Isso permite ao leitor tomar decisões informadas e criar um plano de trabalho eficaz."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção geral porque apresenta uma compreensão mais profunda da questão, fornece informações precisas e ajuda o leitor a criar um plano de atividades eficaz. Embora a resposta 2 seja rica em perspectivas diferentes, ela não oferece a mesma clareza e diretrizes claras que a resposta 1."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece detalhes específicos sobre como acessar o sistema de estágios da UnB e verificar se uma empresa possui convênio com a instituição. Ela lista passos claros e diretos para alcançar o objetivo, tornando-a mais completa em relação à resposta 2."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta uma variedade de informações sobre como verificar convênios com a UnB, incluindo a busca por nome da empresa e CNPJ. Isso mostra que ela aborda diferentes aspectos do problema, tornando-a mais rica em termos de perspectivas e insights em comparação à resposta 2."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender como realizar uma busca eficaz no sistema da UnB para verificar convênios, fornecendo instruções claras e diretas. Isso permite que o leitor faça julgamentos informados sobre se uma empresa tem um convênio com a UnB, tornando-a mais empoderante em termos de capacidade de tomada de decisão."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção geral porque ela apresenta uma combinação equilibrada de detalhes claros, variedade de informações e capacidade de empoderar o leitor para tomar decisões informadas. Ela aborda todos os critérios de avaliação com sucesso."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações claras e precisas sobre o que fazer se a empresa não tiver convênio com a UnB, incluindo a necessidade de encaminhar um e-mail para solicitar informações e o status ATIVO no SIGAA. Isso mostra uma compreensão mais detalhada do processo."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas, incluindo a necessidade de encaminhar um e-mail e o status ATIVO no SIGAA. Além disso, ela também menciona a possibilidade de outras ações que podem ser tomadas em caso de não ter convênio com a UnB."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor o processo e tomar decisões informadas, fornecendo informações claras e precisas sobre o que fazer em caso de não ter convênio com a UnB."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção porque apresenta uma compreensão mais detalhada do processo, ajuda o leitor a entender melhor o que fazer em caso de não ter convênio com a UnB e fornece informações claras e precisas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece detalhes específicos sobre o processo de cadastro do supervisor no SIGAA, incluindo as etapas necessárias para realizar o pré-cadastro do estágio e a seleção do professor orientador. Além disso, ela destaca a importância de consultar o Manual de Orientações no Módulo de Estágio do SIGAA para obter informações detalhadas sobre todo o processo."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre o processo de cadastro do supervisor no SIGAA, incluindo a necessidade de selecionar o professor orientador e a importância de consultar o Manual de Orientações. Além disso, ela fornece informações sobre as etapas necessárias para realizar o pré-cadastro do estágio."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender e tomar decisões informadas sobre o processo de cadastro do supervisor no SIGAA, fornecendo informações detalhadas e específicas sobre as etapas necessárias para realizar o pré-cadastro do estágio. Além disso, ela destaca a importância de consultar o Manual de Orientações para obter informações detalhadas sobre todo o processo."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque fornece uma compreensão completa e detalhada do processo de cadastro do supervisor no SIGAA, apresenta diferentes perspectivas e insights sobre o assunto e ajuda o leitor a tomar decisões informadas. Além disso, ela destaca a importância de consultar o Manual de Orientações para obter informações detalhadas sobre todo o processo."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece detalhes específicos sobre os requisitos para assinaturas no TCE, incluindo a possibilidade de assinatura eletrônica e manuscrita. Além disso, ela menciona as condições necessárias para assinaturas manuscritas, como o nome por extenso e a matrícula ou carimbo do responsável. Isso mostra que a resposta 1 é mais completa e abrangente em relação ao tema."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações, incluindo a relação entre estudantes, empresas e universidades. Embora isso não seja diretamente relacionado aos requisitos para assinaturas no TCE, ela mostra que a resposta 2 é capaz de abordar diferentes perspectivas e insights em um tema mais amplo."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor os requisitos para assinaturas no TCE, fornecendo informações claras e precisas. Isso permite que o leitor faça julgamentos informados sobre o tema."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor em termos de compreensão, empowerment e diversidade. Ela fornece informações detalhadas e precisas sobre os requisitos para assinaturas no TCE, ajuda o leitor a entender melhor o tema e apresenta uma abordagem mais completa e abrangente."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações específicas sobre o seguro contra acidentes pessoais fornecido pela UnB, especificando a empresa responsável (MBM Seguradora). Isso sugere que a resposta está mais completa e detalhada em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações sobre os seguros obrigatórios para os estágios, incluindo a possibilidade de outros tipos de seguro além do acidentes pessoais. Isso sugere que a resposta é mais rica e diversificada em termos de perspectivas e insights."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações claras e diretas sobre o seguro obrigatório para os estágios, ajudando a esclarecer dúvidas do leitor. Isso sugere que a resposta é mais empoderante em termos de capacidade de informar decisões."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "Considerando os três critérios, a resposta 1 se destaca como a melhor opção. Embora a resposta 2 seja mais diversificada em termos de perspectivas, a resposta 1 fornece informações mais claras e diretas sobre o seguro obrigatório para os estágios, tornando-a mais empoderante e completa."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece detalhes específicos sobre o envio do Termo de Rescisão ou Cancelamento de Estágio, incluindo as assinaturas necessárias e a forma como o arquivo deve ser enviado. Isso mostra que a resposta 1 é mais completa e abrangente em relação à questão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 não fornece nenhuma informação sobre o envio do Termo de Rescisão ou Cancelamento de Estágio, mas é possível que ela esteja fornecendo uma perspectiva diferente ou complementar. No entanto, a falta de informações torna difícil avaliar sua riqueza em termos de diversidade."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender como proceder com o envio do Termo de Rescisão ou Cancelamento de Estágio, fornecendo informações claras e específicas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção devido à sua abrangência, capacidade de fornecer informações claras e específicas, além de ajudar o leitor a entender e fazer julgamentos informados sobre o assunto. Embora a resposta 2 tenha potencial para oferecer uma perspectiva diferente, ela não fornece nenhuma informação concreta."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o que é necessário para a matrícula inicial no curso de graduação, incluindo a necessidade de verificar a reserva de vagas nas turmas de cada componente curricular. Além disso, ela oferece dicas práticas para montar a grade de forma estratégica antes do período oficial de matrículas."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta uma abordagem mais completa e variada, considerando fatores como o histórico escolar, a lista de disciplinas ofertadas e o fluxo do curso. Isso permite que o leitor tenha uma visão mais ampla da situação."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor os requisitos para a matrícula inicial e como planejar sua grade de forma eficaz. Isso permite que o leitor faça escolhas informadas sobre seu curso."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção porque apresenta uma abordagem mais completa, variada e prática para a matrícula inicial no curso de graduação. Ela ajuda o leitor a entender os requisitos e planejar sua grade de forma eficaz."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece informações específicas sobre como obter o número de matrícula após o registro acadêmico, mostrando que ela é mais completa e detalhada em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre como obter o número de matrícula, incluindo a possibilidade de verificar no sistema do curso ou contatar o setor de registro acadêmico. Isso mostra que ela é mais rica e variada em relação à pergunta feita."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a entender melhor como obter o número de matrícula após o registro acadêmico, fornecendo informações claras e precisas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque apresenta uma combinação de Compreensividade, Diversidade e Empoderamento. Ela fornece informações detalhadas e precisas sobre como obter o número de matrícula após o registro acadêmico, apresenta diferentes perspectivas e ajuda a entender melhor o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece informações específicas sobre o procedimento para acesso ao e-mail institucional, enquanto a resposta 1 não oferece nenhuma informação útil."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre o tema, fornecendo uma visão mais completa do procedimento de acesso ao e-mail institucional. A resposta 1 não oferece nenhuma diversidade em termos de perspectiva ou insight."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor o procedimento para acesso ao e-mail institucional, fornecendo informações claras e precisas. A resposta 1 não empodera o leitor em termos de compreensão do tema."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral porque apresenta uma combinação perfeita de Compreensividade, Diversidade e Empoderamento. Ela fornece informações específicas, diferentes perspectivas e insights, além de ajudar o leitor a entender melhor o procedimento para acesso ao e-mail institucional."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações específicas e diretas sobre como acessar o Microsoft Office 365, incluindo a URL do portal e as credenciais necessárias. Isso mostra que a resposta 1 é mais completa e detalhada em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 oferece diferentes perspectivas e sugestões de onde buscar informações sobre como acessar o Microsoft Office 365, incluindo o site oficial da UnB, o portal do estudante (SIGAA) e o Centro de Atendimento ao Estudante (CAE). Isso mostra que a resposta 2 é mais variada e rica em termos de diferentes fontes de informação."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações claras e diretas sobre como acessar o Microsoft Office 365, o que ajuda a empoderar o leitor a tomar ações específicas. Isso é mais do que apenas fornecer sugestões de onde buscar informações."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "Embora a resposta 1 seja mais completa e detalhada em termos de Compreensividade, a resposta 2 oferece uma abordagem mais variada e rica em termos de Diversidade. Além disso, a resposta 2 ajuda a empoderar o leitor ao fornecer sugestões de onde buscar informações, tornando-a a resposta mais eficaz para ajudar o leitor a entender e tomar decisões informadas sobre o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações mais precisas e completas sobre como um calouro pode saber quando começam as aulas, sugerindo que ele consulte o Calendário Acadêmico por Atividades. Isso é uma abordagem mais detalhada e específica do que a resposta 2, que não fornece nenhuma informação útil."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 oferece uma perspectiva única e prática sobre como um calouro pode encontrar as informações necessárias. A resposta 2 não apresenta nenhuma perspectiva diferente ou inovadora."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender e tomar decisões informadas sobre quando começam as aulas, fornecendo uma solução prática e específica. A resposta 2 não fornece nenhuma orientação ou conselho útil."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é o vencedor geral porque oferece uma abordagem mais detalhada, diversificada e empoderadora do que a resposta 2. Ela fornece informações precisas e específicas sobre como um calouro pode saber quando começam as aulas, ajudando-o a tomar decisões informadas."
+        }
+    }
+]

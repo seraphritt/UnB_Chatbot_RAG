@@ -5,8 +5,8 @@ import re
 import json
 qa = extract_qa.qaExtractor("perguntas_unb.txt", "")
 queries = qa.get_first()
-model1 = pd.read_csv('evaluation_results_mistral:latest.csv')
-model2 = pd.read_csv('evaluation_results_GRAPH_UNBmistral:latest.csv')
+model1 = pd.read_csv('evaluation_results_gemma2:latest.csv')
+model2 = pd.read_csv('evaluation_results_GRAPH_UNBgemma2:latest.csv')
 llm = Ollama(model="llama3.1:8b-instruct-q4_K_M", temperature=0.1)
 try:
     answers1_vectorstore = model1['response']
@@ -73,5 +73,5 @@ for i, (query, answer1, answer2) in enumerate(zip(queries, answers1_vectorstore,
         json_str = match.group(1)
         json_data = json.loads(json_str)
         lista.append(json_data)
-    with open("mistral_comp_unb.json", "w", encoding="utf-8") as json_file:
+    with open("gemma2_comp_unb.json", "w", encoding="utf-8") as json_file:
         json.dump(lista, json_file, indent=4, ensure_ascii=False)
