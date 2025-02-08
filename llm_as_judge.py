@@ -5,11 +5,17 @@ import re
 import json
 qa = extract_qa.qaExtractor("perguntas_unb.txt", "")
 queries = qa.get_first()
-model1 = pd.read_csv('evaluation_results_qwen2.5:latest.csv')
-model2 = pd.read_csv('evaluation_results_GRAPH_UNBqwen2.5:latest.csv')
+model1 = pd.read_csv('evaluation_results_mistral:latest.csv')
+model2 = pd.read_csv('evaluation_results_GRAPH_UNBmistral:latest.csv')
 llm = Ollama(model="llama3.1:8b-instruct-q4_K_M", temperature=0.1)
-answers1_vectorstore = model1['response']
-answers2_graph = model2['response']
+try:
+    answers1_vectorstore = model1['response']
+except KeyError:
+    answers1_vectorstore = model1['answer']
+try:
+    answers2_graph = model2['response']
+except KeyError:
+    answers2_graph = model2['answer']
 lista = []
 for i, (query, answer1, answer2) in enumerate(zip(queries, answers1_vectorstore, answers2_graph)):
     sys_prompt = """
@@ -66,5 +72,5 @@ for i, (query, answer1, answer2) in enumerate(zip(queries, answers1_vectorstore,
         json_str = match.group(1)
         json_data = json.loads(json_str)
         lista.append(json_data)
-    with open("qwen_comp_unb.json", "w", encoding="utf-8") as json_file:
+    with open("mistral_comp_unb.json", "w", encoding="utf-8") as json_file:
         json.dump(lista, json_file, indent=4, ensure_ascii=False)
