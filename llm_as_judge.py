@@ -20,6 +20,7 @@ lista = []
 for i, (query, answer1, answer2) in enumerate(zip(queries, answers1_vectorstore, answers2_graph)):
     sys_prompt = """
     ---Role---
+    Make your considerations in Portuguese.
     You are an expert tasked with evaluating two answers in Portuguese to the same question in Portuguese based on three criteria: **Comprehensiveness**, **Diversity**, and **Empowerment**.
     """
 
