@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_name = "evaluation_results_GRAPH_mistral:latest.csv"
+file_name = "evaluation_results_GRAPH_UNBgemma2:latest.csv"
 df = pd.read_csv(file_name)
 df.fillna(0, inplace=True)
 print('context precision mean')
