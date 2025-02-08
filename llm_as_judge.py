@@ -1,14 +1,16 @@
 import extract_qa
 import pandas as pd
 from langchain.llms import Ollama
-
-qa = extract_qa.qaExtractor("perguntas_unb.txt", "")
+import re
+import json
+qa = extract_qa.qaExtractor("perguntas_saude.txt", "")
 queries = qa.get_first()
 model1 = pd.read_csv('evaluation_results_saudeqwen2.5:latest.csv')
 model2 = pd.read_csv('evaluation_results_GRAPH_qwen2.5:latest.csv')
 llm = Ollama(model="llama3.1:8b-instruct-q4_K_M", temperature=0.1)
 answers1_vectorstore = model1['response']
 answers2_graph = model2['response']
+lista = []
 for i, (query, answer1, answer2) in enumerate(zip(queries, answers1_vectorstore, answers2_graph)):
     sys_prompt = """
     ---Role---
@@ -38,7 +40,7 @@ for i, (query, answer1, answer2) in enumerate(zip(queries, answers1_vectorstore,
     Evaluate both answers using the three criteria listed above and provide detailed explanations for each criterion.
 
     Output your evaluation in the following JSON format:
-
+    ```json
     {{
         "Comprehensiveness": {{
             "Winner": "[Answer 1 or Answer 2]",
@@ -53,8 +55,16 @@ for i, (query, answer1, answer2) in enumerate(zip(queries, answers1_vectorstore,
             "Explanation": "[Summarize why this answer is the overall winner based on the three criteria]"
         }}
     }}
+    ```
     """
-    print(sys_prompt)
-    print(prompt)
-    print(llm.invoke(sys_prompt + prompt))
-    break
+    print("PERGUNTA")
+    print(query)
+    text = llm.invoke(sys_prompt + prompt)
+    match = re.search(r'```json\n(.*?)\n```', text, re.DOTALL)
+    print(text)
+    if match:
+        json_str = match.group(1)
+        json_data = json.loads(json_str)
+        lista.append(json_data)
+    with open("llm_as_j_result.json", "w", encoding="utf-8") as json_file:
+        json.dump(lista, json_file, indent=4, ensure_ascii=False)
