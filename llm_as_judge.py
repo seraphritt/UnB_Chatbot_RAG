@@ -66,5 +66,5 @@ for i, (query, answer1, answer2) in enumerate(zip(queries, answers1_vectorstore,
         json_str = match.group(1)
         json_data = json.loads(json_str)
         lista.append(json_data)
-    with open("llm_as_j_result.json", "w", encoding="utf-8") as json_file:
+    with open("qwen_comp_unb.json", "w", encoding="utf-8") as json_file:
         json.dump(lista, json_file, indent=4, ensure_ascii=False)
