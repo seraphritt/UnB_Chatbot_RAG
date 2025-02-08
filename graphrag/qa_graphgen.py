@@ -18,7 +18,7 @@ logging.basicConfig(format="%(levelname)s:%(message)s", level=logging.INFO)
 
 if not os.path.exists(WORKING_DIR):
     os.mkdir(WORKING_DIR)
-model_name = "mistral:latest"
+model_name = "qwen2.5:latest"
 # start_time = time.time()
 rag = LightRAG(
     working_dir=WORKING_DIR,
