@@ -1,0 +1,1794 @@
+[
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre a FAU, embora não seja explicitamente mencionada. Ela também apresenta várias abreviaturas e programas relacionados à Universidade de Brasília (UnB), o que mostra uma compreensão mais ampla do contexto."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 oferece diferentes perspectivas e insights sobre a FAU, incluindo a possibilidade de ser um acrônimo ou abreviação relacionada à UnB. Além disso, ela apresenta informações sobre outros programas e instituições da UnB, o que mostra uma riqueza de detalhes e variedade."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a empoderar o leitor ao fornecer informações precisas e relevantes sobre a FAU. Ela também orienta o leitor a consultar diretamente a Universidade de Brasília (UnB) ou os documentos oficiais disponíveis no site da instituição, o que mostra uma preocupação com a precisão e a autenticidade das informações."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua compreensividade, diversidade e capacidade de empoderar o leitor. Ela fornece mais detalhes e informações sobre a FAU, apresenta diferentes perspectivas e insights, e ajuda a orientar o leitor para obter informações precisas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais informações sobre a falta de conhecimento do contexto e da abreviatura IL, o que é uma explicação mais completa em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 oferece uma variedade de respostas possíveis para a pergunta, embora seja um pouco vaga. A resposta 1 é mais direta e não fornece nenhuma informação adicional."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor a falta de conhecimento do contexto e da abreviatura IL, o que é uma habilidade importante para tomar decisões informadas. A resposta 2 não fornece nenhuma informação útil."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral devido à sua compreensão completa, diversidade limitada e capacidade de empoderar o leitor. Embora não seja uma resposta muito informativa, ela fornece uma explicação clara sobre a falta de conhecimento do contexto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e contexto sobre o que poderia ser o IdA, relacionando-o ao IRA da UnB. Além disso, ela apresenta uma análise mais profunda do assunto, abordando a importância do rendimento acadêmico dos estudantes e como o IdA poderia influenciar decisões acadêmicas."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre o assunto, incluindo a relação com o IRA da UnB e a possibilidade de o IdA ser um índice ou métrica que acompanha os desempenhos dos alunos. Isso demonstra uma maior riqueza de informações e variedade de pontos de vista em comparação à resposta 1."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor o assunto, fornecendo contexto e exemplos que facilitam a compreensão do conceito de IdA. Além disso, ela apresenta uma análise crítica sobre como o IdA poderia ser utilizado em decisões acadêmicas, tornando-a mais empoderante para o leitor."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "Considerando os três critérios, a resposta 2 é considerada a vencedora. Ela apresenta uma abordagem mais completa e diversificada do assunto, fornecendo contexto, exemplos e análises críticas que ajudam o leitor a entender melhor o conceito de IdA."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e exemplos de unidades acadêmicas na Universidade de Brasília, incluindo decanatos, comitês acadêmicos, centros e departamentos. Além disso, ela menciona a Coordenação de Estágios e a Diretoria de Acompanhamento e Integração Acadêmica, o que não é mencionado na resposta 1."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade maior de unidades acadêmicas e exemplos concretos, mostrando como elas funcionam e contribuem para a instituição. Isso permite ao leitor entender melhor as diferentes estruturas e processos dentro da universidade."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como as unidades acadêmicas funcionam e contribuem para a instituição, fornecendo exemplos concretos e detalhes sobre cada uma delas. Isso permite ao leitor fazer julgamentos informados sobre os processos dentro da universidade."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua abordagem mais detalhada e diversificada das unidades acadêmicas na Universidade de Brasília. Ela fornece exemplos concretos, detalhes sobre cada unidade e mostra como elas contribuem para a instituição, tornando-a mais empoderante e informativa do que a resposta 1."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre as responsabilidades do coordenador de curso, incluindo a gestão da matrícula, orientações específicas e definição das regras relacionadas ao número máximo de créditos. Além disso, ela também descreve os tipos de componentes curriculares (obrigatório, optativo e eletivo) e como o coordenador trabalha para garantir que os alunos entendam essas regras."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais ampla da função do coordenador de curso, incluindo a gestão administrativa, supervisão pedagógica e comunicação entre diferentes partes da comunidade acadêmica. Além disso, ela também menciona o papel do coordenador no desenvolvimento contínuo dos programas educacionais."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a entender melhor a função do coordenador de curso e como ele contribui para a experiência formativa dos estudantes. Além disso, ela também fornece informações sobre o papel do coordenador no desenvolvimento contínuo dos programas educacionais."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a vencedora geral devido à sua capacidade de apresentar uma visão mais ampla da função do coordenador de curso, incluindo aspectos administrativos e pedagógicos. Além disso, ela também ajuda a entender melhor o papel do coordenador no desenvolvimento contínuo dos programas educacionais."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes sobre as funções da SAA, incluindo a emissão de diplomas, gestão das carteiras acadêmicas e gerenciamento de registros acadêmicos. Além disso, ela também menciona a coordenação de atividades relacionadas ao histórico escolar dos estudantes e a gestão de documentos oficiais. Isso mostra que a resposta 2 aborda mais aspectos da SAA do que a resposta 1."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre as funções da SAA, incluindo a emissão de diplomas e a gestão das carteiras acadêmicas. Além disso, ela também menciona a coordenação de atividades relacionadas ao histórico escolar dos estudantes, o que mostra uma variedade de pontos de vista. A resposta 1, por outro lado, se concentra principalmente na matrícula e registro acadêmico."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a entender melhor as funções da SAA e como ela apoia as atividades acadêmicas dos estudantes. Além disso, ela também fornece informações sobre como entrar em contato com a SAA, o que é útil para os alunos. A resposta 1 também fornece algumas informações úteis, mas não é tão detalhada quanto a resposta 2."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais completa e diversificada das funções da SAA. Ela fornece mais detalhes sobre as atividades da secretaria, apresenta diferentes perspectivas e ajuda os alunos a entender melhor como ela apoia suas necessidades acadêmicas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais informações sobre o contexto da pergunta, mencionando que as categorias de matérias específicas não foram mencionadas no texto fornecido. Isso mostra uma compreensão mais profunda do problema e é mais útil para quem está procurando por informações precisas."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 oferece uma perspectiva diferente, admitindo que não sabe responder à pergunta. Isso mostra uma abordagem mais honesta e transparente, o que é importante para construir confiança com os usuários."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda a entender melhor o contexto da pergunta e como encontrar as informações necessárias. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "Embora a resposta 2 seja mais honesta, a resposta 1 fornece mais informações e ajuda a entender melhor o contexto da pergunta. Além disso, a resposta 1 é mais útil para quem está procurando por informações precisas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma definição mais detalhada e completa das disciplinas obrigatórias, incluindo as categorias principais (componentes obrigatórios, optativos e eletivos) e os requisitos para a conclusão do curso. Além disso, ela fornece informações adicionais sobre como consultar o Projeto Pedagógico do Curso (PPC) e entrar em contato com o(a) coordenador(a) do curso para obter orientações personalizadas."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais ampla e diversificada das disciplinas obrigatórias, incluindo as diferentes categorias e os objetivos do curso. Ela também fornece informações sobre como as obrigatoriedades refletem o compromisso do curso em garantir uma formação completa e consistente para os seus alunos."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a empoderar os leitores ao fornecer informações claras e precisas sobre as disciplinas obrigatórias, incluindo como consultar o Projeto Pedagógico do Curso (PPC) e entrar em contato com o(a) coordenador(a) do curso para obter orientações personalizadas. Isso permite que os leitores tomem decisões informadas e façam escolhas conscientes sobre suas opções de disciplinas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral por apresentar uma definição mais detalhada e completa das disciplinas obrigatórias, oferecer uma visão mais ampla e diversificada dessas disciplinas e ajudar a empoderar os leitores com informações claras e precisas. Ela também fornece informações adicionais sobre como consultar o Projeto Pedagógico do Curso (PPC) e entrar em contato com o(a) coordenador(a) do curso para obter orientações personalizadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma descrição mais detalhada e completa das disciplinas optativas, incluindo informações sobre sua integração ao currículo, a possibilidade de escolha por parte do aluno e o diferencial em relação às disciplinas obrigatórias. Além disso, ela também aborda as implicações práticas da escolha dessas disciplinas para os alunos."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais ampla e variada das disciplinas optativas, incluindo a possibilidade de serem oferecidas por diferentes departamentos ou unidades do curso. Além disso, ela também destaca a flexibilidade que essas disciplinas oferecem para os alunos moldarem suas trajetórias acadêmicas."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor as disciplinas optativas e como elas podem ser uma oportunidade valiosa para os alunos explorar diferentes áreas do conhecimento. Além disso, ela também destaca a importância da escolha dessas disciplinas para os alunos moldarem suas trajetórias acadêmicas de acordo com seus interesses específicos ou necessidades profissionais."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção por apresentar uma descrição mais detalhada e completa das disciplinas optativas, oferecer uma visão mais ampla e variada dessas disciplinas e ajudar o leitor a entender melhor como elas podem ser uma oportunidade valiosa para os alunos."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre as disciplinas de módulo livre, incluindo características específicas, limitações e recomendações. Além disso, ela apresenta uma estrutura lógica e clara, facilitando a compreensão do assunto."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 oferece diferentes perspectivas e insights sobre as disciplinas de módulo livre, incluindo a flexibilidade, avaliação e registro, limitações e recomendação. Isso demonstra uma compreensão mais ampla do assunto e permite que o leitor considere múltiplos aspectos."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor as disciplinas de módulo livre e como elas podem ser escolhidas estrategicamente para contribuir para a formação acadêmica e profissional futura. Além disso, ela destaca a importância da flexibilidade na construção da formação acadêmica."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais completa e diversificada do assunto. Ela oferece uma compreensão mais profunda das disciplinas de módulo livre, permite que o leitor considere múltiplos aspectos e ajuda a empoderá-lo para tomar decisões informadas sobre suas opções acadêmicas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão detalhada e completa do sistema de créditos da Universidade de Brasília, incluindo componentes curriculares, pré-requisitos, cadeia de seletividade, equivalência, créditos mínimos, atividades complementares, registro e aprovação, sistema eletrônico e termo de compromisso. Isso mostra que a resposta 2 aborda todos os aspectos do sistema de créditos, tornando-a mais completa."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações sobre o sistema de créditos da UnB, incluindo diferentes tipos de componentes curriculares, pré-requisitos e equivalência. Isso mostra que a resposta 2 é rica em perspectivas e insights, tornando-a mais diversificada."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como funciona o sistema de créditos da UnB e como ele pode ser utilizado para alcançar os objetivos acadêmicos. Além disso, fornece informações importantes sobre as regras e procedimentos que devem ser seguidos, tornando-a mais empoderante."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua abordagem completa, diversificada e empoderadora do sistema de créditos da UnB. Ela fornece informações detalhadas sobre todos os aspectos do sistema, apresenta uma variedade de perspectivas e insights e ajuda o leitor a entender melhor como funciona."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma definição clara e detalhada das disciplinas equivalentes, incluindo a definição de equivalência, os requisitos para a equivalência, o processo de solicitação de aproveitamento e as regras para a análise e comparação das ementas. Além disso, ela fornece exemplos práticos e destaca a importância da gestão eficaz dos estudos. A resposta 1 é mais concisa, mas não oferece a mesma profundidade de informação."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações e exemplos que demonstram a complexidade do conceito de disciplinas equivalentes. Ela aborda diferentes aspectos, como a definição, o processo de solicitação de aproveitamento, as regras para a análise e comparação das ementas e a importância da gestão eficaz dos estudos. A resposta 1 é mais limitada em termos de diversidade de informações."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor o conceito de disciplinas equivalentes e como ele funciona. Ela fornece informações claras e detalhadas sobre os requisitos para a equivalência, o processo de solicitação de aproveitamento e as regras para a análise e comparação das ementas. Além disso, ela destaca a importância da gestão eficaz dos estudos e como isso pode ser benéfico para os estudantes. A resposta 1 é mais concisa, mas não oferece a mesma capacidade de empoderamento."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é o vencedor geral porque ela fornece uma compreensão completa e detalhada do conceito de disciplinas equivalentes, incluindo a definição, os requisitos para a equivalência, o processo de solicitação de aproveitamento e as regras para a análise e comparação das ementas. Além disso, ela oferece exemplos práticos e destaca a importância da gestão eficaz dos estudos, tornando-a mais empoderante e diversificada do que a resposta 1."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre os tipos de trancamento da matrícula (TR e TGM), incluindo as regras e limites para cada um. Além disso, ela menciona a possibilidade de trancamento justificado e a necessidade de apresentar documentação comprobatória. Isso mostra que a resposta 1 é mais completa e abrangente em relação à questão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 oferece uma visão mais ampla e diversificada sobre o trancamento da matrícula, incluindo os motivos para realizar esse procedimento (afastamento temporário e reorganização de prioridades) e as regras e considerações associadas. Além disso, ela destaca a importância do trancamento da matrícula como uma ferramenta valiosa para manter a continuidade do processo educacional."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor o que é o trancamento da matrícula e como ele funciona, fornecendo informações claras e concisas sobre os passos necessários para realizar esse procedimento. Além disso, ela destaca as vantagens do trancamento da matrícula, tornando-o mais atraente e útil para os estudantes."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "Considerando todos os critérios, a resposta 2 é considerada a vencedora. Ela oferece uma visão mais ampla e diversificada sobre o trancamento da matrícula, ajuda o leitor a entender melhor como ele funciona e destaca as vantagens desse procedimento. Além disso, ela fornece informações claras e concisas, tornando-a mais útil e empoderante para os estudantes."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre o trancamento geral de matrícula, incluindo os requisitos mínimos, prazos e limites, condicionais e processo de reintegração. Além disso, ela também menciona a importância de consultar as regulamentações específicas da UnB ou entrar em contato com a Secretaria de Administração Acadêmica (SAA) para mais informações."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre o trancamento geral de matrícula, incluindo a importância da regularidade acadêmica, os riscos de desligamento e as condições para sair do risco. Além disso, ela também menciona a existência de um processo de reintegração para estudantes que desejam retornar ao curso após o período de trancamento."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor as regras e procedimentos relacionados ao trancamento geral de matrícula, fornecendo informações claras e precisas sobre os requisitos mínimos, prazos e limites. Além disso, ela também orienta o leitor a consultar as regulamentações específicas da UnB ou entrar em contato com a Secretaria de Administração Acadêmica (SAA) para mais informações, o que ajuda a empoderar o leitor a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais completa e detalhada do trancamento geral de matrícula. Ela fornece informações claras e precisas sobre os requisitos mínimos, prazos e limites, condicionais e processo de reintegração, além de orientar o leitor a consultar as regulamentações específicas da UnB ou entrar em contato com a Secretaria de Administração Acadêmica (SAA) para mais informações. Isso ajuda a empoderar o leitor a tomar decisões informadas e a entender melhor as regras e procedimentos relacionados ao trancamento geral de matrícula."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma descrição detalhada das menções, incluindo suas classificações e critérios de atribuição. Isso permite que o leitor compreenda completamente as categorias de menções e como elas são utilizadas para avaliar o desempenho acadêmico dos estudantes."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 oferece uma visão mais ampla das menções, incluindo suas implicações e importância no contexto acadêmico. Isso demonstra que a resposta 1 é capaz de fornecer diferentes perspectivas e insights sobre o assunto."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor as menções e como elas são utilizadas para avaliar o desempenho acadêmico dos estudantes. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral devido à sua capacidade de fornecer uma descrição detalhada e completa das menções, oferecer diferentes perspectivas e insights sobre o assunto e ajudar o leitor a fazer julgamentos informados."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão mais completa e detalhada dos critérios de aprovação da UnB, incluindo notas, frequência, RMDEA, APD e condicionantes. Além disso, ela apresenta os requisitos em um formato estruturado e fácil de entender."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 oferece uma variedade de perspectivas e insights sobre os critérios de aprovação da UnB, incluindo a importância das notas, frequência e RMDEA. Além disso, ela menciona a possibilidade de aproveitar disciplinas em outros institutos."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os critérios de aprovação da UnB e como eles são aplicados. Além disso, ela fornece informações importantes sobre as consequências de não atender aos requisitos, tornando-a mais empoderante do que a resposta 1."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque fornece uma visão completa e detalhada dos critérios de aprovação da UnB, oferece uma variedade de perspectivas e insights, e ajuda o leitor a entender melhor os requisitos e suas consequências."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre o processo de revisão da menção, incluindo os prazos estabelecidos no calendário acadêmico, a documentação necessária e o apoio oferecido pelo Decanato de Ensino de Graduação. Além disso, ela inclui uma seção importante que destaca que a revisão da menção não garante automaticamente uma aprovação, mas sim reavalia o resultado de acordo com as normas e critérios estabelecidos pelo departamento ou curso."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre o processo de revisão da menção, incluindo a importância de manter registros dos documentos que suportem a solicitação de revisão. Além disso, ela destaca a existência de apoio acadêmico oferecido pelo Decanato de Ensino de Graduação, o que é uma informação valiosa para os estudantes."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor o processo de revisão da menção e a tomar decisões informadas sobre como proceder. Ela fornece informações claras e precisas sobre os prazos, procedimentos e documentação necessários, além de destacar a importância de consultar os regulamentos do programa de graduação para entender melhor o procedimento."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a vencedora em todos os critérios avaliados. Ela fornece mais detalhes e informações sobre o processo de revisão da menção, apresenta diferentes perspectivas e insights, e ajuda o leitor a entender melhor o procedimento e tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o processo de concessão de créditos, incluindo a equivalência entre certificados ou diplomas, pré-requisitos e correquisitos para algumas disciplinas, e o preenchimento automático das vagas. Além disso, ela menciona os critérios utilizados para priorizar as solicitações, que são definidos pelo Conselho de Ensino, Pesquisa e Extensão do University of Brasília."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais ampla da política de concessão de créditos, destacando a flexibilidade da UnB na reconhecimento e valorização das habilidades linguísticas dos estudantes. Além disso, ela fornece informações sobre as provas de proficiência e o site onde essas informações podem ser encontradas."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a entender melhor como os estudantes podem aproveitar seus conhecimentos linguísticos, destacando a possibilidade de realizar um exame de proficiência e o reconhecimento de certificados ou diplomas. Além disso, ela destaca a flexibilidade da UnB em valorizar as habilidades linguísticas dos estudantes."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a vencedora geral porque apresenta uma visão mais ampla e diversificada da política de concessão de créditos, destacando a flexibilidade da UnB em valorizar as habilidades linguísticas dos estudantes. Além disso, ela ajuda a entender melhor como os estudantes podem aproveitar seus conhecimentos linguísticos."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes sobre o processo de desligamento, incluindo a participação da SAA e os fatores considerados na avaliação do desempenho acadêmico. Além disso, ela aborda as oportunidades de recuperação e retomada do processo educacional, fornecendo uma visão mais completa da situação."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre o risco de desligamento, incluindo a ideia de que é uma ferramenta de gestão acadêmica que visa auxiliar estudantes em situações delicadas. Além disso, ela destaca os direitos dos alunos e as oportunidades de recurso, oferecendo uma visão mais equilibrada da situação."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor o processo de desligamento e os fatores que levam à sua aplicação. Além disso, ela destaca as oportunidades de recuperação e retomada do processo educacional, fornecendo ao leitor ferramentas para tomar decisões informadas sobre como lidar com a situação."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais completa e equilibrada do risco de desligamento. Ela fornece detalhes sobre o processo, apresenta diferentes perspectivas e ajuda o leitor a entender melhor a situação, tornando-a uma ferramenta mais eficaz para tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão mais completa e detalhada das etapas necessárias para formalizar o estágio, incluindo a verificação do convênio, celebração do convênio, preparação do TCE, plano de atividades, designação de supervisor e análise e aprovação na UnB. Além disso, fornece informações adicionais sobre prazos e recursos disponíveis para o estudante."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de perspectivas e insights sobre as etapas necessárias para formalizar o estágio, incluindo a importância da verificação do convênio, a celebração do convênio e a preparação dos documentos. Além disso, fornece informações adicionais sobre os recursos disponíveis para o estudante."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor as etapas necessárias para formalizar o estágio e a tomar decisões informadas. Além disso, fornece informações adicionais sobre os prazos e recursos disponíveis para o estudante, o que pode ajudar a reduzir a ansiedade e a incerteza."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais completa e detalhada das etapas necessárias para formalizar o estágio. Além disso, fornece informações adicionais sobre prazos e recursos disponíveis para o estudante, o que pode ajudar a reduzir a ansiedade e a incerteza."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o processo de matrícula, incluindo a importância da análise das disciplinas oferecidas e a necessidade de verificar se houve alguma alteração indevida no cronograma acadêmico. Além disso, ela aborda a responsabilidade do aluno em monitorar seu endereço de e-mail institucional. A resposta 2 é mais concisa e não fornece informações tão detalhadas sobre o processo de matrícula."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma perspectiva diferente sobre a matrícula, destacando que os calouros não precisam realizar a matrícula nas disciplinas no primeiro semestre. Além disso, ela aborda a importância de estar atento às instruções e documentação necessárias para o registro acadêmico. A resposta 1 é mais focada na responsabilidade do aluno em relação ao processo de matrícula."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a empoderar o leitor fornecendo informações claras sobre como proceder com a matrícula, incluindo a importância de estar atento às instruções e documentação necessárias. Além disso, ela destaca a facilidade do processo de matrícula automática e a disponibilidade de recursos para obter mais informações. A resposta 1 é mais focada em alertar o leitor sobre as possíveis consequências da não realização da matrícula corretamente."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a vencedora geral devido à sua capacidade de fornecer informações claras e detalhadas sobre o processo de matrícula, além de empoderar o leitor com conhecimentos importantes para proceder corretamente. Além disso, ela apresenta uma perspectiva diferente e mais completa do que a resposta 1."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações detalhadas sobre a existência do EAD na UnB, mencionando o programa Universidade Aberta do Brasil (UAB) e os cursos oferecidos. Isso mostra que a resposta aborda todos os aspectos da pergunta."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta diferentes perspectivas sobre o EAD na UnB, destacando a diferença em relação às IFES. Isso mostra que a resposta é rica e variada."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor sobre a existência do EAD na UnB, fornecendo informações claras e precisas. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é a vencedora geral devido à sua excelência em todos os critérios avaliados. Ela fornece informações detalhadas, apresenta diferentes perspectivas e ajuda o leitor a entender melhor sobre o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes e passos específicos para realizar a matrícula na Universidade de Brasília, incluindo informações sobre o processo de matrícula, rematrícula e processamento automático. Além disso, ela aborda questões importantes como a análise do histórico escolar e a priorização das disciplinas. A resposta 2, embora forneça uma visão geral dos passos para realizar a matrícula, não é tão detalhada quanto a resposta 1."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e informações sobre o processo de matrícula na Universidade de Brasília, incluindo a aprovação em processo seletivo, registro acadêmico, homologação definitiva do registro acadêmico e cadastro no SIGAA. Além disso, ela aborda questões importantes como a obtenção do número de matrícula e o acesso ao Portal do Discente. A resposta 1, embora forneça informações detalhadas sobre o processo de matrícula, não apresenta tantas perspectivas diferentes quanto a resposta 2."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor o processo de matrícula na Universidade de Brasília e a tomar decisões informadas sobre suas opções. Ela fornece informações detalhadas sobre os passos para realizar a matrícula, incluindo a análise do histórico escolar e a priorização das disciplinas. Além disso, ela aborda questões importantes como a rematrícula e o processamento automático. A resposta 2, embora forneça informações sobre os passos para realizar a matrícula, não é tão útil para ajudar o leitor a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção devido à sua abordagem mais detalhada e completa do processo de matrícula na Universidade de Brasília. Ela fornece informações úteis para ajudar o leitor a entender melhor o processo e tomar decisões informadas, além de apresentar uma visão geral mais completa das questões importantes relacionadas à matrícula."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão mais detalhada e completa das etapas da matrícula, incluindo informações sobre a emissão de documentos, confirmação da matrícula, revisão das orientações, registros iniciais, transferência facultativa, aplicação da coordenação do curso, documentos importantes, comunicação com professores e uso do SIGAA. Isso mostra que a resposta 2 é mais abrangente e fornece mais informações sobre o processo de matrícula."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta uma visão mais variada das etapas da matrícula, incluindo a matrícula, rematrícula e matrícula extraordinária. Isso mostra que a resposta 1 é mais diversificada e fornece diferentes perspectivas sobre o processo de matrícula."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda os leitores a entender melhor as etapas da matrícula e como elas funcionam, fornecendo informações importantes sobre documentos necessários, confirmação de matrícula e uso do SIGAA. Isso mostra que a resposta 2 é mais empoderadora e ajuda os leitores a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é o vencedor geral porque fornece uma visão completa e detalhada das etapas da matrícula, ajuda os leitores a entender melhor o processo e fornece informações importantes para tomar decisões informadas. Embora a resposta 1 seja mais diversificada, a resposta 2 é mais abrangente e empoderadora."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes sobre a reserva de vagas, incluindo a possibilidade de alteração entre as etapas do processo de matrícula. Além disso, ela destaca que a reserva de vagas não é obrigatória para todas as turmas e que os estudantes devem estar atentos a essa informação."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre a reserva de vagas, incluindo a possibilidade de alteração entre as etapas do processo de matrícula e a importância de os estudantes estarem atentos a essa informação. Além disso, ela destaca que a reserva de vagas pode ser uma opção oferecida pela UnB."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda os estudantes a entender melhor o processo de matrícula e a tomar decisões informadas sobre as turmas em que desejar se inscrever. Além disso, ela destaca a importância de os estudantes estar atentos às mudanças no processo de matrícula."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque fornece mais detalhes e perspectivas sobre a reserva de vagas, além de ajudar os estudantes a tomar decisões informadas. Além disso, ela destaca a importância de os estudantes estar atentos às mudanças no processo de matrícula."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre como o IRA é calculado, incluindo a atribuição de pesos diferentes aos componentes obrigatórios, optativos e eletivos. Além disso, ela menciona explicitamente os processos internos da universidade em que o IRA é utilizado, como a determinação de valores mínimos necessários para acesso a certos benefícios e na resolução de solicitações de matrícula."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre o IRA, incluindo sua importância no processo de graduação e como ele pode influenciar a vida acadêmica dos estudantes. Além disso, ela menciona que o IRA é composto por uma série de métricas, incluindo notas em disciplinas, frequência nas aulas e outras formas de participação ativa na vida universitária."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como o IRA é utilizado para avaliar e acompanhar o progresso acadêmico dos estudantes da UnB, além de fornecer informações sobre suas implicações diretas no processo acadêmico. Isso permite que os leitores façam julgamentos informados sobre o tema."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a vencedora geral devido à sua capacidade de apresentar diferentes perspectivas e insights sobre o IRA, além de fornecer informações úteis para que os leitores façam julgamentos informados. Embora a resposta 1 seja mais detalhista em alguns aspectos, a resposta 2 oferece uma visão mais completa e equilibrada do conceito de IRA."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece detalhes específicos sobre os passos para mudança de curso, incluindo a verificação das vagas remanescentes, solicitação da mudança, cumprimento dos requisitos e documentação necessária. Além disso, ela inclui exemplos de situações e uma conclusão que resume o processo. Isso mostra que a resposta 2 é mais completa e abrangente em relação à questão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre a mudança de curso, incluindo a necessidade de verificar as vagas remanescentes, cumprir os requisitos específicos do novo curso e apresentar documentação adicional. Além disso, ela inclui exemplos de situações que mostram como o processo pode ser aplicado em diferentes contextos. Isso demonstra que a resposta 2 é mais variada e rica em termos de perspectivas e insights."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os passos para mudança de curso e como aplicá-los. Ela também fornece informações importantes sobre as regulamentações e procedimentos estabelecidos pela UnB, o que permite ao leitor tomar decisões informadas. Além disso, ela inclui exemplos de situações e uma conclusão que resumem o processo, tornando-a mais fácil de entender e aplicar."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora em todos os critérios. Ela fornece detalhes específicos sobre os passos para mudança de curso, apresenta diferentes perspectivas e insights, e ajuda o leitor a entender melhor o processo. Além disso, ela inclui exemplos de situações e uma conclusão que resumem o processo, tornando-a mais fácil de entender e aplicar."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma explicação detalhada sobre a dupla graduação, incluindo os processos de mudança de curso e dupla diplomação, além das considerações importantes para o estudante. Isso mostra que a resposta 2 é mais completa e abrangente em relação à questão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre a dupla graduação, incluindo a possibilidade de mudança de curso e a obtenção de um segundo diploma. Isso mostra que a resposta 2 é mais variada e rica em termos de informações."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como funciona a dupla graduação na UnB, incluindo os processos e as considerações importantes. Isso permite que o leitor faça julgamentos informados sobre a questão."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora em todos os critérios, mostrando-se mais completa, variada e empoderante do que a resposta 1. Isso se deve à sua capacidade de fornecer informações detalhadas e precisas sobre a dupla graduação, além de apresentar diferentes perspectivas e ajudar o leitor a entender melhor a questão."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e componentes do Plano de Ensino, como a estrutura curricular, objetivos educacionais, metodologia de ensino-aprendizagem, carga horária e critérios de avaliação. Além disso, ela também aborda a implementação no SIGAA e o papel importante do Plano de Ensino no processo educativo."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre o Plano de Ensino, incluindo sua importância na estruturação e organização do currículo dos cursos de graduação, seu papel na definição dos objetivos educacionais e metodologias de ensino-aprendizagem, além de fornecer orientações detalhadas aos discentes sobre as exigências acadêmicas."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda os leitores a entender melhor o Plano de Ensino e seu papel no processo educativo, fornecendo informações detalhadas sobre como ele é desenvolvido, implementado e revisado. Além disso, ela também destaca a importância do Plano de Ensino para os discentes ao planejarem suas carreiras."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção por apresentar uma visão mais completa e detalhada do Plano de Ensino, abordando diferentes aspectos e componentes. Além disso, ela também ajuda os leitores a entender melhor o papel importante do Plano de Ensino no processo educativo."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes sobre os estágios obrigatórios, incluindo a regulamentação, documentação e formalização, compromissos e créditos. Além disso, ela menciona exemplos de cursos que exigem estágios obrigatórios, o que mostra uma compreensão mais profunda do tema."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre os estágios obrigatórios, incluindo a regulamentação, documentação e formalização, compromissos e créditos. Além disso, ela menciona exemplos de cursos que exigem estágios obrigatórios, o que mostra uma variedade de informações."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a entender melhor os requisitos e procedimentos para os estágios obrigatórios, tornando mais fácil para os alunos tomar decisões informadas. Além disso, ela fornece informações sobre como formalizar o TCE e quais são as responsabilidades das partes envolvidas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua compreensividade, diversidade e capacidade de empoderar os leitores. Ela fornece mais detalhes sobre os estágios obrigatórios, apresenta diferentes perspectivas e insights, e ajuda a entender melhor os requisitos e procedimentos para os estágios obrigatórios."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e passos específicos para a realização do estágio, incluindo o pré-cadastro no SIGAA, a assinatura do Termo de Compromisso de Estágio (TCE), a confirmação e registro, informações adicionais sobre horário e seguro contra acidentes pessoais. Isso mostra que a resposta 2 é mais completa e abrangente em relação à questão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre o processo de estágio, incluindo a importância do Termo de Compromisso de Estágio (TCE) e os passos necessários para a realização do estágio. Isso mostra que a resposta 2 é mais variada e rica em relação à questão."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os passos necessários para realizar o estágio, incluindo a importância de assinar o Termo de Compromisso de Estágio (TCE) e a confirmação no SIGAA. Isso mostra que a resposta 2 é mais empoderadora em relação à questão."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abrangência, diversidade e capacidade de empoderar o leitor. Ela fornece mais detalhes e passos específicos para a realização do estágio, apresenta diferentes perspectivas e insights sobre o processo de estágio e ajuda o leitor a entender melhor os passos necessários para realizar o estágio."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre os requisitos para a formatura, incluindo a integralização do número de horas exigidas, participação na Colação de Grau e procedimentos para rescisão do estágio. Além disso, ela também aborda suportes institucionais disponíveis para ajudar na conclusão do curso."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações e perspectivas sobre a formatura, incluindo a importância da participação em eventos acadêmicos e suportes institucionais disponíveis. Isso mostra que ela é mais rica e variada do que a resposta 1."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os requisitos para a formatura e como se preparar para eles. Além disso, ela também fornece informações sobre suportes institucionais disponíveis, o que pode ajudar o leitor a sentir-se mais confiante e empoderado em relação ao processo de formatura."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque ela fornece uma visão completa e detalhada dos requisitos para a formatura, apresenta uma variedade de informações e perspectivas e ajuda o leitor a se sentir mais confiante e empoderado em relação ao processo. Além disso, ela também aborda suportes institucionais disponíveis, o que é um aspecto importante para ajudar os alunos a concluir seu curso."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão mais detalhada e completa do processo de colação de grau, incluindo as etapas necessárias para a formatura, como submissão de documentos, avaliação dos requisitos acadêmicos e participação na cerimônia. Além disso, ela também aborda situações especiais e exemplos de cerimônias, o que demonstra uma compreensão mais profunda do tema."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre a colação de grau, incluindo a importância da celebração do esforço e dedicação dos alunos, bem como a possibilidade de aplicar os conhecimentos adquiridos no mercado de trabalho ou em outras áreas da vida. Além disso, ela também aborda diferentes tipos de cerimônias, o que demonstra uma riqueza de informações e perspectivas."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a entender melhor o processo de colação de grau e os requisitos necessários para a formatura, tornando-a mais empoderante do que a resposta 1. Além disso, ela também fornece informações práticas sobre como participar da cerimônia e receber o diploma, o que pode ajudar os alunos a se sentir mais preparados e confiantes."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais detalhada e completa do processo de colação de grau, bem como pela riqueza de informações e perspectivas que ela apresenta. Além disso, ela também ajuda a entender melhor o tema e fornece informações práticas para os alunos, tornando-a mais empoderante e útil."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre os programas de intercâmbio da UnB, incluindo os benefícios, regras e processos para participar desses programas. Além disso, ela lista exemplos de acordos de intercâmbio com instituições nacionais e internacionais, o que demonstra uma compreensão mais profunda do assunto."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre os programas de intercâmbio da UnB, incluindo a experiência internacional, o acesso a recursos acadêmicos e a rede de networking. Além disso, ela destaca a importância da globalização do conhecimento e da integração cultural."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os programas de intercâmbio da UnB e como participar desses programas. Além disso, ela fornece informações detalhadas sobre os requisitos e processos para participar, o que permite ao leitor tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua abordagem mais completa e detalhada dos programas de intercâmbio da UnB. Ela fornece informações valiosas sobre os benefícios, regras e processos para participar desses programas, além de apresentar diferentes perspectivas e ajudar o leitor a tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre a monitoria, incluindo a carga horária, o processo de seleção dos monitores e as responsabilidades dos mesmos. Além disso, ela menciona as oportunidades oferecidas pela monitoria, como a redução dos índices de reprovação e evasão na universidade, e os recursos disponíveis para os alunos, como ajuda acadêmica e apoio psicológico."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais ampla da monitoria, enfatizando a cooperação mútua entre estudantes e professores, além de proporcionar experiência prática aos discentes. Ela também destaca a importância da articulação entre teoria e prática na formação acadêmica dos alunos."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor como funciona a monitoria, incluindo os requisitos para se tornar um monitor e as responsabilidades associadas. Além disso, ela fornece informações sobre como procurar apoio acadêmico e outros recursos disponíveis na universidade."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a vencedora geral devido à sua abordagem mais detalhada e completa da monitoria. Ela fornece informações precisas sobre como funciona o programa, incluindo os requisitos para se tornar um monitor e as responsabilidades associadas. Além disso, ela destaca as oportunidades oferecidas pela monitoria e os recursos disponíveis para os alunos."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre os passos para se tornar um monitor na UnB, incluindo requisitos acadêmicos, interesse e proatividade, inscrição, seleção e aprovação. Além disso, ela inclui exemplos práticos e resumo do processo, o que torna a resposta mais completa e detalhada."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre a função de monitor, incluindo a importância da coordenação do curso, o papel da SAA e exemplos práticos. Isso torna a resposta mais rica e variada em termos de conteúdo."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os requisitos e procedimentos para se tornar um monitor na UnB, além de fornecer informações sobre as responsabilidades específicas da função. Isso permite que o leitor faça julgamentos informados sobre a oportunidade de ser um monitor."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção em termos de compreensão, diversidade e empowerment. Ela fornece mais detalhes e informações sobre os passos para se tornar um monitor na UnB, apresenta diferentes perspectivas e insights, e ajuda o leitor a entender melhor as responsabilidades específicas da função."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes sobre a tutoria na UnB, incluindo a coordenação do Decanato de Ensino de Graduação (DEG), as formas de suporte oferecidas pela CoEduca e a Diretoria de Acompanhamento e Integração Acadêmica (DAIA). Além disso, ela aborda aspectos emocionais e psicológicos da tutoria, o que não é mencionado na resposta 1."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais ampla e diversificada da tutoria na UnB, incluindo a coordenação dos processos de apoio aos discentes e a promoção do desenvolvimento integral. A resposta 1 se concentra principalmente no programa de apoio acadêmico."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como a tutoria pode contribuir para o sucesso acadêmico e pessoal dos discentes, além de fornecer informações sobre as formas de suporte oferecidas pela UnB. A resposta 1 se concentra mais na descrição do programa de apoio acadêmico."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a vencedora geral porque fornece uma visão mais completa e diversificada da tutoria na UnB, incluindo aspectos emocionais e psicológicos. Além disso, ela ajuda o leitor a entender melhor como a tutoria pode contribuir para o sucesso acadêmico e pessoal dos discentes."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma descrição mais detalhada e completa das características da tutoria e monitoria, incluindo objetivos, estruturação, componentes e exemplos de como elas são implementadas na Universidade de Brasília. Além disso, a resposta 2 apresenta uma comparação mais clara entre as duas iniciativas, destacando suas diferenças e semelhanças."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 oferece uma visão mais variada e rica das tutoria e monitoria, apresentando diferentes perspectivas e insights sobre as duas iniciativas. Ela também destaca a importância de ambas no processo educacional, mostrando como elas podem ser utilizadas em diferentes contextos e momentos do desenvolvimento acadêmico."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor as diferenças entre tutoria e monitoria, fornecendo informações claras e precisas sobre como elas são implementadas e quais são seus objetivos. Além disso, ela permite que o leitor faça julgamentos informados sobre a importância de ambas iniciativas no processo educacional."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção por apresentar uma descrição mais detalhada e completa das características da tutoria e monitoria, oferecer uma visão mais variada e rica dessas iniciativas e ajudar o leitor a entender melhor suas diferenças e importância no processo educacional."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes e informações sobre os programas de ajuda oferecidos pela UnB, incluindo a descrição dos benefícios e como se inscrever. Além disso, ela menciona a Política de Assistência Estudantil da UnB, o que sugere uma abordagem mais completa e sistemática em relação à assistência estudantil."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade maior de programas de ajuda, incluindo o Programa Auxílio Creche (PACreche), que não está mencionado na resposta 1. Além disso, ela destaca a importância da assistência psicológica e social, o que sugere uma abordagem mais holística em relação ao bem-estar estudantil."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece informações mais claras sobre como os alunos podem se inscrever nos programas de ajuda e contatar a Secretaria de Administração Acadêmica (SAA) da UnB. Além disso, ela destaca a importância do bem-estar mental dos estudantes, o que sugere uma abordagem mais empoderadora em relação à assistência estudantil."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a vencedora geral devido ao seu equilíbrio entre diversidade e empowerment. Ela apresenta uma variedade maior de programas de ajuda e destaca a importância do bem-estar mental dos estudantes, o que sugere uma abordagem mais holística e empoderadora em relação à assistência estudantil."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma lista detalhada de plataformas utilizadas pela UnB, incluindo suas funções e como acessá-las. Isso permite que o leitor tenha uma compreensão clara das ferramentas disponíveis para facilitar seu processo acadêmico na universidade."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de plataformas, incluindo SIGAA, MOODLE (APRENDER 3), Inspira UnB, CEAD e APRENDER 3, cada uma com suas próprias funções. Isso demonstra que a resposta 2 fornece diferentes perspectivas e insights sobre as plataformas utilizadas pela UnB."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender como utilizar cada plataforma de forma eficaz, fornecendo informações importantes sobre como acessar recursos e atividades das disciplinas, realizar matrículas em disciplinas, entre outros. Isso permite que o leitor faça julgamentos informados sobre as plataformas disponíveis."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua abordagem completa e detalhada das plataformas utilizadas pela UnB. Ela fornece uma compreensão clara, diversidade de perspectivas e ajuda o leitor a tomar decisões informadas sobre como utilizar essas ferramentas para facilitar seu processo acadêmico."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes sobre a fórmula utilizada para calcular o IRA, incluindo exemplos de notas numéricas e como elas são atribuídas. Além disso, ela menciona processos internos da UnB em que o IRA é utilizado, como acesso a certos benefícios e desempates no processo de matrícula. Isso mostra uma compreensão mais profunda do tema e fornece informações adicionais para os leitores."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre o uso do IRA na UnB, incluindo a possibilidade de revisão das menções obtidas e a utilização do sistema SIGAA para monitorar os desempenhos acadêmicos. Isso mostra uma variedade de informações e permite aos leitores entender melhor como o IRA é utilizado em diferentes contextos."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda os leitores a entender melhor como o IRA é calculado e como ele pode ser utilizado para tomar decisões informadas sobre suas escolhas curriculares. Além disso, ela fornece informações práticas sobre como acessar as informações do IRA atualizado no sistema SIGAA, permitindo que os alunos monitoriem seu rendimento ao longo do tempo."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua compreensão mais profunda do tema, variedade de informações e capacidade de empoderar os leitores com conhecimentos práticos. Ela fornece uma visão holística do desempenho acadêmico dos alunos na UnB e mostra como o IRA é utilizado em diferentes contextos."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma lista detalhada e estruturada dos direitos e deveres dos estudantes da UnB, incluindo informações sobre acesso ao ensino, formação acadêmica, pesquisa e inovação, extensão, cidadania ativa, documentos oficiais e revisão de menção. Além disso, ela também aborda os deveres dos estudantes, como respeito aos valores da universidade, presença acadêmica, participação ativa, adequação ao histórico escolar e cumprimento das normas acadêmicas."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de perspectivas e insights sobre os direitos e deveres dos estudantes da UnB, incluindo a importância da formação acadêmica, da pesquisa e inovação, da extensão e da cidadania ativa. Além disso, ela também aborda as responsabilidades dos estudantes em relação à universidade e à sociedade."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os direitos e deveres dos estudantes da UnB, fornecendo informações claras e precisas sobre as expectativas da universidade em relação aos seus alunos. Além disso, ela também promove a reflexão crítica e a tomada de decisões informadas por parte do leitor."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque fornece uma visão completa e detalhada dos direitos e deveres dos estudantes da UnB, apresenta uma variedade de perspectivas e insights e ajuda o leitor a entender melhor os conceitos. Além disso, ela também promove a reflexão crítica e a tomada de decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre os passos a serem seguidos para solicitar uma revisão de menção, incluindo a necessidade de preencher o formulário de revisão de menção e anexar documentos justificativos. Além disso, ela menciona as instâncias superiores da UnB que podem ser interpostas caso a solicitação não seja atendida. Isso mostra que a resposta 1 é mais completa e abrangente em relação à resposta 2."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais detalhada sobre o processo de revisão de menção, incluindo a identificação da menção, os prazos e a utilização do SIGAA. Além disso, ela destaca a importância de manter comunicação com o setor responsável pela revisão da menção. Isso mostra que a resposta 2 é mais variada e rica em termos de perspectivas e insights sobre o processo de revisão de menção."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor os passos a serem seguidos para solicitar uma revisão de menção e como interpor recurso caso a solicitação não seja atendida. Além disso, ela destaca a importância de estar ciente das normas vigentes e participar das discussões nos órgãos colegiados. Isso mostra que a resposta 1 é mais empoderadora em termos de ajudar o leitor a tomar decisões informadas sobre o processo de revisão de menção."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "Considerando os três critérios, a resposta 1 é considerada a vencedora. Ela apresenta uma visão mais completa e abrangente sobre o processo de revisão de menção, ajuda o leitor a entender melhor os passos a serem seguidos e como interpor recurso caso a solicitação não seja atendida. Além disso, ela destaca a importância de estar ciente das normas vigentes e participar das discussões nos órgãos colegiados."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre os requisitos necessários para se formar na UnB, incluindo a formalização do registro acadêmico, matrícula em disciplinas, cumprimento de exigências curriculares e conclusão dos estágios obrigatórios. Além disso, ela menciona a importância da documentação atualizada e da comunicação institucional. A resposta 1 é mais concisa, mas não fornece informações tão detalhadas."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de perspectivas e insights sobre os requisitos necessários para se formar na UnB. Ela menciona a importância da integração com a sociedade através das várias modalidades de estágios, intercâmbio e mobilidade acadêmica, além de destacar os programas e recursos de apoio oferecidos pela universidade. A resposta 1 é mais focada nos requisitos básicos para se formar."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os requisitos necessários para se formar na UnB e como atingi-los. Ela fornece informações claras e concisas sobre cada etapa do processo, tornando mais fácil para o leitor tomar decisões informadas. A resposta 1 é mais concisa, mas não ajuda tanto a empoderar o leitor."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais detalhada e diversificada dos requisitos necessários para se formar na UnB. Ela fornece informações claras e concisas, ajuda o leitor a entender melhor os processos envolvidos e oferece uma variedade de perspectivas e insights sobre como atingir seus objetivos acadêmicos."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão mais detalhada e completa do processo de matrícula na UnB, incluindo as etapas do Registro Acadêmico, Relação Provisória da Homologação, Homologação Definitiva do Registro Acadêmico, Recebimento do Número de Matrícula, Cadastro na Plataforma SIGAA e Matrícula em Disciplinas. Além disso, ela inclui informações sobre os documentos necessários e recursos úteis para o aluno."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de perspectivas e insights sobre o processo de matrícula na UnB, incluindo a importância da aprovação em processo seletivo, do Registro Acadêmico e da homologação definitiva. Além disso, ela destaca a necessidade de conferir a grade horária e localizar as aulas no SIGAA."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor o processo de matrícula na UnB e a tomar decisões informadas sobre sua própria matrícula. Ela fornece informações claras e concisas sobre as etapas do processo, os documentos necessários e recursos úteis para o aluno."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua abordagem mais completa e detalhada do processo de matrícula na UnB. Ela fornece uma visão mais ampla e diversificada das etapas do processo, dos documentos necessários e recursos úteis para o aluno, tornando-a a resposta mais empoderadora e informativa."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e etapas do processo de matrícula, incluindo a matrícula automática, confirmação da matrícula, acesso ao Portal do Discente, verificação dos horários e consulta ao Calendário Acadêmico. Além disso, ela inclui informações sobre o SIGAA e como os alunos podem acessar recursos adicionais para entender melhor os códigos e estrutura dos horários."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre o processo de matrícula, incluindo a importância da confirmação da matrícula, acesso ao Portal do Discente e verificação dos horários. Além disso, ela destaca a necessidade de os alunos estarem preparados e terem um plano de matrícula antes do processo oficial começar."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda os leitores a entender melhor o processo de matrícula, fornecendo informações detalhadas e orientações úteis. Além disso, ela destaca a importância da empoderamento dos alunos para que eles possam tomar decisões informadas sobre suas matrículas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais detalhada e diversificada do processo de matrícula. Ela fornece informações precisas, orientações úteis e destaca a importância da empoderamento dos alunos para que eles possam tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece detalhes específicos sobre como confirmar a pré-matrícula em disciplinas na UnB, incluindo etapas de autocadastro no SIGAA, acesso ao Portal do Discente, consulta ao Calendário Acadêmico e inscrição automática. Além disso, ela também inclui informações sobre como entender os códigos de horários no SIGAA e como verificar o e-mail institucional. Isso mostra que a resposta 2 é mais completa e detalhada em relação à questão."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações e recursos para ajudar o aluno a confirmar a pré-matrícula em disciplinas, incluindo links para acessar o SIGAA, Portal do Discente e Calendário Acadêmico. Além disso, ela também inclui dicas sobre como usar os aplicativos Microsoft Office 365 Educacional. Isso mostra que a resposta 2 é mais rica e variada em relação à questão."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o aluno a entender melhor como confirmar a pré-matrícula em disciplinas, fornecendo informações claras e detalhadas sobre os procedimentos. Além disso, ela também inclui dicas sobre como evitar problemas e como entrar em contato com a Secretaria de Administração Acadêmica (SAA) se necessário. Isso mostra que a resposta 2 é mais empoderadora para o aluno."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque ela atende aos três critérios de Compreensividade, Diversidade e Empoderamento. Ela fornece informações detalhadas e claras sobre como confirmar a pré-matrícula em disciplinas, apresenta uma variedade de recursos e ajuda o aluno a entender melhor os procedimentos. Isso torna a resposta 2 mais útil e eficaz para ajudar o aluno a resolver sua dúvida."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre as atividades complementares e como elas podem ser aproveitadas na UnB. Ela menciona especificamente os benefícios da participação em projetos de extensão, como contribuição social, desenvolvimento pessoal e profissional, aumento do perfil acadêmico e flexibilidade na frequência. Além disso, ela fornece links para sites específicos que podem ser úteis para mais informações."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais ampla das atividades complementares na UnB, incluindo pesquisas científicas, projetos de extensão, oficinas de habilidades sociais e eventos culturais. Ela também menciona a CoEduca e o Programa Auxílio Socioeconômico (PASeUnB), que são iniciativas importantes para promover o bem-estar dos estudantes."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a empoderar os leitores ao fornecer informações detalhadas sobre como participar das atividades complementares e quais são as vantagens de fazê-lo. Ela também destaca a importância da interação ativa entre a academia e a sociedade, permitindo que os estudantes se envolvam em projetos que têm impacto real na comunidade."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a vencedora geral porque ela apresenta uma visão mais ampla e diversificada das atividades complementares na UnB, além de fornecer informações detalhadas sobre como participar dessas atividades. Ela também ajuda a empoderar os leitores ao destacar as vantagens da participação em projetos de extensão e a importância da interação ativa entre a academia e a sociedade."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão mais completa e detalhada do processo de estágio obrigatório na UnB, incluindo a regulamentação, coordenação, formalização, acompanhamento e supervisão. Além disso, ela aborda os aspectos legais e administrativos envolvidos no processo, como o Termo de Compromisso de Estágio (TCE) e o registro em SIGAA."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações sobre as diferentes organizações envolvidas no processo de estágio obrigatório, como a Coordenação de Estágios (CESG) e o Decanato de Ensino de Graduação (DEG). Além disso, ela aborda os benefícios do estágio para os estudantes, incluindo a aprendizagem prática e a assistência financeira."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como funciona o estágio obrigatório na UnB e como ele pode ser benéfico para os estudantes. Além disso, ela fornece informações práticas sobre como registrar o estágio e como apresentar relatórios periódicos ou finais."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua abordagem mais completa, diversificada e empoderadora do tema. Ela fornece informações detalhadas sobre o processo de estágio obrigatório, incluindo a regulamentação, coordenação e acompanhamento, além de abordar os benefícios para os estudantes."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre as normas para a realização de eventos e festas na UnB, incluindo regulamentações gerais, procedimentos de aprovação, requisitos de segurança e saúde, limites de ruído e questões de custo. Além disso, ela fornece sugestões sobre onde buscar informações mais precisas e detalhadas."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre as normas para a realização de eventos e festas na UnB, incluindo a possibilidade de existência de um órgão administrativo ou organização estudantil responsável por gerenciar esses eventos. Além disso, ela discute os procedimentos e requisitos necessários para realizar esses eventos."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor as normas e procedimentos para a realização de eventos e festas na UnB, fornecendo informações detalhadas e sugestões sobre onde buscar mais informações. Isso permite que o leitor faça julgamentos informados sobre o assunto."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua abordagem mais completa e detalhada das normas para a realização de eventos e festas na UnB. Ela fornece informações precisas, sugestões sobre onde buscar mais informações e diferentes perspectivas sobre o assunto, tornando-a mais empoderante e útil para os leitores."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e contexto sobre as políticas de diversidade da UnB, mencionando programas específicos como PASeUnB, CoEduca e CEPE. Além disso, ela também destaca a liderança da Reitora Maria do Socorro Mendes Gomes em promover a inclusão e igualdade. Isso mostra que a resposta 2 aborda mais aspectos e detalhes sobre o tema."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de perspectivas e iniciativas da UnB, incluindo programas sociais, culturais e acadêmicos. Isso mostra que a resposta 2 é mais rica em termos de diversidade de informações e pontos de vista."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor as políticas de diversidade da UnB, mostrando como essas políticas são implementadas em diferentes áreas. Além disso, ela também destaca a importância da inclusão e igualdade, ajudando o leitor a fazer julgamentos informados sobre o tema."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais completa e diversificada do tema. Ela fornece detalhes específicos, apresenta uma variedade de perspectivas e ajuda o leitor a entender as políticas de diversidade da UnB de forma mais profunda."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre os serviços de apoio oferecidos pela UnB, incluindo a Tutoria, Monitoria, Programas de Estágio, Programa Moradia Estudantil da Graduação (PME-G) e Programa Auxílio Creche. Além disso, ela também menciona a Política de Assistência Estudantil da UnB, que é uma abordagem mais completa e detalhada em relação à resposta 1."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade maior de serviços de apoio oferecidos pela UnB, incluindo apoio psicológico, assistência socioeconômica, tutoria, monitoria e programas de estágio. Isso mostra que a UnB tem uma abordagem mais diversificada e inclusiva para atender às necessidades dos estudantes com necessidades específicas."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os serviços de apoio oferecidos pela UnB e como eles podem ser acessados. Além disso, ela também fornece informações sobre como esses serviços podem ajudar os estudantes a se desenvolver academica e pessoalmente, independentemente das suas circunstâncias socioeconômicas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais completa e detalhada dos serviços de apoio oferecidos pela UnB. Além disso, ela também apresenta uma variedade maior de serviços e ajuda o leitor a entender melhor como eles podem ser acessados e utilizados para se desenvolver academica e pessoalmente."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão mais completa e detalhada das avaliações docentes na UnB, incluindo a definição de políticas gerais, planos pedagógicos, ferramentas tecnológicas e práticas educacionais. Além disso, ela aborda diferentes aspectos da avaliação docente, como a autoavaliação, a avaliação interna e externa, e a comunicação e feedback."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de perspectivas e insights sobre as avaliações docentes na UnB, incluindo a definição de políticas gerais, planos pedagógicos, ferramentas tecnológicas e práticas educacionais. Além disso, ela aborda diferentes aspectos da avaliação docente, o que demonstra uma riqueza de informações e uma visão mais completa do tema."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a entender melhor como as avaliações docentes funcionam na UnB e como elas contribuem para a qualidade do ensino e aprendizagem. Além disso, ela fornece informações práticas sobre como os professores podem ser avaliados e como eles podem melhorar seus métodos de ensino e avaliação."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora em todos os critérios, pois fornece uma visão mais completa e detalhada das avaliações docentes na UnB, apresenta uma variedade de perspectivas e insights, e ajuda a entender melhor como as avaliações contribuem para a qualidade do ensino e aprendizagem."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre os documentos oficiais da UnB, incluindo o histórico escolar, declarações, atestados e termos de compromisso. Além disso, ela oferece passo a passo específico para cada tipo de documento, tornando-a mais completa e útil."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de opções para obter documentos oficiais, incluindo o SIGAA, SEI, peticionamento eletrônico e canais formais. Isso mostra que ela é mais diversificada e oferece mais opções para os discentes."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda os discentes a entender melhor como obter documentos oficiais da UnB, fornecendo informações claras e precisas. Além disso, ela oferece recursos para gerenciar e solicitar estes documentos, tornando-a mais empoderante."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua compreensão completa, diversidade de opções e capacidade de empoderar os discentes. Ela oferece mais detalhes, passo a passo específico e recursos para gerenciar documentos oficiais da UnB."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre os programas de assistência socioeconômica disponíveis para estudantes na UnB, incluindo o Programa Auxílio Socioeconômico (PASeUnB), o Programa Bolsa Alimentação no Restaurante Universitário, o Programa Moradia Estudantil da Graduação (PME-G) e o Programa Auxilio Creche. Além disso, a resposta 2 também menciona recursos específicos como monitoria e apoio psicológico."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de perspectivas e insights sobre os programas de assistência socioeconômica, incluindo a oferta de moradias, auxílio financeiro e apoio psicológico. Além disso, a resposta 2 também destaca a importância da monitoria para o desenvolvimento acadêmico dos estudantes."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda os leitores a entender melhor as opções de assistência socioeconômica disponíveis e como se inscrever em cada programa. Além disso, a resposta 2 também destaca a importância da permanência dos alunos na universidade, independentemente das condições financeiras."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abrangência e variedade de informações sobre os programas de assistência socioeconômica. Além disso, a resposta 2 também ajuda os leitores a entender melhor as opções disponíveis e como se inscrever em cada programa."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e passos específicos para solicitar a dispensa de disciplina na UnB, incluindo a necessidade de acessar o portal da SAA, consultar informações específicas no site do DEG e preencher formulários com todas as informações necessárias. Além disso, ela destaca a importância de manter-se atento às regras e prazos para evitar retrabalhos desnecessários."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma abordagem mais variada e rica, incluindo a necessidade de analisar a ementa da disciplina cursada fora da UnB e compará-la com as matérias ofertadas pelo curso na UnB. Além disso, ela destaca a importância de buscar orientações detalhadas junto à SAA ainda antes de iniciar o processo."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda mais a empoderar o leitor, fornecendo informações claras e precisas sobre como solicitar a dispensa de disciplina na UnB. Além disso, ela destaca a importância de manter-se atento às regras e prazos para evitar retrabalhos desnecessários, o que ajuda a empoderar o leitor a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais detalhada e variada, que ajuda a empoderar o leitor a tomar decisões informadas. Além disso, ela fornece informações claras e precisas sobre como solicitar a dispensa de disciplina na UnB."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão detalhada e completa sobre como a UnB lida com inclusão e diversidade, incluindo programas de apoio socioeconômico, moradia estudantil, serviços de apoio psicológico, programas de extensão, políticas acadêmicas, reintegração e diversidade acadêmica. Isso mostra que a UnB tem uma abordagem multifacetada para promover inclusão e diversidade."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e iniciativas da UnB, como apoio socioeconômico, moradia estudantil, serviços de apoio psicológico e programas de extensão. Isso mostra que a UnB valoriza a diversidade e busca criar um ambiente inclusivo para todos os alunos."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como a UnB promove inclusão e diversidade, fornecendo exemplos concretos de programas e políticas. Isso permite que os alunos se sintam mais empoderados para participar do ambiente acadêmico da UnB."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral porque apresenta uma visão completa e detalhada sobre como a UnB lida com inclusão e diversidade, valoriza a diversidade e busca criar um ambiente inclusivo para todos os alunos. Além disso, ajuda o leitor a entender melhor as iniciativas da UnB e se sentir mais empoderado para participar do ambiente acadêmico."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece detalhes específicos sobre como solicitar matrícula em disciplinas optativas na UnB, incluindo os passos a seguir e as datas importantes. Além disso, ela também inclui informações sobre o SIGAA e como acessá-lo para verificar a grade horária e solicitar matrícula. Isso mostra que a resposta 2 é mais completa e abrangente do que a resposta 1."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre como solicitar matrícula em disciplinas optativas, incluindo a importância de verificar se está habilitado(a) e aguardar a notificação da SAA. Além disso, ela também inclui informações sobre o SIGAA e como acessá-lo para verificar a grade horária e solicitar matrícula. Isso mostra que a resposta 2 é mais variada e rica do que a resposta 1."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como solicitar matrícula em disciplinas optativas na UnB, fornecendo informações claras e precisas sobre os passos a seguir. Além disso, ela também inclui informações sobre as datas importantes e como acessar o SIGAA para verificar a grade horária e solicitar matrícula. Isso mostra que a resposta 2 é mais empoderadora do que a resposta 1."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abrangência, diversidade e capacidade de empoderar o leitor. Ela fornece informações claras e precisas sobre como solicitar matrícula em disciplinas optativas na UnB, incluindo os passos a seguir e as datas importantes. Além disso, ela também inclui informações sobre o SIGAA e como acessá-lo para verificar a grade horária e solicitar matrícula."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes sobre o sistema de tutoria na UnB, incluindo informações sobre a seleção dos tutores, as atividades e benefícios oferecidos aos tutores, além de informações adicionais sobre o programa. Além disso, ela também menciona o sistema de monitoria como uma ferramenta complementar à tutoria."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre o sistema de tutoria na UnB, incluindo a importância da colaboração mútua entre estudantes e professores. Além disso, ela também destaca as oportunidades oferecidas aos tutores, como bolsas com pagamento mensal."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor o sistema de tutoria na UnB e suas vantagens. Além disso, ela também fornece informações práticas sobre como participar do programa e como se tornar um tutor."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais completa e diversificada. Ela fornece informações detalhadas sobre o sistema de tutoria, suas vantagens e como participar do programa."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma descrição detalhada e estruturada do processo de mudança de curso na UnB, incluindo requisitos acadêmicos, condições impostas pelo curso de destino, transferência facultativa, pré-cadastro, aprovação do coordenador, pré-requisitos e correquisitos, revisão do plano de estudos e matrícula final. Além disso, ela inclui referências a normas gerais da UnB e regulamentos específicos que orientam o processo."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações sobre o processo de mudança de curso, incluindo requisitos acadêmicos, condições impostas pelo curso de destino e processos envolvidos. Além disso, ela inclui referências a normas gerais da UnB e regulamentos específicos que orientam o processo, o que demonstra uma riqueza de perspectivas e insights sobre o tema."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a entender melhor os requisitos e processos envolvidos na mudança de curso, fornecendo informações claras e precisas. Além disso, ela inclui referências a normas gerais da UnB e regulamentos específicos que orientam o processo, o que permite aos leitores tomar decisões informadas sobre como proceder com a mudança de curso."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção por apresentar uma descrição detalhada e estruturada do processo de mudança de curso, incluindo requisitos acadêmicos, condições impostas pelo curso de destino e processos envolvidos. Além disso, ela inclui referências a normas gerais da UnB e regulamentos específicos que orientam o processo, o que demonstra uma riqueza de perspectivas e insights sobre o tema e ajuda os leitores a tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e passos específicos para acessar e usar a plataforma APRENDER 3, incluindo a criação do pré-cadastro de estágio, cadastro do supervisor(a) e início do processo. Além disso, ela aborda também o download de documentos importantes como o Termo de Compromisso de Estágio (TCE). Isso mostra que a resposta 2 é mais completa e detalhada em relação à resposta 1."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre como acessar e usar a plataforma APRENDER 3, incluindo a criação do pré-cadastro de estágio, cadastro do supervisor(a) e início do processo. Além disso, ela aborda também o download de documentos importantes como o Termo de Compromisso de Estágio (TCE). Isso mostra que a resposta 2 é mais variada e rica em relação à resposta 1."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como acessar e usar a plataforma APRENDER 3, fornecendo informações detalhadas sobre os passos necessários para criar o pré-cadastro de estágio, cadastro do supervisor(a) e início do processo. Além disso, ela aborda também o download de documentos importantes como o Termo de Compromisso de Estágio (TCE), o que ajuda o leitor a tomar decisões informadas sobre seu estágio curricular obrigatório na UnB."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua maior compreensão, diversidade e capacidade de empoderar o leitor. Ela fornece mais detalhes e passos específicos para acessar e usar a plataforma APRENDER 3, abordando também o download de documentos importantes como o Termo de Compromisso de Estágio (TCE). Além disso, ela ajuda o leitor a entender melhor como criar o pré-cadastro de estágio, cadastro do supervisor(a) e início do processo, tornando-a uma ferramenta mais eficaz para ajudar os estudantes da UnB."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma descrição detalhada do Programa de Avaliação Seriada (PAS), incluindo seus objetivos, características e benefícios. Além disso, ela apresenta exemplos concretos de como o PAS funciona e quais são os requisitos e expectativas para os alunos. Isso mostra que a resposta 2 é mais completa e abrangente em relação à pergunta feita."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre o PAS, incluindo sua importância para a melhoria do desempenho acadêmico dos alunos e como ele se diferencia da avaliação tradicional. Além disso, ela destaca os benefícios do PAS, como promover uma aprendizagem mais ativa e participativa. Isso mostra que a resposta 2 é mais rica em termos de diferentes perspectivas e insights sobre o tema."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda os leitores a entender melhor como funciona o PAS e quais são as expectativas para os alunos. Além disso, ela destaca a importância de recorrer a recursos de apoio acadêmico disponíveis na UnB se surgirem dúvidas ou dificuldades durante os processos de avaliação. Isso mostra que a resposta 2 é mais empoderante para os leitores, pois fornece informações e orientações necessárias para tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor em todos os critérios avaliados. Ela apresenta uma descrição detalhada do PAS, diferentes perspectivas sobre o tema e ajuda os leitores a entender melhor como funciona o sistema de avaliação contínua da UnB."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e etapas específicas para a colação de grau e emissão do diploma na UnB, incluindo a revisão e aprovação da menção, homologação do registro acadêmico e submissão de documentos adicionais. Além disso, ela destaca a importância de seguir os prazos estabelecidos no Calendário Acadêmico da UnB e manter-se em contato com a SAA."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre o processo de colação de grau e emissão do diploma, incluindo a importância da transparência e suporte aos estudantes. Além disso, ela destaca a necessidade de manter-se informado sobre as atualizações oficiais da universidade."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os procedimentos e requisitos para a colação de grau e emissão do diploma, fornecendo informações claras e concisas. Além disso, ela destaca a importância da responsabilidade dos estudantes em seguir os prazos estabelecidos e manter-se informados."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais detalhada e completa dos procedimentos para a colação de grau e emissão do diploma. Além disso, ela apresenta diferentes perspectivas e insights sobre o processo, ajudando o leitor a entender melhor os requisitos e prazos estabelecidos pela UnB."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma visão mais completa e detalhada dos trancamentos de matrícula na UnB, incluindo os tipos de trancamento (TGM e TPG), as justificativas aceitas e o processo de solicitação. Além disso, a resposta 1 menciona que o número de trancamentos justificados não está limitado, o que é uma informação importante para os estudantes."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre os trancamentos de matrícula na UnB, incluindo a possibilidade de reabertura da matrícula após o período de trancamento. Além disso, a resposta 2 menciona as regras gerais para trancamento, que são úteis para os estudantes entenderem melhor o processo."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda os leitores a entender melhor como funcionam os trancamentos de matrícula na UnB, incluindo as justificativas aceitas e o processo de solicitação. Além disso, a resposta 1 fornece informações importantes sobre o número de trancamentos justificados não estar limitado, o que pode ajudar os estudantes a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção porque fornece uma visão mais completa e detalhada dos trancamentos de matrícula na UnB, incluindo as justificativas aceitas e o processo de solicitação. Além disso, a resposta 1 ajuda os leitores a entender melhor como funcionam os trancamentos de matrícula, o que é essencial para tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma lista detalhada e completa dos direitos dos estudantes de EAD na UnB, incluindo acesso ao sistema, suporte ao estudante, auxílio socioeconômico, atendimento psicológico, flexibilidade acadêmica, comunicação com orientadores e professores, mobilidade acadêmica, revisão de menção e aprovação, e diploma digital. Isso mostra que a resposta 2 aborda todos os aspectos importantes dos direitos dos estudantes EAD na UnB."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de perspectivas e insights sobre os direitos dos estudantes EAD na UnB, incluindo a flexibilidade acadêmica, o suporte ao estudante e a mobilidade acadêmica. Isso mostra que a resposta 2 é mais rica e variada em termos de conteúdo."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os direitos dos estudantes EAD na UnB e como eles podem ser exercidos. Além disso, fornece informações detalhadas sobre como acessar recursos e suporte necessários ao longo do curso, o que é fundamental para que os estudantes possam tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua abordagem completa e variada dos direitos dos estudantes EAD na UnB. Ela fornece informações detalhadas sobre como acessar recursos e suporte necessários ao longo do curso, o que é fundamental para que os estudantes possam tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma lista detalhada de passos a serem seguidos para solicitar aproveitamento de estudos na UnB, incluindo orientações prévias, verificação de requisitos e procedimentos para petição eletrônica ou escrita. Além disso, ela aborda também o recurso às instâncias superiores da UnB em caso de não atendimento. A resposta 2 é mais concisa e focada na análise das disciplinas cursadas previamente, mas não fornece a mesma quantidade de detalhes sobre os passos a serem seguidos."
+        },
+        "Diversity": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 apresenta uma variedade de informações e procedimentos para solicitar aproveitamento de estudos, incluindo petição eletrônica, petição escrita e recurso às instâncias superiores. A resposta 2 se concentra principalmente na análise das disciplinas cursadas previamente e não oferece a mesma diversidade de informações."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor os passos a serem seguidos para solicitar aproveitamento de estudos, incluindo orientações prévias e procedimentos para petição eletrônica ou escrita. Além disso, ela aborda também o recurso às instâncias superiores da UnB em caso de não atendimento, o que ajuda a leitor a tomar decisões informadas. A resposta 2 é mais concisa e focada na análise das disciplinas cursadas previamente, mas não fornece a mesma quantidade de informações para ajudar o leitor a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção por fornecer uma lista detalhada de passos a serem seguidos, abordar procedimentos para petição eletrônica ou escrita e oferecer informações sobre recurso às instâncias superiores da UnB. Além disso, ela ajuda o leitor a entender melhor os processos envolvidos e tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre os critérios de frequência na UnB, incluindo a possibilidade de reestabelecer o vínculo com a instituição após ser desligado. Além disso, ela aborda as normas da instituição que exigem aprovação em disciplinas que somam o mínimo de créditos por semestre definido para o curso."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre os critérios de frequência na UnB, incluindo a flexibilidade para situações justificadas e oportunidades para recuperação. Além disso, ela destaca a importância da regularidade no desenvolvimento dos estudos."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda o leitor a entender melhor os critérios de frequência na UnB e como eles afetam a situação acadêmica do estudante. Além disso, ela fornece informações sobre as normas da instituição e as possibilidades de recuperação."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre as iniciativas da UnB para promover a saúde mental dos estudantes, incluindo o Apoio Psicológico, Cursos e Oficinas, Programa Acolhimento, PASeUnB e orientações para calouros. Além disso, ela apresenta um sumário das ações, tornando mais fácil para os leitores entenderem as diferentes iniciativas."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 oferece uma variedade de perspectivas e insights sobre a saúde mental dos estudantes, incluindo apoio psicológico, cursos e oficinas, programa de acolhimento e assistência socioeconômica. Isso demonstra que a UnB está comprometida em abordar diferentes aspectos da saúde mental dos estudantes."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda os leitores a entender melhor as iniciativas da UnB e como elas podem ser úteis para os estudantes. Além disso, ela fornece informações práticas sobre como buscar apoio psicológico e assistência socioeconômica, tornando os leitores mais empoderados para cuidar de sua saúde mental."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral porque ela oferece uma visão mais completa e diversificada das iniciativas da UnB para promover a saúde mental dos estudantes. Além disso, ela ajuda os leitores a entender melhor as diferentes abordagens e como elas podem ser úteis para cuidar de sua saúde mental."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão completa das responsabilidades dos discentes e da UnB, incluindo detalhes sobre a regulamentação, formalização de convênios, supervisão e orientação. Além disso, ela lista as penalidades para infrações, como deslidação ou rescisão do estágio, penalidades acadêmicas e multa pelo sistema. A resposta 1, por outro lado, não fornece informações específicas sobre as responsabilidades e penalidades."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre as responsabilidades dos discentes e da UnB. Ela aborda a regulamentação, formalização de convênios, supervisão e orientação, além das penalidades para infrações. A resposta 1 não oferece uma visão diversificada ou rica sobre o assunto."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a entender melhor as responsabilidades dos discentes e da UnB, bem como as consequências das infrações. Ela fornece informações claras e precisas sobre os procedimentos e penalidades, o que permite aos leitores tomar decisões informadas. A resposta 1 não oferece ajuda significativa para entender ou tomar decisões."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua abordagem completa, diversificada e empoderadora. Ela fornece informações claras e precisas sobre as responsabilidades dos discentes e da UnB, além das penalidades para infrações, o que permite aos leitores entender melhor o assunto e tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes e informações sobre os programas de bolsas e auxílios oferecidos pela UnB, incluindo descrições mais completas das modalidades de cada programa. Além disso, a resposta 1 menciona explicitamente as regras e critérios para participação em cada programa, o que é útil para os estudantes que desejam se inscrever."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais ampla dos programas de bolsas e auxílios oferecidos pela UnB, destacando a importância da assistência socioeconômica para os estudantes. Além disso, a resposta 2 menciona explicitamente a Política de Assistência Estudantil da UnB, o que é uma abordagem mais completa e contextualizada."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece informações mais detalhadas sobre os programas de bolsas e auxílios, o que ajuda os estudantes a entender melhor como se inscrever e quais são as regras e critérios para participação. Além disso, a resposta 1 menciona explicitamente a Secretaria de Administração Acadêmica (SAA) como ponto de contato para mais informações, o que é útil para os estudantes que desejam obter orientação."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a vencedora geral porque fornece uma visão mais completa e detalhada dos programas de bolsas e auxílios oferecidos pela UnB, incluindo descrições mais completas das modalidades de cada programa. Além disso, a resposta 1 ajuda os estudantes a entender melhor como se inscrever e quais são as regras e critérios para participação em cada programa."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre a avaliação dos componentes curriculares na UnB, incluindo o sistema de nota, avaliação contínua, exame final, condições de aprovação, riscos de desligamento e consequências. Além disso, ela também aborda os recursos oferecidos pela UnB para auxiliar estudantes em risco."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações sobre a avaliação dos componentes curriculares, incluindo diferentes métodos de avaliação, sistemas de nota e recursos oferecidos pela UnB. Isso mostra que ela é mais rica em termos de perspectivas e insights."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como funciona a avaliação dos componentes curriculares na UnB, incluindo os requisitos para aprovação e reprovação. Além disso, ela também destaca as consequências de não atender aos requisitos mínimos de desempenho acadêmico e oferece informações sobre recursos disponíveis para auxiliar estudantes em risco."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral porque fornece mais detalhes, diversidade de informações e ajuda o leitor a entender melhor como funciona a avaliação dos componentes curriculares na UnB. Ela também oferece informações sobre recursos disponíveis para auxiliar estudantes em risco."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece detalhes específicos sobre os requisitos e procedimentos para a realização de estágios não obrigatórios na UnB, incluindo o Termo de Compromisso de Estágio (TCE), o procedimento para pré-cadastro, cancelamento do pré-cadastro, termo aditivo e cancelamento. Além disso, ela aborda a documentação necessária, responsabilidades dos envolvidos e observações importantes. Isso demonstra uma compreensão mais profunda e detalhada dos requisitos para os estágios não obrigatórios."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre a realização de estágios não obrigatórios na UnB, incluindo a importância do TCE, o papel do professor orientador, do supervisor no campo de estágio e as responsabilidades dos envolvidos. Além disso, ela aborda questões importantes como carga horária diária, horário de realização do estágio e prioridade da formatura do discente. Isso demonstra uma variedade de pontos de vista e informações relevantes."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os requisitos e procedimentos para a realização de estágios não obrigatórios na UnB, fornecendo informações claras e precisas. Além disso, ela promove a autonomia do aluno ao apresentar as responsabilidades dos envolvidos e as observações importantes, permitindo que o leitor faça julgamentos informados sobre a realização de estágios não obrigatórios."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção em todos os critérios avaliados. Ela apresenta uma compreensão mais profunda e detalhada dos requisitos para os estágios não obrigatórios, oferece diferentes perspectivas e insights importantes, e promove a autonomia do aluno ao fornecer informações claras e precisas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão completa e detalhada do funcionamento do Sistema Eletrônico de Informação (SEI) da UnB, incluindo suas funcionalidades, processos administrativos, relatórios e integração com outros sistemas. Além disso, ela aborda a acessibilidade ao SEI, suporte técnico e importância do sistema para a administração eficaz da universidade."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações sobre o SEI, incluindo diferentes funcionalidades, processos administrativos e relatórios. Além disso, ela aborda a integração com outros sistemas críticos do campus e a importância da inovação e eficiência na gestão administrativa."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como funciona o SEI e como ele pode ser utilizado para melhorar a administração da universidade. Além disso, ela fornece informações sobre como acessar e utilizar o sistema, bem como suporte técnico disponível em caso de dúvidas ou problemas técnicos."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque ela atende aos três critérios: Compreensividade, Diversidade e Empoderamento. Ela fornece uma visão completa do SEI, apresenta uma variedade de informações e ajuda o leitor a entender como utilizar o sistema para melhorar a administração da universidade."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão geral mais detalhada das normas para a realização de atividades nos campi da UnB, incluindo princípios fundamentais e recomendações específicas. Além disso, ela menciona o Manual para estudantes de graduação como fonte oficial de informações sobre as normas vigentes."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de perspectivas e insights sobre as normas para a realização de atividades nos campi da UnB, incluindo o respeito aos valores republicanos, prioridades das finalidades essenciais da UnB e compromisso com a justiça social, paz e preservação do meio ambiente. Além disso, ela destaca a importância de manter um ambiente saudável, tanto físico quanto emocional."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender e tomar decisões informadas sobre as normas para a realização de atividades nos campi da UnB, fornecendo recomendações específicas e orientações para os estudantes. Além disso, ela destaca a importância do envolvimento ativo na comunidade acadêmica e o cumprimento de obrigações acadêmicas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção por apresentar uma visão geral mais detalhada das normas para a realização de atividades nos campi da UnB, oferecer uma variedade de perspectivas e insights, e ajudar o leitor a entender e tomar decisões informadas sobre o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre o CoEduca, incluindo as atividades que oferece e como os estudantes podem se comunicar com eles. Além disso, ela também menciona a importância do CoEduca na integração dos novos estudantes e no fortalecimento de uma cultura de acolhimento entre a comunidade acadêmica."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre o CoEduca, incluindo as atividades que oferece e como os estudantes podem se comunicar com eles. Além disso, ela também menciona a importância do CoEduca na integração dos novos estudantes e no fortalecimento de uma cultura de acolhimento entre a comunidade acadêmica."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda os leitores a entender melhor o papel do CoEduca na UnB e como eles podem se beneficiar das atividades oferecidas. Além disso, ela também fornece informações sobre como os estudantes podem se comunicar com o CoEduca, o que os torna mais empoderados para tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora em todos os critérios. Ela fornece informações detalhadas e variadas sobre o CoEduca, ajuda os leitores a entender melhor seu papel na UnB e os torna mais empoderados para tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão completa das responsabilidades das entidades que produzem eventos na UnB, incluindo detalhes sobre a coordenação de estágios, comunicação, supervisão acadêmica e apoio socioeconômico. Além disso, ela lista as diferentes entidades envolvidas e suas respectivas responsabilidades, o que demonstra uma compreensão mais profunda do tema."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de perspectivas e insights sobre as responsabilidades das entidades que produzem eventos na UnB, incluindo a coordenação de estágios, comunicação, supervisão acadêmica e apoio socioeconômico. Além disso, ela destaca a importância da cooperação entre os departamentos para garantir a realização eficiente e bem-sucedida dos eventos."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor as responsabilidades das entidades que produzem eventos na UnB, fornecendo informações detalhadas e específicas sobre cada departamento. Além disso, ela destaca a importância da cooperação entre os departamentos para garantir a realização eficiente e bem-sucedida dos eventos, o que permite ao leitor tomar decisões informadas sobre o tema."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua capacidade de fornecer uma visão completa e detalhada das responsabilidades das entidades que produzem eventos na UnB, além de apresentar uma variedade de perspectivas e insights sobre o tema. Além disso, ela ajuda o leitor a entender melhor as responsabilidades das entidades envolvidas e a importância da cooperação entre os departamentos para garantir a realização eficiente e bem-sucedida dos eventos."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes sobre o funcionamento do peticionamento eletrônico na UnB, incluindo a variedade de assuntos que podem ser abordados e os sistemas importantes utilizados pela instituição. Além disso, ela menciona programas de apoio aos estudantes e a preocupação da instituição com a inclusão social e acadêmica. Isso demonstra uma compreensão mais ampla do tema."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre o peticionamento eletrônico na UnB, incluindo a importância da transparência e eficiência nos processos administrativos. Além disso, ela menciona a existência de outros sistemas importantes utilizados pela instituição, como o SIGAA e a plataforma Inspira UnB. Isso demonstra uma riqueza de informações e diferentes pontos de vista sobre o tema."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como funciona o peticionamento eletrônico na UnB e como ele pode ser utilizado para resolver problemas acadêmicos e administrativos. Além disso, ela fornece informações sobre programas de apoio aos estudantes e a preocupação da instituição com a inclusão social e acadêmica. Isso permite que o leitor faça julgamentos informados sobre o tema."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua compreensão mais ampla do tema, diversidade de informações e capacidade de empoderar o leitor. Ela fornece detalhes importantes sobre o funcionamento do peticionamento eletrônico na UnB e apresenta diferentes perspectivas sobre o assunto."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma lista detalhada de documentos necessários para a vida acadêmica na UnB, incluindo RG e Comprovante de Conclusão do Ensino Médio, Termo de Compromisso (TCE), Plano de Atividades, Prova de Aprovação (Menção), Histórico Escolar, Matrícula de Calouros(as), Documentação SIGAA, Diploma e Documentos do Sistema Eletrônico de Informação (SEI). Além disso, ela também menciona a importância desses documentos para garantir a integridade acadêmica e o cumprimento dos requisitos legais e regulatórios estabelecidos pela UnB."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de documentos necessários para a vida acadêmica na UnB, incluindo documentos relacionados à matrícula, estágio, histórico escolar e diploma. Isso mostra que a resposta 2 aborda diferentes aspectos da vida acadêmica na UnB."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os documentos necessários para a vida acadêmica na UnB e como eles são importantes para garantir a integridade acadêmica. Além disso, ela também fornece informações sobre como acessar esses documentos e como utilizá-los corretamente."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem completa e detalhada dos documentos necessários para a vida acadêmica na UnB. Ela apresenta uma variedade de informações importantes, incluindo a importância desses documentos para garantir a integridade acadêmica e o cumprimento dos requisitos legais e regulatórios estabelecidos pela UnB."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e etapas claras para solicitar trancamento justificado na UnB, incluindo a verificação de pré-requisitos, preparação da solicitação, autocadastro no SIGAA, submissão da solicitação e confirmação do resultado. Além disso, ela destaca a importância de manter um acompanhamento regular do processo e garantir que todas as etapas sejam cumpridas corretamente."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma abordagem mais variada e rica, incluindo diferentes perspectivas e insights sobre o processo de solicitação de trancamento justificado. Ela destaca a importância da documentação comprobatória, do contato com a Secretaria de Administração Acadêmica (SAA) e do acompanhamento regular do processo."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os procedimentos para solicitar trancamento justificado na UnB, fornecendo informações claras e precisas sobre as etapas necessárias. Além disso, ela destaca a importância de manter um acompanhamento regular do processo e garantir que todas as etapas sejam cumpridas corretamente, o que ajuda o leitor a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais variada e rica, que inclui diferentes perspectivas e insights sobre o processo de solicitação de trancamento justificado. Além disso, ela fornece informações claras e precisas sobre as etapas necessárias, ajudando o leitor a entender melhor os procedimentos e tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma visão mais completa e detalhada das iniciativas da UnB para promover a integração da comunidade acadêmica. Ela aborda diferentes aspectos, como integração social e cognitiva, fomento à pesquisa e extensão, atividades acadêmicas e complementares, apoio psicológico e formação para a cidadania. Isso permite que o leitor tenha uma compreensão mais profunda das estratégias utilizadas pela UnB."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de iniciativas e programas da UnB, demonstrando uma riqueza de perspectivas e insights sobre a integração da comunidade acadêmica. Isso inclui desde atividades de acolhimento até apoio psicológico, mostrando que a UnB está comprometida em atender às necessidades dos estudantes de diferentes maneiras."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como as iniciativas da UnB podem ser úteis para os estudantes, fornecendo informações detalhadas sobre cada programa. Isso permite que o leitor faça julgamentos informados sobre a eficácia dessas estratégias e como elas podem contribuir para uma experiência acadêmica mais positiva."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais completa, diversificada e empoderadora. Ela fornece uma visão detalhada das iniciativas da UnB, demonstrando uma riqueza de perspectivas e insights sobre a integração da comunidade acadêmica."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre o Termo de Compromisso de Estágio (TCE), incluindo os requisitos legais, as responsabilidades das partes envolvidas, a carga horária, o seguro contra acidentes pessoais e a contrapartida. Além disso, ela fornece um resumo do documento e destaca sua importância para garantir a legalidade, segurança e coerência das atividades de estágio."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações e perspectivas sobre o TCE, incluindo os detalhes importantes do documento, as partes envolvidas e os requisitos legais. Ela também destaca a importância da formalização do processo e da proteção das partes envolvidas."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor o TCE e suas implicações, fornecendo informações claras e precisas sobre os requisitos legais, as responsabilidades das partes envolvidas e a importância da formalização do processo. Além disso, ela destaca a necessidade de proteger as partes envolvidas e garantir que os objetivos do estágio sejam cumpridos dentro dos parâmetros legais estabelecidos."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua abordagem mais completa e detalhada do Termo de Compromisso de Estágio (TCE). Ela fornece informações claras e precisas sobre os requisitos legais, as responsabilidades das partes envolvidas e a importância da formalização do processo. Além disso, ela destaca a necessidade de proteger as partes envolvidas e garantir que os objetivos do estágio sejam cumpridos dentro dos parâmetros legais estabelecidos."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre as diferenças entre estágio obrigatório e não obrigatório, incluindo informações sobre créditos, remuneração e contrapartida da empresa/escola. Além disso, ela aborda os requisitos para a conclusão do curso e como o estágio não obrigatório pode ser convertido para concluir o curso."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre os estágios, incluindo a necessidade de aprovação e as características específicas do estágio obrigatório. Além disso, ela fornece exemplos e detalhes sobre como o estágio não obrigatório pode ser convertido para concluir o curso."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda a entender melhor as diferenças entre os dois tipos de estágios e como eles se relacionam com a conclusão do curso. Além disso, ela fornece informações práticas sobre remuneração e contrapartida da empresa/escola, o que pode ajudar os estudantes a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a melhor opção devido à sua abordagem mais completa e detalhada dos requisitos para a conclusão do curso. Além disso, ela fornece informações práticas e úteis para os estudantes, o que a torna mais empoderante."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma lista detalhada de documentos necessários para o pré-cadastro de estágio no SIGAA, incluindo informações sobre o Termo de Compromisso de Estágio (TCE), Informações sobre o Concedente, Dados Pessoais e Acadêmicos do Estagiário(a) e Detalhes do Estágio. Além disso, a resposta 2 também fornece um passo a passo para realizar o pré-cadastro no SIGAA, tornando-a mais completa e detalhada em relação à resposta 1."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações sobre os documentos necessários e o processo de pré-cadastro, incluindo a importância do TCE e as etapas para realizar o pré-cadastro no SIGAA. Isso torna a resposta 2 mais rica em termos de conteúdo e perspectivas em relação à resposta 1."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os requisitos para realizar o pré-cadastro de estágio no SIGAA, fornecendo informações claras e detalhadas sobre os documentos necessários e o processo de pré-cadastro. Além disso, a resposta 2 também fornece orientações práticas para ajudar o leitor a realizar o pré-cadastro com sucesso, tornando-a mais empoderante em relação à resposta 1."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido ao seu alto nível de Compreensividade, Diversidade e Empoderamento. Ela fornece uma lista detalhada de documentos necessários, um passo a passo para realizar o pré-cadastro e orientações práticas para ajudar o leitor a entender melhor os requisitos e realizar o pré-cadastro com sucesso."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes sobre o que acontece se o cadastro do estágio não for ativado dentro do prazo, incluindo a necessidade de atualizar o documento de estágio e realizar um novo pré-cadastro. Além disso, ela destaca a importância de manter-se atento aos prazos e corrigir rapidamente qualquer problema no pré-cadastro."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre o que acontece se o cadastro do estágio não for ativado dentro do prazo, incluindo a necessidade de entrar em contato com o professor orientador e cancelar o estágio. Isso mostra uma maior variedade de informações e sugestões para resolver o problema."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a entender melhor o que acontece se o cadastro do estágio não for ativado dentro do prazo, fornecendo informações claras e concisas sobre as etapas necessárias para resolver o problema. Além disso, ela destaca a importância de manter-se atento aos prazos e corrigir rapidamente qualquer problema no pré-cadastro."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque fornece mais detalhes, apresenta diferentes perspectivas e ajuda a entender melhor o que acontece se o cadastro do estágio não for ativado dentro do prazo. Além disso, ela destaca a importância de manter-se atento aos prazos e corrigir rapidamente qualquer problema no pré-cadastro."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece etapas mais detalhadas e específicas para corrigir erros no pré-cadastro do estágio, incluindo a necessidade de cancelar o estágio e aguardar até 10 dias para que o sistema seja atualizado. Isso mostra uma compreensão mais profunda dos processos envolvidos."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights, incluindo a importância de entrar em contato com o professor orientador para corrigir erros e manter as informações atualizadas no sistema. Isso mostra uma compreensão mais ampla das necessidades do discente."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece instruções claras e diretas sobre como corrigir erros no pré-cadastro, o que ajuda a empoderar o leitor a tomar ação. Além disso, a resposta aborda a possibilidade de problemas futuros na formalização do estágio, o que é uma consideração importante para os discentes."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "Embora a resposta 2 apresente diferentes perspectivas e insights, a resposta 1 fornece etapas mais detalhadas e específicas para corrigir erros no pré-cadastro do estágio. Além disso, a resposta 1 ajuda a empoderar o leitor a tomar ação, tornando-a a escolha mais adequada como resposta geral."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre os diferentes tipos de professores orientadores, incluindo o Decanato de Ensino de Graduação (DEG), a Coordenação de Estágios (CESG) e a coordenação do curso. Além disso, ela inclui exemplos práticos e uma visão mais completa da responsabilidade dos professores orientadores."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre os professores orientadores, incluindo a Coordenação de Estágios (CESG), a coordenação do curso e exemplos práticos. Isso mostra que a resposta 2 é mais rica e variada em termos de informações."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os diferentes papéis dos professores orientadores e como eles são designados. Além disso, ela fornece exemplos práticos que ajudam a ilustrar as responsabilidades dos professores orientadores, tornando-a mais empoderante para o leitor."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais completa e variada. Ela fornece informações detalhadas sobre os diferentes tipos de professores orientadores, apresenta exemplos práticos e ajuda o leitor a entender melhor os papéis desses professores."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre as regras de carga horária para estágios, incluindo a necessidade de não haver choque de horário com outras atividades acadêmicas do discente e a importância da presença do supervisor nos horários combinados. Além disso, ela menciona explicitamente o Termo de Compromisso de Estágio (TCE) como documento necessário para registrar as regras de carga horária."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma estrutura mais organizada e clara, com títulos e números para facilitar a compreensão das regras. Além disso, ela menciona explicitamente as exceções previstas no Plano de Carreira e Cargos (PPC) do curso, o que é útil para os leitores que precisam entender como essas exceções afetam as regras de carga horária."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda a empoderar os leitores ao fornecer mais informações sobre as regras de carga horária e como elas devem ser aplicadas. Além disso, ela destaca a importância da presença do supervisor nos horários combinados, o que é crucial para garantir que os estágios sejam realizados de forma eficaz."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 é considerada a vencedora geral porque fornece mais detalhes e informações sobre as regras de carga horária para estágios, o que a torna mais útil e empoderante para os leitores. Embora a resposta 2 seja mais organizada e clara, ela não oferece tantos detalhes quanto a resposta 1."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre as responsabilidades do supervisor de estágio, incluindo a assinatura do Termo de Compromisso (TCE), a comunicação com a empresa e a assistência técnica. Além disso, ela menciona o contexto da UnB e os regulamentos estabelecidos pelo Decanato de Ensino de Graduação (DEG) e pela Coordenação de Estágios (CESG)."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de perspectivas e insights sobre as responsabilidades do supervisor de estágio, incluindo a orientação, avaliação, comunicação e assistência técnica. Além disso, ela menciona o papel dos supervisores na implementação dos regulamentos da UnB."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda a entender melhor as responsabilidades do supervisor de estágio e como ele pode contribuir para uma experiência prática enriquecedora e produtiva para os discentes. Além disso, ela fornece informações sobre como os supervisores podem trabalhar em colaboração com a UnB para garantir que as normas e regulamentos sejam respeitados."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais completa e detalhada das responsabilidades do supervisor de estágio, bem como sua capacidade de fornecer uma variedade de perspectivas e insights. Além disso, ela ajuda a entender melhor o papel dos supervisores na implementação dos regulamentos da UnB."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece uma lista detalhada de informações que devem constar no plano de atividades do estágio, incluindo objetivos, atividades programadas, horários de trabalho, metodologias de avaliação e responsabilidades do orientador acadêmico e da empresa. Isso mostra um nível mais alto de detalhe e abrangência em relação à resposta 2."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de pontos importantes que devem ser considerados no plano de atividades do estágio, incluindo objetivos gerais e específicos, responsabilidades do discente e supervisor, planejamento, avaliação e apoio. Isso mostra uma abordagem mais diversificada e inclusiva em relação à resposta 1."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como criar um plano de atividades do estágio eficaz, fornecendo exemplos concretos e estruturas para cada seção. Além disso, destaca a importância da participação ativa do discente e do orientador acadêmico na elaboração do plano. Isso mostra uma maior capacidade de empoderar o leitor em relação à resposta 1."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "Considerando os três critérios, a resposta 2 é considerada a vencedora por apresentar uma abordagem mais diversificada e inclusiva (Diversity), além de empoderar o leitor com exemplos concretos e estruturas para cada seção (Empowerment). Embora a resposta 1 seja mais detalhada em termos de conteúdo, a resposta 2 oferece uma visão mais completa e prática do processo."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes sobre os passos a serem seguidos para verificar se uma empresa possui convênio com a UnB, incluindo a navegação pelo SIGAA e o preenchimento do pré-cadastro. Além disso, ela também menciona a importância de seguir todos os passos para garantir que o registro do estágio seja realizado corretamente."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 oferece mais variedade e riqueza em termos de informações, incluindo a referência ao Manual de Orientações no Módulo de Estágio do SIGAA. Isso mostra que a resposta 2 está mais completa e abrangente."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como verificar se uma empresa possui convênio com a UnB, fornecendo informações claras e precisas. Além disso, ela também destaca a importância de seguir os passos corretos para garantir que o registro do estágio seja realizado corretamente."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque fornece mais detalhes, variedade e riqueza em termos de informações. Além disso, ela ajuda o leitor a entender melhor como verificar se uma empresa possui convênio com a UnB e a realizar o registro do estágio corretamente."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e passos possíveis para lidar com a situação em que a empresa não tem convênio formalizado com a UnB. Ela aborda temas como contato direto com a empresa, formalização do estágio independente, documentação adicional, supervisão acadêmica e apoio da UnB. Além disso, ela inclui considerações importantes sobre legalidade e benefícios limitados sem um convênio formalizado."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 oferece uma visão mais ampla e diversificada da situação, incluindo diferentes opções para os alunos e empresas. Ela também aborda a importância de manter documentos atualizados e supervisionados por um professor orientador."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor as opções disponíveis e como proceder em situações específicas. Ela também destaca a importância de buscar apoio da Coordenação de Estágios (CESG) na UnB, o que pode empoderar os alunos a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção por apresentar uma visão mais completa e diversificada da situação. Ela fornece detalhes importantes, aborda diferentes aspectos da questão e ajuda o leitor a entender como proceder em situações específicas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece detalhes específicos e passos claros para cadastrar um supervisor no SIGAA, cobrindo todas as etapas necessárias. A resposta 1 não oferece nenhuma informação útil sobre o processo de cadastro."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre como cadastrar um supervisor no SIGAA, incluindo a seleção do tipo de estágio, preenchimento dos campos necessários e envio para o supervisor orientador. A resposta 1 não oferece nenhuma diversidade em termos de informações."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender e realizar as etapas necessárias para cadastrar um supervisor no SIGAA, fornecendo instruções claras e passos específicos. A resposta 1 não empodera o leitor em nenhum sentido."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral devido à sua abordagem completa, diversificada e empoderadora. Ela fornece detalhes específicos, diferentes perspectivas e instruções claras para ajudar o leitor a cadastrar um supervisor no SIGAA com sucesso."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre os requisitos para a validade das assinaturas no TCE, incluindo as responsabilidades de cada parte envolvida. Além disso, ela menciona o SIGAA como sistema administrativo da UnB, o que é uma informação relevante para os estudantes. A resposta 1, por outro lado, apenas lista os requisitos sem fornecer muitos detalhes ou contexto."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas e insights sobre o TCE, incluindo a necessidade de assinaturas de todas as partes envolvidas. Além disso, ela menciona a importância da certificação das assinaturas para garantir a validade legal e acadêmica do TCE. A resposta 1, por outro lado, é mais limitada em termos de perspectivas e insights."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os requisitos para a validade das assinaturas no TCE e como cada parte envolvida deve agir. Além disso, ela fornece informações sobre como consultar o SIGAA ou entrar em contato com a Coordenação de Estágios (CESG) para obter mais detalhes. A resposta 1 é mais limitada em termos de ajuda ao leitor."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é o vencedor geral porque fornece mais detalhes e informações sobre os requisitos para a validade das assinaturas no TCE, apresenta diferentes perspectivas e insights e ajuda o leitor a entender melhor o processo. Além disso, ela menciona recursos importantes como o SIGAA e a Coordenação de Estágios (CESG)."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes sobre a obrigatoriedade do seguro, incluindo a legislação interna da UnB (Resolução CEPE nº 104/2021) e o Manual de Orientações do Módulo de Estágio do SIGAA. Além disso, ela destaca a responsabilidade da UnB para os estágios obrigatórios e das empresas parceiras para os não obrigatórios."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre a obrigatoriedade do seguro, incluindo a legislação interna da UnB e o Manual de Orientações. Além disso, ela destaca a responsabilidade das empresas parceiras para os estágios não obrigatórios."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor a obrigatoriedade do seguro e como ela é implementada na UnB. Além disso, ela fornece informações sobre a responsabilidade das empresas parceiras para os estágios não obrigatórios, o que pode ajudar os estudantes a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua maior compreensividade, diversidade e capacidade de empoderamento. Ela fornece mais detalhes sobre a obrigatoriedade do seguro, apresenta diferentes perspectivas e ajuda o leitor a entender melhor a situação."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e passos específicos para o envio do Termo de Rescisão ou Cancelamento de Estágio, incluindo a abertura de um processo no SEI, preparação da documentação necessária e envio ao CESG. Além disso, ela também destaca a importância de cumprir os prazos estabelecidos pelo Calendário Acadêmico e de comunicar-se com o Professor Orientador e o Supervisor do Estágio."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma visão mais completa e variada sobre o processo de envio do Termo de Rescisão ou Cancelamento de Estágio, incluindo a necessidade de abrir um processo no SEI, preparar documentos adicionais e comunicar-se com os professores e supervisor. Isso mostra que ela considera diferentes aspectos da situação e fornece uma visão mais rica e variada."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os passos necessários para enviar o Termo de Rescisão ou Cancelamento de Estágio, incluindo a importância de cumprir os prazos e comunicar-se com os professores e supervisor. Além disso, ela também fornece recursos úteis e informações adicionais que podem ajudar o leitor a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais completa, variada e empoderadora. Ela fornece detalhes específicos sobre os passos necessários para enviar o Termo de Rescisão ou Cancelamento de Estágio, considera diferentes aspectos da situação e ajuda o leitor a entender melhor os processos envolvidos."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e informações sobre os procedimentos de matrícula, incluindo a necessidade de documentos específicos, o calendário acadêmico e a reserva de vagas. Além disso, ela menciona a importância de estar atento aos prazos estabelecidos no calendário acadêmico."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta uma variedade de informações e perspectivas sobre os procedimentos de matrícula, incluindo a necessidade de documentos específicos, o calendário acadêmico e a reserva de vagas. Além disso, ela menciona a importância de estar atento aos prazos estabelecidos no calendário acadêmico."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor os procedimentos de matrícula e a tomar decisões informadas. Ela fornece informações detalhadas sobre os documentos necessários, o calendário acadêmico e a reserva de vagas, tornando mais fácil para o leitor realizar sua matrícula com sucesso."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque fornece uma visão completa e detalhada dos procedimentos de matrícula, apresenta uma variedade de informações e perspectivas e ajuda o leitor a tomar decisões informadas. Além disso, ela é mais fácil de entender e seguir do que a resposta 1."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece mais detalhes e passos específicos para obter o número de matrícula após o registro acadêmico, incluindo a utilização do Sistema SIGAA e a localização do histórico escolar. Além disso, ela também menciona a possibilidade de receber notificações por e-mail com instruções importantes durante o processo inicial de matrícula."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 oferece uma variedade de informações e perspectivas, incluindo a utilização do Sistema SIGAA, a localização do histórico escolar e a possibilidade de receber notificações por e-mail. Além disso, ela também menciona a importância de manter o histórico escolar atualizado e a necessidade de entrar em contato com as autoridades locais no curso para obter assistência."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender melhor como obter o número de matrícula após o registro acadêmico, fornecendo instruções claras e passos específicos. Além disso, ela também destaca a importância de manter o histórico escolar atualizado e de entrar em contato com as autoridades locais no curso para obter assistência, o que ajuda o leitor a tomar decisões informadas."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção devido à sua abordagem mais detalhada e específica para obter o número de matrícula após o registro acadêmico. Além disso, ela oferece uma variedade de informações e perspectivas, ajudando o leitor a entender melhor como proceder e tomar decisões informadas."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 fornece uma descrição detalhada do procedimento de acesso ao e-mail institucional, incluindo etapas como criação da conta, login no sistema, acessando o e-mail, suporte técnico, configurações do e-mail e verificação de mensagens. Isso mostra que a resposta 2 aborda todos os aspectos necessários para entender o processo."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes perspectivas sobre como acessar o e-mail institucional, incluindo práticas comuns nas universidades. Isso mostra que a resposta 2 é rica em informações e oferece uma visão mais ampla do problema."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 ajuda o leitor a entender como acessar seu e-mail institucional, fornecendo instruções claras e detalhadas. Além disso, ela também destaca a importância de entrar em contato com o Serviço de Apoio à Tecnologia da Informação (SATI) para obter assistência direta, o que mostra que a resposta 2 visa empoderar o leitor."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é considerada a melhor opção porque ela aborda todos os aspectos necessários para entender o procedimento de acesso ao e-mail institucional (Comprehensiveness), apresenta diferentes perspectivas sobre como acessar o e-mail (Diversity) e ajuda o leitor a entender e fazer julgamentos informados sobre o assunto (Empowerment)."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 2",
+            "Explanation": "Embora a resposta 1 forneça uma solução direta para acessar o Microsoft Office 365, a resposta 2 é mais completa e detalhada. Ela inclui etapas gerais de autenticação no sistema, portal de automação, portal do discente e instalação do software. Além disso, ela fornece exemplos práticos e sugestões de comunicação para obter assistência adicional."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é mais variada e rica em diferentes perspectivas e insights. Ela não apenas fornece uma solução direta, mas também explora as possibilidades de acesso ao software através de diferentes portais e sistemas da UnB."
+        },
+        "Empowerment": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é mais empoderante porque ajuda o leitor a entender melhor como acessar o Microsoft Office 365, fornecendo informações detalhadas sobre as etapas de autenticação e instalação. Além disso, ela fornece sugestões de comunicação para obter assistência adicional, tornando-a mais útil e eficaz."
+        },
+        "Overall Winner": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 é a vencedora geral porque atende melhor aos critérios de Compreensividade, Diversidade e Empoderamento. Ela fornece uma solução mais completa e detalhada, explorando diferentes perspectivas e insights para ajudar o leitor a acessar o Microsoft Office 365 com sucesso."
+        }
+    },
+    {
+        "Comprehensiveness": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 fornece mais detalhes sobre o calendário acadêmico da UnB, incluindo a data do Inspira UnB, o período de matrícula e as datas específicas para cada semestre. Além disso, ela também menciona os períodos de recesso e como eles afetam o cronograma das atividades letivas."
+        },
+        "Diversity": {
+            "Winner": "Answer 2",
+            "Explanation": "A resposta 2 apresenta diferentes fontes de informação para que os calouros possam encontrar as datas específicas, incluindo o site da Secretaria de Administração Acadêmica (SAA), o SIGAA e os canais oficiais das coordenações dos cursos. Isso mostra uma maior variedade de perspectivas e fontes de informação."
+        },
+        "Empowerment": {
+            "Winner": "Answer 1",
+            "Explanation": "A resposta 1 ajuda os calouros a entender melhor o calendário acadêmico da UnB e como ele afeta as atividades letivas. Além disso, ela também fornece informações sobre como consultar o Calendário Acadêmico por Atividades e como entrar em contato com a assessoria de comunicação da instituição, o que ajuda os calouros a se sentir mais empoderados para tomar decisões informadas."
+        }
+    }
+]
