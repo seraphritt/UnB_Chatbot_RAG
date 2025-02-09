@@ -3,10 +3,10 @@ import pandas as pd
 from langchain.llms import Ollama
 import re
 import json
-qa = extract_qa.qaExtractor("perguntas_unb.txt", "")
+qa = extract_qa.qaExtractor("perguntas_saude.txt", "")
 queries = qa.get_first()
-model1 = pd.read_csv('evaluation_results_gemma2:latest.csv')
-model2 = pd.read_csv('evaluation_results_GRAPH_UNBgemma2:latest.csv')
+model1 = pd.read_csv('evaluation_results_saudellama3.1:latest.csv')
+model2 = pd.read_csv('evaluation_results_GRAPH_llama3.1:latest.csv')
 llm = Ollama(model="llama3.1:8b-instruct-q4_K_M", temperature=0.1)
 try:
     answers1_vectorstore = model1['response']
@@ -53,6 +53,10 @@ for i, (query, answer1, answer2) in enumerate(zip(queries, answers1_vectorstore,
             "Winner": "[Answer 1 or Answer 2]",
             "Explanation": "[Provide explanation here]"
         }},
+        "Diversity": {{
+            "Winner": "[Answer 1 or Answer 2]",
+            "Explanation": "[Provide explanation here]"
+        }},
         "Empowerment": {{
             "Winner": "[Answer 1 or Answer 2]",
             "Explanation": "[Provide explanation here]"
@@ -60,7 +64,8 @@ for i, (query, answer1, answer2) in enumerate(zip(queries, answers1_vectorstore,
         "Overall Winner": {{
             "Winner": "[Answer 1 or Answer 2]",
             "Explanation": "[Summarize why this answer is the overall winner based on the three criteria]"
-        }}
+        }},
+        
     }}
     ```
     """
@@ -73,5 +78,5 @@ for i, (query, answer1, answer2) in enumerate(zip(queries, answers1_vectorstore,
         json_str = match.group(1)
         json_data = json.loads(json_str)
         lista.append(json_data)
-    with open("gemma2_comp_unb.json", "w", encoding="utf-8") as json_file:
+    with open("llama31_comp_saude.json", "w", encoding="utf-8") as json_file:
         json.dump(lista, json_file, indent=4, ensure_ascii=False)
